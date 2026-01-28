@@ -19,16 +19,16 @@ from flowcore_story.analyze.tangthuvien_parse import (
     parse_story_list,
 )
 from flowcore.apps.scraper import make_request
-from flowcore_story.config.config import (
+from flowcore.config.config import (
     BASE_URLS,
     GLOBAL_PROXY_PASSWORD,
     GLOBAL_PROXY_USERNAME,
     _is_desktop_user_agent,
     get_random_headers,
 )
-from flowcore_story.config.proxy_provider import get_proxy_url
+from flowcore.config.proxy_provider import get_proxy_url
 from flowcore.utils.challenge_harvester_client import get_challenge_harvester_client
-from flowcore.utils.chapter_utils import get_chapter_sort_key
+from flowcore_story.utils.chapter_utils import get_chapter_sort_key
 from flowcore.utils.logger import logger
 from flowcore.utils.metrics_tracker import metrics_tracker
 from flowcore.utils.site_config import load_site_config

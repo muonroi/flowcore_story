@@ -87,7 +87,7 @@ def apply_env_overrides(config: dict, prefix: str = "[ENV]") -> None:
 
     for key, value in applied.items():
         logger.info(f"{prefix} Gán ENV {key} = {value}")
-        from flowcore_story.config import config as app_config
+        from flowcore.config import config as app_config
     import main
 
     app_config.reload_from_env()

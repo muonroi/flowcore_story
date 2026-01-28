@@ -14,19 +14,19 @@ from filelock import FileLock, Timeout
 
 from flowcore_story.adapters.factory import get_adapter
 from flowcore.apps.scraper import initialize_scraper
-from flowcore_story.config import config as app_config
-from flowcore_story.config.config import (
+from flowcore.config import config as app_config
+from flowcore.config.config import (
     BASE_URLS,
     COMPLETED_FOLDER,
     DATA_FOLDER,
     PROXIES_FILE,
     PROXIES_FOLDER,
 )
-from flowcore_story.config.proxy_provider import load_proxies
+from flowcore.config.proxy_provider import load_proxies
 from flowcore.utils.async_primitives import LoopBoundSemaphore
 from flowcore.utils.batch_utils import smart_delay
 from flowcore.utils.cache_utils import cached_get_chapter_list, cached_get_story_details
-from flowcore.utils.chapter_utils import (
+from flowcore_story.utils.chapter_utils import (
     SEM,
     count_dead_chapters,
     count_txt_files,
@@ -110,7 +110,7 @@ async def verify_chapter_missing_on_site(adapter, chapter_url: str, site_key: st
     """Kiểm tra xem chapter có thực sự missing trên site hay không (404, deleted, etc)."""
     try:
         # Fetch chapter để kiểm tra
-        from flowcore.utils.chapter_utils import fetch_with_retry
+        from flowcore_story.utils.chapter_utils import fetch_with_retry
 
         result = await fetch_with_retry(
             adapter,
@@ -1539,7 +1539,7 @@ async def fix_metadata_with_retry(metadata, metadata_path, story_folder, site_ke
     from flowcore.apps.scraper import make_request
 
     def is_url_for_site(url, site_key):
-        from flowcore_story.config.config import BASE_URLS
+        from flowcore.config.config import BASE_URLS
         base = BASE_URLS.get(site_key)
         return base and url and url.startswith(base)
 
@@ -1580,9 +1580,9 @@ async def fix_metadata_with_retry(metadata, metadata_path, story_folder, site_ke
 
     # === Nếu vẫn thiếu url, đoán từ base_url + slug ===
     # KHÔNG guess URL cho các site yêu cầu story ID (truyencom: cần .ID, xtruyen/tangthuvien: chỉ cần slug)
-    from flowcore_story.config.config import SITES_REQUIRING_ID
+    from flowcore.config.config import SITES_REQUIRING_ID
     if not url and site_key and site_key not in SITES_REQUIRING_ID:
-        from flowcore_story.config.config import BASE_URLS
+        from flowcore.config.config import BASE_URLS
         base_url = BASE_URLS.get(site_key, "").rstrip("/")
         slug = os.path.basename(story_folder)
 

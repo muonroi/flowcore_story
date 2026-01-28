@@ -7,15 +7,15 @@ from datetime import datetime
 
 from flowcore_story.adapters.factory import get_adapter
 from flowcore.apps.scraper import initialize_scraper
-from flowcore_story.config.config import (
+from flowcore.config.config import (
     COMPLETED_FOLDER,
     DATA_FOLDER,
     PROXIES_FILE,
     PROXIES_FOLDER,
 )
-from flowcore_story.config.proxy_provider import load_proxies
+from flowcore.config.proxy_provider import load_proxies
 from flowcore.utils.cache_utils import cached_get_chapter_list, cached_get_story_details
-from flowcore.utils.chapter_utils import (
+from flowcore_story.utils.chapter_utils import (
     count_dead_chapters,
     count_txt_files,
     crawl_missing_chapters_for_story,

@@ -16,8 +16,8 @@ from flowcore_story.analyze.metruyenful_parse import (
     parse_story_list,
 )
 from flowcore.apps.scraper import make_request
-from flowcore_story.config.config import BASE_URLS
-from flowcore.utils.chapter_utils import get_chapter_sort_key
+from flowcore.config.config import BASE_URLS
+from flowcore_story.utils.chapter_utils import get_chapter_sort_key
 from flowcore.utils.logger import logger
 from flowcore.utils.metrics_tracker import metrics_tracker
 from flowcore.utils.site_config import load_site_config

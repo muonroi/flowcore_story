@@ -5,7 +5,7 @@ from __future__ import annotations
 import asyncio
 import time
 
-from flowcore_story.config import config as app_config
+from flowcore.config import config as app_config
 from flowcore.kafka.kafka_monitor import fetch_consumer_lag
 from flowcore.utils.async_primitives import LoopBoundLock
 from flowcore.utils.dead_story_monitor import DeadStoryMonitor, DeadStoryStats

@@ -22,9 +22,9 @@ from typing import Any
 from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.adapters.factory import get_adapter
 from flowcore.apps.scraper import initialize_scraper
-from flowcore_story.config import config as app_config
+from flowcore.config import config as app_config
 from flowcore.utils.batch_utils import smart_delay
-from flowcore.utils.chapter_utils import (
+from flowcore_story.utils.chapter_utils import (
     count_dead_chapters,
     crawl_missing_chapters_for_story,
     get_saved_chapters_files,

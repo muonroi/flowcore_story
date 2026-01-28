@@ -25,8 +25,8 @@ from dataclasses import dataclass, field
 from datetime import datetime
 from typing import Any
 
-from flowcore_story.config import config as app_config
-from flowcore_story.config.config import COMPLETED_FOLDER, DATA_FOLDER
+from flowcore.config import config as app_config
+from flowcore.config.config import COMPLETED_FOLDER, DATA_FOLDER
 from flowcore.utils.duplicate_detector import DuplicateDetector, DuplicateReport
 from flowcore.utils.logger import logger
 from flowcore.utils.metadata_enricher import EnrichmentReport, MetadataEnricher

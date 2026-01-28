@@ -37,7 +37,7 @@ if GEMINI_API_KEY:
 
     genai.configure(api_key=GEMINI_API_KEY)
 
-from flowcore_story.config.config import (
+from flowcore.config.config import (
     BASE_URLS,
     COMPLETED_FOLDER,
     DATA_FOLDER,

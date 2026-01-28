@@ -7,7 +7,7 @@ import re
 from typing import Any
 from urllib.parse import urlparse
 
-from flowcore_story.config.env_loader import (
+from flowcore.config.env_loader import (
     EnvironmentConfigurationError,
     get_bool,
     get_float,
@@ -15,7 +15,7 @@ from flowcore_story.config.env_loader import (
     get_list,
     get_str,
 )
-from flowcore_story.config.useragent_list import STATIC_USER_AGENTS
+from flowcore.config.useragent_list import STATIC_USER_AGENTS
 from flowcore.utils.async_primitives import LoopBoundLock
 
 BASE_URL_ENV_MAP: dict[str, str] = {

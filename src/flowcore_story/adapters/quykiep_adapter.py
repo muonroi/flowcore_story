@@ -25,7 +25,7 @@ from flowcore_story.analyze.quykiep_parse import (
     parse_story_list,
 )
 from flowcore.apps.scraper import _make_request_playwright
-from flowcore_story.config.config import BASE_URLS
+from flowcore.config.config import BASE_URLS
 from flowcore.utils.logger import logger
 from flowcore.utils.metrics_tracker import metrics_tracker
 from flowcore.utils.site_config import load_site_config

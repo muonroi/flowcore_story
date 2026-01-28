@@ -18,7 +18,7 @@ from filelock import Timeout
 from unidecode import unidecode
 
 from flowcore.adapters.base_site_adapter import BaseSiteAdapter
-from flowcore_story.config.config import (
+from flowcore.config.config import (
     ASYNC_SEMAPHORE_LIMIT,
     BATCH_SIZE_OVERRIDE,
     ERROR_CHAPTERS_FILE,

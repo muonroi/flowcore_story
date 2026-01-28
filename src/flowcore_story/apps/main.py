@@ -50,7 +50,7 @@ except ModuleNotFoundError:  # pragma: no cover - fallback
 from flowcore.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.adapters.factory import get_adapter
 from flowcore.apps.scraper import initialize_scraper
-from flowcore_story.config import config as app_config
+from flowcore.config import config as app_config
 from flowcore.config.proxy_provider import load_proxies
 from flowcore_story.core.category_change_detector import CategoryChangeDetector
 from flowcore_story.core.category_store import CategoryStore
@@ -80,7 +80,7 @@ from flowcore.kafka.kafka_monitor import check_consumer_group_health
 from flowcore.kafka.kafka_producer import close_producer, send_job
 from flowcore.utils.async_primitives import LoopBoundLock, LoopBoundSemaphore
 from flowcore.utils.batch_utils import smart_delay
-from flowcore.utils.chapter_utils import (
+from flowcore_story.utils.chapter_utils import (
     count_dead_chapters,
     export_chapter_metadata_sync,
     get_chapter_filename,

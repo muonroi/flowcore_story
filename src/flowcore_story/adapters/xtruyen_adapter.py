@@ -19,8 +19,8 @@ from flowcore.apps.scraper import (
     discover_madara_chapter_ranges_via_playwright,
     make_request,
 )
-from flowcore_story.config.config import BASE_URLS, GLOBAL_PROXY_PASSWORD, GLOBAL_PROXY_USERNAME
-from flowcore.utils.chapter_utils import get_chapter_sort_key
+from flowcore.config.config import BASE_URLS, GLOBAL_PROXY_PASSWORD, GLOBAL_PROXY_USERNAME
+from flowcore_story.utils.chapter_utils import get_chapter_sort_key
 from flowcore.utils.logger import logger
 from flowcore.utils.metrics_tracker import metrics_tracker
 from flowcore.utils.site_config import load_site_config
