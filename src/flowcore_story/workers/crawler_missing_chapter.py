@@ -13,7 +13,7 @@ from typing import Any, cast
 from filelock import FileLock, Timeout
 
 from flowcore_story.adapters.factory import get_adapter
-from flowcore_story.apps.scraper import initialize_scraper
+from flowcore.apps.scraper import initialize_scraper
 from flowcore_story.config import config as app_config
 from flowcore_story.config.config import (
     BASE_URLS,
@@ -1536,7 +1536,7 @@ async def check_genre_complete_and_notify(genre_name, genre_url, site_key):
         await send_telegram_notify(f"🎉 Đã crawl xong **TẤT CẢ** truyện của thể loại [{genre_name}] trên web!")
 
 async def fix_metadata_with_retry(metadata, metadata_path, story_folder, site_key=None, adapter=None):
-    from flowcore_story.apps.scraper import make_request
+    from flowcore.apps.scraper import make_request
 
     def is_url_for_site(url, site_key):
         from flowcore_story.config.config import BASE_URLS

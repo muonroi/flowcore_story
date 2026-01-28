@@ -21,7 +21,7 @@ from typing import Any
 
 from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.adapters.factory import get_adapter
-from flowcore_story.apps.scraper import initialize_scraper
+from flowcore.apps.scraper import initialize_scraper
 from flowcore_story.config import config as app_config
 from flowcore.utils.batch_utils import smart_delay
 from flowcore.utils.chapter_utils import (

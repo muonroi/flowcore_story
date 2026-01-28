@@ -6,7 +6,7 @@ import time
 from datetime import datetime
 
 from flowcore_story.adapters.factory import get_adapter
-from flowcore_story.apps.scraper import initialize_scraper
+from flowcore.apps.scraper import initialize_scraper
 from flowcore_story.config.config import (
     COMPLETED_FOLDER,
     DATA_FOLDER,
