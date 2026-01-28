@@ -1,0 +1,17 @@
+services:
+  story-worker:
+    build: .
+    container_name: flowcore-story-worker
+    volumes:
+      - ./src:/app/src
+      - ../flowcore/src:/app/libs/flowcore/src
+      - ../config:/app/config
+    environment:
+      - PYTHONPATH=/app/src:/app/libs/flowcore/src
+      - STEALTH_GATEWAY_URL=http://stealth-gateway:8555
+    networks:
+      - flowcore-shared-network
+
+networks:
+  flowcore-shared-network:
+    external: true
