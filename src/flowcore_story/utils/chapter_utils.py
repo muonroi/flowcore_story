@@ -774,7 +774,7 @@ def get_existing_chapter_nums(story_folder):
     return chapter_nums
 
 async def get_max_page_by_playwright(url, site_key=None):
-    from flowcore_story.apps.scraper import _make_request_playwright
+    from flowcore.apps.scraper import _make_request_playwright
     resp = await _make_request_playwright(
         url,
         site_key or "truyenyy",

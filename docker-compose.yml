@@ -2,6 +2,10 @@ services:
   story-worker:
     build: .
     container_name: flowcore-story-worker
+    env_file:
+      - ../config/env/common.env
+      - ../config/env/crawler.env
+      - ../config/env/database.env
     volumes:
       - ./src:/app/src
       - ../flowcore/src:/app/libs/flowcore/src

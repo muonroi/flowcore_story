@@ -14,7 +14,7 @@ from flowcore_story.analyze.xtruyen_parse import (
     parse_story_info,
     parse_story_list,
 )
-from flowcore_story.apps.scraper import (
+from flowcore.apps.scraper import (
     _make_request_playwright,
     discover_madara_chapter_ranges_via_playwright,
     make_request,
@@ -24,7 +24,7 @@ from flowcore.utils.chapter_utils import get_chapter_sort_key
 from flowcore.utils.logger import logger
 from flowcore.utils.metrics_tracker import metrics_tracker
 from flowcore.utils.site_config import load_site_config
-from flowcore_story.apps.scraper import make_request as scraper_make_request
+from flowcore.apps.scraper import make_request as scraper_make_request
 
 # PHASE 2 OPTIMIZATION: Adaptive rate limiting
 try:

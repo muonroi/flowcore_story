@@ -24,7 +24,7 @@ from flowcore_story.analyze.quykiep_parse import (
     parse_story_info,
     parse_story_list,
 )
-from flowcore_story.apps.scraper import _make_request_playwright
+from flowcore.apps.scraper import _make_request_playwright
 from flowcore_story.config.config import BASE_URLS
 from flowcore.utils.logger import logger
 from flowcore.utils.metrics_tracker import metrics_tracker
@@ -86,7 +86,7 @@ class QuykiepAdapter(BaseSiteAdapter):
 
     async def _fetch_text(self, url: str) -> str | None:
         """Fetch text with custom redirect check logic, using shared session."""
-        from flowcore_story.apps.scraper import make_request
+        from flowcore.apps.scraper import make_request
         
         # Use make_request directly to get ScraperResponse with URL info
         response = await make_request(url, site_key=self.site_key, method="GET")

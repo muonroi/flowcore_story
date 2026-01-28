@@ -18,7 +18,7 @@ from flowcore_story.analyze.tangthuvien_parse import (
     parse_story_info,
     parse_story_list,
 )
-from flowcore_story.apps.scraper import make_request
+from flowcore.apps.scraper import make_request
 from flowcore_story.config.config import (
     BASE_URLS,
     GLOBAL_PROXY_PASSWORD,

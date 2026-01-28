@@ -17,7 +17,7 @@ from flowcore_story.analyze.truyencom_parse import (
     parse_story_info,
     parse_story_list,
 )
-from flowcore_story.apps.scraper import make_request, refresh_site_cookie
+from flowcore.apps.scraper import make_request, refresh_site_cookie
 from flowcore_story.config.config import BASE_URLS
 from flowcore.utils.chapter_utils import get_chapter_sort_key
 from flowcore.utils.logger import logger
