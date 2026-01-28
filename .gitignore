@@ -1,0 +1,126 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.log.*
+logs/
+custom_logs/
+
+# Data folders (runtime data, ignored)
+data/
+truyen_data/
+truyen_data_2/
+completed_stories/
+backup_truyen_data/
+backup/
+state/
+skipped_stories.json
+missing_chapters.json
+
+# Temp files
+tmp/
+tmp_data/
+tmp_pkg_check/
+temp.txt
+*.tmp
+*.bak
+
+# Environment variables (keep examples)
+config/env/*.env
+!config/env/*.env.example
+
+# Kafka secrets
+config/kafka/secrets/*
+!config/kafka/secrets/.gitkeep
+config/kafka/ca/*
+!config/kafka/ca/.gitkeep
+
+# Proxies
+proxies/proxies.txt
+banned_proxies.log
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Specific files
+crawler.log
+_ultimately_failed_chapters_log.txt
+debug_empty_chapter.html
+token_api_get_proxy.txt
+condensed_kafka_zk_log_for_codex.txt
+
+# JSON files (with exceptions)
+*.json
+!config/grafana/dashboards/*.json
+!config/sites/*.json
+!package.json
+!tsconfig.json
+
+# Test coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Distribution / packaging
+*.whl
+
+# Docker volumes
+docker/data/
+docker/logs/
+
+# Build artifacts
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+src/core
+logs/*.jsonl
+*.sqlite3-shm
+*.sqlite3-wal
