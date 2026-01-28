@@ -8,7 +8,7 @@ import pkgutil
 from collections.abc import Iterable
 from types import ModuleType
 
-from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore.adapters.base_site_adapter import BaseSiteAdapter
 
 _ADAPTER_PACKAGES: tuple[str, ...] = ("flowcore_story.adapters", "adapters")
 _ADAPTER_SUFFIX = "_adapter"

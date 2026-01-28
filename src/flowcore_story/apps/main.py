@@ -47,7 +47,7 @@ except ModuleNotFoundError:  # pragma: no cover - fallback
         def model_dump(self) -> dict:
             return self.__dict__.copy()
 
-from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.adapters.factory import get_adapter
 from flowcore.apps.scraper import initialize_scraper
 from flowcore_story.config import config as app_config
@@ -120,7 +120,7 @@ from flowcore.utils.state_utils import (
     save_crawl_state,
     update_crawl_state_section,
 )
-from flowcore_story.workers.cookie_auto_renewal import (
+from flowcore.workers.cookie_auto_renewal import (
     start_cookie_auto_renewal,
     stop_cookie_auto_renewal,
 )

@@ -6,7 +6,7 @@ from collections.abc import Awaitable, Callable
 from typing import Any
 from urllib.parse import parse_qs, urlencode, urljoin, urlparse, urlunparse
 
-from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.analyze.xtruyen_parse import (
     parse_chapter_content,
     parse_chapter_list,

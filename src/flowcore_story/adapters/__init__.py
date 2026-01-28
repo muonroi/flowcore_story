@@ -1,7 +1,7 @@
 """Public adapter helpers and backwards compatibility shims."""
 
-from flowcore_story.adapters.factory import available_site_keys, get_adapter
-from flowcore_story.adapters.registry import adapter_registry
+from flowcore.adapters.factory import available_site_keys, get_adapter
+from flowcore.adapters.registry import adapter_registry
 
 
 def get_adapter_for_site(site_key: str):

@@ -15,7 +15,7 @@ from collections.abc import Awaitable, Callable
 from typing import Any
 from urllib.parse import urlparse
 
-from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.analyze.quykiep_parse import (
     extract_next_data,
     parse_chapter_content,

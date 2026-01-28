@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
 
-from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.analyze.tangthuvien_parse import (
     _validate_required_fields,
     find_genre_listing_url,

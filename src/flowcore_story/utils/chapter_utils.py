@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 from filelock import Timeout
 from unidecode import unidecode
 
-from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.config.config import (
     ASYNC_SEMAPHORE_LIMIT,
     BATCH_SIZE_OVERRIDE,
