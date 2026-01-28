@@ -472,7 +472,7 @@ async def log_error_chapter(item, filename=None):
 
 async def queue_failed_chapter(chapter_data):
     """Ghi chuong loi vao Kafka topic de retry."""
-    from flowcore_story.kafka.kafka_producer import send_job
+    from flowcore.kafka.kafka_producer import send_job
 
     # Them job type de dispatcher co the nhan dien
     job_to_send = chapter_data.copy()
@@ -575,7 +575,7 @@ async def async_download_and_save_chapter(
                                 )
                                 completed_chapter_path = None
                         try:
-                            from flowcore_story.kafka.kafka_producer import send_job
+                            from flowcore.kafka.kafka_producer import send_job
 
                             if not completed_chapter_path:
                                 raise RuntimeError("completed chapter path not ready")

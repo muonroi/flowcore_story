@@ -24,7 +24,7 @@ from urllib.parse import urlparse
 
 from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.config import config as app_config
-from flowcore_story.storage.story_queue import genre_queue_metadata, story_queue
+from flowcore.storage.story_queue import genre_queue_metadata, story_queue
 from flowcore.utils.io_utils import log_failed_genre
 from flowcore.utils.logger import logger
 from flowcore.utils.metrics_tracker import metrics_tracker
@@ -759,4 +759,3 @@ async def build_crawl_plan(
             plan.add_category(category_plan)
 
     return plan
-

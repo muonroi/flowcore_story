@@ -3,7 +3,7 @@ import os
 
 from flowcore.utils.dead_letter_queue import init_dlq
 from flowcore.utils.logger import logger
-from flowcore_story.kafka.kafka_producer import get_producer
+from flowcore.kafka.kafka_producer import get_producer
 from flowcore_story.workers.crawler_missing_chapter import (
     WORKER_INSTANCE_ID,
     WORKER_SHARD_INDEX,

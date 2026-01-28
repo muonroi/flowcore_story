@@ -15,7 +15,7 @@ Date: 2025-12-20
 """
 
 from typing import Any
-from flowcore_story.storage.db_pool import get_db_pool
+from flowcore.storage.db_pool import get_db_pool
 from flowcore.utils.logger import logger
 
 
@@ -185,7 +185,7 @@ async def discover_genre_total_only(
     It resets planning_status to 'pending' afterwards to allow full discovery later.
     """
     from flowcore_story.core.crawl_planner import build_category_plan
-    from flowcore_story.storage.story_queue import genre_queue_metadata
+    from flowcore.storage.story_queue import genre_queue_metadata
 
     genre_url = genre_data.get('url') or genre_data.get('link') or genre_data.get('href')
 
