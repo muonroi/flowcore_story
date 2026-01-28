@@ -1,0 +1,1292 @@
+<html><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/Jv8jlA-BQE5JD6rA-h_iqNH2/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-Favr7vFIBo/+ruj/aVntsNMFZCKhrSm5l7oEO+HHTCa4qjhPlnHiz0CxvTwXMoTZ"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js" id="eppiocemhmnlbhjplcgkofciiegomcon"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <!-- SEO Meta -->
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta http-equiv="content-language" content="vi">
+    <link rel="amphtml" href="https://m.tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh?amp=1">
+    <title>Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành)</title>
+    <meta name="title" content="Truyện Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành)">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh">
+    <meta property="og:title" content="Truyện Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành)">
+    <meta property="og:image" content="https://img.tangthuvien.net/images/story/ad2a096e2eac9c5e7aa1ad67f8cb7a75c91636dff4fbee64ea6b4d19f04abfe8.jpg">
+    <meta property="og:description" content="Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) thuộc thể loại Tiên Hiệp của tác giả Thủ Tàn Miêu Miêu Tương  được cập nhật nhanh nhất hàng ngày. Đọc miễn phí tại Tàng Thư Viện.">
+    <meta property="og:updated_time" content="1513001763">
+    <meta name="book_detail" content="38472">
+    <meta name="book_path" content="tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh">
+    <meta name="title" content="Truyện Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành)">
+    <meta name="keywords" content="chương mới nhất Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành), Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) full, Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) convert, Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) dịch">
+    <meta name="description" content="Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) thuộc thể loại Tiên Hiệp của tác giả Thủ Tàn Miêu Miêu Tương  được cập nhật nhanh nhất hàng ngày. Đọc miễn phí tại Tàng Thư Viện.">
+    <meta property="article:tag" content="Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành)">
+    <meta property="article:tag" content="Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) full, Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) convert, Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) dịch">
+    <meta property="article:tag" content="Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) hoàn thành">
+            <meta name="auth" content="0">
+        <!-- End-->
+                      
+                                                                        
+    <script type="application/ld+json">
+        {
+            "@context":"http://schema.org",
+            "@type":"Book",
+            "mainEntityOfPage":{
+                "@type":"WebPage",
+                "@id":"https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh"
+            },
+            "headline":"Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành)",
+            "description":"Đọc miễn phí tại Tàng Thư Viện.",
+            "image":{
+                "@type":"ImageObject",
+                "url":"https://img.tangthuvien.net/images/story/ad2a096e2eac9c5e7aa1ad67f8cb7a75c91636dff4fbee64ea6b4d19f04abfe8.jpg",
+                "width":600,
+                "height":800
+            },
+            "datePublished":"2024-12-20",
+            "dateModified":"2025-10-02 03:57:17",
+            "author":{
+                "@type":"Person",
+                "name":"Thủ Tàn Miêu Miêu Tương"
+            },
+            "publisher":{
+                "@type": "Organization",
+                "name":"TangThuVien.vn",
+                "logo":{
+                    "@type":"ImageObject",
+                    "url":"https://tangthuvien.net/images/logo-web.png"
+                }
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "ratingCount": 7,
+                "bestRating": 5,
+                "worstRating": 1
+            },
+            "name": "Truyện Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành) - Tàng thư viện"
+        }
+    </script>
+                                                                                                                                                                                                                        <link rel="shortcut icon" type="image/x-icon" href="https://tangthuvien.net/images/icon-favico.png">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,700i,900" rel="stylesheet">
+    <link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/font-awesome.min.css">
+    <link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/font.css?v=1759499348">
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/minified/jquery-ui.min.css" type="text/css">
+    <link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/module.css?v=1759499348">
+    <link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/layout.css?v=1759499348">
+    <link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/book_details.css?v=1759499348">
+    <script src="https://tangthuvien.net/js/jquery-2.2.4.js"></script><script bis_use="true" type="text/javascript" charset="utf-8" data-bis-config="[&quot;facebook.com/&quot;,&quot;twitter.com/&quot;,&quot;youtube-nocookie.com/embed/&quot;,&quot;//vk.com/&quot;,&quot;//www.vk.com/&quot;,&quot;linkedin.com/&quot;,&quot;//www.linkedin.com/&quot;,&quot;//instagram.com/&quot;,&quot;//www.instagram.com/&quot;,&quot;//www.google.com/recaptcha/api2/&quot;,&quot;//hangouts.google.com/webchat/&quot;,&quot;//www.google.com/calendar/&quot;,&quot;//www.google.com/maps/embed&quot;,&quot;spotify.com/&quot;,&quot;soundcloud.com/&quot;,&quot;//player.vimeo.com/&quot;,&quot;//disqus.com/&quot;,&quot;//tgwidget.com/&quot;,&quot;//js.driftt.com/&quot;,&quot;friends2follow.com&quot;,&quot;/widget&quot;,&quot;login&quot;,&quot;//video.bigmir.net/&quot;,&quot;blogger.com&quot;,&quot;//smartlock.google.com/&quot;,&quot;//keep.google.com/&quot;,&quot;/web.tolstoycomments.com/&quot;,&quot;moz-extension://&quot;,&quot;chrome-extension://&quot;,&quot;/auth/&quot;,&quot;//analytics.google.com/&quot;,&quot;adclarity.com&quot;,&quot;paddle.com/checkout&quot;,&quot;hcaptcha.com&quot;,&quot;recaptcha.net&quot;,&quot;2captcha.com&quot;,&quot;accounts.google.com&quot;,&quot;www.google.com/shopping/customerreviews&quot;,&quot;buy.tinypass.com&quot;,&quot;gstatic.com&quot;,&quot;secureir.ebaystatic.com&quot;,&quot;docs.google.com&quot;,&quot;contacts.google.com&quot;,&quot;github.com&quot;,&quot;mail.google.com&quot;,&quot;chat.google.com&quot;,&quot;audio.xpleer.com&quot;,&quot;keepa.com&quot;,&quot;static.xx.fbcdn.net&quot;,&quot;sas.selleramp.com&quot;,&quot;1plus1.video&quot;,&quot;console.googletagservices.com&quot;,&quot;//lnkd.demdex.net/&quot;,&quot;//radar.cedexis.com/&quot;,&quot;//li.protechts.net/&quot;,&quot;challenges.cloudflare.com/&quot;,&quot;ogs.google.com&quot;]" src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executors/traffic.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/ui/1.10.1/jquery-ui.min.js"></script>
+    <script src="https://tangthuvien.net/js/bookdetail.js?v=1759499348"></script>
+</head>
+<body class="loaded" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCIsIlBJTlRFUkVTVCI6ImRpc2FibGVkIiwiSU5TVEFHUkFNIjoiZGlzYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZGlzYWJsZWQiLCJDT05GSUciOiJkaXNhYmxlZCJ9LCJ2ZXJzaW9uIjoiMi4wLjI2Iiwic2NvcmUiOjIwMDI2fV0=" __processed_97671e5d-e898-4f60-92be-c66febad3e2b__="true">
+<div id="pin-nav" class="pin-nav-wrap need-search" bis_skin_checked="1">
+    <div class="box-center cf" bis_skin_checked="1">
+        <div class="nav-list site-nav fl" bis_skin_checked="1">
+            <ul>
+                <li class="site"><a class="pin-logo" href="https://tangthuvien.net">Trang chủ</a>
+                </li>
+                                                                            <li class=""><a href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></li>
+                                                                                                    <li class=""><a href="https://tangthuvien.net/the-loai/huyen-huyen">Huyền Huyễn</a></li>
+                                                                                                    <li class=""><a href="https://tangthuvien.net/the-loai/do-thi">Đô Thị</a></li>
+                                                                                                    <li class=""><a href="https://tangthuvien.net/the-loai/khoa-huyen">Khoa Huyễn</a></li>
+                                                                                                    <li class=""><a href="https://tangthuvien.net/the-loai/ky-huyen">Kỳ Huyễn</a></li>
+                                                                                                    <li class=""><a href="https://tangthuvien.net/the-loai/vo-hiep">Võ Hiệp</a></li>
+                                                                                                                                <li class="more">
+                                <a href="javascript:" id="top-nav-more" onclick="jQuery('.dropdown').toggle()" target="" data-eid="qd_A54">Khác<span></span></a>
+                                <div class="dropdown" bis_skin_checked="1">
+                                                                        <a href="https://tangthuvien.net/the-loai/lich-su">Lịch Sử</a>
+                                                                                                                                                                            <a href="https://tangthuvien.net/the-loai/dong-nhan">Đồng Nhân</a>
+                                                                                                                                                                            <a href="https://tangthuvien.net/the-loai/quan-su">Quân Sự</a>
+                                                                                                                                                                            <a href="https://tangthuvien.net/the-loai/du-hi">Du Hí</a>
+                                                                                                                                                                            <a href="https://tangthuvien.net/the-loai/canh-ky">Cạnh Kỹ</a>
+                                                                                                                                                                            <a href="https://tangthuvien.net/the-loai/linh-di">Linh Dị</a>
+                                                                    </div>
+                            </li>
+                                                                                            </ul>
+        </div>
+        <div class="nav-list min-user fr" bis_skin_checked="1">
+            <ul>
+                <li id="min-search">
+                    <form id="formUrl" action="/search" method="get" target="_blank">
+                        <label id="pin-search" for="topSearchSubmit" data-eid="qd_A62"><em class="iconfont"></em>
+                        </label>
+                        <input id="inset-autocomplete-input" class="pin-input hide ui-autocomplete-input" type="text" name="kw" placeholder="Tìm kiếm.." autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+                        <input class="submit-input" id="topSearchSubmit" data-eid="qd_A62">
+                    </form>
+                </li>
+                <li class="line"></li>
+                <li class="book-shelf" id="top-book-shelf">
+                                            <a href="javascript:void(0);" onclick="loginBox()"><em class="iconfont"></em><i>Tài khoản</i></a>
+                                    </li>
+            </ul>
+        </div>
+    </div>
+</div><div class="top-bg-box " id="j-topBgBox" style="background-image: url(//qidian.qpic.cn/qidian_common/349573/78fce8716a866511419f688546de7f67/0); display: block;" bis_skin_checked="1">
+</div>
+<div class="crumbs-nav center990" bis_skin_checked="1">
+        <span>
+            <a href="https://tangthuvien.net" data-eid="qd_G01">Trang chủ</a>
+            <em class="iconfont"></em>
+                        <a href="https://tangthuvien.net/the-loai/tien-hiep" data-eid="qd_G02">Tiên Hiệp</a>
+                        <em class="iconfont"></em>
+            <a href="javascript:void(0);" data-eid="qd_G03">Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành)</a>
+        </span>
+</div>
+<div class="border-shadow " bis_skin_checked="1">
+    <span></span>
+    <span></span>
+</div>
+<div class="book-detail-wrap center990" bis_skin_checked="1">
+    <div class="book-information cf" bis_skin_checked="1">
+    <div class="book-img" bis_skin_checked="1">
+        <a class="J-getJumpUrl" id="bookImg" href="javascript:void(0);">
+            <img src="https://img.tangthuvien.net/images/story/ad2a096e2eac9c5e7aa1ad67f8cb7a75c91636dff4fbee64ea6b4d19f04abfe8.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+        </a>
+    </div>
+    <div class="book-info " bis_skin_checked="1">
+        <h1>Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu Hành (Tòng Phế Linh Căn Khai Thủy Vấn Ma Tu Hành)  - 从废灵根开始问魔修行 </h1>
+        <p class="tag">
+            <a href="https://tangthuvien.net/tac-gia?author=25775" class="blue">Thủ Tàn Miêu Miêu Tương</a>            <span class="blue">Đang ra</span>
+                                    <a href="https://tangthuvien.net/the-loai/tien-hiep" class="red" target="_blank" data-eid="qd_G10">Tiên Hiệp</a>
+                
+        </p>
+        <p class="intro">Chuyển sinh tu hành thế giới mười sáu năm, từ phế linh căn...</p>
+        <p>
+                        <em><span class="ULtwOOTH-like">22 </span></em><cite>Yêu thích</cite><i>|</i>
+            <em><span class="ULtwOOTH-view">370845</span></em><cite>Lượt xem</cite><i>|</i>
+            <em><span class="ULtwOOTH-follow">320 </span></em><cite>Theo dõi</cite><i>|</i>
+            <em><span class="ULtwOOTH-nomi">0</span></em><cite>Đề cử tháng này</cite>
+        </p><p>
+            <a class="red-btn J-getJumpUrl" href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-1 " id="readBtn">Đọc truyện</a>
+            <a class="blue-btn add-book " id="addLikeBtn" onclick="likeStory('38472');" href="javascript:">Yêu thích</a>
+            <a class="blue-btn add-book " id="addFollowBtn" onclick="followStory('38472');" href="javascript:">Theo dõi</a>
+            <a class="blue-btn" id="topVoteBtn" href="javascript:" onclick="nominateStory('38472')" data-vote="0">Đề cử</a>
+        </p>
+    </div>
+    <div class="comment-wrap" bis_skin_checked="1">
+        <div id="commentWrap" bis_skin_checked="1">
+            <div class="j_getData" bis_skin_checked="1">
+                <h4 id="j_bookScore"><span><cite id="myrate">4.1</cite></span></h4>
+                <span style="display: none">5</span>
+                <p id="j_userCount"><span id="myrating">7</span>đánh giá</p>
+            </div>
+            <h5>Ta muốn đánh giá</h5>
+            <div class="score-mid" id="scoreBtn" data-score="0" data-comment="0" data-eid="qd_G12" style="cursor: pointer; width: 116px;" onclick="openReview();" bis_skin_checked="1">
+                                                    <img src=" https://tangthuvien.net/images/star-on.02731.png " alt="1" title="Quá tệ">
+                                    <img src=" https://tangthuvien.net/images/star-on.02731.png " alt="2" title="Không hay lắm">
+                                    <img src=" https://tangthuvien.net/images/star-on.02731.png " alt="3" title="Cũng được">
+                                    <img src=" https://tangthuvien.net/images/star-on.02731.png " alt="4" title="Khá hay">
+                                    <img src=" https://tangthuvien.net/images/star-off.b2a1b.png " alt="5" title="Rất hay">
+                            </div>
+        </div>
+    </div>
+    
+</div>    <div class="content-nav-wrap cf" bis_skin_checked="1">
+        <div class="nav-wrap fl" bis_skin_checked="1">
+            <ul>
+                <li class="act"><a class="lang" id="j-bookInfoPage" onclick="changeTab(1)" href="javascript:" data-eid="qd_G15">Thông tin chi
+                        tiết</a></li>
+                <li><a class="lang" id="j-bookCatalogPage" href="javascript:" onclick="changeTab(2)" data-eid="qd_G15">Danh sách chương (689 chương)</a></li>
+                <li><a class="lang" href="#user-discuss" onclick="changeTab(1)" data-eid="qd_G15">Bình luận</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="catalog-content-wrap" style="display: none;" bis_skin_checked="1">
+        <div class="volume-wrap" bis_skin_checked="1">
+    <div class="volume" bis_skin_checked="1">
+        <input type="hidden" name="story_id" id="story_id_hidden" value="38472">
+                <h3>5 Chương mới nhất <em class="count">(Cập nhật: 02/10/2025 03:57)</em></h3>
+        <ul class="cf">
+                            <li data-rid="1">
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-689" target="_blank" title="Chương 689&nbsp;:&nbsp;Ma thần bản nguyên luyện hồn phiên">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 689&nbsp;:&nbsp;Ma thần bản nguyên luyện hồn phiên</font></font>
+                    </a>
+                </li>
+                            <li data-rid="1">
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-688" target="_blank" title="Chương 688&nbsp;:&nbsp;Trùng điệp phong ấn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 688&nbsp;:&nbsp;Trùng điệp phong ấn</font></font>
+                    </a>
+                </li>
+                            <li data-rid="1">
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-687" target="_blank" title="Chương 687&nbsp;:&nbsp;Tam thi chi thuyết, mị cốt tế tà thai">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 687&nbsp;:&nbsp;Tam thi chi thuyết, mị cốt tế tà thai</font></font>
+                    </a>
+                </li>
+                            <li data-rid="1">
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-686" target="_blank" title="Chương 686&nbsp;:&nbsp;Đợt thứ hai dị vực xâm lấn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 686&nbsp;:&nbsp;Đợt thứ hai dị vực xâm lấn</font></font>
+                    </a>
+                </li>
+                            <li data-rid="1">
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-685" target="_blank" title="Chương 685&nbsp;:&nbsp;Bất tử pháp cấm">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 685&nbsp;:&nbsp;Bất tử pháp cấm</font></font>
+                    </a>
+                </li>
+                            <li data-rid="1">
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-684" target="_blank" title="Chương 684&nbsp;:&nbsp;Pháp tắc trùng tinh">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 684&nbsp;:&nbsp;Pháp tắc trùng tinh</font></font>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <div class="volume" id="max-volume" bis_skin_checked="1">
+        <h3>Danh sách chương</h3>
+        <ul class="cf">
+                                                                    <li class="divider-chap"><span>Quyển 1 </span></li>
+                                                                         <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-1" target="_blank" title="Chương 1&nbsp;:&nbsp;Phế linh căn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 1&nbsp;:&nbsp;Phế linh căn</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-2" target="_blank" title="Chương 2&nbsp;:&nbsp;Nghịch linh huyết tông">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 2&nbsp;:&nbsp;Nghịch linh huyết tông</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-3" target="_blank" title="Chương 3&nbsp;:&nbsp;Linh nô">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 3&nbsp;:&nbsp;Linh nô</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-4" target="_blank" title="Chương 4&nbsp;:&nbsp;Nhiên huyết công">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 4&nbsp;:&nbsp;Nhiên huyết công</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-5" target="_blank" title="Chương 5&nbsp;:&nbsp;Số hai cơ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 5&nbsp;:&nbsp;Số hai cơ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-6" target="_blank" title="Chương 6&nbsp;:&nbsp;Mười năm thọ nguyên đốt hết một lần">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 6&nbsp;:&nbsp;Mười năm thọ nguyên đốt hết một lần</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-7" target="_blank" title="Chương 7&nbsp;:&nbsp;Tỏ rõ ý đồ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 7&nbsp;:&nbsp;Tỏ rõ ý đồ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-8" target="_blank" title="Chương 8&nbsp;:&nbsp;Trung phẩm pháp thuật băng kiếm thuật">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 8&nbsp;:&nbsp;Trung phẩm pháp thuật băng kiếm thuật</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-9" target="_blank" title="Chương 9&nbsp;:&nbsp;Kéo bè kết phái">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 9&nbsp;:&nbsp;Kéo bè kết phái</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-10" target="_blank" title="Chương 10&nbsp;:&nbsp;Tay cụt">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 10&nbsp;:&nbsp;Tay cụt</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-11" target="_blank" title="Chương 11&nbsp;:&nbsp;Phong hồi lộ chuyển">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 11&nbsp;:&nbsp;Phong hồi lộ chuyển</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-12" target="_blank" title="Chương 12&nbsp;:&nbsp;Dạ biến">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 12&nbsp;:&nbsp;Dạ biến</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-13" target="_blank" title="Chương 13&nbsp;:&nbsp;Một cục đá hạ ba con chim">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 13&nbsp;:&nbsp;Một cục đá hạ ba con chim</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-14" target="_blank" title="Chương 14&nbsp;:&nbsp;Luyện khí ba tầng">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 14&nbsp;:&nbsp;Luyện khí ba tầng</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-15" target="_blank" title="Chương 15&nbsp;:&nbsp;Ngoại môn đệ tử">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 15&nbsp;:&nbsp;Ngoại môn đệ tử</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-16" target="_blank" title="Chương 16&nbsp;:&nbsp;Nghịch huyết thập phường">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 16&nbsp;:&nbsp;Nghịch huyết thập phường</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-17" target="_blank" title="Chương 17&nbsp;:&nbsp;Chuyển tu Hàn huyết quyết">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 17&nbsp;:&nbsp;Chuyển tu Hàn huyết quyết</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-18" target="_blank" title="Chương 18&nbsp;:&nbsp;Quy tắc ngầm">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 18&nbsp;:&nbsp;Quy tắc ngầm</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-19" target="_blank" title="Chương 19&nbsp;:&nbsp;Mãng phu tập sát">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 19&nbsp;:&nbsp;Mãng phu tập sát</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-20" target="_blank" title="Chương 20&nbsp;:&nbsp;Choáng đầu là bình thường">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 20&nbsp;:&nbsp;Choáng đầu là bình thường</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-21" target="_blank" title="Chương 21&nbsp;:&nbsp;Đạm Đài Thiền">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 21&nbsp;:&nbsp;Đạm Đài Thiền</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-22" target="_blank" title="Chương 22&nbsp;:&nbsp;Luyện đan truyền thừa">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 22&nbsp;:&nbsp;Luyện đan truyền thừa</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-23" target="_blank" title="Chương 23&nbsp;:&nbsp;Luyện khí bốn tầng">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 23&nbsp;:&nbsp;Luyện khí bốn tầng</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-24" target="_blank" title="Chương 24&nbsp;:&nbsp;Số ba cơ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 24&nbsp;:&nbsp;Số ba cơ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-25" target="_blank" title="Chương 25&nbsp;:&nbsp;Đan dược công lược">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 25&nbsp;:&nbsp;Đan dược công lược</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-26" target="_blank" title="Chương 26&nbsp;:&nbsp;Kiếm tiền đại kế">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 26&nbsp;:&nbsp;Kiếm tiền đại kế</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-27" target="_blank" title="Chương 27&nbsp;:&nbsp;Từ thị đan lô">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 27&nbsp;:&nbsp;Từ thị đan lô</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-28" target="_blank" title="Chương 28&nbsp;:&nbsp;Trung gian kiếm lời">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 28&nbsp;:&nbsp;Trung gian kiếm lời</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-29" target="_blank" title="Chương 29&nbsp;:&nbsp;Ai tông môn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 29&nbsp;:&nbsp;Ai tông môn</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-30" target="_blank" title="Chương 30&nbsp;:&nbsp;Niềm vui ngoài ý muốn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 30&nbsp;:&nbsp;Niềm vui ngoài ý muốn</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-31" target="_blank" title="Chương 31&nbsp;:&nbsp;Đan sư liên hợp">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 31&nbsp;:&nbsp;Đan sư liên hợp</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-32" target="_blank" title="Chương 32&nbsp;:&nbsp;Cưỡng ép giao dịch">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 32&nbsp;:&nbsp;Cưỡng ép giao dịch</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-33" target="_blank" title="Chương 33&nbsp;:&nbsp;Công pháp viên mãn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 33&nbsp;:&nbsp;Công pháp viên mãn</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-34" target="_blank" title="Chương 34&nbsp;:&nbsp;Linh căn biến dị khả năng">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 34&nbsp;:&nbsp;Linh căn biến dị khả năng</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-35" target="_blank" title="Chương 35&nbsp;:&nbsp;Lại tới đưa?">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 35&nbsp;:&nbsp;Lại tới đưa?</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-36" target="_blank" title="Chương 36&nbsp;:&nbsp;Băng cữu chú, huyễn hình bộ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 36&nbsp;:&nbsp;Băng cữu chú, huyễn hình bộ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-37" target="_blank" title="Chương 37&nbsp;:&nbsp;Ngu Đường Đường">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 37&nbsp;:&nbsp;Ngu Đường Đường</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-38" target="_blank" title="Chương 38&nbsp;:&nbsp;Một năm kỳ hạn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 38&nbsp;:&nbsp;Một năm kỳ hạn</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-39" target="_blank" title="Chương 39&nbsp;:&nbsp;Thi ma bí pháp">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 39&nbsp;:&nbsp;Thi ma bí pháp</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-40" target="_blank" title="Chương 40&nbsp;:&nbsp;Luyện khí năm tầng">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 40&nbsp;:&nbsp;Luyện khí năm tầng</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-41" target="_blank" title="Chương 41&nbsp;:&nbsp;Thịt thản đột kích">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 41&nbsp;:&nbsp;Thịt thản đột kích</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-42" target="_blank" title="Chương 42&nbsp;:&nbsp;Thần bí sách lụa">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 42&nbsp;:&nbsp;Thần bí sách lụa</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-43" target="_blank" title="Chương 43&nbsp;:&nbsp;Cốc Chính Thuận">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 43&nbsp;:&nbsp;Cốc Chính Thuận</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-44" target="_blank" title="Chương 44&nbsp;:&nbsp;Bù đắp tàn chi">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 44&nbsp;:&nbsp;Bù đắp tàn chi</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-45" target="_blank" title="Chương 45&nbsp;:&nbsp;Huyền cốt sơn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 45&nbsp;:&nbsp;Huyền cốt sơn</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-46" target="_blank" title="Chương 46&nbsp;:&nbsp;Âm hồn, ong độc, cốt sư">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 46&nbsp;:&nbsp;Âm hồn, ong độc, cốt sư</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-47" target="_blank" title="Chương 47&nbsp;:&nbsp;Đánh hạ cứ điểm">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 47&nbsp;:&nbsp;Đánh hạ cứ điểm</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-48" target="_blank" title="Chương 48&nbsp;:&nbsp;Nghi ngờ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 48&nbsp;:&nbsp;Nghi ngờ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-49" target="_blank" title="Chương 49&nbsp;:&nbsp;Co đầu rút cổ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 49&nbsp;:&nbsp;Co đầu rút cổ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-50" target="_blank" title="Chương 50&nbsp;:&nbsp;Nay không giống xưa">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 50&nbsp;:&nbsp;Nay không giống xưa</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-51" target="_blank" title="Chương 51&nbsp;:&nbsp;Địa âm thi khôi trận">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 51&nbsp;:&nbsp;Địa âm thi khôi trận</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-52" target="_blank" title="Chương 52&nbsp;:&nbsp;Chiết xuất linh lực">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 52&nbsp;:&nbsp;Chiết xuất linh lực</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-53" target="_blank" title="Chương 53&nbsp;:&nbsp;Địa cung di tích">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 53&nbsp;:&nbsp;Địa cung di tích</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-54" target="_blank" title="Chương 54&nbsp;:&nbsp;Âm mưu quỷ kế">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 54&nbsp;:&nbsp;Âm mưu quỷ kế</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-55" target="_blank" title="Chương 55&nbsp;:&nbsp;Một chiến bốn">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 55&nbsp;:&nbsp;Một chiến bốn</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-56" target="_blank" title="Chương 56&nbsp;:&nbsp;Huyền âm thủ, âm tủy dịch">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 56&nbsp;:&nbsp;Huyền âm thủ, âm tủy dịch</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-57" target="_blank" title="Chương 57&nbsp;:&nbsp;Thủ các thi hài">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 57&nbsp;:&nbsp;Thủ các thi hài</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-58" target="_blank" title="Chương 58&nbsp;:&nbsp;Bí pháp thái âm u đồng">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 58&nbsp;:&nbsp;Bí pháp thái âm u đồng</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-59" target="_blank" title="Chương 59&nbsp;:&nbsp;Thoát thân rút lui">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 59&nbsp;:&nbsp;Thoát thân rút lui</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-60" target="_blank" title="Chương 60&nbsp;:&nbsp;Tu vi tiến bộ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 60&nbsp;:&nbsp;Tu vi tiến bộ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-61" target="_blank" title="Chương 61&nbsp;:&nbsp;Thất thủ địa cung">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 61&nbsp;:&nbsp;Thất thủ địa cung</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-62" target="_blank" title="Chương 62&nbsp;:&nbsp;Quan nguyệt">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 62&nbsp;:&nbsp;Quan nguyệt</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-63" target="_blank" title="Chương 63&nbsp;:&nbsp;Quét ngang">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 63&nbsp;:&nbsp;Quét ngang</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-64" target="_blank" title="Chương 64&nbsp;:&nbsp;Âm dương lưỡng nghi">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 64&nbsp;:&nbsp;Âm dương lưỡng nghi</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-65" target="_blank" title="Chương 65&nbsp;:&nbsp;Tử thương thảm trọng">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 65&nbsp;:&nbsp;Tử thương thảm trọng</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-66" target="_blank" title="Chương 66&nbsp;:&nbsp;Liên tục phá cảnh">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 66&nbsp;:&nbsp;Liên tục phá cảnh</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-67" target="_blank" title="Chương 67&nbsp;:&nbsp;Số bốn cơ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 67&nbsp;:&nbsp;Số bốn cơ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-68" target="_blank" title="Chương 68&nbsp;:&nbsp;Giải bí">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 68&nbsp;:&nbsp;Giải bí</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-69" target="_blank" title="Chương 69&nbsp;:&nbsp;Thôn hồn tà giáp thuật">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 69&nbsp;:&nbsp;Thôn hồn tà giáp thuật</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-70" target="_blank" title="Chương 70&nbsp;:&nbsp;Chật vật">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 70&nbsp;:&nbsp;Chật vật</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-71" target="_blank" title="Chương 71&nbsp;:&nbsp;Trốn đi phong châu phủ thành">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 71&nbsp;:&nbsp;Trốn đi phong châu phủ thành</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-72" target="_blank" title="Chương 72&nbsp;:&nbsp;Biến đổi bất ngờ">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 72&nbsp;:&nbsp;Biến đổi bất ngờ</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-73" target="_blank" title="Chương 73&nbsp;:&nbsp;Thu hoạch rải rác">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 73&nbsp;:&nbsp;Thu hoạch rải rác</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-74" target="_blank" title="Chương 74&nbsp;:&nbsp;Huyền cốt sơn cuối cùng hai năm">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 74&nbsp;:&nbsp;Huyền cốt sơn cuối cùng hai năm</font></font>
+                    </a>
+                </li>
+                                            <li>
+                    <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-75" target="_blank" title="Chương 75&nbsp;:&nbsp;Đường về">
+                        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chương 75&nbsp;:&nbsp;Đường về</font></font>
+                    </a>
+                </li>
+                    </ul>
+                    <div class="list-chapter" bis_skin_checked="1">
+                <nav aria-label="Chapter navigation" class="nav-pagination">
+    <ul class="pagination">
+                                 <li class=" active ">
+             <a href="javascript:void(0);">1<span class="sr-only">(current)</span></a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(1)" href="javascript:void(0);">2</a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(2)" href="javascript:void(0);">3</a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(3)" href="javascript:void(0);">4</a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(4)" href="javascript:void(0);">5</a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(5)" href="javascript:void(0);">6</a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(6)" href="javascript:void(0);">7</a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(7)" href="javascript:void(0);">8</a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(8)" href="javascript:void(0);">9</a>
+         </li>
+                 <li class="">
+             <a onclick="Loading(9)" href="javascript:void(0);">10</a>
+         </li>
+                            <li>
+                <a onclick="Loading(1)" href="javascript:void(0);" aria-label="Next">
+                    <span aria-hidden="true">»</span>
+                </a>
+            </li>
+                    </ul>
+</nav>            </div>
+            </div>
+</div>    </div>
+    <div class="book-content-wrap cf" bis_skin_checked="1">
+        <div class="left-wrap fl" bis_skin_checked="1">
+            <div class="book-info-detail" bis_skin_checked="1">
+                <div class="book-intro" bis_skin_checked="1">
+                    <p> Chuyển sinh tu hành thế giới mười sáu năm, từ phế linh căn bắt đầu vấn ma tu hành. <br>
+<br>
+——————<br>
+<br>
+Kiểm trắc ngày, linh căn rơi vào ngũ đẳng, kiếp này khó mà đột phá luyện khí trung kỳ, tiên môn không thu, trường sinh khó cầu. <br>
+<br>
+Đúng lúc gặp ma tông dịch nô, từ các nơi vơ vét tư chất thấp giả vì "Linh nô", lấy nhiên thọ ma công bồi dưỡng nhiều nhóm hao tài, khiến cho tự tổn tu vi chế tác linh sa, cung cấp ma tông hưởng dụng. <br>
+<br>
+Vương Dục tại Thạch Hồ thành bị cướp về Ma vực chi địa, lấy linh nô chi thân nhập ma đạo đại môn, may mắn có 【 thanh vị trí 】 bàng thân, có thể giải quyết rất nhiều vấn đề! <br>
+<br>
+——————<br>
+<br>
+【 thanh vị trí 1 : Nhiên Huyết Công 】<br>
+<br>
+"Nhiên Huyết Công（ 0/ 100） : một ngày bốn mươi tám luyện, một năm có thể thành. " <br>
+<br>
+Ps :（ giới thiệu vắn tắt bất lực, mời dời bước chính văn）<br>
+~~~~~~~<br>
+(cvt: cảm thấy hay thì ở lại, còn không thì hãy mau tránh xa, không ai bắt ép phải đọc nên hãy thoát ra)<br>
+(~￣³￣)~</p>
+                </div>
+                <div class="book-state" bis_skin_checked="1">
+                    <ul>
+                                                <li>
+                            <b>Người đăng</b>
+                            <div class="detail" bis_skin_checked="1">
+                                <p class="tag-wrap">
+                                                                          <a class="tags" href="https://tangthuvien.net/converter/viettiev">viettiev</a>
+                                                                   </p>
+                            </div>
+                        </li>
+                                                                        <li class="update">
+                            <b>Chương mới</b>
+                            <div class="detail" bis_skin_checked="1">
+
+                                <p class="cf">
+                                                                        <a class="blue" href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-689" title="Chương 689 Ma thần bản nguyên luyện hồn phiên" target="_blank">Chương 689 Ma thần bản nguyên luyện hồn phiên</a><i>·</i><em class="time">Oct 02, 2025 03:57 am</em>
+                                </p>
+
+                            </div>
+                        </li>
+                                                                        <li class="tags">
+                            <b>Tags</b>
+                            <div class="detail" bis_skin_checked="1">
+                                <p class="tag-wrap">
+                                                                            <a class="tags" href="https://tangthuvien.net/tong-hop?tag=112" title="Luyện công lưu">Luyện công lưu</a>
+                                                                            <a class="tags" href="https://tangthuvien.net/tong-hop?tag=199" title="Tu chân">Tu chân</a>
+                                                                            <a class="tags" href="https://tangthuvien.net/tong-hop?tag=200" title="Cổ điển tiên hiệp">Cổ điển tiên hiệp</a>
+                                                                            <a class="tags" href="https://tangthuvien.net/tong-hop?tag=201" title="Xuyên việt">Xuyên việt</a>
+                                                                    </p>
+
+                            </div>
+                        </li>
+                                            </ul>
+                </div>
+            </div>
+            <div class="games-op-wrap" data-l1="17" bis_skin_checked="1">
+                .
+            </div>
+            <div class="like-more mb30 cf" bis_skin_checked="1">
+                <h3 class="lang">Có thể bạn sẽ thích</h3>
+                <div class="like-more-list" bis_skin_checked="1">
+                    <div class="cf" bis_skin_checked="1">
+                                                <li data-rid="1">
+                            <div class="book-img" title="修真聊天群" bis_skin_checked="1">
+                                <a href="https://tangthuvien.net/doc-truyen/hong-hoang-chi-hong-van-dai-dao" target="_blank">
+                                    <img src="https://img.tangthuvien.net/images/story/a60bb6bde9da84ddcc22d9f81aa7a1b8f17d49801ddee175c5af08d7cddb6c58.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                                </a>
+                            </div>
+                            <h4><a href="https://tangthuvien.net/doc-truyen/hong-hoang-chi-hong-van-dai-dao" target="_blank" title="Hồng Hoang Chi Hồng Vân Đại Đạo">Hồng Hoang Chi Hồng...</a></h4>
+                            <p>Vô Lượng Tiểu Quang</p>
+                        </li>
+                                                <li data-rid="1">
+                            <div class="book-img" title="修真聊天群" bis_skin_checked="1">
+                                <a href="https://tangthuvien.net/doc-truyen/thai-dich" target="_blank">
+                                    <img src="https://img.tangthuvien.net/images/story/5011.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                                </a>
+                            </div>
+                            <h4><a href="https://tangthuvien.net/doc-truyen/thai-dich" target="_blank" title="Thái Dịch">Thái Dịch</a></h4>
+                            <p>Vô Cực Thư Trùng</p>
+                        </li>
+                                                <li data-rid="1">
+                            <div class="book-img" title="修真聊天群" bis_skin_checked="1">
+                                <a href="https://tangthuvien.net/doc-truyen/dao-qua" target="_blank">
+                                    <img src="https://img.tangthuvien.net/images/story/2283.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                                </a>
+                            </div>
+                            <h4><a href="https://tangthuvien.net/doc-truyen/dao-qua" target="_blank" title="Đạo Quả">Đạo Quả</a></h4>
+                            <p>Chiến Bào Nhiễm Huyết</p>
+                        </li>
+                                                <li data-rid="1">
+                            <div class="book-img" title="修真聊天群" bis_skin_checked="1">
+                                <a href="https://tangthuvien.net/doc-truyen/ta-von-khong-y-thanh-tien" target="_blank">
+                                    <img src="https://img.tangthuvien.net/images/story/ec555926de8f3cb9ed079084df15bc74f0a300413d0bf6184bbcd861f868655d.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                                </a>
+                            </div>
+                            <h4><a href="https://tangthuvien.net/doc-truyen/ta-von-khong-y-thanh-tien" target="_blank" title="Ta Vốn Không Ý Thành Tiên (Ngã Bản Vô Ý Thành Tiên)">Ta Vốn Không Ý Thành...</a></h4>
+                            <p>Kim Sắc Mạt Lỵ Hoa</p>
+                        </li>
+                                                <li data-rid="1">
+                            <div class="book-img" title="修真聊天群" bis_skin_checked="1">
+                                <a href="https://tangthuvien.net/doc-truyen/hong-hoang-chi-cuc-pham-thong-thien" target="_blank">
+                                    <img src="https://img.tangthuvien.net/images/story/2767.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                                </a>
+                            </div>
+                            <h4><a href="https://tangthuvien.net/doc-truyen/hong-hoang-chi-cuc-pham-thong-thien" target="_blank" title="Hồng Hoang Chi Cực Phẩm Thông Thiên">Hồng Hoang Chi Cực...</a></h4>
+                            <p>Tiểu Thái Tống Thượng</p>
+                        </li>
+                                                <li data-rid="1">
+                            <div class="book-img" title="修真聊天群" bis_skin_checked="1">
+                                <a href="https://tangthuvien.net/doc-truyen/tien-vong" target="_blank">
+                                    <img src="https://img.tangthuvien.net/images/story/1612.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                                </a>
+                            </div>
+                            <h4><a href="https://tangthuvien.net/doc-truyen/tien-vong" target="_blank" title="Tiên Võng">Tiên Võng</a></h4>
+                            <p>Hồng Thạc</p>
+                        </li>
+                                            </div>
+                </div>
+            </div>
+            <div class="user-commentWrap" bis_skin_checked="1">
+                <div class="user-comment-wrap book-friend" bis_skin_checked="1">
+                    <div class="comment-head cf" bis_skin_checked="1">
+                        <h3 class="lang">
+                            <span class="j_godiscuss act" onclick="changeBox(1)">Bình luận</span>
+                            <i class="grey">|</i>
+                            <span class="j_gocomment" data-eid="qd_G113" onclick="changeBox(2)">Đánh giá</span>
+                                                            <a href="javascript:void(0);" onclick="loginBox();" class="sendPost blue"><i class="iconfont icon-send"></i>Viết bình luận</a>
+                                                    </h3>
+                    </div>
+
+                    <div class="user-discuss" id="user-discuss" bis_skin_checked="1"><div class="book-discuss-wrap" bis_skin_checked="1">
+    <div class="discuss-list" bis_skin_checked="1">
+                <div class="form-group col-xs-12 form-comment  hidden " id="form-comment" bis_skin_checked="1">
+                                    <form method="post" id="comment-box" action="/postComment" enctype="multipart/form-data">
+                <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                <input type="hidden" name="story_id" value="38472">
+                <div class="comment-avatar" bis_skin_checked="1">
+                    <img src="https://tangthuvien.net/images/default-avatar.jpeg" draggable="false" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                </div>
+                <div class="box-input" bis_skin_checked="1">
+                    <div class="box-form" bis_skin_checked="1">
+                        <textarea name="comment" class="form-control comment-control" onkeyup="auto_grow(this)" placeholder="Add a comment..."></textarea>
+                        <div class="col-xs-12 button-sets" bis_skin_checked="1">
+                            <button class="red-btn btn-post" data-name="" data-rank="Bá Tánh Bình Dân" type="button" onclick="sendComment(this)"><span>Bình luận</span></button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+                    <ul>
+                                                        <li class="cf cmt-827572" data-rid="827572">
+                        <div class="user-photo" bis_skin_checked="1">
+                            <a href="https://tangthuvien.net/converter/1005332972917548?hash=fb">
+                                <img src="https://img.tangthuvien.net/images_user/33f21295d7a4fe6ef920ce947df22eb6b05c4c324724d30b9d5d761dd9599ae2.jpg" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                            </a>
+                        </div>
+                        <div class="discuss-info" bis_skin_checked="1">
+                                                        <p class="users">
+                                <a class="blue" href="https://tangthuvien.net/converter/1005332972917548?hash=fb"><b> Trần Tiến </b></a><span class="gray">Bá Tánh Bình Dân</span>
+                            </p>
+                                                                    <p class="text tex-pre">  Cương thi mà nó cũng xách ra chơi...song tu, 1 tháng 3 lần, xong lại 1 lần tới 20 năm, chơi đến k còn cảm giác luôn @.@</p>
+                                
+
+                            <p class="info dib-wrap" data-id="1101214358">
+                                <span class="mr20">Sep 25, 2025 10:26 am</span>
+                                <a href="javascript:void(0);" onclick="openChilds(this)" data-id="827572" class="info-tab mr20">
+                                    <i class="iconfont"></i>
+                                    <span>0 trả lời</span>
+                                </a>
+
+                                <a href="javascript:void(0);" onclick="likeComment(this)" data-rid="827572" class="info-tab like-btn ">
+                                    <i class="iconfont"></i>
+
+                                    <span>0</span>
+                                </a>
+                            </p>
+                            <div class="discuss-childs hidden" id="discuss-childs-827572" bis_skin_checked="1">
+                                <ul>
+                                                                    </ul>
+                                                                <div class="form-reply reply-827572 form-comment" style="display: none;" bis_skin_checked="1">
+                                    <form method="post" id="reply-box-827572" action="/postComment" enctype="multipart/form-data">
+                                        <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                                        <input type="hidden" name="story_id" value="38472">
+                                        <div class="comment-avatar" bis_skin_checked="1">
+                                            <img src="https://tangthuvien.net/images/default-avatar.jpeg" draggable="false" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                                        </div>
+                                        <div class="box-input" bis_skin_checked="1">
+                                            <div class="box-form" bis_skin_checked="1">
+                                                <textarea name="comment" class="form-control comment-control" onkeyup="auto_grow(this)" placeholder="Add a comment..."></textarea>
+                                                <div class="col-xs-12 button-sets" bis_skin_checked="1">
+                                                    <button class="red-btn btn-post" data-reply="827572" data-name="" data-rank="Bá Tánh Bình Dân" type="button" onclick="sendReply(this)"><span>Bình luận</span></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                                        <li class="cf cmt-827524" data-rid="827524">
+                        <div class="user-photo" bis_skin_checked="1">
+                            <a href="https://tangthuvien.net/converter/1005332972917548?hash=fb">
+                                <img src="https://img.tangthuvien.net/images_user/33f21295d7a4fe6ef920ce947df22eb6b05c4c324724d30b9d5d761dd9599ae2.jpg" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                            </a>
+                        </div>
+                        <div class="discuss-info" bis_skin_checked="1">
+                                                        <p class="users">
+                                <a class="blue" href="https://tangthuvien.net/converter/1005332972917548?hash=fb"><b> Trần Tiến </b></a><span class="gray">Bá Tánh Bình Dân</span>
+                            </p>
+                                                                    <p class="text tex-pre">  Ma tu thứ thiệt, là địch nhân thì cướp hiếp giết xong lấy kim đan nguyên anh luyện thành đan nuốt luôn thường như cơm bữa, là hảo hữu thì kiếm chuyện song tu để bổ tu vi</p>
+                                
+
+                            <p class="info dib-wrap" data-id="1101214358">
+                                <span class="mr20">Sep 24, 2025 08:19 pm</span>
+                                <a href="javascript:void(0);" onclick="openChilds(this)" data-id="827524" class="info-tab mr20">
+                                    <i class="iconfont"></i>
+                                    <span>0 trả lời</span>
+                                </a>
+
+                                <a href="javascript:void(0);" onclick="likeComment(this)" data-rid="827524" class="info-tab like-btn ">
+                                    <i class="iconfont"></i>
+
+                                    <span>0</span>
+                                </a>
+                            </p>
+                            <div class="discuss-childs hidden" id="discuss-childs-827524" bis_skin_checked="1">
+                                <ul>
+                                                                    </ul>
+                                                                <div class="form-reply reply-827524 form-comment" style="display: none;" bis_skin_checked="1">
+                                    <form method="post" id="reply-box-827524" action="/postComment" enctype="multipart/form-data">
+                                        <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                                        <input type="hidden" name="story_id" value="38472">
+                                        <div class="comment-avatar" bis_skin_checked="1">
+                                            <img src="https://tangthuvien.net/images/default-avatar.jpeg" draggable="false" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                                        </div>
+                                        <div class="box-input" bis_skin_checked="1">
+                                            <div class="box-form" bis_skin_checked="1">
+                                                <textarea name="comment" class="form-control comment-control" onkeyup="auto_grow(this)" placeholder="Add a comment..."></textarea>
+                                                <div class="col-xs-12 button-sets" bis_skin_checked="1">
+                                                    <button class="red-btn btn-post" data-reply="827524" data-name="" data-rank="Bá Tánh Bình Dân" type="button" onclick="sendReply(this)"><span>Bình luận</span></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                                        <li class="cf cmt-827504" data-rid="827504">
+                        <div class="user-photo" bis_skin_checked="1">
+                            <a href="https://tangthuvien.net/converter/viettiev">
+                                <img src="https://img.tangthuvien.net/images_user/6e551c186d88adee586bc2fa15156784fc5afb4fc097a7d5bb47e8a544234fc1.jpg" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                            </a>
+                        </div>
+                        <div class="discuss-info" bis_skin_checked="1">
+                                                        <p class="users">
+                                <a class="blue" href="https://tangthuvien.net/converter/viettiev"><b><b><font color="#669966">  viettiev </font></b> </b></a><span class="gray"><b><font color="#669966">Chuyá»ƒn Ngá»¯ Tháº§n Thá»§</font></b></span>
+                            </p>
+                                                                    <p class="text tex-pre">  vũ trụ hải vạn giới vạn tộc chưa đi ra mà đã lòi ra dị vũ trụ rồi, map rộng quá, rộng quá</p>
+                                
+
+                            <p class="info dib-wrap" data-id="1101214358">
+                                <span class="mr20">Sep 24, 2025 02:06 pm</span>
+                                <a href="javascript:void(0);" onclick="openChilds(this)" data-id="827504" class="info-tab mr20">
+                                    <i class="iconfont"></i>
+                                    <span>0 trả lời</span>
+                                </a>
+
+                                <a href="javascript:void(0);" onclick="likeComment(this)" data-rid="827504" class="info-tab like-btn ">
+                                    <i class="iconfont"></i>
+
+                                    <span>1</span>
+                                </a>
+                            </p>
+                            <div class="discuss-childs hidden" id="discuss-childs-827504" bis_skin_checked="1">
+                                <ul>
+                                                                    </ul>
+                                                                <div class="form-reply reply-827504 form-comment" style="display: none;" bis_skin_checked="1">
+                                    <form method="post" id="reply-box-827504" action="/postComment" enctype="multipart/form-data">
+                                        <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                                        <input type="hidden" name="story_id" value="38472">
+                                        <div class="comment-avatar" bis_skin_checked="1">
+                                            <img src="https://tangthuvien.net/images/default-avatar.jpeg" draggable="false" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                                        </div>
+                                        <div class="box-input" bis_skin_checked="1">
+                                            <div class="box-form" bis_skin_checked="1">
+                                                <textarea name="comment" class="form-control comment-control" onkeyup="auto_grow(this)" placeholder="Add a comment..."></textarea>
+                                                <div class="col-xs-12 button-sets" bis_skin_checked="1">
+                                                    <button class="red-btn btn-post" data-reply="827504" data-name="" data-rank="Bá Tánh Bình Dân" type="button" onclick="sendReply(this)"><span>Bình luận</span></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                                        <li class="cf cmt-826662" data-rid="826662">
+                        <div class="user-photo" bis_skin_checked="1">
+                            <a href="https://tangthuvien.net/converter/viettiev">
+                                <img src="https://img.tangthuvien.net/images_user/6e551c186d88adee586bc2fa15156784fc5afb4fc097a7d5bb47e8a544234fc1.jpg" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                            </a>
+                        </div>
+                        <div class="discuss-info" bis_skin_checked="1">
+                                                        <p class="users">
+                                <a class="blue" href="https://tangthuvien.net/converter/viettiev"><b><b><font color="#669966">  viettiev </font></b> </b></a><span class="gray"><b><font color="#669966">Chuyá»ƒn Ngá»¯ Tháº§n Thá»§</font></b></span>
+                            </p>
+                                                                    <p class="text">
+                                        <span class="read-only">【 Vô Thượng Thần Thai Âm Dương Diệu Pháp 】 !
+
+
+
+Pháp này phân vì 【 cắt âm dương 】 【 hợp thần thai 】 hai bộ, nam tu tu luyện, làm lấy âm dương diệu lý hoá ra một bộ nữ thể, nữ tu tu luyện mới có thể hóa ra một bộ nam thể. 
+
+
+
+con tác càng ngày càng 'dữ dội',...</span>
+                                        <span class="click" onclick="readmore(this)" data-id="826662">Xem thêm</span>
+                                        </p><p class="read-all hidden text-pre">【 Vô Thượng Thần Thai Âm Dương Diệu Pháp 】 !
+
+
+
+Pháp này phân vì 【 cắt âm dương 】 【 hợp thần thai 】 hai bộ, nam tu tu luyện, làm lấy âm dương diệu lý hoá ra một bộ nữ thể, nữ tu tu luyện mới có thể hóa ra một bộ nam thể. 
+
+
+
+con tác càng ngày càng 'dữ dội', quá dữ ae ơi</p>
+                                    <p></p>
+                                
+
+                            <p class="info dib-wrap" data-id="1101214358">
+                                <span class="mr20">Sep 04, 2025 02:47 pm</span>
+                                <a href="javascript:void(0);" onclick="openChilds(this)" data-id="826662" class="info-tab mr20">
+                                    <i class="iconfont"></i>
+                                    <span>0 trả lời</span>
+                                </a>
+
+                                <a href="javascript:void(0);" onclick="likeComment(this)" data-rid="826662" class="info-tab like-btn ">
+                                    <i class="iconfont"></i>
+
+                                    <span>1</span>
+                                </a>
+                            </p>
+                            <div class="discuss-childs hidden" id="discuss-childs-826662" bis_skin_checked="1">
+                                <ul>
+                                                                    </ul>
+                                                                <div class="form-reply reply-826662 form-comment" style="display: none;" bis_skin_checked="1">
+                                    <form method="post" id="reply-box-826662" action="/postComment" enctype="multipart/form-data">
+                                        <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                                        <input type="hidden" name="story_id" value="38472">
+                                        <div class="comment-avatar" bis_skin_checked="1">
+                                            <img src="https://tangthuvien.net/images/default-avatar.jpeg" draggable="false" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                                        </div>
+                                        <div class="box-input" bis_skin_checked="1">
+                                            <div class="box-form" bis_skin_checked="1">
+                                                <textarea name="comment" class="form-control comment-control" onkeyup="auto_grow(this)" placeholder="Add a comment..."></textarea>
+                                                <div class="col-xs-12 button-sets" bis_skin_checked="1">
+                                                    <button class="red-btn btn-post" data-reply="826662" data-name="" data-rank="Bá Tánh Bình Dân" type="button" onclick="sendReply(this)"><span>Bình luận</span></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                                        <li class="cf cmt-825334" data-rid="825334">
+                        <div class="user-photo" bis_skin_checked="1">
+                            <a href="https://tangthuvien.net/converter/2085522911502059?hash=fb">
+                                <img src="https://img.tangthuvien.net/images_user/dc6ea40ca0f1486e751c2dda2d78f4686fa46f9558fd3a686b171540b40f1425.jpg" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                            </a>
+                        </div>
+                        <div class="discuss-info" bis_skin_checked="1">
+                                                        <p class="users">
+                                <a class="blue" href="https://tangthuvien.net/converter/2085522911502059?hash=fb"><b> Ngọc Phùng </b></a><span class="gray">Bá Tánh Bình Dân</span>
+                            </p>
+                                                                    <p class="text tex-pre">  Cuốnnnnnnnnnnnnn</p>
+                                
+
+                            <p class="info dib-wrap" data-id="1101214358">
+                                <span class="mr20">Jul 29, 2025 09:02 am</span>
+                                <a href="javascript:void(0);" onclick="openChilds(this)" data-id="825334" class="info-tab mr20">
+                                    <i class="iconfont"></i>
+                                    <span>0 trả lời</span>
+                                </a>
+
+                                <a href="javascript:void(0);" onclick="likeComment(this)" data-rid="825334" class="info-tab like-btn ">
+                                    <i class="iconfont"></i>
+
+                                    <span>1</span>
+                                </a>
+                            </p>
+                            <div class="discuss-childs hidden" id="discuss-childs-825334" bis_skin_checked="1">
+                                <ul>
+                                                                    </ul>
+                                                                <div class="form-reply reply-825334 form-comment" style="display: none;" bis_skin_checked="1">
+                                    <form method="post" id="reply-box-825334" action="/postComment" enctype="multipart/form-data">
+                                        <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                                        <input type="hidden" name="story_id" value="38472">
+                                        <div class="comment-avatar" bis_skin_checked="1">
+                                            <img src="https://tangthuvien.net/images/default-avatar.jpeg" draggable="false" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                                        </div>
+                                        <div class="box-input" bis_skin_checked="1">
+                                            <div class="box-form" bis_skin_checked="1">
+                                                <textarea name="comment" class="form-control comment-control" onkeyup="auto_grow(this)" placeholder="Add a comment..."></textarea>
+                                                <div class="col-xs-12 button-sets" bis_skin_checked="1">
+                                                    <button class="red-btn btn-post" data-reply="825334" data-name="" data-rank="Bá Tánh Bình Dân" type="button" onclick="sendReply(this)"><span>Bình luận</span></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                            </ul>
+                        <p class="go-discuss">
+                <img src="https://tangthuvien.net/images/ajax-loader-tr.gif" class="hidden" width="32px">
+                <a class="blue" href="javascript:void(0);" onclick="loadMoreComment(this)" data-story="38472" data-page="0">Thêm bình luận<em class="iconfont"></em>
+                </a>
+            </p>
+                          </div>
+</div>
+</div>
+                    <div class="userCommentWrap" id="userCommentWrap" bis_skin_checked="1">
+                        <div id="commentList" class="reviewList" bis_skin_checked="1">
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="right-wrap fr" bis_skin_checked="1">
+            <div class="author-state mb10" bis_skin_checked="1">
+                <div class="author-info" bis_skin_checked="1">
+                    <div class="info-wrap nobt" bis_skin_checked="1">
+                        <div class="author-photo" id="authorId" bis_skin_checked="1">
+                            <a href=" https://tangthuvien.net/tac-gia?author=25775 " target="_blank" data-eid="qd_G38">
+                                <img src="https://tangthuvien.net/images/default-avatar.jpeg" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                            </a>
+                            <p>
+                                                                <a href="https://tangthuvien.net/tac-gia?author=25775" target="_blank">Thủ Tàn Miêu Miêu Tương</a>
+                                                            </p>
+                                                    </div>
+                    </div>
+                                                            <div class="info-wrap" bis_skin_checked="1">
+
+                                            </div>
+                                    </div>
+            </div>
+            <div class="right-op-wrap mb10" data-l1="18" bis_skin_checked="1">
+                .
+            </div>
+                        <div class="fansRankWrap mb10" id="fansRankWrap" bis_skin_checked="1">
+                <div class="fans-rank-list" bis_skin_checked="1">
+                    <div class="rank-list" bis_skin_checked="1">
+                        <h3 class="wrap-title lang">Top công thần</h3>
+                        <div class="book-list" bis_skin_checked="1">
+                            <ul>                                                                                                            <li class="top">
+                                            <div class="num-box" bis_skin_checked="1"><span class="num1">1</span></div>
+                                            <div class="top-name-box" bis_skin_checked="1">
+                                                <h4><a href="https://tangthuvien.net/converter/viettiev" class="name">viettiev</a></h4>
+                                                <p><span>3</span>phiếu</p>
+                                            </div>
+                                            <div class="fans-img" bis_skin_checked="1">
+                                                <a href="https://tangthuvien.net/converter/viettiev">
+                                                    <img src="https://img.tangthuvien.net/images_user/6e551c186d88adee586bc2fa15156784fc5afb4fc097a7d5bb47e8a544234fc1.jpg" draggable="false" alt="viettiev" onerror="this.src='https://tangthuvien.net/images/default-avatar.jpeg'">
+                                                </a>
+                                                <span class="user-level lv10"></span>
+                                            </div>
+                                        </li>
+                                                                                                                                    </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+<footer>
+    <div class="footer-container" bis_skin_checked="1">
+        <div class="container" bis_skin_checked="1">
+            <div class="col-md-3" bis_skin_checked="1"><img src="https://tangthuvien.net/images/logo-web-gray.png" height="60"></div>
+            <div class="footer-right col-md-9" bis_skin_checked="1">
+                © 2007 Tàng Thư Viện - <a href="https://tangthuvien.net/policy/privacy_mobile.html" target="_blank" rel="nofollow"> Chính sách</a><br>
+                Tàng Thư Viện là sân chơi mở và free cho cộng đồng fan kiếm hiệp, tiên hiệp, ngôn tình.
+                Chúc các bạn có những giây phút thư giãn thoải mái sau giờ làm việc và học tập căng thẳng.
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-13FFK38L2F"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-13FFK38L2F');
+</script><link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/login-box.css?v=1759499348">
+<div class="mask" style="display: none" onclick="closeBox()" bis_skin_checked="1"></div>
+<div class="qdlogin-wrap" style="display: none;" bis_skin_checked="1">
+    <div class="login-wrap type-10 fl" bis_skin_checked="1">
+        <a class="close" id="close" href="javascript:" onclick="closeBox()"><img src="https://tangthuvien.net/images/ic_close.png" width="30px"></a>
+        <div class="login-tab cf" bis_skin_checked="1">
+            <ul>
+                <li class="lang act" onclick="changeLog(this)" data-tab="login">Đăng nhập</li>
+                <li class="lang" onclick="changeLog(this)" data-tab="reg">Đăng ký mới</li>
+            </ul>
+        </div>
+        <div class="login-switch-wrap" bis_skin_checked="1">
+            <div class="login-tab-wrap" bis_skin_checked="1">
+                <div class="login-box q-login yw-login" bis_skin_checked="1">
+                    <div class="logging-fade hidden" bis_skin_checked="1"></div>
+                    <div class="error-tip hidden" bis_skin_checked="1"></div>
+                    <dl>
+                        <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="text" name="username" tabindex="1" placeholder="Tài khoản" id="username">
+                        </dd>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="password" name="password" tabindex="2" placeholder="Mật khẩu" id="password">
+                        </dd>
+                    </dl>
+                    <div class="login-common-wrap" bis_skin_checked="1">
+                                                <p class="forgot-link"><a href="javascript:void(0);" onclick="changeLog(this)" data-tab="fgpw">Quên mật khẩu ?</a></p>
+                        <a class="red-btn go-login btnLogin login-button" href="javascript:void(0);" onclick="submitLog()">Đăng nhập</a>
+                        <br>
+                        <a class="blue-btn go-login btnLogin login-button" href="https://tangthuvien.net/fbredirect" onclick="jQuery('.logging-fade').removeClass('hidden');"><i class="fa fa-facebook-official" style="margin-right: 5px;"></i>Đăng nhập bằng Facebook</a>
+                    </div>
+                </div>
+                <div class="login-box q-reg yw-login" style="display:none;" bis_skin_checked="1">
+                    <div class="logging-fade hidden" bis_skin_checked="1"></div>
+                    <div class="error-tip hidden" bis_skin_checked="1"></div>
+                    <dl>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="text" name="username" tabindex="1" placeholder="Tài khoản" id="username">
+                        </dd>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="email" name="email" tabindex="1" placeholder="Email" id="email">
+                        </dd>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="password" name="password" tabindex="2" placeholder="Mật khẩu" id="password">
+                        </dd>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="password" name="re-password" tabindex="2" placeholder="Xác nhận mật khẩu" id="re-password">
+                        </dd>
+                    </dl>
+                    <div class="login-common-wrap" bis_skin_checked="1">
+                        <div id="grecaptcha1" bis_skin_checked="1"><div bis_skin_checked="1" style="width: 304px; height: 78px;"><div bis_skin_checked="1"><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-ysu6ir4tihi7" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J&amp;co=aHR0cHM6Ly90YW5ndGh1dmllbi5uZXQ6NDQz&amp;hl=en&amp;v=Jv8jlA-BQE5JD6rA-h_iqNH2&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=3fkf3fustp0l"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div>
+                        <br>
+                        <a class="red-btn go-login btnLogin login-button" href="javascript:void(0);" onclick="submitReg()">Đăng ký</a>
+                    </div>
+                </div>
+                <div class="login-box q-fgpw yw-login" style="display:none;" bis_skin_checked="1">
+                    <div class="logging-fade hidden" bis_skin_checked="1"></div>
+                    <div class="error-tip hidden" bis_skin_checked="1"></div>
+                    <dl>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="email" name="email" tabindex="1" placeholder="Email" id="email">
+                        </dd>
+                    </dl>
+                    <div class="login-common-wrap" bis_skin_checked="1">
+                        <div id="grecaptcha2" bis_skin_checked="1"><div bis_skin_checked="1" style="width: 304px; height: 78px;"><div bis_skin_checked="1"><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-ycextx61pi2m" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J&amp;co=aHR0cHM6Ly90YW5ndGh1dmllbi5uZXQ6NDQz&amp;hl=en&amp;v=Jv8jlA-BQE5JD6rA-h_iqNH2&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=hrng8n2z7byd"></iframe></div><textarea id="g-recaptcha-response-1" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+                        <br>
+                        <a class="red-btn go-login btnLogin login-button" href="javascript:void(0);" onclick="submitFgpwd()">Gửi</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://www.google.com/recaptcha/api.js?onload=grecaptchaCallback&amp;render=explicit" async="" defer=""></script>
+<script type="text/javascript">
+    var gwidgetid1 = '';
+    var gwidgetid2 = '';
+    var grecaptchaCallback = function() {
+        var sitekey = "6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J";
+        gwidgetid1 = grecaptcha.render('grecaptcha1', {'sitekey' : sitekey});
+        gwidgetid2 = grecaptcha.render('grecaptcha2', {'sitekey' : sitekey});
+    };
+</script>
+<script src="https://tangthuvien.net/js/account.js?v=1759499348"></script><link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/panel.css?v=1759499348">
+<div class="lbf-panel" bis_skin_checked="1">
+    <a href="javascript:void(0);" onclick="closeReviewBox()" class="lbf-panel-close lbf-icon lbf-icon-close"><img src="https://tangthuvien.net/images/ic_close.png" width="30px"></a>
+    <div class="lbf-panel-body" bis_skin_checked="1"><!-- start -->
+        <div class="book-popup evaluate-popup" id="evaluatePopup" bis_skin_checked="1">
+            <!-- start  -->
+            <div class="popup-title" bis_skin_checked="1">
+                <h3 class="lang">Đánh giá</h3>
+            </div>
+            <!-- end  -->
+
+            <!-- start  -->
+            <div class="eva-star-wrap" id="evaStarWrap" bis_skin_checked="1">
+                <div class="eva-box" bis_skin_checked="1">
+                    <h4>Xếp hạng</h4>
+                    <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                    <div class="star-big" bis_skin_checked="1">
+                        <span id="starBig" data-score="4">
+                            <span class="star-on hidden" data-value="https://tangthuvien.net/images/star-on.02731.png"></span>
+                            <span class="star-off hidden" data-value="https://tangthuvien.net/images/star-off.b2a1b.png"></span>
+                            <img class="star-1" src="https://tangthuvien.net/images/star-off.b2a1b.png" onmouseenter="changeStar(this)" onclick="changeStar(this)" alt="1" title="Quá tệ">&nbsp;
+                            <img class="star-2" src="https://tangthuvien.net/images/star-off.b2a1b.png" onmouseenter="changeStar(this)" onclick="changeStar(this)" alt="2" title="Không hay lắm">&nbsp;
+                            <img class="star-3" src="https://tangthuvien.net/images/star-off.b2a1b.png" onmouseenter="changeStar(this)" onclick="changeStar(this)" alt="3" title="Cũng được">&nbsp;
+                            <img class="star-4" src="https://tangthuvien.net/images/star-off.b2a1b.png" onmouseenter="changeStar(this)" onclick="changeStar(this)" alt="4" title="Khá hay">&nbsp;
+                            <img class="star-5" src="https://tangthuvien.net/images/star-off.b2a1b.png" onmouseenter="changeStar(this)" onclick="changeStar(this)" alt="5" title="Rất hay">
+                            <input type="hidden" name="score" value="5">
+                        </span>
+                        <em id="hint">Rất hay</em>
+                    </div>
+                    <h4>Đánh giá ngắn</h4>
+                    <div class="count-text" bis_skin_checked="1">
+                        <textarea class="gray" id="evaMsgText" data-clear="0" placeholder="Mong đạo hữu hãy bớt chút thời gian viết nhận xét về truyện này. Nhận xét của đạo hữu sẽ giúp ích rất nhiều cho các đạo hữu khác. Nhập nội dung vào đây..."></textarea>
+                    </div>
+                </div>
+                <!-- start  -->
+                <div class="popup-btn" bis_skin_checked="1">
+                    <a class="red-btn" id="sendComment" href="javascript:void(0);" onclick="submitReview(this)" data-rid="38472">Gửi đánh giá</a>
+                </div>
+                <!-- end  -->
+            </div>
+            <!-- end  -->
+        </div>
+        <!-- end -->
+    </div>
+</div>
+<div class="lbf-overlay" onclick="closeReviewBox()" bis_skin_checked="1"></div>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;" bis_skin_checked="1"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;" bis_skin_checked="1"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;" bis_skin_checked="1"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;" bis_skin_checked="1"></div><div style="z-index: 2000000000; position: relative;" bis_skin_checked="1"><iframe title="recaptcha challenge expires in two minutes" name="c-ysu6ir4tihi7" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=Jv8jlA-BQE5JD6rA-h_iqNH2&amp;k=6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J&amp;bft=0dAFcWeA5iHn4LqRRzlYDyFjXe64BJB3epc49_JQA6PznxV-xMOIa3_mi4qjuQ7ipYL2JcuifaD4PLw6O6aZCPKCaieoGsfINCPg" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;" bis_skin_checked="1"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;" bis_skin_checked="1"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;" bis_skin_checked="1"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;" bis_skin_checked="1"></div><div style="z-index: 2000000000; position: relative;" bis_skin_checked="1"><iframe title="recaptcha challenge expires in two minutes" name="c-ycextx61pi2m" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=Jv8jlA-BQE5JD6rA-h_iqNH2&amp;k=6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J&amp;bft=0dAFcWeA53OUQUEe_i_EnFszpyRGfclPn0A3g3JIE11meXcsws3sdzoVf-MD4LLkZ2GJh4D915UY7PrkymDQSAoF-TZ1KTJbW3ag" style="width: 100%; height: 100%;"></iframe></div></div></body><ddict-div style="visibility: visible !important;"></ddict-div></html>

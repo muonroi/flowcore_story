@@ -1,0 +1,9 @@
+{
+  "display_name": "QuyKiep",
+  "base_url": "https://quykiep.com",
+  "items_per_page": 18,
+  "cloudflare_protected": true,
+  "use_playwright": true,
+  "use_impersonate": true,
+  "impersonate_profile": "chrome120"
+}

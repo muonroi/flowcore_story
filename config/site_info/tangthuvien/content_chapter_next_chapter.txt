@@ -1,0 +1,16 @@
+curl 'https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-153' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.5' \
+  -b 'XSRF-TOKEN=eyJpdiI6InVRRHkzZXFDUVp6U2xrU1licnhkdEE9PSIsInZhbHVlIjoiR0NodDM0TmtQZXFOXC9pb3FVR2c4a2FjTHdmcUl4cmNmb21iRUYrVFl3UWw0V3JyZjlmTCtLM0U1MUdnZDdHRVRJK1hROUdzNFdJK0VOaVVQYUZKTXR3PT0iLCJtYWMiOiIxNGY1YWVjZGVkYjA4NmE4ZTBmYmYyNDc0NDE4YzFkYzRmMWM3MmY1NzZiNjg1YWU5NTBhNmUzY2Q0ODlmYWM3In0%3D; laravel_session=eyJpdiI6IjU2OFUxZGtOUnJYY3Z1MTJVeExoQnc9PSIsInZhbHVlIjoiRlljMXl1cHl0WWtablFcLzlzc1lUZGNMcW1qN1phZzJpS2NzZUZsT3FpNDVXeHM1ZDlSaFwvRjRIb2VKZThaMTc1XC9DbzRLSnVSd0grNWhYRTVsUHh0aGc9PSIsIm1hYyI6ImRmYjY2YzhjZjJhMTdjN2RiMzA4M2FlNDkzZTNiM2JlNGY1NDJhYzJmZjg5MmQwNzA5ODcwYTU1MmM4ODU2MGMifQ%3D%3D' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-152' \
+  -H 'sec-ch-ua: "Chromium";v="140", "Not=A?Brand";v="24", "Brave";v="140"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-gpc: 1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'

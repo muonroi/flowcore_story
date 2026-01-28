@@ -1,0 +1,5 @@
+{
+  "display_name": "XTruyen",
+  "chapter_list_batch": 100,
+  "ajax_endpoint": "/wp-admin/admin-ajax.php"
+}

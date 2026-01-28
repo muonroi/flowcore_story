@@ -1,0 +1,1574 @@
+API_URL: curl 'https://truyenfull.vision/the-loai/tien-hiep/' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.5' \
+  -b '_uidcms=1747314707293384266; __UF=-1; __tb=0; _ga=GA1.2.1721919454.1747314731; history-cookie=KzvPvbTuG7ryBQaOG7pSBQaOG6o24gRGnhu4duIEzhuqFpIEzDoG0gU%2BG7pXAgxJDhu5UgQ%2BG7kXQgVHJ1eeG7h24gUuG7k2k6bnUtcGh1LXBoYW4tZGllbi1sYWktbGFtLXN1cC1kby1jb3QtdHJ1eWVuLXJvaTo6M3xWxakgVGjhuqduIENow7phIFThu4M6dnUtdGhhbi1jaHVhLXRlOjo1MTI4; __RC=134; __R=0; __uif=__uid%3A5414707063457335748%7C__create%3A1747314707' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://truyenfull.vision/' \
+  -H 'sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-gpc: 1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'
+
+<!DOCTYPE html>
+<html lang="vi">
+    <body id="body_cat">
+        <div id="ads-install-app"></div>
+        <div id="wrap">
+            <div class="navbar navbar-default navbar-static-top" role="navigation" id="nav">
+                <script type="text/javascript">
+                    function getCookie(d) {
+                        d += "=";
+                        for (var b = decodeURIComponent(document.cookie).split(";"), c = [], a = 0; a < b.length; a++)
+                            0 == b[a].trim().indexOf(d) && (c = b[a].trim().split("="));
+                        return 0 < c.length ? c[1] : ""
+                    }
+                    var js_bgcolor = getCookie("bgcolor-cookie");
+                    "#232323" == js_bgcolor && (document.getElementsByTagName("body")[0].className += " dark-theme");
+                </script>
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Hiện menu</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="header-logo" href="https://truyenfull.vision/" title="doc truyen">doc truyen</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="control nav navbar-nav ">
+                            <li class="dropdown">
+                                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-list"></span>
+                                    Danh sách <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/truyen-moi/" title="Truyện mới cập nhật">Truyện mới cập nhật</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/truyen-hot/" title="Truyện Hot">Truyện Hot</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/truyen-full/" title="Truyện Full">Truyện Full</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/tien-hiep-hay/" title="Tiên Hiệp Hay">Tiên Hiệp Hay</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/kiem-hiep-hay/" title="Kiếm Hiệp Hay">Kiếm Hiệp Hay</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/truyen-teen-hay/" title="Truyện Teen Hay">Truyện Teen Hay</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/ngon-tinh-hay/" title="Ngôn Tình Hay">Ngôn Tình Hay</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/ngon-tinh-nguoc/" title="Ngôn Tình Ngược">Ngôn Tình Ngược</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/ngon-tinh-sung/" title="Ngôn Tình Sủng">Ngôn Tình Sủng</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/ngon-tinh-hai/" title="Ngôn Tình Hài">Ngôn Tình Hài</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/dam-my-hai/" title="Đam Mỹ Hài">Đam Mỹ Hài</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/dam-my-sac/" title="Đam Mỹ Sắc">Đam Mỹ Sắc</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/dam-my-hay/" title="Đam Mỹ Hay">Đam Mỹ Hay</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/danh-sach/dam-my-h-van/" title="Đam Mỹ H Văn">Đam Mỹ H Văn</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://etruyen.io?utm_source=truyenfull.io&utm_campaign=truyenfull.io_menutop" title="Truyện Hay" target="_blank">Truyện Hay</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-list"></span>
+                                    Thể loại <span class="caret"></span>
+                                </a>
+                                <div class="dropdown-menu multi-column">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <ul class="dropdown-menu">
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/tien-hiep/" title="Truyện Tiên Hiệp">Tiên Hiệp</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/kiem-hiep/" title="Truyện Kiếm Hiệp">Kiếm Hiệp</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/ngon-tinh/" title="Truyện Ngôn Tình">Ngôn Tình</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/dam-my/" title="Truyện Đam Mỹ">Đam Mỹ</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/quan-truong/" title="Truyện Quan Trường">Quan Trường</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/vong-du/" title="Truyện Võng Du">Võng Du</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/khoa-huyen/" title="Truyện Khoa Huyễn">Khoa Huyễn</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/he-thong/" title="Truyện Hệ Thống">Hệ Thống</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Truyện Huyền Huyễn">Huyền Huyễn</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/di-gioi/" title="Truyện Dị Giới">Dị Giới</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/di-nang/" title="Truyện Dị Năng">Dị Năng</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/sac/" title="Truyện Sắc">Sắc</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/quan-su/" title="Truyện Quân Sự">Quân Sự</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/lich-su/" title="Truyện Lịch Sử">Lịch Sử</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <ul class="dropdown-menu">
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/xuyen-khong/" title="Truyện Xuyên Không">Xuyên Không</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/xuyen-nhanh/" title="Truyện Xuyên Nhanh">Xuyên Nhanh</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/trong-sinh/" title="Truyện Trọng Sinh">Trọng Sinh</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/trinh-tham/" title="Truyện Trinh Thám">Trinh Thám</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/tham-hiem/" title="Truyện Thám Hiểm">Thám Hiểm</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/linh-di/" title="Truyện Linh Dị">Linh Dị</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/nguoc/" title="Truyện Ngược">Ngược</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/sung/" title="Truyện Sủng">Sủng</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/cung-dau/" title="Truyện Cung Đấu">Cung Đấu</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/nu-cuong/" title="Truyện Nữ Cường">Nữ Cường</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/gia-dau/" title="Truyện Gia Đấu">Gia Đấu</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/dong-phuong/" title="Truyện Đông Phương">Đông Phương</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/do-thi/" title="Truyện Đô Thị">Đô Thị</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/bach-hop/" title="Truyện Bách Hợp">Bách Hợp</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <ul class="dropdown-menu">
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/hai-huoc/" title="Truyện Hài Hước">Hài Hước</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/dien-van/" title="Truyện Điền Văn">Điền Văn</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/co-dai/" title="Truyện Cổ Đại">Cổ Đại</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/mat-the/" title="Truyện Mạt Thế">Mạt Thế</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/truyen-teen/" title="Truyện Truyện Teen">Truyện Teen</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/phuong-tay/" title="Truyện Phương Tây">Phương Tây</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/nu-phu/" title="Truyện Nữ Phụ">Nữ Phụ</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/light-novel/" title="Truyện Light Novel">Light Novel</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/viet-nam/" title="Truyện Việt Nam">Việt Nam</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/doan-van/" title="Truyện Đoản Văn">Đoản Văn</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/review-sach/" title="Truyện Review sách">Review sách</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://truyenfull.vision/the-loai/khac/" title="Truyện Khác">Khác</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="dropdown">
+                                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-list"></span>
+                                    Phân loại theo Chương <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li>
+                                        <a href="https://truyenfull.vision/top-truyen/duoi-100-chuong/" title="Dưới 100 chương">Dưới 100 chương</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/top-truyen/100-500-chuong/" title="100 - 500 chương">100 - 500 chương</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/top-truyen/500-1000-chuong/" title="500 - 1000 chương">500 - 1000 chương</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyenfull.vision/top-truyen/tren-1000-chuong/" title="Trên 1000 chương">Trên 1000 chương</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="https://nettruyenqqviet.com/" rel="nofollow" target="_blank" title="Truyện tranh">
+                                    <span class="glyphicon glyphicon-book" style="margin-right: 3px;"></span>
+                                    Truyện Tranh
+                                </a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-cog"></span>
+                                    Tùy chỉnh <span class="caret"></span>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right settings">
+                                    <form class="form-horizontal">
+                                        <div class="form-group form-group-sm">
+                                            <label class="col-sm-2 col-md-5 control-label" for="truyen-background">Màu nền</label>
+                                            <div class="col-sm-5 col-md-7">
+                                                <select class="form-control" id="truyen-background">
+                                                    <option value="#F4F4F4" selected>Xám nhạt</option>
+                                                    <option value="#232323">Màu tối</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </li>
+                        </ul>
+                        <form class="navbar-form navbar-right" action="https://truyenfull.vision/tim-kiem/" role="search">
+                            <div class="input-group search-holder">
+                                <input aria-label="Từ khóa tìm kiếm" role="search key" class="form-control" id="search-input" type="search" name="tukhoa" placeholder="Tìm kiếm..." value="" required>
+                                <div class="input-group-btn">
+                                    <button class="btn btn-default" type="submit" aria-label="Tìm kiếm" role="search">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="list-group list-search-res hide"></div>
+                        </form>
+                    </div>
+                </div>
+                <div class="navbar-breadcrumb">
+                    <div class="container breadcrumb-container">
+                        <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                                <a href="https://truyenfull.vision" accesskey="1">
+                                    <span class="glyphicon glyphicon-home"></span>
+                                </a>
+                                <a href="https://truyenfull.vision" title="Đọc truyện online" itemprop="item">
+                                    <span itemprop="name">Truyện</span>
+                                </a>
+                                <meta itemprop="position" content="1"/>
+                            </li>
+                            <li class="active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                                <h1>
+                                    <a href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp" itemprop="item">
+                                        <span itemprop="name">Tiên Hiệp</span>
+                                    </a>
+                                </h1>
+                                <meta itemprop="position" content="2"/>
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div class="container header-ads" id="header-ads"></div>
+            <div class="header-ads-full" id="header-ads-full"></div>
+            <div class="container" id="list-page" data-cache="cache/cat_1_1.tf">
+                <div class="col-xs-12 col-sm-12 col-md-9 col-truyen-main">
+                    <div class="text-center"></div>
+                    <div class="list list-truyen col-xs-12">
+                        <div class="title-list">
+                            <h2>Truyện Tiên Hiệp</h2>
+                            <div class="filter">
+                                <a href="https://truyenfull.vision/the-loai/tien-hiep/hoan/">Tiên Hiệp hoàn (full)</a>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczM7JY5ovOq0YhEKxwKkdLePkFukByqA5qOu1eNcVe-g8CbE-n4Zukd0z38Hbv2kD6VXgVywCJOSxI4McpzP8ixyaA9moQq21bGl5qtVpKOCaA7v9Uyz_RE1Q3u2Lpj59LynSemgfaIN0LanWHa_zuA8=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczM7JY5ovOq0YhEKxwKkdLePkFukByqA5qOu1eNcVe-g8CbE-n4Zukd0z38Hbv2kD6VXgVywCJOSxI4McpzP8ixyaA9moQq21bGl5qtVpKOCaA7v9Uyz_RE1Q3u2Lpj59LynSemgfaIN0LanWHa_zuA8=w180-h80-c" data-classname="cover" data-alt="Xuyên Thành Tiểu Sư Muội Chó Nhất Tông Môn" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/xuyen-thanh-tieu-su-muoi-cho-nhat-tong-mon/" title="Xuyên Thành Tiểu Sư Muội Chó Nhất Tông Môn" itemprop="url">Xuyên Thành Tiểu Sư Muội Chó Nhất Tông Môn</a>
+                                    </h3>
+                                    <span class="label-title label-new"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Chấp Thủ Yên Hỏa
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/xuyen-thanh-tieu-su-muoi-cho-nhat-tong-mon/chuong-200/" title="Xuyên Thành Tiểu Sư Muội Chó Nhất Tông Môn - Chương 200">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        200
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczOw7ag7BRusQFdB0u4mhetp-uuRP92fT_ySeiCiEvMBnZqUFCeJ0_uMivW1mBC8o22UvYDlQCP2luUefKRRmKsDvHBAvYXthA8jf4mNzZTRJtlbksr56lEz2JCDJFbqyRy6oTsm60jGMc_1lYOjLOC7=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczOw7ag7BRusQFdB0u4mhetp-uuRP92fT_ySeiCiEvMBnZqUFCeJ0_uMivW1mBC8o22UvYDlQCP2luUefKRRmKsDvHBAvYXthA8jf4mNzZTRJtlbksr56lEz2JCDJFbqyRy6oTsm60jGMc_1lYOjLOC7=w180-h80-c" data-classname="cover" data-alt="Sư Tôn Mỗi Đêm Đều Muốn Ta Hống Ngủ" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/su-ton-moi-dem-deu-muon-ta-hong-ngu/" title="Sư Tôn Mỗi Đêm Đều Muốn Ta Hống Ngủ" itemprop="url">Sư Tôn Mỗi Đêm Đều Muốn Ta Hống Ngủ</a>
+                                    </h3>
+                                    <span class="label-title label-new"></span>
+                                    <span class="label-title label-full"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Mộc Phong Khinh Niên
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/su-ton-moi-dem-deu-muon-ta-hong-ngu/chuong-79/" title="Sư Tôn Mỗi Đêm Đều Muốn Ta Hống Ngủ - Chương 79">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        79
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczMFaOb80WlP4dDslWlT3EC81KyEaNcbwdIujjV-_TQRGLTaxzIcElSLxEbl6CrtjpyZYv5yL0R-Q5Uc6BDQ0o8nF_d33mNzDtnFnORDZ8a1Qp537OGCgufFD9GFFVn9GZTPSfWg9dli0-Fw8JokRapM=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczMFaOb80WlP4dDslWlT3EC81KyEaNcbwdIujjV-_TQRGLTaxzIcElSLxEbl6CrtjpyZYv5yL0R-Q5Uc6BDQ0o8nF_d33mNzDtnFnORDZ8a1Qp537OGCgufFD9GFFVn9GZTPSfWg9dli0-Fw8JokRapM=w180-h80-c" data-classname="cover" data-alt="Sau Khi Không Ngừng Tìm Đường Chết, Ta Trở Thành Người Trong Lòng" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/sau-khi-khong-ngung-tim-duong-chet-ta-tro-thanh-nguoi-trong-long/" title="Sau Khi Không Ngừng Tìm Đường Chết, Ta Trở Thành Người Trong Lòng" itemprop="url">Sau Khi Không Ngừng Tìm Đường Chết, Ta Trở Thành Người Trong Lòng</a>
+                                    </h3>
+                                    <span class="label-title label-new"></span>
+                                    <span class="label-title label-full"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Kỳ Anh
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/sau-khi-khong-ngung-tim-duong-chet-ta-tro-thanh-nguoi-trong-long/chuong-145/" title="Sau Khi Không Ngừng Tìm Đường Chết, Ta Trở Thành Người Trong Lòng - Chương 145">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        145
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczOmmTS_DNdN57G1Nw-Cso9GPCDm4wzQZ3_R7OtztVPPWXcbwmytb9Pie13-z_GF-kOEkLVA3ajrjQHnoTWjENmyhHrKthnQdJu-F0eml_byL6VlQag3_LB-KOruBAkSAAAt9ybhiqvGqiDd4xAV5iyv=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczOmmTS_DNdN57G1Nw-Cso9GPCDm4wzQZ3_R7OtztVPPWXcbwmytb9Pie13-z_GF-kOEkLVA3ajrjQHnoTWjENmyhHrKthnQdJu-F0eml_byL6VlQag3_LB-KOruBAkSAAAt9ybhiqvGqiDd4xAV5iyv=w180-h80-c" data-classname="cover" data-alt="Nằm Vùng Ma Giới 300 Năm" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/nam-vung-ma-gioi-300-nam/" title="Nằm Vùng Ma Giới 300 Năm" itemprop="url">Nằm Vùng Ma Giới 300 Năm</a>
+                                    </h3>
+                                    <span class="label-title label-new"></span>
+                                    <span class="label-title label-full"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Chung Già
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/nam-vung-ma-gioi-300-nam/chuong-41/" title="Nằm Vùng Ma Giới 300 Năm - Chương 41">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        41
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczObWeJm0uzI0AGNBuWxc1pNwgUOP23KMCg4WGEmDc5jfCFGc2BoZECdv7QLYy4-tAaRyUZBSPUunZniFM1RfyKZ2gG-Q9i0tPoDgb6-Idx7rpFR7nhf3FwxovLlVNWYeADjQIyl3trZteJDT72pYxlT=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczObWeJm0uzI0AGNBuWxc1pNwgUOP23KMCg4WGEmDc5jfCFGc2BoZECdv7QLYy4-tAaRyUZBSPUunZniFM1RfyKZ2gG-Q9i0tPoDgb6-Idx7rpFR7nhf3FwxovLlVNWYeADjQIyl3trZteJDT72pYxlT=w180-h80-c" data-classname="cover" data-alt="Nữ Phụ Phản Diện Lại Làm Sụp Đổ Cốt Truyện Rồi" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/nu-phu-phan-dien-lai-lam-sup-do-cot-truyen-roi/" title="Nữ Phụ Phản Diện Lại Làm Sụp Đổ Cốt Truyện Rồi" itemprop="url">Nữ Phụ Phản Diện Lại Làm Sụp Đổ Cốt Truyện Rồi</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Lưu Hề Nhiễm
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/nu-phu-phan-dien-lai-lam-sup-do-cot-truyen-roi/chuong-242/" title="Nữ Phụ Phản Diện Lại Làm Sụp Đổ Cốt Truyện Rồi - Chương 242">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        242
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" id="the-loai-show-ads" itemscope itemtype="https://schema.org/Book"></div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczN06JAwF6pTmz-xOaW19fMG-jPb6LybWTLLUEBQkjN9h_bjpeBpirBV8GqwWxRbJZSQycoQmZmwG6PswIHpg2H7czg_zy9b9qooIASKE1rKRZbTM5GmF6Irck0QC3zLzVBn-pGOhYlY8MMA8fBy9MEc=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczN06JAwF6pTmz-xOaW19fMG-jPb6LybWTLLUEBQkjN9h_bjpeBpirBV8GqwWxRbJZSQycoQmZmwG6PswIHpg2H7czg_zy9b9qooIASKE1rKRZbTM5GmF6Irck0QC3zLzVBn-pGOhYlY8MMA8fBy9MEc=w180-h80-c" data-classname="cover" data-alt="Nhiều Năm Rồi Ta Không Dùng Kiếm" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/nhieu-nam-roi-ta-khong-dung-kiem/" title="Nhiều Năm Rồi Ta Không Dùng Kiếm" itemprop="url">Nhiều Năm Rồi Ta Không Dùng Kiếm</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Anan
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/nhieu-nam-roi-ta-khong-dung-kiem/chuong-29/" title="Nhiều Năm Rồi Ta Không Dùng Kiếm - Chương 29">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        29
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczOMUdh7W_hnNOFPtNL4Ndi10p1CBzOBfT6Sml5XvZ5Ljgf6Y6GYygEHlUXlvv4X11j4Sq0u_SGxcHOLfRU248b1sSg8zpL0uuX75W-jNAo4lAyOsMgIXgAxV3z5YtLwB4je2yIV85Vdi4lu_OlAHXs_=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczOMUdh7W_hnNOFPtNL4Ndi10p1CBzOBfT6Sml5XvZ5Ljgf6Y6GYygEHlUXlvv4X11j4Sq0u_SGxcHOLfRU248b1sSg8zpL0uuX75W-jNAo4lAyOsMgIXgAxV3z5YtLwB4je2yIV85Vdi4lu_OlAHXs_=w180-h80-c" data-classname="cover" data-alt="Hãy Toả Sáng, Đừng Chỉ Được Chiếu Rọi" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/hay-toa-sang-dung-chi-duoc-chieu-roi/" title="Hãy Toả Sáng, Đừng Chỉ Được Chiếu Rọi" itemprop="url">Hãy Toả Sáng, Đừng Chỉ Được Chiếu Rọi</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Xuân Nhật Ức Nhạc
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/hay-toa-sang-dung-chi-duoc-chieu-roi/chuong-26/" title="Hãy Toả Sáng, Đừng Chỉ Được Chiếu Rọi - Chương 26">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        26
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczPOhsOBpd51fffJum34ZxvqL81LO7RRRkNB9kh3TxwGQa_Tjk-Z9mifHWxVXh1L6sBG3DMZiy8UUixc3RBjXF13QD1mnsrrI5nyBu7C1ItDGGI08mrDfiocGes8o6hng4A5CKd2wszCrg8cSmkzkLKG=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczPOhsOBpd51fffJum34ZxvqL81LO7RRRkNB9kh3TxwGQa_Tjk-Z9mifHWxVXh1L6sBG3DMZiy8UUixc3RBjXF13QD1mnsrrI5nyBu7C1ItDGGI08mrDfiocGes8o6hng4A5CKd2wszCrg8cSmkzkLKG=w180-h80-c" data-classname="cover" data-alt="Một Nửa Kịch Bản Bạch Nguyệt Quang" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/mot-nua-kich-ban-bach-nguyet-quang/" title="Một Nửa Kịch Bản Bạch Nguyệt Quang" itemprop="url">Một Nửa Kịch Bản Bạch Nguyệt Quang</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Hàn Tê
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/mot-nua-kich-ban-bach-nguyet-quang/chuong-3/" title="Một Nửa Kịch Bản Bạch Nguyệt Quang - Chương 3">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        3
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczOd41vy7M7roYvnYYi2IeiN9QIeiW9sjNxPpFhBv36-aTkD1X_cIjZkxJfaSeOU_wJbvHl3JtIylqaecqKFnNZ1XdGUzaXwjtMKLFw1grp2N2mVwlUxkiiGl9QCkOlgFpL1s3AZBUvZk5grTyG7VZS_=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczOd41vy7M7roYvnYYi2IeiN9QIeiW9sjNxPpFhBv36-aTkD1X_cIjZkxJfaSeOU_wJbvHl3JtIylqaecqKFnNZ1XdGUzaXwjtMKLFw1grp2N2mVwlUxkiiGl9QCkOlgFpL1s3AZBUvZk5grTyG7VZS_=w180-h80-c" data-classname="cover" data-alt="Vong Trần - Bất Vong Xuyên" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/vong-tran-bat-vong-xuyen/" title="Vong Trần - Bất Vong Xuyên" itemprop="url">Vong Trần - Bất Vong Xuyên</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Bất Vong Xuyên
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/vong-tran-bat-vong-xuyen/chuong-23/" title="Vong Trần - Bất Vong Xuyên - Chương 23">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        23
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczOH-eoNxk8JQq_FG4xSXZLnlFfSBb01b8yaVcFvM5JLoZvA-UwtK_Ge4Bh797A2sn6KoZspt5TUp0pNit-WzKfYnC1ARBKh3v3gHB1MEAmOXA8AgOtK-noyO1YILVDk5UJTRr2vcNQd6Ga6xzt5-Ree=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczOH-eoNxk8JQq_FG4xSXZLnlFfSBb01b8yaVcFvM5JLoZvA-UwtK_Ge4Bh797A2sn6KoZspt5TUp0pNit-WzKfYnC1ARBKh3v3gHB1MEAmOXA8AgOtK-noyO1YILVDk5UJTRr2vcNQd6Ga6xzt5-Ree=w180-h80-c" data-classname="cover" data-alt="Bá Võ - Khai Hoang" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/ba-vo-khai-hoang/" title="Bá Võ - Khai Hoang" itemprop="url">Bá Võ - Khai Hoang</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Khai Hoang
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/ba-vo-khai-hoang/chuong-2690/" title="Bá Võ - Khai Hoang - Chương 2690">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        2690
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczMf6KN1gj3qA5IyxfZDyVlezeUAzZMTMx9XFYJesa_oKz0gasFqhbWyEJf_C83PuYml5vjdmb6Ln5_2vzN6a_Z5cMdeQIfOxBbrA9fWalxgZMOIOzpUZfFp3BEnde2_NAVl9xIIRKW5Q6l7deoDi6pi=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczMf6KN1gj3qA5IyxfZDyVlezeUAzZMTMx9XFYJesa_oKz0gasFqhbWyEJf_C83PuYml5vjdmb6Ln5_2vzN6a_Z5cMdeQIfOxBbrA9fWalxgZMOIOzpUZfFp3BEnde2_NAVl9xIIRKW5Q6l7deoDi6pi=w180-h80-c" data-classname="cover" data-alt="Xuyên Nhanh: Hồng Nhan Khuynh Quốc, Vạn Chúng Mê Hồn" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/xuyen-nhanh-hong-nhan-khuynh-quoc-van-chung-me-hon/" title="Xuyên Nhanh: Hồng Nhan Khuynh Quốc, Vạn Chúng Mê Hồn" itemprop="url">Xuyên Nhanh: Hồng Nhan Khuynh Quốc, Vạn Chúng Mê Hồn</a>
+                                    </h3>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Nguyệt Dạ Sanh Ca
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/xuyen-nhanh-hong-nhan-khuynh-quoc-van-chung-me-hon/chuong-550/" title="Xuyên Nhanh: Hồng Nhan Khuynh Quốc, Vạn Chúng Mê Hồn - Chương 550">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        550
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczO4k2cUZSzMvpkgqHkEAq0sFRAIT4wK2D0kvNxPL-Qqi5jtA9BpmtGkv86xQ0dHjoCRQQx9lzVomlZQIqqnkdByjvS41eeu8JkxLk9O6xABNXCyCvvLJ1sIs3fWRDWxcNWAzSr2oZ5mjjCTNTujn_hr=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczO4k2cUZSzMvpkgqHkEAq0sFRAIT4wK2D0kvNxPL-Qqi5jtA9BpmtGkv86xQ0dHjoCRQQx9lzVomlZQIqqnkdByjvS41eeu8JkxLk9O6xABNXCyCvvLJ1sIs3fWRDWxcNWAzSr2oZ5mjjCTNTujn_hr=w180-h80-c" data-classname="cover" data-alt="Thượng Thần Xin Nhẹ Chút - Lạc Bối Bối" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/thuong-than-xin-nhe-chut-lac-boi-boi/" title="Thượng Thần Xin Nhẹ Chút - Lạc Bối Bối" itemprop="url">Thượng Thần Xin Nhẹ Chút - Lạc Bối Bối</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Lạc Bối Bối
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/thuong-than-xin-nhe-chut-lac-boi-boi/chuong-62/" title="Thượng Thần Xin Nhẹ Chút - Lạc Bối Bối - Chương 62">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        62
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczOGNU3_Q4SZHch5zabW5NFbiged5DJI2FaBjEmZPU8cjfeEgMsJ2Uz0uzFBKAyACwMPcPopkFlFfxpJ52laUKwqjQ3O4WbqESIf_vR8jDeJNBhbFHz6NwAxWCUIch5yQGcFeVJouGxzCnYJnJxIrDu2=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczOGNU3_Q4SZHch5zabW5NFbiged5DJI2FaBjEmZPU8cjfeEgMsJ2Uz0uzFBKAyACwMPcPopkFlFfxpJ52laUKwqjQ3O4WbqESIf_vR8jDeJNBhbFHz6NwAxWCUIch5yQGcFeVJouGxzCnYJnJxIrDu2=w180-h80-c" data-classname="cover" data-alt="Bí Mật Của Tróc Yêu Sư" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/bi-mat-cua-troc-yeu-su/" title="Bí Mật Của Tróc Yêu Sư" itemprop="url">Bí Mật Của Tróc Yêu Sư</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Trình Nhất
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/bi-mat-cua-troc-yeu-su/chuong-12/" title="Bí Mật Của Tróc Yêu Sư - Chương 12">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        12
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczPzoxv9sf3A30KLgK7m2QySfVefpjSxeDufcAxlNRiye_LwF5l7JMbYEbKxR4R6CyXO_Bc6lKjnCsg_lO6oVtVBywUQqG_8UJCcQ0TrnhLutZ6pU1Fv_zOhxLB7tDT4ElC78f1uV_eic5acXiQTH7dD=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczPzoxv9sf3A30KLgK7m2QySfVefpjSxeDufcAxlNRiye_LwF5l7JMbYEbKxR4R6CyXO_Bc6lKjnCsg_lO6oVtVBywUQqG_8UJCcQ0TrnhLutZ6pU1Fv_zOhxLB7tDT4ElC78f1uV_eic5acXiQTH7dD=w180-h80-c" data-classname="cover" data-alt="Sư Phụ - Mãn Mục Sơn Hà Y Cựu" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/su-phu-man-muc-son-ha-y-cuu/" title="Sư Phụ - Mãn Mục Sơn Hà Y Cựu" itemprop="url">Sư Phụ - Mãn Mục Sơn Hà Y Cựu</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Mãn Mục Sơn Hà Y Cựu
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/su-phu-man-muc-son-ha-y-cuu/chuong-5/" title="Sư Phụ - Mãn Mục Sơn Hà Y Cựu - Chương 5">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        5
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczMG1w0cJUlCLKM-PCPkmXu1iRmdeb_VohBKhsLxuQaZdBRNzm5_obL2vCC4QJnJPtgl3zBOGjlZzTe-0iad8zydREFm9iRGyrgERS1iMJqvt7WIflzbx5lPqVu1O_loNHnXh7mk5k1id92JvGH0FzYV=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczMG1w0cJUlCLKM-PCPkmXu1iRmdeb_VohBKhsLxuQaZdBRNzm5_obL2vCC4QJnJPtgl3zBOGjlZzTe-0iad8zydREFm9iRGyrgERS1iMJqvt7WIflzbx5lPqVu1O_loNHnXh7mk5k1id92JvGH0FzYV=w180-h80-c" data-classname="cover" data-alt="Chàng Chất Phác, Nàng Xấu Xí" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/chang-chat-phac-nang-xau-xi/" title="Chàng Chất Phác, Nàng Xấu Xí" itemprop="url">Chàng Chất Phác, Nàng Xấu Xí</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Vân Lân
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/chang-chat-phac-nang-xau-xi/chuong-30/" title="Chàng Chất Phác, Nàng Xấu Xí - Chương 30">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        30
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczOOiG8Ld2b9PtJR6oVCYHN7k11ahUHEzLJ6hY-mbkZHz9TpFdI8jD73cNa6OJ87XTNLFx7akYVfk5Jr4wSTg32777iEA1ZUbgGki0qzrQgpBMrzt2uJShAPc1-LsnqbvC4vFbnmfBbwJpwfPLW3uCPw=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczOOiG8Ld2b9PtJR6oVCYHN7k11ahUHEzLJ6hY-mbkZHz9TpFdI8jD73cNa6OJ87XTNLFx7akYVfk5Jr4wSTg32777iEA1ZUbgGki0qzrQgpBMrzt2uJShAPc1-LsnqbvC4vFbnmfBbwJpwfPLW3uCPw=w180-h80-c" data-classname="cover" data-alt="Trọng Sinh Nữ Thầy Phong Thuỷ - Thiên Sơn Trà Tân Quán" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/trong-sinh-nu-thay-phong-thuy-thien-son-tra-tan-quan/" title="Trọng Sinh Nữ Thầy Phong Thuỷ - Thiên Sơn Trà Tân Quán" itemprop="url">Trọng Sinh Nữ Thầy Phong Thuỷ - Thiên Sơn Trà Tân Quán</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Thiên Sơn Trà Tân Quán
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/trong-sinh-nu-thay-phong-thuy-thien-son-tra-tan-quan/chuong-367/" title="Trọng Sinh Nữ Thầy Phong Thuỷ - Thiên Sơn Trà Tân Quán - Chương 367">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        367
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczNECPbRui-fnfwwT3cswOCbJPHWqUjHYVVZF4De9nWE3vITHgfcTkVyKhISqAF_VHWt7ZGcPOfyQ7oHVw_uRpABl7Whw6RO0Y3jrnmq6FLe_VJluaMGXzLJD6XfJaeWmRAQelfIDtK88YCY5ypV9qAS=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczNECPbRui-fnfwwT3cswOCbJPHWqUjHYVVZF4De9nWE3vITHgfcTkVyKhISqAF_VHWt7ZGcPOfyQ7oHVw_uRpABl7Whw6RO0Y3jrnmq6FLe_VJluaMGXzLJD6XfJaeWmRAQelfIDtK88YCY5ypV9qAS=w180-h80-c" data-classname="cover" data-alt="Thanh Xuân Tiên Vương Mang Thai Cáo Con Của Tôi" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/thanh-xuan-tien-vuong-mang-thai-cao-con-cua-toi/" title="Thanh Xuân Tiên Vương Mang Thai Cáo Con Của Tôi" itemprop="url">Thanh Xuân Tiên Vương Mang Thai Cáo Con Của Tôi</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Vân Thâm Kiến Lộc
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/thanh-xuan-tien-vuong-mang-thai-cao-con-cua-toi/chuong-126/" title="Thanh Xuân Tiên Vương Mang Thai Cáo Con Của Tôi - Chương 126">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        126
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczNZcW9BaMvSXxyOOTflvtRVLbvoa7k5zTEWnqwfX0O4lLORrSRjOg-WnkAWBxW_iviYjkdvbpzaL7Cexx-b79BLS26epW0OojtmL3_PB_-54xeKk-vJc-BTAVNVDTLue0DuBvShOef71kr9b8W7XfO3=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczNZcW9BaMvSXxyOOTflvtRVLbvoa7k5zTEWnqwfX0O4lLORrSRjOg-WnkAWBxW_iviYjkdvbpzaL7Cexx-b79BLS26epW0OojtmL3_PB_-54xeKk-vJc-BTAVNVDTLue0DuBvShOef71kr9b8W7XfO3=w180-h80-c" data-classname="cover" data-alt="Bất Độ - Phù Tang Tri Ngã" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/bat-do-phu-tang-tri-nga/" title="Bất Độ - Phù Tang Tri Ngã" itemprop="url">Bất Độ - Phù Tang Tri Ngã</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Phù Tang Tri Ngã
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/bat-do-phu-tang-tri-nga/chuong-63/" title="Bất Độ - Phù Tang Tri Ngã - Chương 63">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        63
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczM2MrumiEJon_Xm2o6CevilEctdZso_5vqag5MMYlW8k2W-2czM4mYKLvSW2O7PXXQifqWUF3m75JIlMsnOFtX4Qqp52HgcfI9RVObVRTwmJO3dZ9wrI_sATR5C-CutmRfdUg1wjxEUT8RSjqP4xKoG=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczM2MrumiEJon_Xm2o6CevilEctdZso_5vqag5MMYlW8k2W-2czM4mYKLvSW2O7PXXQifqWUF3m75JIlMsnOFtX4Qqp52HgcfI9RVObVRTwmJO3dZ9wrI_sATR5C-CutmRfdUg1wjxEUT8RSjqP4xKoG=w180-h80-c" data-classname="cover" data-alt="Bá Chủ Thiên Hạ - Phong Thần" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/ba-chu-thien-ha-phong-than/" title="Bá Chủ Thiên Hạ - Phong Thần" itemprop="url">Bá Chủ Thiên Hạ - Phong Thần</a>
+                                    </h3>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Phong Thần
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/ba-chu-thien-ha-phong-than/chuong-839/" title="Bá Chủ Thiên Hạ - Phong Thần - Chương 839">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        839
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczNL6D_3QUC2iVz6yCfp48bo9V75d5wHZCs_-L4lc25kSXG8Es4UQLGrj27_Y0QJBeZjHDpA94p3At7VjK_mj6QTC8OwR2g3GSE2msKXyCrB9hEDHrN5hknon1zd01BvU2Lh5oWWQusqOc0aiS3nxQ2s=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczNL6D_3QUC2iVz6yCfp48bo9V75d5wHZCs_-L4lc25kSXG8Es4UQLGrj27_Y0QJBeZjHDpA94p3At7VjK_mj6QTC8OwR2g3GSE2msKXyCrB9hEDHrN5hknon1zd01BvU2Lh5oWWQusqOc0aiS3nxQ2s=w180-h80-c" data-classname="cover" data-alt="Tướng Công Ta Đây Không Muốn Bị Ép Cưới" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/tuong-cong-ta-day-khong-muon-bi-ep-cuoi/" title="Tướng Công Ta Đây Không Muốn Bị Ép Cưới" itemprop="url">Tướng Công Ta Đây Không Muốn Bị Ép Cưới</a>
+                                    </h3>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Lâm Tiếu không phải cô nương
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/tuong-cong-ta-day-khong-muon-bi-ep-cuoi/chuong-929/" title="Tướng Công Ta Đây Không Muốn Bị Ép Cưới - Chương 929">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        929
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczNU3jdwZ5Qmdua-NUfbArBJyQOMn2NjRwVRk0VbipJXRZizzdn6FybbqifxrY__K35LcArE-Dmhpu_TOa3ebVHKoUTm9jDlreBSScOp39iFEzR-sTO2ngxnhXu7FZ8rOro6zcowyKcxOSV1kzO9ip13=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczNU3jdwZ5Qmdua-NUfbArBJyQOMn2NjRwVRk0VbipJXRZizzdn6FybbqifxrY__K35LcArE-Dmhpu_TOa3ebVHKoUTm9jDlreBSScOp39iFEzR-sTO2ngxnhXu7FZ8rOro6zcowyKcxOSV1kzO9ip13=w180-h80-c" data-classname="cover" data-alt="Ai Tu Tiên Được Rồi Còn Làm Nữ Phụ Ác Độc Nữa Chứ" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/ai-tu-tien-duoc-roi-con-lam-nu-phu-ac-doc-nua-chu/" title="Ai Tu Tiên Được Rồi Còn Làm Nữ Phụ Ác Độc Nữa Chứ" itemprop="url">Ai Tu Tiên Được Rồi Còn Làm Nữ Phụ Ác Độc Nữa Chứ</a>
+                                    </h3>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Dụ Nê Tiểu Du
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/ai-tu-tien-duoc-roi-con-lam-nu-phu-ac-doc-nua-chu/chuong-32/" title="Ai Tu Tiên Được Rồi Còn Làm Nữ Phụ Ác Độc Nữa Chứ - Chương 32">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        32
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczPAGV2AE0_Jt2bvyUmPqPOKqVQLmGOuS5QQeotPNjbcGfNGQRSyQB1hs4ki24SDIgYIucFLf1_w0sWpzxOxsPzh6abRxMhT_hNf5wbC1mikYJAj5NKS9lC-xSzeUPDoSTM_V5wLw5RJw3_1ITGjVMyb=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczPAGV2AE0_Jt2bvyUmPqPOKqVQLmGOuS5QQeotPNjbcGfNGQRSyQB1hs4ki24SDIgYIucFLf1_w0sWpzxOxsPzh6abRxMhT_hNf5wbC1mikYJAj5NKS9lC-xSzeUPDoSTM_V5wLw5RJw3_1ITGjVMyb=w180-h80-c" data-classname="cover" data-alt="Những Năm Ta Làm Mạnh Bà" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/nhung-nam-ta-lam-manh-ba/" title="Những Năm Ta Làm Mạnh Bà" itemprop="url">Những Năm Ta Làm Mạnh Bà</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Nhĩ Bắc
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/nhung-nam-ta-lam-manh-ba/chuong-70/" title="Những Năm Ta Làm Mạnh Bà - Chương 70">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        70
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczO3Uik1FRpkcmoCK879Ckb3oMuMJvs1XIR3swNKpUb-VCXbPLOxrKVvEUyJp1W-Qs1is27czsZs0G-bBbFjPlHTyD8rv25OrPtxDiMgcnKWSCqz2HokymQQ7FtvrFn0YEwaIaJBBn-llZR0s_Uvl6qM=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczO3Uik1FRpkcmoCK879Ckb3oMuMJvs1XIR3swNKpUb-VCXbPLOxrKVvEUyJp1W-Qs1is27czsZs0G-bBbFjPlHTyD8rv25OrPtxDiMgcnKWSCqz2HokymQQ7FtvrFn0YEwaIaJBBn-llZR0s_Uvl6qM=w180-h80-c" data-classname="cover" data-alt="Tiếng Lòng Của Tiểu Sư Muội" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/tieng-long-cua-tieu-su-muoi/" title="Tiếng Lòng Của Tiểu Sư Muội" itemprop="url">Tiếng Lòng Của Tiểu Sư Muội</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Vạn Vật Sinh
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/tieng-long-cua-tieu-su-muoi/chuong-14/" title="Tiếng Lòng Của Tiểu Sư Muội - Chương 14">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        14
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczOjPNrYHzah190Ci282fB1rrJWXQqYKPZn4Hl8knZUCUWez7Hm5PWgl_lddZGtXL--AJF4Wgw51sNCixiafFweyRxBINa0SvSxvGftw-SVoPIEpOVqLNqOUiaoBoWGoLBFMdDARR8qMuINsjCV53FHN=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczOjPNrYHzah190Ci282fB1rrJWXQqYKPZn4Hl8knZUCUWez7Hm5PWgl_lddZGtXL--AJF4Wgw51sNCixiafFweyRxBINa0SvSxvGftw-SVoPIEpOVqLNqOUiaoBoWGoLBFMdDARR8qMuINsjCV53FHN=w180-h80-c" data-classname="cover" data-alt="Bị Ép Làm Hôn Phu Của Kiếm Thánh" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/bi-ep-lam-hon-phu-cua-kiem-thanh/" title="Bị Ép Làm Hôn Phu Của Kiếm Thánh" itemprop="url">Bị Ép Làm Hôn Phu Của Kiếm Thánh</a>
+                                    </h3>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Đích Thủy
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/bi-ep-lam-hon-phu-cua-kiem-thanh/chuong-674/" title="Bị Ép Làm Hôn Phu Của Kiếm Thánh - Chương 674">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        674
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczN11Dc77s7FO0vmS4-UkwWGuaslV_4fUGNDWy4ChxVHacqJ8qt3z7_GuiZiG08w8kSdZ6ijpPqvXYJOpAcGmusQL3bbyG9NGR0PtitvXNmTLnY7TF6m4E7QsC4EUeTUjepZybOM_PoChdBQMLbcv7P4=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczN11Dc77s7FO0vmS4-UkwWGuaslV_4fUGNDWy4ChxVHacqJ8qt3z7_GuiZiG08w8kSdZ6ijpPqvXYJOpAcGmusQL3bbyG9NGR0PtitvXNmTLnY7TF6m4E7QsC4EUeTUjepZybOM_PoChdBQMLbcv7P4=w180-h80-c" data-classname="cover" data-alt="Cửu Thiên Kiếm - SS Hà Thần" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/cuu-thien-kiem-ss-ha-than/" title="Cửu Thiên Kiếm - SS Hà Thần" itemprop="url">Cửu Thiên Kiếm - SS Hà Thần</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        SS Hà Thần
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/cuu-thien-kiem-ss-ha-than/chuong-1146/" title="Cửu Thiên Kiếm - SS Hà Thần - Chương 1146">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        1146
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3">
+                                <div>
+                                    <div data-image="https://lh3.googleusercontent.com/pw/AP1GczMTyysOpQ4eamCYWwP2xwSRL6S1ymQxVg2NfT0S3WxvFLHkbUbt3m79yERJ1oJ_czrXy4KVld8PX7UmBkH_Yp6Iihfe-XkOz9Svwc57h3lParHw3zFOmqFZ27jhK3x2FGCwBJYzhfAaUWiDvU1QbtTC=w60-h85-c" data-desk-image="https://lh3.googleusercontent.com/pw/AP1GczMTyysOpQ4eamCYWwP2xwSRL6S1ymQxVg2NfT0S3WxvFLHkbUbt3m79yERJ1oJ_czrXy4KVld8PX7UmBkH_Yp6Iihfe-XkOz9Svwc57h3lParHw3zFOmqFZ27jhK3x2FGCwBJYzhfAaUWiDvU1QbtTC=w180-h80-c" data-classname="cover" data-alt="Tiểu Nữ Tử A Trúc/Tiểu Sư Muội Nói Chuyện Thần Kinh Cũng Là Thần" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-7">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyenfull.vision/tieu-nu-tu-a-tructieu-su-muoi-noi-chuyen-than-kinh-cung-la-than/" title="Tiểu Nữ Tử A Trúc/Tiểu Sư Muội Nói Chuyện Thần Kinh Cũng Là Thần" itemprop="url">Tiểu Nữ Tử A Trúc/Tiểu Sư Muội Nói Chuyện Thần Kinh Cũng Là Thần</a>
+                                    </h3>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Thỏ Cụp Tai Thích Ăn Rau Mùi
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="col-xs-2 text-info">
+                                <div>
+                                    <a href="https://truyenfull.vision/tieu-nu-tu-a-tructieu-su-muoi-noi-chuyen-than-kinh-cung-la-than/chuong-60/" title="Tiểu Nữ Tử A Trúc/Tiểu Sư Muội Nói Chuyện Thần Kinh Cũng Là Thần - Chương 60">
+                                        <span class="chapter-text">
+                                            <span>Chương </span>
+                                        </span>
+                                        60
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center pagination-container">
+                        <ul class="pagination pagination-sm">
+                            <li class="active">
+                                <span>
+                                    1<span class="sr-only">(đang xem)</span>
+                                </span>
+                            </li>
+                            <li>
+                                <a href="https://truyenfull.vision/the-loai/tien-hiep/trang-2/" title="Tiên Hiệp - Trang 2">2</a>
+                            </li>
+                            <li>
+                                <a href="https://truyenfull.vision/the-loai/tien-hiep/trang-3/" title="Tiên Hiệp - Trang 3">3</a>
+                            </li>
+                            <li>
+                                <a href="https://truyenfull.vision/the-loai/tien-hiep/trang-4/" title="Tiên Hiệp - Trang 4">4</a>
+                            </li>
+                            <li>
+                                <a href="https://truyenfull.vision/the-loai/tien-hiep/trang-6/" title="Tiên Hiệp - Trang 6">6</a>
+                            </li>
+                            <li>
+                                <a href="https://truyenfull.vision/the-loai/tien-hiep/trang-11/" title="Tiên Hiệp - Trang 11">11</a>
+                            </li>
+                            <li>
+                                <a href="https://truyenfull.vision/the-loai/tien-hiep/trang-2/" title="Tiên Hiệp - Trang 2">
+                                    <span class="sr-only">Trang tiếp</span>
+                                    <span class="glyphicon glyphicon-menu-right"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://truyenfull.vision/the-loai/tien-hiep/trang-46/" title="Tiên Hiệp - Trang 46">
+                                    Cuối <span class="arrow">&raquo;</span>
+                                </a>
+                            </li>
+                            <li class="dropup page-nav">
+                                <a href="javascript:void(0)" data-toggle="dropdown">
+                                    Chọn trang <span class="caret"></span>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right" role="menu">
+                                    <form action="." name="page_jump" id="page_jump" method="get">
+                                        <div class="input-group">
+                                            <input name="page_type" type="hidden" value="the-loai">
+                                            <input name="truyen" type="hidden" value="tien-hiep">
+                                            <input name="filter" type="hidden" value="">
+                                            <input class="form-control" name="page" type="number" placeholder="Số trang..." value="">
+                                            <span class="input-group-btn">
+                                                <button class="btn btn-default" type="submit">Đi</button>
+                                            </span>
+                                        </div>
+                                    </form>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-3 col-truyen-side">
+                    <div class="visible-md-block visible-lg-block text-center">
+                        <div class="panel cat-desc text-left">
+                            <div class="panel-body">
+                                <p>Truyện tiên hiệp thường kể về quá trình tu luyện và khám phá thế giới tu sĩ thần tiên đầy bí ẩn của nhân vật chính.</p>
+                                <p>Trong truyện tiên hiệp thường chia ra những cấp bậc tu luyện trước khi thành tiên như sau:</p>
+                                <ul>
+                                    <li>Luyện Khí</li>
+                                    <li>Khai Quang</li>
+                                    <li>Trúc Cơ</li>
+                                    <li>Ích Cốc</li>
+                                    <li>Kết Đan (Kim Đan)</li>
+                                    <li>Nguyên Anh</li>
+                                    <li>Hóa Thần (Phân Thần)</li>
+                                    <li>Hợp Thể</li>
+                                    <li>Độ Kiếp</li>
+                                    <li>Đại Thừa</li>
+                                </ul>
+                                <p>Sau khi thành tiên thì có những cấp bậc:</p>
+                                <ul>
+                                    <li>Tán Tiên</li>
+                                    <li>Tiên Nhân</li>
+                                    <li>Địa Tiên</li>
+                                    <li>Thiên Tiên</li>
+                                    <li>Thượng Tiên</li>
+                                    <li>Kim Tiên</li>
+                                    <li>Huyền Tiên</li>
+                                    <li>Đại La Kim Tiên</li>
+                                    <li>Tiên Vương</li>
+                                    <li>Tiên Tôn</li>
+                                    <li>Tiên Đế</li>
+                                </ul>
+                                <p>Ngoài ra còn có những cấp độ ngoài tiên như Bán Thánh, Vô Cực Thánh Nhân,.. dựa theo trí tưởng tượng của tác giả.</p>
+                            </div>
+                        </div>
+                        <div class="list list-truyen list-cat col-xs-12">
+                            <div class="title-list">
+                                <h4>Thể loại truyện</h4>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/tien-hiep/" title="Truyện Tiên Hiệp">Tiên Hiệp</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/kiem-hiep/" title="Truyện Kiếm Hiệp">Kiếm Hiệp</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/ngon-tinh/" title="Truyện Ngôn Tình">Ngôn Tình</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/dam-my/" title="Truyện Đam Mỹ">Đam Mỹ</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/quan-truong/" title="Truyện Quan Trường">Quan Trường</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/vong-du/" title="Truyện Võng Du">Võng Du</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/khoa-huyen/" title="Truyện Khoa Huyễn">Khoa Huyễn</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/he-thong/" title="Truyện Hệ Thống">Hệ Thống</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Truyện Huyền Huyễn">Huyền Huyễn</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/di-gioi/" title="Truyện Dị Giới">Dị Giới</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/di-nang/" title="Truyện Dị Năng">Dị Năng</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/quan-su/" title="Truyện Quân Sự">Quân Sự</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/lich-su/" title="Truyện Lịch Sử">Lịch Sử</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/xuyen-khong/" title="Truyện Xuyên Không">Xuyên Không</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/xuyen-nhanh/" title="Truyện Xuyên Nhanh">Xuyên Nhanh</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/trong-sinh/" title="Truyện Trọng Sinh">Trọng Sinh</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/trinh-tham/" title="Truyện Trinh Thám">Trinh Thám</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/tham-hiem/" title="Truyện Thám Hiểm">Thám Hiểm</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/linh-di/" title="Truyện Linh Dị">Linh Dị</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/nguoc/" title="Truyện Ngược">Ngược</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/sung/" title="Truyện Sủng">Sủng</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/cung-dau/" title="Truyện Cung Đấu">Cung Đấu</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/nu-cuong/" title="Truyện Nữ Cường">Nữ Cường</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/gia-dau/" title="Truyện Gia Đấu">Gia Đấu</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/dong-phuong/" title="Truyện Đông Phương">Đông Phương</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/do-thi/" title="Truyện Đô Thị">Đô Thị</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/bach-hop/" title="Truyện Bách Hợp">Bách Hợp</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/hai-huoc/" title="Truyện Hài Hước">Hài Hước</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/dien-van/" title="Truyện Điền Văn">Điền Văn</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/co-dai/" title="Truyện Cổ Đại">Cổ Đại</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/mat-the/" title="Truyện Mạt Thế">Mạt Thế</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/truyen-teen/" title="Truyện Truyện Teen">Truyện Teen</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/phuong-tay/" title="Truyện Phương Tây">Phương Tây</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/nu-phu/" title="Truyện Nữ Phụ">Nữ Phụ</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/light-novel/" title="Truyện Light Novel">Light Novel</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/viet-nam/" title="Truyện Việt Nam">Việt Nam</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/doan-van/" title="Truyện Đoản Văn">Đoản Văn</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/review-sach/" title="Truyện Review sách">Review sách</a>
+                                </div>
+                                <div class="col-xs-6">
+                                    <a href="https://truyenfull.vision/the-loai/khac/" title="Truyện Khác">Khác</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ads-300-600 list-truyen list-cat col-xs-12" style="padding-left: 0;padding-right: 0" id="the-loai-right-banner"></div>
+                        <div class="list list-truyen list-side col-xs-12">
+                            <div class="title-list">
+                                <h4>Truyện Tiên Hiệp Đang Hot</h4>
+                            </div>
+                            <div class="row top-nav" data-limit="10" data-cat="1">
+                                <div class="col-xs-4 active" data-type="day">Ngày</div>
+                                <div class="col-xs-4" data-type="month">Tháng</div>
+                                <div class="col-xs-4" data-type="all">All time</div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-1">1</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/than-dao-dan-ton-6060282/" title="Thần Đạo Đan Tôn">Thần Đạo Đan Tôn</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Huyền Huyễn">Huyền Huyễn</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-2">2</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/linh-vu-thien-ha/" title="Linh Vũ Thiên Hạ">Linh Vũ Thiên Hạ</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/di-gioi/" title="Dị Giới">Dị Giới</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Huyền Huyễn">Huyền Huyễn</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-3">3</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/truyen-dau-pha-thuong-khung/" title="Đấu Phá Thương Khung">Đấu Phá Thương Khung</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/di-gioi/" title="Dị Giới">Dị Giới</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Huyền Huyễn">Huyền Huyễn</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-4">4</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/the-gioi-hoan-my/" title="Thế Giới Hoàn Mỹ">Thế Giới Hoàn Mỹ</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/kiem-hiep/" title="Kiếm Hiệp">Kiếm Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Huyền Huyễn">Huyền Huyễn</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-5">5</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/pham-nhan-tu-tien/" title="Phàm Nhân Tu Tiên">Phàm Nhân Tu Tiên</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/kiem-hiep/" title="Kiếm Hiệp">Kiếm Hiệp</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-6">6</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/tien-nghich/" title="Tiên Nghịch">Tiên Nghịch</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/kiem-hiep/" title="Kiếm Hiệp">Kiếm Hiệp</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-7">7</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/nhat-niem-vinh-hang/" title="Nhất Niệm Vĩnh Hằng">Nhất Niệm Vĩnh Hằng</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Huyền Huyễn">Huyền Huyễn</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-8">8</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/ngao-the-dan-than/" title="Ngạo Thế Đan Thần">Ngạo Thế Đan Thần</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-9">9</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/vu-dong-can-khon/" title="Vũ Động Càn Khôn">Vũ Động Càn Khôn</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Huyền Huyễn">Huyền Huyễn</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row top-item">
+                                <div class="col-xs-12">
+                                    <div class="top-num top-10">10</div>
+                                    <div class="s-title">
+                                        <h3>
+                                            <a href="https://truyenfull.vision/doc-ton-tam-gioi/" title="Độc Tôn Tam Giới">Độc Tôn Tam Giới</a>
+                                        </h3>
+                                    </div>
+                                    <div>
+                                        <a itemprop="genre" href="https://truyenfull.vision/the-loai/tien-hiep/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                        , <a itemprop="genre" href="https://truyenfull.vision/the-loai/huyen-huyen/" title="Huyền Huyễn">Huyền Huyễn</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ads-300-600 list-truyen list-cat col-xs-12" style="padding-left: 0;padding-right: 0" id="the-loai-right-banner-bottom"></div>
+                    </div>
+                    <div id="ads-cate-list-1" class="ads-cate-sidebar" style="padding: 0 10px;"></div>
+                </div>
+                <div id="banner-bio-link-cate" class="ads-cate-sidebar" style="padding: 0 10px;"></div>
+            </div>
+            <div class="container text-center pagination-container">
+                <div class="row ads-chapter-bottom-lien-quan" id="is_show_slide" style="padding-left: 5px;padding-right: 5px">
+                    <div class="ads-lien-quan" id="ads-lien-quan-0"></div>
+                    <div class="ads-lien-quan" id="ads-lien-quan-1"></div>
+                    <div class="ads-lien-quan" id="ads-lien-quan-2"></div>
+                    <div class="ads-lien-quan" id="ads-lien-quan-3"></div>
+                    <div class="ads-lien-quan" id="ads-lien-quan-4"></div>
+                    <div class="ads-lien-quan" id="ads-lien-quan-6"></div>
+                </div>
+            </div>
+        </div>
+        <div id="footer" class="footer">
+            <div class="container">
+                <div class="text-center" style="font-weight: bold; margin-bottom: 18px; margin-top: 10px; font-size: 16px;">
+                    Liên hệ: 
+                    <a href="/cdn-cgi/l/email-protection#debdb1b0aabfbdaa9eaaacaba7bbb0b8abb2b2f0a8b7adb7b1b0">
+                        <b>
+                            <span class="__cf_email__" data-cfemail="a0c3cfced4c1c3d4e0d4d2d5d9c5cec6d5cccc8ed6c9d3c9cfce">[email &#160;protected]</span>
+                        </b>
+                    </a>
+                </div>
+                <div class="col-sm-5">
+                    <strong>Truyện Full</strong>
+                    - <a title="Đọc truyện online" href="https://truyenfull.vision/">Đọc truyện</a>
+                    online, <a title="Đọc truyện chữ" href="https://truyenfull.vision/">đọc truyện</a>
+                    chữ, <a title="Truyện hay" href="https://truyenfull.vision/">truyện hay</a>
+                    . Website luôn cập nhật những bộ <a title="Truyện mới" href="https://truyenfull.vision/danh-sach/truyen-moi/">truyện mới</a>
+                    thuộc các thể loại đặc sắc như <a title="Truyện tiên hiệp" href="https://truyenfull.vision/the-loai/tien-hiep/">truyện tiên hiệp</a>
+                    , <a title="Truyện kiếm hiệp" href="https://truyenfull.vision/the-loai/kiem-hiep/">truyện kiếm hiệp</a>
+                    , hay <a title="Truyện ngôn tình" href="https://truyenfull.vision/the-loai/ngon-tinh/">truyện ngôn tình</a>
+                    một cách nhanh nhất. Hỗ trợ mọi thiết bị như di động và máy tính bảng.
+                </div>
+                <div class="col-xs-12 col-sm-7 list-unstyle text-link-bottom" style="overflow: hidden;">
+                    <ul class="list-unstyled">
+                        <li class="hidden-xs tag-list">
+                            <a href="https://truyenfull.io/danh-sach/dam-my-hai/" title="đam mỹ hài">đam mỹ hài</a>
+                            <a href="https://truyenfull.io/the-loai/xuyen-nhanh/" title="truyện xuyên nhanh">truyện xuyên nhanh</a>
+                            <a href="https://truyenfull.io/danh-sach/ngon-tinh-sung/" title="ngôn tình sủng">ngôn tình sủng</a>
+                            <a href="https://truyenfull.io/danh-sach/ngon-tinh-hai/" title="ngôn tình hài">ngôn tình hài</a>
+                            <a href="https://truyenfull.io/danh-sach/truyen-teen-hay/" title="truyện teen hay">truyện teen hay</a>
+                            <a href="https://truyenfull.io/danh-sach/ngon-tinh-hay/" title="ngôn tình hay">ngôn tình hay</a>
+                            <a href="https://truyenfull.io/the-loai/dam-my/" title="truyện đam mỹ">truyện đam mỹ</a>
+                            <a href="https://truyenfull.io/the-loai/ngon-tinh/hoan/" title="truyện ngôn tình">truyện ngôn tình</a>
+                            <a href="https://truyenfull.io/the-loai/ngon-tinh/hoan/" title="ngôn tình hoàn">ngôn tình hoàn</a>
+                            <a href="https://truyenfull.io/danh-sach/ngon-tinh-nguoc/" title="ngôn tình ngược">ngôn tình ngược</a>
+                            <a href="https://truyenfull.io/danh-sach/kiem-hiep-hay/" title="truyện kiếm hiệp hay">truyện kiếm hiệp hay</a>
+                            <a href="https://truyenfull.io/danh-sach/tien-hiep-hay/" title="truyện tiên hiệp hay">truyện tiên hiệp hay</a>
+                            <a href="https://truyenfull.io/the-loai/he-thong/" title="truyện hệ thống">truyện hệ thống</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-12">
+                    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                        <img alt="Creative Commons License" style="border-width:0;margin-bottom: 10px" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+                    </a>
+                    <br/>
+                    <p>
+                        Website hoạt động dưới Giấy phép truy cập mở <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License
+                    </p>
+</a></div></div></div><div id="fb-root"></div>
+<div id="ads-xuyentrang-bottom"></div>
+<div id="catfish-bottom-sp"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="https://static.truyenfull.vision/min/g/mainjs-16052025_1.js"></script>
+<noscript>
+    <link rel="stylesheet" type="text/css" href="https://static.truyenfull.vision/min/g/maincss-13052025_4.css"/>
+</noscript>
+<script>
+    $('head').append('<link rel="stylesheet" type="text/css" href="https://static.truyenfull.vision/min/g/maincss-13052025_4.css"/>');
+</script>
+</body></html>

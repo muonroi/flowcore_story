@@ -1,0 +1,16 @@
+curl 'https://tangthuvien.net/tong-hop?ctg=1&tp=cv&page=2' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.5' \
+  -b 'XSRF-TOKEN=eyJpdiI6Iko5XC91dGxuamVOaFwvXC9qM3V2VlJzV0E9PSIsInZhbHVlIjoiREJGRCtUVFpMTk1OMitQWTdVTG1ZRGgzVkEyczJQS1VNcHpwTDM3TDRDZ2w1aXZvQ0cyOEdDTnpFY3hWK2U3VVI3OGpnWkFBT2RnQUZWY1R1dzNvcWc9PSIsIm1hYyI6IjRjNGJiY2IyYTMzMTBkZDNhMzg4YTIxMDNkZTM1ZDc5OTVjYzFlYTgyZjg1ZWY5MzdlNGY0NzkwZTVlYzRjZTYifQ%3D%3D; laravel_session=eyJpdiI6InBNdU90aW5kbXJcL0JVVTNyVFhSNjVnPT0iLCJ2YWx1ZSI6Imtkd0pDRVJ2VVZzcGlcLzFqZ2xxeHo5QkVtRTM5RDhmRkl4cm9CYWRQdXZpaUhGMVwvTytUVHBiQ1VYY05Zd2NpN0ZIMWhkNUhEdmZhNk5KWnBnT2xaQlE9PSIsIm1hYyI6ImUyNzcwMTgzYmI0MWZlM2M0MzQ5YTAwZTUzNmZhNmVkODk4OGJlNzJkZTQ4YTYyOTkzOGUxZjUyNzgwNGJmNjYifQ%3D%3D' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://tangthuvien.net/tong-hop?tp=cv&ctg=1' \
+  -H 'sec-ch-ua: "Chromium";v="140", "Not=A?Brand";v="24", "Brave";v="140"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-gpc: 1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'

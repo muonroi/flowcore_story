@@ -1,0 +1,16 @@
+curl 'https://xtruyen.vn/' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.5' \
+  -b 'cf_clearance=nrpTVaSxVN27SSKI3sKg5tBeLEdlb1SC3g2gWH0_OOE-1758967446-1.2.1.1-VdNcSlH8qQTZ7oj45qcpq1XrR6LvSPsIMNiOEk.Xse4gzwqcYIcKoc_DDIFxjuiPuABiDlfIto8QWTSovFths9i_x3gj9ft5_n636r.Z0UYDQDTqqIYpdDzIE8xlzBIlaaSJ3LLStLIHtRZq_w1BbZO5bXnm28vnwjvbxkygqV.cEqkaPy1U4B4HN11x1j8WNLMSsYj_EhjOWyzCqg0d6nTjz8os9SWZFQbK4YYd1Ac' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://xtruyen.vn/theloai/tien-hiep/' \
+  -H 'sec-ch-ua: "Chromium";v="140", "Not=A?Brand";v="24", "Brave";v="140"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-gpc: 1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'

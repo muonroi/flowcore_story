@@ -5,7 +5,9 @@ services:
     volumes:
       - ./src:/app/src
       - ../flowcore/src:/app/libs/flowcore/src
-      - ../config:/app/config
+      - ./config:/app/config
+      - ./state:/app/state
+      - ../proxies:/app/proxies
     environment:
       - PYTHONPATH=/app/src:/app/libs/flowcore/src
       - STEALTH_GATEWAY_URL=http://stealth-gateway:8555

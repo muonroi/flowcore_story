@@ -1,0 +1,694 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta http-equiv="content-language" content="vi" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<meta name="revisit-after" content="1 days" />
+<meta name="ROBOTS" content="index,follow,noodp" />
+<meta name="googlebot" content="index,follow" />
+<meta name="BingBOT" content="index,follow" />
+<meta name="yahooBOT" content="index,follow" />
+<meta name="slurp" content="index,follow" />
+<meta name="msnbot" content="index,follow" />
+<link rel="shortcut icon" type="image/x-icon" href="https://m.tangthuvien.net/images/icon-favico.png"/>
+
+    <title>Tàng Thư Viện - Sân chơi miễn phí cho cộng đồng kiếm hiệp, ngôn tình</title>
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta property="og:url" content="http://m.tangthuvien.net">
+    <meta property="og:title" content="Tàng Thư Viện - Sân chơi miễn phí cho cộng đồng kiếm hiệp, ngôn tình">
+    <meta property="og:description" content="Tàng Thư Viện - Sân chơi miễn phí cho cộng đồng kiếm hiệp, ngôn tình">
+    <meta name="description" content="Tàng Thư Viện - Sân chơi miễn phí cho cộng đồng kiếm hiệp, ngôn tình"/>
+    <meta name="keywords" content="truyen convert, truyen dich, truyen kiem hiep, truyen ngon tinh, truyen full, truyen hoan thanh, truyen tien hiep, truyen lich su, truyen do thi"/>
+    <meta property="article:tag" content="doc truyen, doc truyen online, truyen hay, truyen full" />
+    <meta property="article:tag" content="kiem hiep, tien hiep, ngon tinh, do thi, huyen huyen, lich su" />
+    <meta property="article:tag" content="truyen convert, truyen dich, truyen ngon tinh, truyen sang tac" />
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,700i,900" rel="stylesheet">
+<link rel="stylesheet" href="https://m.tangthuvien.net/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://m.tangthuvien.net/css/bootstrap.css">
+<link rel="stylesheet" href="https://m.tangthuvien.net/css/bootstrap-theme.css">
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/minified/jquery-ui.min.css" type="text/css" />
+<link rel="stylesheet" href="https://m.tangthuvien.net/css/styles.css?v=1759543767">
+
+<script src="https://m.tangthuvien.net/js/jquery-2.2.4.js"></script>
+<script src="https://m.tangthuvien.net/js/bootstrap.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.1/jquery-ui.min.js"></script>
+
+<link rel="stylesheet" href="https://m.tangthuvien.net/owlcarousel/owl.carousel.min.css"/>
+<link rel="stylesheet" href="https://m.tangthuvien.net/owlcarousel/owl.theme.default.min.css"/>
+<link rel="stylesheet" href="https://m.tangthuvien.net/owlcarousel/animate.css"/>
+<script src="https://m.tangthuvien.net/js/owl.carousel.js"></script>
+
+    
+</head>
+<body  >
+    <header>
+    <a href="https://m.tangthuvien.net" class="m-logo">Tàng thư viện</a>
+    <a href="http://www.tangthuvien.vn/forum/" class="forum-link">Diễn đàn</a>
+    <div class="pull-right">
+        <a href="javascript:void(0);" onclick="openAppStore()" class="download_app"><img src="https://m.tangthuvien.net/images/app.png" width="55px"/></a>
+        <a href="https://m.tangthuvien.net/login" class="account"><i class="fa fa-user-o" aria-hidden="true"></i></a>
+    </div>
+
+</header>
+<div class="body-container">
+    <div class="content">
+            <div class="home-slide">
+    <div class="slider owl-carousel owl-theme">
+                                <div class="item">
+            <a href="http://www.tangthuvien.vn/forum/showthread.php?t=152617"><img src="https://tangthuvien.net/images/intro/ttv-translate-1.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="http://www.tangthuvien.vn/forum/showthread.php?t=152617"><img src="https://tangthuvien.net/images/intro/ttv-translate-1.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="https://tangthuvien.net/doc-truyen/lam-uyen-hanh"><img src="https://tangthuvien.net/images/slide7.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="https://ngontinh.tangthuvien.vn/doc-truyen/kieu-tang"><img src="https://ngontinh.tangthuvien.net/images/ngontinh1b.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="https://tangthuvien.net/doc-truyen/van-co-manh-nhat-tong"><img src="https://tangthuvien.net/images/slide9.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="https://ngontinh.tangthuvien.vn/doc-truyen/xuyen-nhanh-nam-than-co-chut-chay!"><img src="https://ngontinh.tangthuvien.net/images/ngontinh2b.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="https://tangthuvien.net/doc-truyen/quy-bi-chi-chu"><img src="https://tangthuvien.net/images/slide8.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="https://ngontinh.tangthuvien.vn/doc-truyen/hoa-kieu"><img src="https://ngontinh.tangthuvien.net/images/ngontinh3b.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="https://tangthuvien.net/doc-truyen/pham-nhan-tu-tien-chi-tien-gioi-thien"><img src="https://tangthuvien.net/images/slide3.jpg" width="100%"/> </a>
+        </div>
+                <div class="item">
+            <a href="https://ngontinh.tangthuvien.vn/doc-truyen/tinh-te-rach-nat-nu-vuong"><img src="https://ngontinh.tangthuvien.net/images/ngontinh4b.jpg" width="100%"/> </a>
+        </div>
+            </div>
+    </div>
+    <div class="col-xs-12">
+        <div class="search-box" onclick="searchOpen()">
+            <form action="#" method="get" enctype="multipart/form-data">
+                <label class="form-control text-center" >Tìm kiếm</label>
+            </form>
+
+        </div>
+    </div>
+    <nav class="home-nav col-xs-12 home-crap">
+        <div class="row">
+                <a  class="col-xs-3 text-center nav-category" href="https://m.tangthuvien.net/danh-muc">
+                    <i class="home-icon">&nbsp;</i>
+                    <span>Thể loại</span>
+                </a>
+                <a  class="col-xs-3 text-center nav-trophy" href="https://m.tangthuvien.net/bang-xep-hang?selOrder=view_&amp;selTime=month">
+                    <i class="home-icon">&nbsp;</i>
+                    <span>Xếp hạng</span>
+                </a>
+                <a  class="col-xs-3 text-center nav-filter" href="https://m.tangthuvien.net/tong-hop">
+                    <i class="home-icon">&nbsp;</i>
+                    <span>Bộ lọc</span>
+                </a>
+                <a  class="col-xs-3 text-center nav-money" href="https://m.tangthuvien.net/top-users">
+                    <i class="home-icon">&nbsp;</i>
+                    <span>Top User</span>
+                </a>
+                <a  class="col-xs-3 text-center nav-converter" href="https://m.tangthuvien.net/wall">
+                    <i class="home-icon">&nbsp;</i>
+                    <span>Review</span>
+                </a>
+        </div>
+    </nav>
+        <div class="wd-f100 mrgtop-6 mrgbot-6">
+        <a href="https://tangthuvien.net/tai-app" target="_blank" data-eid="qd_A116" data-qd_dd_p1="1" style="display: inline;">
+        <img src="https://tangthuvien.net/images/banner-app-ttv.jpg">
+        <span class="op-tag"></span>
+    </a>
+    </div>
+            <div class="block-update module-box bg-white wd-f100 pdd-6">
+        <div class="module-header wd-f100 pdd-6">
+            <h3 class="module-title">Truyện mới cập nhật</h3>
+            <a href="https://m.tangthuvien.net/moi-cap-nhat" class="pull-right">Xem thêm <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+        </div>
+        <div class="module-tab moduleTab wd-f100 pdd-6">
+            <nav class="btn-group btn-tabs">
+                <a href="javascript:void(0);" onclick="changeTab(1)" class="btn-tab btn-tab-1 text-center active">Convert</a>
+                <a href="javascript:void(0);" onclick="changeTab(2)" class="btn-tab btn-tab-2 text-center">Dịch</a>
+                <a href="javascript:void(0);" onclick="changeTab(3)" class="btn-tab btn-tab-3 text-center">Ngôn tình</a>
+            </nav>
+        </div>
+        <div class="tab-1 tab-list wd-f100">
+            <div class="module-slide owl-carousel owl-theme mrgtop-6">
+                    <div class="item item-0">
+            <a href="https://m.tangthuvien.net/doc-truyen/39010" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/8370831fd64855d299c66b17cfef273fe7b69733189fb99bff56f546577b4657.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Cái Này Võ Thánh Thanh Máu Quá Dày (Giá Cá Vũ Thánh Huyết Điều Thái Hậu)</p>
+                
+            </div>
+    </div>
+        <div class="item item-1">
+            <a href="https://m.tangthuvien.net/doc-truyen/39012" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/a5ef579dd9e0a8c382de41c93055794cae70f4b035752e512df0c760c4f6b30e.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Nhân Tại Cao Tam, Hệ Thống Thuyết Ngã Hòa Thanh Mai Tương Thân</p>
+                
+            </div>
+    </div>
+        <div class="item item-2">
+            <a href="https://m.tangthuvien.net/doc-truyen/38616" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/c7c4061204326b618cfbf334f72b9d54e926b21e75a433408850916c204387fe.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Cẩu Tại Sơ Thánh Ma Môn Đương Nhân Tài</p>
+                
+            </div>
+    </div>
+        <div class="item item-3">
+            <a href="https://m.tangthuvien.net/doc-truyen/38991" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/2993c8d45fb5694e467ceba40e7c77ce8f980ead8e617b4f49aa45010ecd2a11.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Từ 1984 Bắt Đầu Kiếm Tiền Kiếp Sống</p>
+                
+            </div>
+    </div>
+        <div class="item item-4">
+            <a href="https://m.tangthuvien.net/doc-truyen/38609" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/919199fa1f9528aab3555a9b1fda4ae832e8ab06ce987c2d09395721a6d5aefe.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Khởi Động Lại Nhân Sinh(Trọng Khải Nhân Sinh)</p>
+                
+            </div>
+    </div>
+                </div>
+        </div>
+        <div class="tab-2 tab-list wd-f100 hidden">
+            <div class="module-slide owl-carousel owl-theme mrgtop-6">
+                                <div class="item item-0">
+            <a href="https://m.tangthuvien.net/doc-truyen/38974" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/504f1863a5e174468be4a8dd540eff2702692b8f9c07cab4c7218380ccd85f27.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">[Dịch] Cẩu Tại Sơ Thánh Ma Môn Làm Nhân Tài</p>
+                
+            </div>
+    </div>
+        <div class="item item-1">
+            <a href="https://m.tangthuvien.net/doc-truyen/38961" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/5aa33a760ac499344ab1cb6f6c31771c92aebbefaf276deb1094d3d780240789.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">[ Dịch ] Ta Mô Phỏng Trường Sinh Lộ</p>
+                
+            </div>
+    </div>
+        <div class="item item-2">
+            <a href="https://m.tangthuvien.net/doc-truyen/38944" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/ad4e385ffa95e494d057d622b35ed75fb0cbbf19fea5aa94f697c7da86816893.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">[ Dịch ] Cẩu Thả Tu Luyện Bên Người Nữ Ma Đầu</p>
+                
+            </div>
+    </div>
+        <div class="item item-3">
+            <a href="https://m.tangthuvien.net/doc-truyen/33049" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/29425eac2890a32ed9d9feb95ce93ac1bb08308191080d489228f6ea66b0573e.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">[Dịch] Kiếm Lai - Tàng Thư Viện</p>
+                
+            </div>
+    </div>
+        <div class="item item-4">
+            <a href="https://m.tangthuvien.net/doc-truyen/39011" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/8df85f9f269742f512f21d9fa17cd128db5ef53883fb699a65b1b4c087cad8c8.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Quỷ Tam Quốc - Dịch</p>
+                
+            </div>
+    </div>
+                </div>
+        </div>
+        <div class="tab-3 tab-list wd-f100 hidden">
+            <div class="module-slide owl-carousel owl-theme mrgtop-6">
+                                <div class="item item-0">
+            <a href="https://m.tangthuvien.net/doc-truyen/35302" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/f78dae651c71c668f05c2e4e68353a816ae975c8f8a97f039963e183e4c6b0f3.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Thần Đình Đại Lão Trùng Sinh Ký</p>
+                
+            </div>
+    </div>
+        <div class="item item-1">
+            <a href="https://m.tangthuvien.net/doc-truyen/36532" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/8967a40bdc987b1b507d8c55d3ef4e9f19fba01639277782c4630b9943e9492e.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Nàng Là Kiếm Tu</p>
+                
+            </div>
+    </div>
+        <div class="item item-2">
+            <a href="https://m.tangthuvien.net/doc-truyen/36124" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/9955f362d7e44fb49d6f9ef891b8695b3f59c83909e27331bc7b84304f1afc33.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Ngự Thú Bắt Đầu Từ Điểm 0</p>
+                
+            </div>
+    </div>
+        <div class="item item-3">
+            <a href="https://m.tangthuvien.net/doc-truyen/38923" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/811967e25149c78ac3efd97b6f29f4fe316afbd4181068c3f501c05c205e1740.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Nữ Xuyên Nam: Sổ Tay Phất Nhanh Của Con Thứ</p>
+                
+            </div>
+    </div>
+        <div class="item item-4">
+            <a href="https://m.tangthuvien.net/doc-truyen/38924" class="story-image  wd-f100">
+                                <img src="https://img.tangthuvien.net/images/story/355825b09c8eb0ea156b222e1c87b627214c5f3a17f81a75bf48a98f336f5410.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Hộ Vệ Của Nàng</p>
+                
+            </div>
+    </div>
+                </div>
+        </div>
+    </div>
+    <div class="block-hots module-box bg-white wd-f100 pdd-6">
+        <div class="module-header wd-f100 pdd-6">
+            <h3 class="module-title">Truyện xem nhiều</h3>
+            <a href="https://m.tangthuvien.net/xem-nhieu" class="pull-right">Xem thêm <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+        </div>
+        <div class="module-slide owl-carousel owl-theme mrgtop-6">
+            <div class="item item-0">
+            <a href="https://m.tangthuvien.net/doc-truyen/36388" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/48610482eb03d116028f1b1045f3afac12ef5ddb5e25146454a47d4edb2b132e.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Cửu Vực Phàm Tiên</p>
+                
+            </div>
+    </div>
+        <div class="item item-1">
+            <a href="https://m.tangthuvien.net/doc-truyen/38060" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/b574c544335443cc763f3702d598d50b96124d4ea630dd4bfbad677c68892090.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Trận Vấn Trường Sinh</p>
+                
+            </div>
+    </div>
+        <div class="item item-2">
+            <a href="https://m.tangthuvien.net/doc-truyen/38616" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/c7c4061204326b618cfbf334f72b9d54e926b21e75a433408850916c204387fe.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Cẩu Tại Sơ Thánh Ma Môn Đương Nhân Tài</p>
+                
+            </div>
+    </div>
+        <div class="item item-3">
+            <a href="https://m.tangthuvien.net/doc-truyen/18800" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/8cf571827e15702bf59741d019cc8cf89489eb6bbbaff806042e82bf88370955.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Huyền Trần Đạo Đồ</p>
+                
+            </div>
+    </div>
+        <div class="item item-4">
+            <a href="https://m.tangthuvien.net/doc-truyen/36124" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/9955f362d7e44fb49d6f9ef891b8695b3f59c83909e27331bc7b84304f1afc33.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Ngự Thú Bắt Đầu Từ Điểm 0</p>
+                
+            </div>
+    </div>
+        <div class="item item-5">
+            <a href="https://m.tangthuvien.net/doc-truyen/38747" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/8c620bf9fe14681e5504a70edd9c18e310e25988d69941b1920e023f3c41e915.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Tiên Đạo Tận Đầu (Nơi Kết Thúc Tiên Đạo)</p>
+                
+            </div>
+    </div>
+        <div class="item item-6">
+            <a href="https://m.tangthuvien.net/doc-truyen/17186" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/412da78bb6a8e77783509b0e05cd92ea605563f6aa245f389e5a4db89709d58d.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Kiếm Lai</p>
+                
+            </div>
+    </div>
+        <div class="item item-7">
+            <a href="https://m.tangthuvien.net/doc-truyen/37666" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/771cb4c37045aa3a3393e4004357073bd65faf479f3529ee91739e8dbe2b708b.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Ô Long Sơn Tu Hành Bút Ký</p>
+                
+            </div>
+    </div>
+        <div class="item item-8">
+            <a href="https://m.tangthuvien.net/doc-truyen/36636" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/f25ddfb850107d2a5d30a2271f158cfbafc92a53daccf6aa8a2beaf9df3a1235.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Ngã Tại Tu Tiên Giới Vạn Cổ Trường Thanh</p>
+                
+            </div>
+    </div>
+        <div class="item item-9">
+            <a href="https://m.tangthuvien.net/doc-truyen/38786" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/b1a387dffcd36fd9728d64c5f5f82531b5fdbe5d7f7392640f2b669024719e9d.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Bách Thế Phi Thăng</p>
+                
+            </div>
+    </div>
+        <div class="item item-10">
+            <a href="https://m.tangthuvien.net/doc-truyen/38474" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/28442bc22380b815031686717afc85a55a9aea9d38a77c2a666ad57ea84a8776.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Long Tàng</p>
+                
+            </div>
+    </div>
+        <div class="item item-11">
+            <a href="https://m.tangthuvien.net/doc-truyen/38671" class="story-image  wd-f100">
+                                                <img src="https://img.tangthuvien.net/images/story/df99cfdf724be32347d9ec79446ed669e2467cc83bc069ccdf826fe5014b9440.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </a>
+            <div class="story-detail wd-f100">
+                <p class="ttv-story-title-block">Thành Dưới Đất Này Mọc Nấm (Giá Cá Địa Hạ Thành Trường Ma Cô Liễu)</p>
+                
+            </div>
+    </div>
+              </div>
+    </div>
+    <div class="block-news module-box mrgtop-12 bg-white wd-f100 pdd-6">
+        <div class="module-header wd-f100 pdd-6">
+            <h3 class="module-title">Truyện đề cử tháng</h3>
+            <a href="https://m.tangthuvien.net/truyen-moi" class="pull-right">Xem thêm <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+        </div>
+        <div class="module-list wd-f100 pdd-6 mrgtop-6">
+            <div class="book-item wd-f100 mrgbot-12 item-0">
+        <a href="https://m.tangthuvien.net/doc-truyen/38510" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/b2202e91fc66d8370ca045acbcb2117980e0a6e499bff0b7bb4b0349788a3680.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Sống Sót Trong Trò Chơi Với Tư Cách Một Barbarian</h4>
+                <p class="item-author">Thể loại: Huyền Huyễn</p>
+                <p class="item-author">Tác giả: Jung Yun-kang </p>
+                <p class="item-update">Lượt xem: 198152</p>
+                <p class="item-update">Tình trạng: Chưa hoàn thành</p>
+                <p class="item-update">Số chuơng: 655</p>
+            </div>
+        </a>
+    </div>
+        <div class="book-item wd-f100 mrgbot-12 item-1">
+        <a href="https://m.tangthuvien.net/doc-truyen/38854" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/b31942887c56ee913a39ee70e5195b0d51d35b8fc0121156cd57fbb421903126.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Ngày Hôm Nay Cũng Đang Cố Gắng Làm Ma Đầu (Kim Thiên Dã Tại Nỗ Lực Tố Ma Đầu)</h4>
+                <p class="item-author">Thể loại: Tiên Hiệp</p>
+                <p class="item-author">Tác giả: Khai Hoang </p>
+                <p class="item-update">Lượt xem: 121690</p>
+                <p class="item-update">Tình trạng: Chưa hoàn thành</p>
+                <p class="item-update">Số chuơng: 210</p>
+            </div>
+        </a>
+    </div>
+        <div class="book-item wd-f100 mrgbot-12 item-2">
+        <a href="https://m.tangthuvien.net/doc-truyen/38952" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/6eb4938d0502c994ce4940e5adc5f2236526a9b64f22ba598ac5900e552f62ce.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Nguyên Thủy Kim Chương</h4>
+                <p class="item-author">Thể loại: Tiên Hiệp</p>
+                <p class="item-author">Tác giả: Vụ Ngoại Giang Sơn </p>
+                <p class="item-update">Lượt xem: 38275</p>
+                <p class="item-update">Tình trạng: Chưa hoàn thành</p>
+                <p class="item-update">Số chuơng: 103</p>
+            </div>
+        </a>
+    </div>
+        <div class="book-item wd-f100 mrgbot-12 item-3">
+        <a href="https://m.tangthuvien.net/doc-truyen/21320" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/5e7ef6516ba113ba407423fe17e37b86b35a91a7eb352c72298ab01b5e6f7d92.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Nữ Phụ Không Lẫn Vào (Khoái Xuyên)</h4>
+                <p class="item-author">Thể loại: Xuyên Việt</p>
+                <p class="item-author">Tác giả: Phong Lưu Thư Ngốc </p>
+                <p class="item-update">Lượt xem: 518722</p>
+                <p class="item-update">Tình trạng: Hoàn thành</p>
+                <p class="item-update">Số chuơng: 475</p>
+            </div>
+        </a>
+    </div>
+        <div class="book-item wd-f100 mrgbot-12 item-4">
+        <a href="https://m.tangthuvien.net/doc-truyen/39012" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/a5ef579dd9e0a8c382de41c93055794cae70f4b035752e512df0c760c4f6b30e.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Nhân Tại Cao Tam, Hệ Thống Thuyết Ngã Hòa Thanh Mai Tương Thân</h4>
+                <p class="item-author">Thể loại: Đô Thị</p>
+                <p class="item-author">Tác giả: Nam Sơn Luân Y Phiêu Di Quan Quân </p>
+                <p class="item-update">Lượt xem: 4385</p>
+                <p class="item-update">Tình trạng: Chưa hoàn thành</p>
+                <p class="item-update">Số chuơng: 73</p>
+            </div>
+        </a>
+    </div>
+            </div>
+    </div>
+    <div class="wd-f100 mrgtop-6 mrgbot-6">
+        <a href="https://tangthuvien.net/tai-app" target="_blank" data-eid="qd_A116" data-qd_dd_p1="1" style="display: inline;">
+        <img src="https://tangthuvien.net/images/banner-app-ttv.jpg">
+        <span class="op-tag"></span>
+    </a>
+    </div>
+    <div class="block-finishs module-box bg-white wd-f100 pdd-6">
+        <div class="module-header wd-f100 pdd-6">
+            <h3 class="module-title">Truyện đã hoàn thành</h3>
+            <a href="https://m.tangthuvien.net/truyen-hoan-thanh" class="pull-right">Xem thêm <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+        </div>
+        <div class="module-list wd-f100 pdd-6 mrgtop-6">
+            <div class="book-item wd-f100 mrgbot-12 item-0">
+        <a href="https://m.tangthuvien.net/doc-truyen/36042" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/657f7e71a09faf7571f8ad0f47e1d65ec17d78096e52e6b97431155518c72b1f.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Đạo Môn Sinh</h4>
+                <p class="item-author">Thể loại: Tiên Hiệp</p>
+                <p class="item-author">Tác giả: Mạc Ma Công Tử </p>
+                <p class="item-update">Lượt xem: 158114</p>
+                <p class="item-update">Số chuơng: 1893</p>
+            </div>
+        </a>
+    </div>
+        <div class="book-item wd-f100 mrgbot-12 item-1">
+        <a href="https://m.tangthuvien.net/doc-truyen/23623" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/4e36fffab6068d0b02a47bd138eb013ccfa857a640f4e051c5de16f7c776c9bc.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Thiên A Giáng Lâm</h4>
+                <p class="item-author">Thể loại: Khoa Huyễn</p>
+                <p class="item-author">Tác giả: Yên Vũ Giang Nam </p>
+                <p class="item-update">Lượt xem: 1240429</p>
+                <p class="item-update">Số chuơng: 1533</p>
+            </div>
+        </a>
+    </div>
+        <div class="book-item wd-f100 mrgbot-12 item-2">
+        <a href="https://m.tangthuvien.net/doc-truyen/38944" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/ad4e385ffa95e494d057d622b35ed75fb0cbbf19fea5aa94f697c7da86816893.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>[ Dịch ] Cẩu Thả Tu Luyện Bên Người Nữ Ma Đầu</h4>
+                <p class="item-author">Thể loại: Tiên Hiệp</p>
+                <p class="item-author">Tác giả: Phạ Lạt Đích Hồng Tiêu </p>
+                <p class="item-update">Lượt xem: 87434</p>
+                <p class="item-update">Số chuơng: 961</p>
+            </div>
+        </a>
+    </div>
+        <div class="book-item wd-f100 mrgbot-12 item-3">
+        <a href="https://m.tangthuvien.net/doc-truyen/30718" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/81c1f12d2ff5486f92a9b2a76694052a0e187cb15ca06b752eaaa62baf3f8c00.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Thiếp Xinh Đẹp</h4>
+                <p class="item-author">Thể loại: Xuyên Việt</p>
+                <p class="item-author">Tác giả: Thư Ca </p>
+                <p class="item-update">Lượt xem: 30368</p>
+                <p class="item-update">Số chuơng: 159</p>
+            </div>
+        </a>
+    </div>
+        <div class="book-item wd-f100 mrgbot-12 item-4">
+        <a href="https://m.tangthuvien.net/doc-truyen/35706" class="wd-f100">
+            <div class="story-image ">
+                                <img src="https://img.tangthuvien.net/images/story/24a1b45b5360b34498184b06f13ed7bfa50dcb48d8cf7f157c96d219f7caa928.jpg" height="105px" width="100%" onerror="this.src='https://m.tangthuvien.net/images/default-book.png'"/>
+            </div>
+            <div class="story-detail wd-f100">
+                <h4>Hồn Chủ</h4>
+                <p class="item-author">Thể loại: Tiên Hiệp</p>
+                <p class="item-author">Tác giả: Nhâm Ngã Tiếu </p>
+                <p class="item-update">Lượt xem: 161150</p>
+                <p class="item-update">Số chuơng: 279</p>
+            </div>
+        </a>
+    </div>
+            </div>
+    </div>
+    <script>
+        $jq = jQuery.noConflict();
+        $jq(document).ready(function($jq) {
+            $jq('.slider').owlCarousel({
+                items: 1,
+                loop:true,
+                autoplay: true,
+                autoplayTimeout:5000,
+                margin: 12,
+                stagePadding: 12,
+                smartSpeed: 450
+            });
+            $jq('.module-slide').owlCarousel({
+                items:4,
+                loop:false,
+                margin:10,
+                merge:true,
+            });
+        });
+        function changeTab(el){
+            $jq('.tab-list').addClass('hidden');
+            $jq('.tab-'+el).removeClass('hidden');
+            $jq('.btn-tab').removeClass('active');
+            $jq('.btn-tab-'+el).addClass('active');
+        }
+
+    </script>
+    </div>
+</div>
+<footer class="bg-white wd-f100">
+   <div class="footer-link pdd-12">
+       <div class="row">
+           <a class="col-xs-3 text-center" href="https://itunes.apple.com/vn/app/id1099247862?mt=8">IOS</a>
+
+           <a class="col-xs-3 text-center" href="https://play.google.com/store/apps/details?id=com.book.truyen.tangthuvien">Android</a>
+
+           <a class="col-xs-3 text-center" href="https://nae.vn/web/">PC</a>
+
+           <a class="col-xs-3 text-center" href="#">Nội quy</a>
+       </div>
+   </div>
+    <div class="footer-copy">copyright © 2017 Tàng thư viện mobile</div>
+    
+
+
+</footer>
+<a href="javascript:void(0);" onclick="openAppStore()" class="download_app_fixed">
+    <img src="https://m.tangthuvien.net/images/ttvapp.png" width="35px"/>
+    Tải app TTV để sử dụng đầy đủ chức năng
+</a>
+<script>
+    function openAppStore() {
+        if ((navigator.userAgent.match(/Windows Phone/i))){
+            return false;
+        }
+        if(/iPad|iPhone|iPod/.test(navigator.userAgent)){
+            window.location.href= 'https://itunes.apple.com/vn/app/id1099247862?mt=8';
+        }else{
+            window.location.href= 'https://play.google.com/store/apps/details?id=com.book.truyen.tangthuvien';
+        }
+    }
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-13FFK38L2F"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-13FFK38L2F');
+</script><div id="searchPopup" class="search-popup hidden" >
+    <header class="header">
+        <form id="searchForm" action="#" class="search-form">
+            <div class="search-area search-box">
+                <input type="text" id="key-search" name="key" class="form-control text-center" placeholder="Tìm kiếm"/>
+            </div>
+            <a id="closeSearchPopup" onclick="closeSearch()" href="javascript:void(0);" class="search-cancel" role="button"><i class="fa fa-bars" aria-hidden="true"></i></a>
+        </form>
+    </header>
+    <div id="searchList" class="search-list">
+        <ul class="search-list-ul" id="searchList-ul">
+
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+
+    function searchOpen(){
+        jQuery('#searchPopup').removeClass('hidden');
+        jQuery('#key-search').focus();
+    }
+    function closeSearch(){
+        jQuery('#searchPopup').addClass('hidden');
+    }
+    jQuery(function() {
+        //autocomplete
+        jQuery("#key-search").autocomplete({
+            source: "/search-result",
+            minLength: 1 
+        }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+            if (item.type === 'story')
+                return jQuery( "<li></li>" )
+                    .data( "ui-autocomplete-item", item )
+                    .append( "<a href='https://m.tangthuvien.net/doc-truyen/"+ item.id+"'><strong>" + item.name + "</strong><span>"+ item.author +"&nbsp; "+item.number+" chương</span><i class='fa fa-angle-right' aria-hidden='true'></i></a>" ).appendTo( ul );
+            // For now which just want to show the person.given_name in the list.
+            if (item.type === 'author')
+                return jQuery('<li>').data("ui-autocomplete-item", item)
+                    .append('<a href="/tac-gia/'+item.id+'"><strong>' +item.name +'</strong><span>Tác giả</span><i class="fa fa-angle-right" aria-hidden="true"></i></a>')
+                    .appendTo(ul);
+        };
+
+    });
+</script></body>
+</html>

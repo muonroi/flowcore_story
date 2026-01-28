@@ -1,0 +1,72 @@
+PHÂN TÍCH CÁCH JS NẠP NỘI DUNG CHƯƠNG VÀ ĐỔ VÀO #chapter-reading-content
+======================================================================
+
+1) TÓM TẮT NGẮN
+- Trang chương KHÔNG gọi API JSON để lấy nội dung.
+- Nội dung chương được NHÚNG SẴN trong HTML dưới dạng CHUỖI BASE64 CỦA DỮ LIỆU NÉN (DEFLATE/zlib).
+- Khi trình duyệt parse đến <script id="decompress-script">:
+    + atob(base64) → bytes
+    + pako.inflate(bytes, { to: 'string' }) → ra HTML
+    + Làm sạch nhẹ (remove div.ads, chuẩn hóa <br>)
+    + Gán vào #chapter-reading-content bằng innerHTML
+    + Script tự xóa khỏi DOM
+- Chuyển chương là link thường (không ajax): mỗi trang chương có một chuỗi Base64 khác và lặp lại quá trình trên.
+
+2) NỘI DUNG LẤY TỪ ĐÂU?
+- Từ chuỗi Base64 đặt ngay TRONG TRANG (trong <script id="decompress-script">). Chuỗi này là dữ liệu nén bằng DEFLATE.
+- Thư viện pako được nạp từ CDN (pako 2.1.0) trước khi script giải nén chạy.
+
+3) “CALL KHI NÀO”? CƠ CHẾ THỰC THI
+- Đoạn giải nén được bọc trong IIFE ((function(){ ... })()), vì vậy chạy NGAY khi trình duyệt đọc tới thẻ script đó (sau khi pako đã sẵn sàng).
+- Không có fetch/XHR nào khác để lấy content chương.
+
+4) QUY TRÌNH TỪNG BƯỚC (ALGORITHM)
+- B1: Lấy chuỗi base64 (gán trong biến base64).
+- B2: Giải Base64 → Uint8Array:  Uint8Array.from(atob(base64), c => c.charCodeAt(0))
+- B3: Inflate (DEFLATE → chuỗi UTF-8):  pako.inflate(bytes, { to: 'string' })
+- B4: Tạo div tạm, gán innerHTML = text.trim(), dọn “div.ads”, chuẩn hóa <br>
+- B5: (Tuỳ chọn) chèn block quảng bá/audio sau phần tử thứ 25 (đếm qua “p, br”)
+- B6: Đổ kết quả vào document.getElementById('chapter-reading-content').innerHTML
+- B7: Xóa chính thẻ <script id="decompress-script"> để gọn DOM
+
+5) VÌ SAO KHÔNG CHỈ “BASE64 → TEXT”?
+- Base64 chỉ là ENCODING, không phải ENCRYPTION. Chuỗi base64 ở đây là dữ liệu NÉN.
+- Nếu chỉ atob(base64) → bạn thu được “binary string”, chưa phải HTML.
+- Cần THÊM bước “inflate” (giải nén DEFLATE) để ra văn bản HTML hiển thị được.
+
+6) TRÍCH DẪN MÃ QUAN TRỌNG (RÚT GỌN)
+- pako.inflate(binary, { to: 'string' })       // chuyển bytes nén → chuỗi
+- document.getElementById('chapter-reading-content').innerHTML = tempDiv.innerHTML
+- const self = document.getElementById('decompress-script'); self.parentNode.removeChild(self)
+
+7) GỢI Ý KHAI THÁC/SCRAPE (SERVER-SIDE)
+- Bóc chuỗi Base64 từ HTML → bytes → DEFLATE (zlib) → HTML.
+- Ví dụ .NET (ý tưởng):
+    byte[] compressed = Convert.FromBase64String(base64);
+    using var input = new MemoryStream(compressed);
+    using var output = new MemoryStream();
+    using (var z = new System.IO.Compression.ZLibStream(input, CompressionMode.Decompress))
+        z.CopyTo(output);
+    string html = System.Text.Encoding.UTF8.GetString(output.ToArray());
+
+8) LÝ DO HỌ LÀM VẬY (PHÂN TÍCH NGUYÊN NHÂN)
+- Giảm copy thô: nội dung không nằm sẵn ở DOM trước khi JS chạy.
+- Cho phép chèn block quảng cáo/CTA vào vị trí đọc “ấm”.
+- Có thể tiết kiệm băng thông so với HTML thô (nội dung nén).
+
+9) THAM CHIẾU (LINK CÔNG KHAI ĐÃ KIỂM TRA TRUY CẬP)
+- MDN – Window.atob(): https://developer.mozilla.org/docs/Web/API/Window/atob
+- MDN – Base64 (giải thích bản chất encoding, không phải encryption): https://developer.mozilla.org/en-US/docs/Glossary/Base64
+- pako README + ví dụ inflate(..., { to: 'string' }): https://github.com/nodeca/pako/blob/master/README.md
+- pako API (docs): https://nodeca.github.io/pako/
+- CDNJS – pako 2.1.0 (có pako.min.js): https://cdnjs.com/libraries/pako
+
+10) DẤU VẾT TRONG FILE BẠN CUNG CẤP (MÔ TẢ)
+- Có thẻ <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
+- Có <script id="decompress-script"> chứa biến base64, atob → Uint8Array → pako.inflate(..., {to:'string'})
+- Có container #chapter-reading-content và thao tác innerHTML
+- Có link “Chương tiếp” là thẻ <a class="btn next_page" ...> (không ajax)
+
+KẾT LUẬN
+- KHÔNG có mã hoá; CHỈ có nén (DEFLATE). Phải làm đủ: Base64 → bytes → Inflate → HTML.
+- Logic đổ nội dung: chạy ngay tại client khi parse tới script; không có XHR lấy content.

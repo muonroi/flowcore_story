@@ -1,0 +1,2225 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile#">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Chương 51: Xảy ra chuyện lớn! của truyện Vô Địch Thiên Hạ</title>
+        <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+        <meta name="description" content="Đọc Chương 51: Xảy ra chuyện lớn! của truyện Vô Địch Thiên Hạ">
+        <meta name='robots' content="index,follow"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="coccoc-site-verification" content="1519395013a90fe2373e33384a7a5aaa"/>
+        <meta name="coccoc-site-verification" content="3099b8b319d81c8f9557afa4b97bbb08"/>
+        <!--[if lt IE 9]> <script src="https://cdn.truyencom.com/lib/html5.js"></script><![endif]-->
+        <!--[if lt IE 9]> <script src="https://cdn.truyencom.com/lib/css3-mediaqueries.min.js"></script><![endif]-->
+        <link rel="canonical" href="https://truyencom.com/vo-dich-thien-ha/chuong-51.html"/>
+        <link rel="preconnect" href="https://cdn.truyencom.com">
+        <link rel="preconnect" href="https://www.google-analytics.com/">
+        <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff" href="https://cdn.truyencom.com/font/Roboto-Regular.woff">
+        <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff" href="https://cdn.truyencom.com/font/RobotoCondensed-Regular.woff">
+        <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff2" href="https://cdn.truyencom.com/font/glyphicons-halflings-regular.woff2">
+        <link rel="preload" as="image" type="image/jpeg" href="https://cdn.truyencom.com/img/bg.jpg">
+        <link rel="preload" as="image" type="image/png" href="https://cdn.truyencom.com/img/spriteimg_new_white_op.png">
+        <style>
+            html {
+                font-family: sans-serif;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%
+            }
+
+            body {
+                margin: 0
+            }
+
+            a {
+                background-color: transparent
+            }
+
+            h1 {
+                font-size: 2em;
+                margin: .67em 0
+            }
+
+            hr {
+                -webkit-box-sizing: content-box;
+                -moz-box-sizing: content-box;
+                box-sizing: content-box;
+                height: 0
+            }
+
+            button, input, select {
+                color: inherit;
+                font: inherit;
+                margin: 0
+            }
+
+            button {
+                overflow: visible
+            }
+
+            button, select {
+                text-transform: none
+            }
+
+            button {
+                -webkit-appearance: button
+            }
+
+            button::-moz-focus-inner, input::-moz-focus-inner {
+                border: 0;
+                padding: 0
+            }
+
+            input {
+                line-height: normal
+            }
+
+            input[type="radio"] {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+                padding: 0
+            }
+
+            input[type="search"] {
+                -webkit-appearance: textfield;
+                -webkit-box-sizing: content-box;
+                -moz-box-sizing: content-box;
+                box-sizing: content-box
+            }
+
+            input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
+                -webkit-appearance: none
+            }
+
+            @font-face {
+                font-family: 'Glyphicons Halflings';
+                font-display: swap;
+                src: url(//cdn.truyencom.com/font/glyphicons-halflings-regular.eot);
+                src: url('//cdn.truyencom.com/font/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url(//cdn.truyencom.com/font/glyphicons-halflings-regular.woff2) format('woff2'), url(//cdn.truyencom.com/font/glyphicons-halflings-regular.woff) format('woff'), url(//cdn.truyencom.com/font/glyphicons-halflings-regular.ttf) format('truetype'), url('//cdn.truyencom.com/font/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')
+            }
+
+            .glyphicon {
+                position: relative;
+                top: 1px;
+                display: inline-block;
+                font-family: 'Glyphicons Halflings';
+                font-style: normal;
+                font-weight: 400;
+                line-height: 1;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale
+            }
+
+            .glyphicon-search:before {
+                content: "\e003"
+            }
+
+            .glyphicon-cog:before {
+                content: "\e019"
+            }
+
+            .glyphicon-home:before {
+                content: "\e021"
+            }
+
+            .glyphicon-list-alt:before {
+                content: "\e032"
+            }
+
+            .glyphicon-list:before {
+                content: "\e056"
+            }
+
+            .glyphicon-chevron-left:before {
+                content: "\e079"
+            }
+
+            .glyphicon-chevron-right:before {
+                content: "\e080"
+            }
+
+            .glyphicon-menu-up:before {
+                content: "\e260"
+            }
+
+            .glyphicon-menu-down:before {
+                content: "\e259"
+            }
+
+            * {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box
+            }
+
+            *:before, *:after {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box
+            }
+
+            html {
+                font-size: 10px
+            }
+
+            body {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                font-size: 14px;
+                line-height: 1.42857143;
+                color: #333;
+                background-color: #fff
+            }
+
+            input, button, select {
+                font-family: inherit;
+                font-size: inherit;
+                line-height: inherit
+            }
+
+            a {
+                color: #428bca;
+                text-decoration: none
+            }
+
+            hr {
+                margin-top: 20px;
+                margin-bottom: 20px;
+                border: 0;
+                border-top: 1px solid #eee
+            }
+
+            .sr-only {
+                position: absolute;
+                width: 1px;
+                height: 1px;
+                margin: -1px;
+                padding: 0;
+                overflow: hidden;
+                clip: rect(0, 0, 0, 0);
+                border: 0
+            }
+
+            h1, h2 {
+                font-family: inherit;
+                font-weight: 500;
+                line-height: 1.1;
+                color: inherit
+            }
+
+            h1, h2 {
+                margin-top: 20px;
+                margin-bottom: 10px
+            }
+
+            h1 {
+                font-size: 36px
+            }
+
+            h2 {
+                font-size: 30px
+            }
+
+            .text-center {
+                text-align: center
+            }
+
+            ul, ol {
+                margin-top: 0;
+                margin-bottom: 10px
+            }
+
+            ul ul {
+                margin-bottom: 0
+            }
+
+            .container {
+                margin-right: auto;
+                margin-left: auto;
+                padding-left: 15px;
+                padding-right: 15px
+            }
+
+            @media (min-width: 768px) {
+                .container {
+                    width: 750px
+                }
+            }
+
+            @media (min-width: 992px) {
+                .container {
+                    width: 970px
+                }
+            }
+
+            @media (min-width: 1200px) {
+                .container {
+                    width: 1170px
+                }
+            }
+
+            .row {
+                margin-left: -15px;
+                margin-right: -15px
+            }
+
+            .col-sm-2, .col-md-4, .col-sm-5, .col-md-5, .col-md-7, .col-xs-12 {
+                position: relative;
+                min-height: 1px;
+                padding-left: 15px;
+                padding-right: 15px
+            }
+
+            .col-xs-12 {
+                float: left
+            }
+
+            .col-xs-12 {
+                width: 100%
+            }
+
+            @media (min-width: 768px) {
+                .col-sm-2, .col-sm-5 {
+                    float: left
+                }
+
+                .col-sm-5 {
+                    width: 41.66666667%
+                }
+
+                .col-sm-2 {
+                    width: 16.66666667%
+                }
+            }
+
+            @media (min-width: 992px) {
+                .col-md-4, .col-md-5, .col-md-7 {
+                    float: left
+                }
+
+                .col-md-7 {
+                    width: 58.33333333%
+                }
+
+                .col-md-5 {
+                    width: 41.66666667%
+                }
+
+                .col-md-4 {
+                    width: 33.33333333%
+                }
+            }
+
+            label {
+                display: inline-block;
+                max-width: 100%;
+                margin-bottom: 5px;
+                font-weight: 700
+            }
+
+            input[type="search"] {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box
+            }
+
+            input[type="radio"] {
+                margin: 4px 0 0;
+                margin-top: 1px \9;
+                line-height: normal
+            }
+
+            .form-control {
+                display: block;
+                width: 100%;
+                height: 34px;
+                padding: 6px 12px;
+                font-size: 14px;
+                line-height: 1.42857143;
+                color: #555;
+                background-color: #fff;
+                background-image: none;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+                box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075)
+            }
+
+            .form-control::-moz-placeholder {
+                color: #777;
+                opacity: 1
+            }
+
+            .form-control:-ms-input-placeholder {
+                color: #777
+            }
+
+            .form-control::-webkit-input-placeholder {
+                color: #777
+            }
+
+            .form-control::-ms-expand {
+                border: 0;
+                background-color: transparent
+            }
+
+            input[type="search"] {
+                -webkit-appearance: none
+            }
+
+            .form-group {
+                margin-bottom: 15px
+            }
+
+            .radio-inline input[type="radio"] {
+                position: absolute;
+                margin-left: -20px;
+                margin-top: 4px \9
+            }
+
+            .radio-inline {
+                position: relative;
+                display: inline-block;
+                padding-left: 20px;
+                margin-bottom: 0;
+                vertical-align: middle;
+                font-weight: 400
+            }
+
+            .radio-inline + .radio-inline {
+                margin-top: 0;
+                margin-left: 10px
+            }
+
+            .form-group-sm .form-control {
+                height: 30px;
+                padding: 5px 10px;
+                font-size: 12px;
+                line-height: 1.5;
+                border-radius: 3px
+            }
+
+            .form-group-sm select.form-control {
+                height: 30px;
+                line-height: 30px
+            }
+
+            .form-horizontal .radio-inline {
+                margin-top: 0;
+                margin-bottom: 0;
+                padding-top: 7px
+            }
+
+            .form-horizontal .form-group {
+                margin-left: -15px;
+                margin-right: -15px
+            }
+
+            @media (min-width: 768px) {
+                .form-horizontal .control-label {
+                    text-align: right;
+                    margin-bottom: 0;
+                    padding-top: 7px
+                }
+            }
+
+            @media (min-width: 768px) {
+                .form-horizontal .form-group-sm .control-label {
+                    padding-top: 6px;
+                    font-size: 12px
+                }
+            }
+
+            .btn {
+                display: inline-block;
+                margin-bottom: 0;
+                font-weight: 400;
+                text-align: center;
+                vertical-align: middle;
+                -ms-touch-action: manipulation;
+                touch-action: manipulation;
+                background-image: none;
+                border: 1px solid transparent;
+                white-space: nowrap;
+                padding: 6px 12px;
+                font-size: 14px;
+                line-height: 1.42857143;
+                border-radius: 4px
+            }
+
+            .btn-default {
+                color: #333;
+                background-color: #fff;
+                border-color: #ccc
+            }
+
+            .btn-success {
+                color: #fff;
+                background-color: #5cb85c;
+                border-color: #4cae4c
+            }
+
+            .collapse {
+                display: none
+            }
+
+            .caret {
+                display: inline-block;
+                width: 0;
+                height: 0;
+                margin-left: 2px;
+                vertical-align: middle;
+                border-top: 4px dashed;
+                border-top: 4px solid \9;
+                border-right: 4px solid transparent;
+                border-left: 4px solid transparent
+            }
+
+            .dropdown {
+                position: relative
+            }
+
+            .dropdown-menu {
+                position: absolute;
+                top: 100%;
+                left: 0;
+                z-index: 1000;
+                display: none;
+                float: left;
+                min-width: 160px;
+                padding: 5px 0;
+                margin: 2px 0 0;
+                list-style: none;
+                font-size: 14px;
+                text-align: left;
+                background-color: #fff;
+                border: 1px solid #ccc;
+                border: 1px solid rgba(0, 0, 0, .15);
+                border-radius: 4px;
+                -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+                box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+                -webkit-background-clip: padding-box;
+                background-clip: padding-box
+            }
+
+            .dropdown-menu > li > a {
+                display: block;
+                padding: 3px 20px;
+                clear: both;
+                font-weight: 400;
+                line-height: 1.42857143;
+                color: #333;
+                white-space: nowrap
+            }
+
+            .dropdown-menu-right {
+                left: auto;
+                right: 0
+            }
+
+            .btn-group {
+                position: relative;
+                display: inline-block;
+                vertical-align: middle
+            }
+
+            .btn-group > .btn {
+                position: relative;
+                float: left
+            }
+
+            .btn-group .btn + .btn {
+                margin-left: -1px
+            }
+
+            .btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle) {
+                border-radius: 0
+            }
+
+            .btn-group > .btn:first-child {
+                margin-left: 0
+            }
+
+            .btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
+                border-bottom-right-radius: 0;
+                border-top-right-radius: 0
+            }
+
+            .btn-group > .btn:last-child:not(:first-child) {
+                border-bottom-left-radius: 0;
+                border-top-left-radius: 0
+            }
+
+            .input-group {
+                position: relative;
+                display: table;
+                border-collapse: separate
+            }
+
+            .input-group .form-control {
+                position: relative;
+                z-index: 2;
+                float: left;
+                width: 100%;
+                margin-bottom: 0
+            }
+
+            .input-group-btn, .input-group .form-control {
+                display: table-cell
+            }
+
+            .input-group-btn {
+                width: 1%;
+                white-space: nowrap;
+                vertical-align: middle
+            }
+
+            .input-group .form-control:first-child {
+                border-bottom-right-radius: 0;
+                border-top-right-radius: 0
+            }
+
+            .input-group-btn:last-child > .btn {
+                border-bottom-left-radius: 0;
+                border-top-left-radius: 0
+            }
+
+            .input-group-btn {
+                position: relative;
+                font-size: 0;
+                white-space: nowrap
+            }
+
+            .input-group-btn > .btn {
+                position: relative
+            }
+
+            .input-group-btn:last-child > .btn {
+                z-index: 2;
+                margin-left: -1px
+            }
+
+            .nav {
+                margin-bottom: 0;
+                padding-left: 0;
+                list-style: none
+            }
+
+            .nav > li {
+                position: relative;
+                display: block
+            }
+
+            .nav > li > button {
+                position: relative;
+                display: block;
+                padding: 10px 15px
+            }
+
+            .navbar {
+                position: relative;
+                min-height: 50px;
+                margin-bottom: 20px;
+                border: 1px solid transparent
+            }
+
+            @media (min-width: 992px) {
+                .navbar {
+                    border-radius: 4px
+                }
+            }
+
+            @media (min-width: 992px) {
+                .navbar-header {
+                    float: left
+                }
+            }
+
+            .navbar-collapse {
+                overflow-x: visible;
+                padding-right: 15px;
+                padding-left: 15px;
+                border-top: 1px solid transparent;
+                -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+                box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+                -webkit-overflow-scrolling: touch
+            }
+
+            @media (min-width: 992px) {
+                .navbar-collapse {
+                    width: auto;
+                    border-top: 0;
+                    -webkit-box-shadow: none;
+                    box-shadow: none
+                }
+
+                .navbar-collapse.collapse {
+                    display: block !important;
+                    height: auto !important;
+                    padding-bottom: 0;
+                    overflow: visible !important
+                }
+
+                .navbar-static-top .navbar-collapse {
+                    padding-left: 0;
+                    padding-right: 0
+                }
+            }
+
+            .container > .navbar-header, .container > .navbar-collapse {
+                margin-right: -15px;
+                margin-left: -15px
+            }
+
+            @media (min-width: 992px) {
+                .container > .navbar-header, .container > .navbar-collapse {
+                    margin-right: 0;
+                    margin-left: 0
+                }
+            }
+
+            .navbar-static-top {
+                z-index: 1000;
+                border-width: 0 0 1px
+            }
+
+            @media (min-width: 992px) {
+                .navbar-static-top {
+                    border-radius: 0
+                }
+            }
+
+            .navbar-toggle {
+                position: relative;
+                float: right;
+                margin-right: 15px;
+                padding: 9px 10px;
+                margin-top: 8px;
+                margin-bottom: 8px;
+                background-color: transparent;
+                background-image: none;
+                border: 1px solid transparent;
+                border-radius: 4px
+            }
+
+            .navbar-toggle .icon-bar {
+                display: block;
+                width: 22px;
+                height: 2px;
+                border-radius: 1px
+            }
+
+            .navbar-toggle .icon-bar + .icon-bar {
+                margin-top: 4px
+            }
+
+            @media (min-width: 992px) {
+                .mobile-search {
+                    display:none;
+                }
+
+                .navbar-toggle {
+                    display: none
+                }
+            }
+
+            .navbar-nav {
+                margin: 7.5px -15px
+            }
+
+            .navbar-nav > li > button {
+                padding-top: 10px;
+                padding-bottom: 10px;
+                line-height: 20px
+            }
+
+            @media (min-width: 992px) {
+                .navbar-nav {
+                    float: left;
+                    margin: 0
+                }
+
+                .navbar-nav > li {
+                    float: left
+                }
+
+                .navbar-nav > li > button {
+                    padding-top: 15px;
+                    padding-bottom: 15px
+                }
+            }
+
+            .navbar-form {
+                margin-left: -15px;
+                margin-right: -15px;
+                padding: 10px 15px;
+                border-top: 1px solid transparent;
+                border-bottom: 1px solid transparent;
+                -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
+                box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
+                margin-top: 8px;
+                margin-bottom: 8px
+            }
+
+            @media (min-width: 768px) {
+                .navbar-form .form-control {
+                    display: inline-block;
+                    width: auto;
+                    vertical-align: middle
+                }
+
+                .navbar-form .input-group {
+                    display: inline-table;
+                    vertical-align: middle
+                }
+
+                .navbar-form .input-group .input-group-btn, .navbar-form .input-group .form-control {
+                    width: auto
+                }
+
+                .navbar-form .input-group > .form-control {
+                    width: 100%
+                }
+            }
+
+            @media (min-width: 992px) {
+                .navbar-form {
+                    width: auto;
+                    border: 0;
+                    margin-left: 0;
+                    margin-right: 0;
+                    padding-top: 0;
+                    padding-bottom: 0;
+                    -webkit-box-shadow: none;
+                    box-shadow: none
+                }
+            }
+
+            .navbar-nav > li > .dropdown-menu {
+                margin-top: 0;
+                border-top-right-radius: 0;
+                border-top-left-radius: 0
+            }
+
+            @media (min-width: 992px) {
+                .navbar-right {
+                    float: right !important;
+                    margin-right: -15px
+                }
+            }
+
+            .navbar-default {
+                background-color: #f8f8f8;
+                border-color: #e7e7e7
+            }
+
+            .navbar-default .navbar-toggle {
+                border-color: #ddd
+            }
+
+            .navbar-default .navbar-toggle .icon-bar {
+                background-color: #888
+            }
+
+            .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+                border-color: #e7e7e7
+            }
+
+            .breadcrumb {
+                padding: 8px 15px;
+                margin-bottom: 20px;
+                list-style: none;
+                background-color: #f5f5f5;
+                border-radius: 4px
+            }
+
+            .breadcrumb > li {
+                display: inline-block
+            }
+
+            .breadcrumb > li + li:before {
+                content: "/\00a0";
+                padding: 0 5px;
+                color: #ccc
+            }
+
+            .breadcrumb > .active {
+                color: #777
+            }
+
+            .list-group {
+                margin-bottom: 20px;
+                padding-left: 0
+            }
+
+            .container:before, .container:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after {
+                content: " ";
+                display: table
+            }
+
+            .container:after, .row:after, .form-horizontal .form-group:after, .nav:after, .navbar:after, .navbar-header:after, .navbar-collapse:after {
+                clear: both
+            }
+
+            .pull-right {
+                float: right !important
+            }
+
+            .hide {
+                display: none !important
+            }
+
+            @-ms-viewport {
+                width: device-width
+            }
+
+            .visible-md, .visible-lg {
+                display: none !important
+            }
+
+            @media (min-width: 992px) and (max-width: 1199px) {
+                .visible-md {
+                    display: block !important
+                }
+            }
+
+            @media (min-width: 1200px) {
+                .visible-lg {
+                    display: block !important
+                }
+            }
+
+            @media (max-width: 767px) {
+                .hidden-xs {
+                    display: none !important
+                }
+            }
+
+            @media (min-width: 768px) and (max-width: 991px) {
+                .hidden-sm {
+                    display: none !important
+                }
+            }
+
+            @media (min-width: 992px) and (max-width: 1199px) {
+                .hidden-md {
+                    display: none !important
+                }
+            }
+
+            @media (min-width: 1200px) {
+                .hidden-lg {
+                    display: none !important
+                }
+            }
+
+            .navbar {
+                min-height: 0
+            }
+
+            .navbar-nav {
+                font-family: 'Roboto Condensed', sans-serif
+            }
+
+            .navbar-default {
+                background-color: #ECECEC;
+                border-color: #ECECEC
+            }
+
+            .btn-responsive {
+                padding: 6px 12px;
+                font-size: 14px;
+                line-height: 1.5;
+                border-radius: 3px
+            }
+
+            @media (min-width: 992px) {
+                .btn-responsive {
+                    padding: 10px 16px;
+                    font-size: 18px;
+                    line-height: 1.33;
+                    border-radius: 6px
+                }
+            }
+
+            @media (min-width: 1200px) {
+                .btn-responsive {
+                    padding: 16px 24px;
+                    font-size: 28px;
+                    line-height: 1;
+                    border-radius: 8px
+                }
+            }
+
+            html, body {
+                height: 100%
+            }
+
+            body {
+                background: url(//cdn.truyencom.com/img/bg.jpg) top center repeat-x #F4F4F4;
+                color: #4E4E4E
+            }
+
+            * {
+                margin: 0
+            }
+
+            a {
+                color: #4E4E4E
+            }
+
+            .form-control {
+                box-shadow: none
+            }
+
+            .form-control {
+                box-shadow: none
+            }
+
+            h1, h2 {
+                margin: 0;
+                padding: 0;
+                font-size: inherit;
+                display: inline-block
+            }
+
+            #body_chapter {
+                background-image: none;
+                background-color: #F4F4F4
+            }
+
+            #wrap {
+                min-height: 100%;
+                min-height: calc(100% - 117px);
+                height: auto !important;
+                height: 100%
+            }
+
+            .navbar-default {
+                background-color: #14425d;
+                background-position-x: -50px;
+                background-repeat: no-repeat;
+                -moz-box-shadow: 0 0 6px rgba(0, 0, 0, .3);
+                -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, .3);
+                box-shadow: 0 0 6px rgba(0, 0, 0, .3)
+            }
+
+            .navbar-default .navbar-nav > li > button {
+                color: #f2f2f2;
+                border: 0;
+                width: 100%;
+                background: transparent;
+                text-align: left
+            }
+
+            .navbar-breadcrumb {
+                background: #ECECEC;
+                border-top: 1px solid #476171
+            }
+
+            .settings .form-horizontal .form-group-sm .control-label {
+                font-weight: 400
+            }
+
+            .search-holder .form-control {
+                height: 38px !important;
+                padding: 5px 10px;
+                border-right: 0;
+                border-radius: 0
+            }
+
+            .search-holder > .input-group-btn > .btn {
+                height: 38px;
+                padding: 5px 10px;
+                border-left: 0;
+                border-radius: 0
+            }
+
+            .breadcrumb-container {
+                height: 30px;
+                line-height: 30px;
+                color: #4E4E4E;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                font-family: 'Roboto Condensed', sans-serif
+            }
+
+            .breadcrumb {
+                padding: 0;
+                margin: 0;
+                background-color: inherit;
+                border-radius: 0;
+                display: inline-block
+            }
+
+            .breadcrumb > li:first-child span.glyphicon {
+                padding-right: 6px
+            }
+
+            .breadcrumb a {
+                color: #666
+            }
+
+            .breadcrumb > .active, .breadcrumb > .active a {
+                color: #8D8D8D
+            }
+
+            .header-logo {
+                display: block;
+                width: 196px;
+                height: 38px;
+                background: url(//cdn.truyencom.com/img/spriteimg_new_white_op.png) no-repeat 0 0;
+                text-indent: -9999px;
+                white-space: nowrap;
+                outline: none;
+                margin: 5px 5px 0 0
+            }
+
+            .multi-column {
+                width: 409px
+            }
+
+            .navbar-nav > li > .dropdown-menu {
+                background-color: #2f566d
+            }
+
+            .multi-column .dropdown-menu {
+                display: flex !important;
+                position: static !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                border: none !important;
+                box-shadow: none !important;
+                min-width: 95px;
+                max-width: none !important;
+                background-color: transparent;
+                flex-wrap: wrap;
+            }
+
+            .multi-column .dropdown-menu > li {
+                width: 33.33334%;
+            }
+
+            .dropdown-menu > li > a {
+                padding: 6px 15px;
+                font-size: 15px
+            }
+
+            .list-search-res {
+                margin-top: 3px;
+                position: absolute;
+                width: 235px;
+                z-index: 1000;
+                background-color: #fff;
+                box-shadow: 0 2px 10px #ABABAB
+            }
+
+            .mobile-search .list-search-res {
+                width: 100%;
+            }
+
+            .chapter {
+                text-align: center
+            }
+
+            .chapter .truyen-title {
+                display: table;
+                font-size: 24px;
+                margin: 0 auto 5px;
+                text-transform: uppercase;
+                font-family: "Roboto Condensed", Tahoma, sans-serif;
+                color: #690
+            }
+
+            .chapter .chapter-title {
+                color: gray;
+                font-size: 16px
+            }
+
+            .chapter hr.chapter-start, .chapter hr.chapter-end {
+                border: 0;
+                margin: 10px auto;
+                display: table
+            }
+
+            .chapter hr.chapter-start {
+                background: url(//cdn.truyencom.com/img/spriteimg_new_white_op.png) -200px -27px no-repeat;
+                width: 59px;
+                height: 20px
+            }
+
+            .chapter hr.chapter-end {
+                background: url(//cdn.truyencom.com/img/spriteimg_new_white_op.png) 0 -51px no-repeat;
+                width: 277px;
+                height: 35px
+            }
+
+            .chapter .chapter-c {
+                font-family: "Palatino Linotype", "Arial", "Times New Roman", sans-serif;
+                line-height: 180%;
+                color: #2B2B2B;
+                font-size: 22px;
+                text-align: left;
+                word-wrap: break-word
+            }
+
+            .chapter-c img {
+                max-width: 100%;
+                display: block;
+                margin: 0 auto
+            }
+
+            .chapter-nav .btn-group a {
+                width: 170px
+            }
+
+            .chapter-nav .btn-group .chapter_jump {
+                margin: 0 5px;
+                text-align: left
+            }
+
+            .settings {
+                padding: 10px;
+                width: 300px
+            }
+
+            .toggle-nav-open {
+                position: absolute;
+                left: 15px
+            }
+
+            .toggle-settings-open {
+                position: absolute;
+                right: 15px
+            }
+
+            @font-face {
+                font-family: 'Roboto';
+                font-display: fallback;
+                font-style: normal;
+                font-weight: 400;
+                src: url(//cdn.truyencom.com/font/Roboto-Regular.eot);
+                src: local('Roboto Regular'), local('Roboto-Regular'), url(//cdn.truyencom.com/font/Roboto-Regular.eot) format('embedded-opentype'), url(//cdn.truyencom.com/font/Roboto-Regular.woff) format('woff')
+            }
+
+            @font-face {
+                font-family: 'Roboto Condensed';
+                font-display: fallback;
+                font-style: normal;
+                font-weight: 400;
+                src: url(//cdn.truyencom.com/font/RobotoCondensed-Regular.eot);
+                src: local('Roboto Condensed Regular'), local('RobotoCondensed-Regular'), url(//cdn.truyencom.com/font/RobotoCondensed-Regular.eot) format('embedded-opentype'), url(//cdn.truyencom.com/font/RobotoCondensed-Regular.woff) format('woff')
+            }
+
+            @media screen and (-webkit-min-device-pixel-ratio: 0) and (max-width: 480px) {
+                .form-control {
+                    font-size: 16px !important
+                }
+            }
+
+            @media only screen and (min-width: 768px) {
+                .settings .form-horizontal .form-group-sm .control-label {
+                    font-size: 14px
+                }
+
+                .form-control {
+                    font-size: 14px
+                }
+            }
+
+            @media only screen and (min-width: 992px) {
+                .dropdown-menu > li {
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis
+                }
+            }
+
+            @media only screen and (min-width: 1025px) {
+                .navbar-social {
+                    line-height: 20px;
+                    margin-top: 5px;
+                    margin-left: 6px
+                }
+            }
+
+            @media only screen and (min-width: 1025px) and (-webkit-min-device-pixel-ratio: 0) {
+                .chapter .chapter-c {
+                    font-size: 26px
+                }
+            }
+
+            @media only screen and (max-width: 480px) {
+                .chapter .chapter-c {
+                    font-family: "Arial", sans-serif;
+                    font-size: 16px
+                }
+
+                .container, .chapter .row > div {
+                    padding: 0
+                }
+
+                .container > .row {
+                    margin: 0
+                }
+
+                .header-logo {
+                    margin-left: 20px
+                }
+
+                .navbar-collapse, .navbar-header {
+                    margin-right: 0 !important;
+                    margin-left: 0 !important
+                }
+
+                .breadcrumb-container {
+                    padding: 0 5px
+                }
+
+                .breadcrumb > li + li:before {
+                    padding: 0 1px
+                }
+
+                .chapter-c {
+                    padding-right: 5px;
+                    padding-left: 5px
+                }
+
+                .book-text span {
+                    display: none
+                }
+
+                .book-text:before {
+                    display: inline;
+                    content: "Q"
+                }
+
+                .chapter-text span {
+                    display: none
+                }
+
+                .chapter-text:before {
+                    display: inline;
+                    content: "C"
+                }
+
+                .chapter-nav .btn-group a {
+                    width: 110px;
+                    text-transform: capitalize
+                }
+            }
+
+            @media only screen and (device-width: 768px) {
+                .chapter .row, .form-horizontal .form-group {
+                    margin-left: 0;
+                    margin-right: 0
+                }
+
+                .chapter .row .col-xs-12 {
+                    padding-left: 0;
+                    padding-right: 0
+                }
+
+                .toggle-nav-open {
+                    left: 0
+                }
+            }
+
+            .ads-320-100-backup-1 {
+                min-height: 351px
+            }
+
+            .ads-video-pc {
+                display: table;
+                margin: 0 auto;
+                min-height: 285px;
+                height: 285px;
+                overflow: hidden
+            }
+
+            .video-mobile, .video-mobile > .ads-320-100-backup-1 {
+                height: 251px;
+                min-height: 251px
+            }
+
+            .btn.disabled, .btn[disabled], fieldset[disabled] .btn {
+                opacity: .35;
+                filter: alpha(opacity=35)
+            }
+
+            .dark-theme {
+                background-image: url(https://cdn.truyencom.com/img/bg_dark.gif);
+                background-color: #232323;
+                background-repeat: repeat;
+                color: rgba(255, 255, 255, .6)
+            }
+
+            .dark-theme img {
+                opacity: .9
+            }
+
+            .dark-theme a {
+                color: #b1b1b1
+            }
+
+            .dark-theme .chapter .truyen-title {
+                color: #82a82d;
+                text-shadow: 0 0 1px #000;
+                filter: dropshadow(color=#000000, offx=0, offy=0)
+            }
+
+            .dark-theme .ad-link, .dark-theme .chapter .chapter-c {
+                color: rgba(255, 255, 255, .6)
+            }
+
+            .dark-theme .btn {
+                color: #a9a9a9;
+                background: #121212
+            }
+
+            .dark-theme .btn-success {
+                color: #82a82d;
+                border-color: #82a82d
+            }
+
+            .container-fluid-switch #chapter-big-container {
+                width: auto
+            }
+
+            #body_chapter.hidenav #nav {
+                display: none
+            }
+
+            #body_chapter.hidenav #chapter-big-container {
+                margin-top: 10px
+            }
+
+            .glyphicon-menu-updownswitch:before {
+                content: "\e260"
+            }
+
+            #body_chapter.hidenav .glyphicon-menu-updownswitch:before {
+                content: "\e259"
+            }
+
+            #body_chapter.background-hatsan {
+                background-image: url(//cdn.truyencom.com/img/bg_op.png);
+                background-color: #f2f2f2;
+                background-repeat: repeat
+            }
+
+            #body_chapter.background-sachcu {
+                background-image: url(https://cdn.truyencom.com/img/bg_book_op.png);
+                background-color: #c2b49b;
+                background-repeat: repeat
+            }
+
+            #body_chapter.background-232323 {
+                background-image: url(https://cdn.truyencom.com/img/bg_dark.gif);
+                background-color: #232323;
+                background-repeat: repeat
+            }
+
+            #body_chapter.background-F4F4F4 {
+                background-image: none;
+                background-color: #f4f4f4
+            }
+
+            #body_chapter.background-E9EBEE {
+                background-image: none;
+                background-color: #e9ebee
+            }
+
+            #body_chapter.background-F4F4E4 {
+                background-image: none;
+                background-color: #f4f4e4
+            }
+
+            #body_chapter.background-EAE4D3 {
+                background-image: none;
+                background-color: #eae4d3
+            }
+
+            #body_chapter.background-D5D8DC {
+                background-image: none;
+                background-color: #d5d8dc
+            }
+
+            #body_chapter.background-FAFAC8 {
+                background-image: none;
+                background-color: #fafac8
+            }
+
+            #body_chapter.background-EFEFAB {
+                background-image: none;
+                background-color: #efefab
+            }
+
+            #body_chapter.background-FFF {
+                background-image: none;
+                background-color: #fff
+            }
+
+            #body_chapter.size-16px .chapter-c {
+                font-size: 16px
+            }
+
+            #body_chapter.size-18px .chapter-c {
+                font-size: 18px
+            }
+
+            #body_chapter.size-20px .chapter-c {
+                font-size: 20px
+            }
+
+            #body_chapter.size-22px .chapter-c {
+                font-size: 22px
+            }
+
+            #body_chapter.size-24px .chapter-c {
+                font-size: 24px
+            }
+
+            #body_chapter.size-26px .chapter-c {
+                font-size: 26px
+            }
+
+            #body_chapter.size-28px .chapter-c {
+                font-size: 28px
+            }
+
+            #body_chapter.size-30px .chapter-c {
+                font-size: 30px
+            }
+
+            #body_chapter.size-32px .chapter-c {
+                font-size: 32px
+            }
+
+            #body_chapter.size-34px .chapter-c {
+                font-size: 34px
+            }
+
+            #body_chapter.size-36px .chapter-c {
+                font-size: 36px
+            }
+
+            #body_chapter.size-38px .chapter-c {
+                font-size: 38px
+            }
+
+            #body_chapter.size-40px .chapter-c {
+                font-size: 40px
+            }
+
+            #body_chapter.font-PalatinoLinotype .chapter-c {
+                font-family: 'Palatino Linotype', serif
+            }
+
+            #body_chapter.font-Bookerly .chapter-c {
+                font-family: Bookerly, serif
+            }
+
+            #body_chapter.font-Minion .chapter-c {
+                font-family: Minion, serif
+            }
+
+            #body_chapter.font-SegoeUI .chapter-c {
+                font-family: 'Segoe UI', sans-serif
+            }
+
+            #body_chapter.font-Roboto .chapter-c {
+                font-family: Roboto, sans-serif
+            }
+
+            #body_chapter.font-RobotoCondensed .chapter-c {
+                font-family: 'Roboto Condensed', sans-serif
+            }
+
+            #body_chapter.font-PatrickHand .chapter-c {
+                font-family: 'Patrick Hand', sans-serif
+            }
+
+            #body_chapter.font-NoticiaText .chapter-c {
+                font-family: 'Noticia Text', sans-serif
+            }
+
+            #body_chapter.font-TimesNewRoman .chapter-c {
+                font-family: 'Times New Roman', serif
+            }
+
+            #body_chapter.font-Verdana .chapter-c {
+                font-family: Verdana, sans-serif
+            }
+
+            #body_chapter.font-Tahoma .chapter-c {
+                font-family: Tahoma, sans-serif
+            }
+
+            #body_chapter.font-Arial .chapter-c {
+                font-family: Arial, sans-serif
+            }
+
+            #body_chapter.lineheight-100 .chapter-c {
+                line-height: 100%
+            }
+
+            #body_chapter.lineheight-120 .chapter-c {
+                line-height: 120%
+            }
+
+            #body_chapter.lineheight-140 .chapter-c {
+                line-height: 140%
+            }
+
+            #body_chapter.lineheight-160 .chapter-c {
+                line-height: 160%
+            }
+
+            #body_chapter.lineheight-180 .chapter-c {
+                line-height: 180%
+            }
+
+            #body_chapter.lineheight-200 .chapter-c {
+                line-height: 200%
+            }
+
+            .dark-theme .navbar-default, .dark-theme.navbar-default {
+                background: #242f39;
+                border-bottom-color: #242f39;
+                box-shadow: 0 0 1px rgba(10, 10, 10, .4)
+            }
+
+            .dark-theme .navbar-breadcrumb {
+                background: #2e3740;
+                border-top: 0
+            }
+
+            .dark-theme .breadcrumb a, .dark-theme .breadcrumb-container {
+                color: #b1b1b1
+            }
+
+            .dark-theme .breadcrumb > .active, .dark-theme .breadcrumb > .active a {
+                color: #dadada
+            }
+
+            .dark-theme .form-control, .dark-theme .input-group-addon, .dark-theme .list-group-item, .dark-theme .list-search-res, .dark-theme .search-holder .form-control {
+                box-shadow: inset 0 0 2px rgba(0, 0, 0, .3);
+                background: #1c242d;
+                border: 1px solid #192128;
+                color: #fff
+            }
+
+            .dark-theme .search-holder > .input-group-btn > .btn {
+                color: #92bb35;
+                border-color: #92bb35;
+                text-shadow: 1px 1px 0 rgba(10, 10, 10, .4);
+                background: rgba(10, 10, 10, .15);
+                border: 1px solid;
+                margin-left: 2px
+            }
+
+            .btn-chapter-nav {
+                padding: 11px 22px;
+                font-size: 16px;
+                height: 47px
+            }
+        </style>
+        <link rel="shortcut icon" type="image/x-icon" href="https://cdn.truyencom.com/favicon-1.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.truyencom.com/apple-touch-icon-1.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.truyencom.com/favicon-32x32-1.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.truyencom.com/favicon-16x16-1.png">
+        <link rel="manifest" href="https://truyencom.com/site.webmanifest1">
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "truyencom.com",
+                "url": "https://truyencom.com",
+                "logo": "https://cdn.truyencom.com/truyencom_logo.png"
+            }</script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1959442024328981" crossorigin="anonymous"></script>
+    <body id="body_home">
+        <div id="wrap">
+            <div class="navbar navbar-default navbar-static-top" role="navigation" id="nav">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Hiện menu</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="header-logo" href="https://truyencom.com" title="Trang đọc truyện online hay và miễn phí">Trang đọc truyện online hoàn toàn miễn phí</a>
+                    </div>
+                    <div class="navbar-collapse collapse" itemscope="" itemtype="https://schema.org/WebSite">
+                        <meta itemprop="url" content="https://truyencom.com">
+                        <ul class="control nav navbar-nav ">
+                            <li class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-list"></span>
+                                    Danh sách <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li>
+                                        <a href="https://truyencom.com/truyen-hot/" title="Truyện Hot">Truyện Hot</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyencom.com/truyen-full/" title="Truyện Full">Truyện Full</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyencom.com/truyen-moi-cap-nhat/" title="Truyện mới cập nhật">Truyện mới cập nhật</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyencom.com/truyen-moi-dang/" title="Truyện mới đăng">Truyện mới đăng</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-list"></span>
+                                    Thể loại <span class="caret"></span>
+                                </button>
+                                <div class="dropdown-menu multi-column">
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-tien-hiep/full/" title="Truyện Tiên Hiệp full">Tiên Hiệp Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-kiem-hiep/full/" title="Truyện Kiếm Hiệp full">Kiếm Hiệp Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-ngon-tinh/full/" title="Truyện Ngôn Tình full">Ngôn Tình Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-quan-truong/full/" title="Truyện Quan Trường full">Quan Trường Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-xuyen-khong/full/" title="Truyện Xuyên Không full">Xuyên Không Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-trinh-tham/full/" title="Truyện Trinh Thám full">Trinh Thám Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-tham-hiem/full/" title="Truyện Thám Hiểm full">Thám Hiểm Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-linh-di/full/" title="Truyện Linh Dị full">Linh Dị Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-nguoc/full/" title="Truyện Ngược full">Ngược Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-sung/full/" title="Truyện Sủng full">Sủng Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-cung-dau/full/" title="Truyện Cung Đấu full">Cung Đấu Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-nu-cuong/full/" title="Truyện Nữ Cường full">Nữ Cường Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-dong-phuong/full/" title="Truyện Đông Phương full">Đông Phương Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-dam-my/full/" title="Truyện Đam Mỹ full">Đam Mỹ Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-bach-hop/full/" title="Truyện Bách Hợp full">Bách Hợp Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-hai-huoc/full/" title="Truyện Hài Hước full">Hài Hước Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-co-dai/full/" title="Truyện Cổ Đại full">Cổ Đại Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-mat-the/full/" title="Truyện Mạt Thế full">Mạt Thế Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-tieu-thuyet/full/" title="Truyện Tiểu Thuyết full">Tiểu Thuyết Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-khac/full/" title="Truyện Khác full">Khác Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-vong-du/full/" title="Truyện Võng Du full">Võng Du Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-khoa-huyen/full/" title="Truyện Khoa Huyễn full">Khoa Huyễn Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-di-nang/full/" title="Truyện Dị Năng full">Dị Năng Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-huyen-huyen/full/" title="Truyện Huyền Huyễn full">Huyền Huyễn Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-trong-sinh/full/" title="Truyện Trọng Sinh full">Trọng Sinh Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-do-thi/full/" title="Truyện Đô Thị full">Đô Thị Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-di-gioi/full/" title="Truyện Dị Giới full">Dị Giới Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-gia-dau/full/" title="Truyện Gia Đấu full">Gia Đấu Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-dien-van/full/" title="Truyện Điền Văn full">Điền Văn Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-nu-phu/full/" title="Truyện Nữ Phụ full">Nữ Phụ Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-quan-su/full/" title="Truyện Quân Sự full">Quân Sự Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-lich-su/full/" title="Truyện Lịch Sử full">Lịch Sử Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-teen/full/" title="Truyện Teen full">Truyện Teen Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-light-novel/full/" title="Truyện Light Novel full">Light Novel Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-doan-van/full/" title="Truyện Đoản Văn full">Đoản Văn Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-viet-nam/full/" title="Truyện Việt Nam full">Việt Nam Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-da-su/full/" title="Truyện Dã Sử full">Dã Sử Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-phuong-tay/full/" title="Truyện Phương Tây full">Phương Tây Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-he-thong/full/" title="Truyện Hệ Thống full">Hệ Thống Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-xuyen-nhanh/full/" title="Truyện Xuyên Nhanh full">Xuyên Nhanh Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-hien-dai/full/" title="Truyện Hiện Đại full">Hiện Đại Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-tong-tai/full/" title="Truyện Tổng tài full">Tổng tài Full</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="dropdown">
+                                <button type="button" class="dropdown-toggle settings-panel-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-cog"></span>
+                                    Tùy chỉnh <span class="caret"></span>
+                                </button>
+                                <div class="dropdown-menu dropdown-menu-right settings">
+                                    <form class="form-horizontal">
+                                        <div class="form-group form-group-sm">
+                                            <label class="col-sm-2 col-md-5 control-label">Chế độ ban đêm</label>
+                                            <div class="col-sm-5 col-md-7">
+                                                <label class="radio-inline" for="dark-yes">
+                                                    <input type="radio" name="dark-switch" id="dark-yes" value="yes">Có
+                                                </label>
+                                                <label class="radio-inline" for="dark-no">
+                                                    <input type="radio" name="dark-switch" id="dark-no" value="no" checked="">Không
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="form-group form-group-sm">
+                                            <label class="col-sm-2 col-md-5 control-label" for="truyen-background">Màu nền</label>
+                                            <div class="col-sm-5 col-md-7">
+                                                <select class="form-control" id="truyen-background">
+                                                    <option value="#F4F4F4">Xám nhạt</option>
+                                                    <option value="#E9EBEE">Xanh nhạt</option>
+                                                    <option value="#F4F4E4">Vàng nhạt</option>
+                                                    <option value="#EAE4D3">Màu sepia</option>
+                                                    <option value="#D5D8DC">Xanh đậm</option>
+                                                    <option value="#FAFAC8">Vàng đậm</option>
+                                                    <option value="#EFEFAB">Vàng ố</option>
+                                                    <option value="#FFF">Màu trắng</option>
+                                                    <option value="hatsan">Hạt sạn</option>
+                                                    <option value="sachcu">Sách cũ</option>
+                                                    <option value="#232323">Màu tối</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group form-group-sm">
+                                            <label class="col-sm-2 col-md-5 control-label" for="font-chu">Font chữ</label>
+                                            <div class="col-sm-5 col-md-7">
+                                                <select class="form-control" id="font-chu">
+                                                    <option value="'Palatino Linotype', serif">Palatino Linotype</option>
+                                                    <option value="Bookerly, serif">Bookerly</option>
+                                                    <option value="Minion, serif">Minion</option>
+                                                    <option value="'Segoe UI', sans-serif">Segoe UI</option>
+                                                    <option value="Roboto, sans-serif">Roboto</option>
+                                                    <option value="'Roboto Condensed', sans-serif">Roboto Condensed</option>
+                                                    <option value="'Patrick Hand', sans-serif">Patrick Hand</option>
+                                                    <option value="'Noticia Text', sans-serif">Noticia Text</option>
+                                                    <option value="'Times New Roman', serif">Times New Roman</option>
+                                                    <option value="Verdana, sans-serif">Verdana</option>
+                                                    <option value="Tahoma, sans-serif">Tahoma</option>
+                                                    <option value="Arial, sans-serif">Arial</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group form-group-sm">
+                                            <label class="col-sm-2 col-md-5 control-label" for="size-chu">Size chữ</label>
+                                            <div class="col-sm-5 col-md-7">
+                                                <select class="form-control" id="size-chu">
+                                                    <option value="16px">16</option>
+                                                    <option value="18px">18</option>
+                                                    <option value="20px">20</option>
+                                                    <option value="22px">22</option>
+                                                    <option value="24px">24</option>
+                                                    <option value="26px">26</option>
+                                                    <option value="28px">28</option>
+                                                    <option value="30px">30</option>
+                                                    <option value="32px">32</option>
+                                                    <option value="34px">34</option>
+                                                    <option value="36px">36</option>
+                                                    <option value="38px">38</option>
+                                                    <option value="40px">40</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group form-group-sm">
+                                            <label class="col-sm-2 col-md-5 control-label" for="line-height">Chiều cao dòng</label>
+                                            <div class="col-sm-5 col-md-7">
+                                                <select class="form-control" id="line-height">
+                                                    <option value="100%">100%</option>
+                                                    <option value="120%">120%</option>
+                                                    <option value="140%">140%</option>
+                                                    <option value="160%">160%</option>
+                                                    <option value="180%">180%</option>
+                                                    <option value="200%">200%</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group form-group-sm hidden-xs">
+                                            <label class="col-sm-2 col-md-5 control-label">Full khung</label>
+                                            <div class="col-sm-5 col-md-7">
+                                                <label class="radio-inline" for="fluid-yes">
+                                                    <input type="radio" name="fluid-switch" id="fluid-yes" value="yes">Có
+                                                </label>
+                                                <label class="radio-inline" for="fluid-no">
+                                                    <input type="radio" name="fluid-switch" id="fluid-no" value="no" checked>Không
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </li>
+                        </ul>
+                        <form class="navbar-form navbar-right" action="https://truyencom.com/tim-kiem/" role="search" itemprop="potentialAction" itemscope="" itemtype="https://schema.org/SearchAction">
+                            <div class="input-group search-holder">
+                                <meta itemprop="target" content="https://truyencom.com/tim-kiem/?tukhoa={tukhoa}">
+                                <input aria-label="Từ khóa tìm kiếm" autocomplete="off" role="search key" class="form-control" id="search-input" type="search" name="tukhoa" placeholder="Tìm kiếm..." value="" itemprop="query-input" required="">
+                                <div class="input-group-btn">
+                                    <button class="btn btn-default" type="submit" aria-label="Tìm kiếm" role="search">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="list-group list-search-res hide"></div>
+                        </form>
+                    </div>
+                </div>
+                <div class="navbar-breadcrumb">
+                    <div class="container breadcrumb-container">
+                        <ol class="breadcrumb" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                                <a href="https://truyencom.com" accesskey="1">
+                                    <span class="glyphicon glyphicon-home"></span>
+                                </a>
+                                <a href="https://truyencom.com" title="Đọc truyện online" itemprop="item">
+                                    <span itemprop="name">Truyện</span>
+                                </a>
+                                <meta itemprop="position" content="1">
+                            </li>
+                            <li class="active" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                                <a href="https://truyencom.com/vo-dich-thien-ha.663/" title="Vô Địch Thiên Hạ" itemprop="item">
+                                    <span itemprop="name">Vô Địch Thiên Hạ</span>
+                                </a>
+                                <meta itemprop="position" content="2">
+                            </li>
+                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                                <a href="https://truyencom.com/vo-dich-thien-ha/chuong-51.html" title="Chương 51" itemprop="item">
+                                    <span itemprop="name">Chương 51</span>
+                                </a>
+                                <meta itemprop="position" content="3">
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div id="chapter-big-container" class="container chapter">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <button type="button" class="btn btn-responsive btn-success toggle-nav-open">
+                            <span class="glyphicon glyphicon-menu-updownswitch"></span>
+                        </button>
+                        <button type="button" class="btn btn-responsive btn-success toggle-settings-open">
+                            <span class="glyphicon glyphicon-cog"></span>
+                        </button>
+                        <a class="truyen-title" href="https://truyencom.com/vo-dich-thien-ha.663/" title="Vô Địch Thiên Hạ">Vô Địch Thiên Hạ</a>
+                        <h1>
+                            <a class="chapter-title" href="https://truyencom.com/vo-dich-thien-ha/chuong-51.html" title="Vô Địch Thiên Hạ - Chương 51: Xảy ra chuyện lớn!">
+                                <span class="chapter-text">
+                                    <span>Chương </span>
+                                </span>
+                                51: Xảy ra chuyện lớn!
+                            </a>
+                        </h1>
+                        <hr class="chapter-start">
+                        <div class="chapter-nav" id="chapter-nav-top">
+                            <div class="btn-group">
+                                <a class="btn btn-success btn-chapter-nav" href="https://truyencom.com/vo-dich-thien-ha/chuong-50.html" title="Chương 50" id="prev_chap" data-cid="124168">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                    <span class="hidden-xs">Chương </span>
+                                    trước
+                                </a>
+                                <button type="button" class="btn btn-success btn-chapter-nav chapter_jump">
+                                    <span class="glyphicon glyphicon-list-alt"></span>
+                                </button>
+                                <a class="btn btn-success btn-chapter-nav" href="https://truyencom.com/vo-dich-thien-ha/chuong-52.html" title="Chương 52" id="next_chap" data-cid="124172">
+                                    <span class="hidden-xs">Chương </span>
+                                    tiếp <span class="glyphicon glyphicon-chevron-right"></span>
+                                </a>
+</a></div></div><hr class="chapter-end">
+<div class="ads" style="margin: 15px auto">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1959442024328981" data-ad-slot="4430311938" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+<div id="chapter-c" class="chapter-c">
+    “Vâng thưa nguyên soái.” Một hộ vệ tiến lên nói: “Hơn nữa ả đàn bà kia còn nói muốn loại bỏ tư cách báo danh của thiếu chủ.”<br/>
+    <br/>
+    “Loại bỏ tư cách báo danh của thiếu chủ?” Nộ khí toàn thân Nguyên soái Hạo Thiên đột nhiên tăng vọt.<br/>
+    <br/>
+    “Đúng vậy, không những thế, ả đàn bà đó còn muốn giam giữ thiếu chủ. Sau đó…” Hộ vệ kia chần chừ. <br/>
+    <br/>
+    “Sau đó cái gì? Nói!” Nguyên soái Hạo Thiên quát to.<br/>
+    <br/>
+    “Thưa nguyên soái, người kia nói đem thiếu chủ giam cầm sẽ khiến nguyên soái phải trở về, công khai xin lỗi học viện!” Tên hộ vệ run rẩy đáp.<br/>
+    <br/>
+    Hùng Mỹ Kỳ nói đem giam cầm Hoàng Tiểu Long sẽ khiến Tộc trưởng gia tộc phải quay về và thành tâm công khai xin lỗi học viện. Thực ra, Hùng Mỹ Kỳ không biết “Gia tộc Tộc trưởng” của Hoàng Tiểu Long chính là nguyên soái Hạo Thiên. <br/>
+    <br/>
+    “Cái gì?” Nguyên soái Hạo Thiên tức giận bật dậy, vung chưởng khiến một góc ghế đá cứng rắn bị vỡ nát thành bột.<br/>
+    <br/>
+    “Chưa hết, tên đó còn nói muốn đem tiền bối Phí Hầu chém giết thị chúng.” Một hộ vệ khác bổ sung.<br/>
+    <br/>
+    Chém sư đệ thị chúng! <br/>
+    <br/>
+    Hạo Thiên rốt cục cũng không kiềm chế được tức giận quát to: “Truyền lệnh của ta, triệu tập mười quân, tiến đến học viện Tinh Không!”<br/>
+    <br/>
+    Mười quân! Đó chính là mười vạn đại quân. Mười vạn đại quân hướng đến học viện Tinh Không.<br/>
+    <br/>
+    Trong lòng hai gã hộ vệ thét lên kinh hãi. <br/>
+    <br/>
+    “Còn không mau đi!” Hạo Thiên trừng mắt nhìn thấy hai tên hộ vệ còn đứng nguyên tại chỗ.<br/>
+    <br/>
+    “Vâng thưa nguyên soái!” Hai người hốt hoảng đi xuống truyền lệnh.<br/>
+    <br/>
+    “Thiết Trảo Thần Ưng!” Đợi hai người lui xuống, Hạo Thiên hô lớn, ngay tức thì một con đại bàng to lớn xuất hiện bên trên phủ nguyên soái, tiếng kêu vang vọng cả trăm dặm. <br/>
+    <br/>
+    Tất cả hộ vệ, nô bộc Phủ nguyên soái biến sắc nhìn thần ưng trên cao. Xảy ra chuyện lớn! Chỉ khi chuyện lớn xảy ra, nguyên soái mới triệu hoán tọa kỵ Thiết Trảo Thần Ưng Thập giai.<br/>
+    <br/>
+    “Toàn bộ hộ vệ Bát giai Phủ nguyên soái đến sân lớn tập hợp!” Tất cả mọi người trong phủ đều nghe thấy âm lệnh của nguyên soái Hạo Thiên truyền ra.<br/>
+    <br/>
+    “Vâng thưa nguyên soái!” <br/>
+    <br/>
+    Ngay tức khắc bóng người chớp động, khắp nơi trong phủ tất cả hộ vệ Bát giai nhanh chóng tập hợp ở sân lớn.<br/>
+    <br/>
+    Không khí khẩn trương lan tỏa tựa như đứng trước một trận đại chiến.<br/>
+    <br/>
+    Tại tiểu viện của mình, Hoàng Tiểu Long và Phí Hầu đồng thời nghe thấy tiếng hô lớn của nguyên soái Hạo Thiên. <br/>
+    <br/>
+    “Đi ra xem một chút!” Hoàng Tiểu Long cùng Phí Hầu đi tới sân lớn Phủ nguyên soái liền thấy Hạo Thiên đang điều động mười vạn đại quân.<br/>
+    <br/>
+    Ngay lập tức, Hoàng Tiểu Long hiểu nguyên soái Hạo Thiên muốn làm gì.<br/>
+    <br/>
+    “Đợi chút!” Hoàng Tiểu Long nói. <br/>
+    <br/>
+    “Thiếu chủ!” Nguyên soái Hạo Thiên thấy Hoàng Tiểu Long đến, vội vàng từ thần ưng nhảy xuống hành lễ.<br/>
+    <br/>
+    “Hạo Thiên, ta không muốn làm lớn chuyện.” Hoàng Tiểu Long nghĩ khi sự việc bị thổi phồng thì với Hoàng Tiểu Long hay nguyên soái Hạo Thiên đều là bất lợi.<br/>
+    <br/>
+    Hoàng Tiểu Long biết khi viện trưởng học viện Tinh Không gặp mặt nguyên soái Hạo Thiên thì mối quan hệ giữa hai người cũng không được tốt. Nếu hiện tại nguyên soái Hạo Thiên điều động mười vạn đại quân tiến đến học viện Tinh Không thì mối quan hệ này sẽ càng căng thẳng. Khi đó Phủ nguyên soái cùng học viện Tinh Không sẽ xảy ra mâu thuẫn. <br/>
+    <br/>
+    Mà tại kinh đô, nguyên soái Hạo Thiên lại phô trương thanh thế như vậy sẽ gây tác động không tốt.<br/>
+    <br/>
+    “Thiếu chủ!” Hạo Thiên muốn nói nhưng Hoàng Tiểu Long lắc đầu:”Việc này nên dừng ở đây!”<br/>
+    <br/>
+    “Đúng vậy sư huynh, hiện tại thiếu chủ đã không sao, việc này cũng không nên tính toán.” Phí Hầu đồng thời nói. <br/>
+    <br/>
+    <div class="ads" style="margin: 15px auto">
+        <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1959442024328981" data-ad-slot="1804148596"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    Hạo Thiên chần chừ mãi mới đáp: “Vâng thưa thiếu chủ, Hạo Thiên tuân mệnh!” Nói xong, hắn vung tay phải lên hủy đi mệnh lệch, tất cả hộ vệ cùng thối lui.<br/>
+    <br/>
+    Một lát sau, ba người Hoàng Tiểu Long, Phí Hầu, nguyên soái Hạo Thiên trở lại đại sảnh Phủ nguyên soái.<br/>
+    <br/>
+    Ba người cùng ngồi xuống. <br/>
+    <br/>
+    “Môn Chủ, người là Môn Chủ Tu La Môn, nhưng tại kinh thành Lạc Thông lại bị nguy hiểm, cầu Môn Chủ trị tội!” Sau khi ngồi xuống, nguyên soái Hạo Thiên đột nhiên bật dậy, quỳ mọp xuống dập đầu nói.<br/>
+    <br/>
+    Hoàng Tiểu Long nhanh chóng đỡ lấy: “Hạo Thiên, mau đứng lên!”<br/>
+    <br/>
+    “Cầu Môn Chủ trị tội!” Nguyên soái Hạo Thiên vẫn quỳ như cũ. <br/>
+    <br/>
+    Hoàng Tiểu Long không khỏi nhìn về phía Phí Hầu, Phí Hầu lên tiếng khuyên nhủ: “Sư huynh, nếu thiếu chủ đã cho đứng, huynh hãy đứng lên đi, hơn nữa huynh cũng không làm sai!”<br/>
+    <br/>
+    Nguyên soái Hạo Thiên ngập ngừng một lúc mới đứng dậy: “Tạ ơn Môn Chủ!”<br/>
+    <br/>
+    Tu La Môn môn kỷ luật nghiêm minh, nếu Hoàng Tiểu Long bị thương khẳng định nguyên soái Hạo Thiên sẽ bị xử phạt nặng, không giết nhưng khẳng định hắn cũng bị phế bỏ một thân tu vi. <br/>
+    <br/>
+    Thật may hiện tại Hoàng Tiểu Long không bị thương.<br/>
+    <br/>
+    Đợi nguyên soái Hạo Thiên đứng dậy, Hoàng Tiểu Long mới hỏi: “Trưởng lão Vu Minh có tin tức gì không?” Lúc trước, Hoàng Tiểu Long đã nghe Phí Hầu nói sư tôn Vu Minh của hắn đi kinh thành Mạc Hà vương quốc, cho nên muốn nguyên soái Hạo Thiên dò hỏi tin tức của Vu Minh.<br/>
+    <br/>
+    “Hồi bẩm thiếu chủ, không có tin gì của sư tôn, theo thuộc hạ suy đoán chỉ e sư tôn đã rời khỏi kinh thành Mạc Hà.” Hạo Thiên cung kính hồi đáp. <br/>
+    <br/>
+    Hoàng Tiểu Long có chút thất vọng, không ngờ tới kết quả này. Vu Minh đến kinh thành Mạc Hà làm việc đã ba năm, cũng không có khả năng hắn chỉ ở tại kinh thành Mạc Hà.<br/>
+    <br/>
+    Sư tôn Nhâm Ngã Cuồng đã gửi một ít đồ ở tổng bộ Tu La Môn cho Hoàng Tiểu Long. Vật đó cực kỳ quan trọng với việc tu luyện Tu La Quyết của Hoàng Tiểu Long. Cho nên Hoàng Tiểu Long muốn biết tổng bộ Tu La Môn ở đâu từ thông tin của Vu Minh.<br/>
+    <br/>
+    Nguyên soái Hạo Thiên cũng không biết tổng bộ Tu La Môn ở nơi nào. <br/>
+    <br/>
+    Một lát sau, Hoàng Tiểu Long trở lại tiểu viện của mình.<br/>
+    <br/>
+    Vừa vào tiểu viện, một tiểu thân ảnh liền đập vào mắt.<br/>
+    <br/>
+    “Tiểu tử kia, mấy ngày nay ngươi chạy đi đâu?” Hoàng Tiểu Long không né tránh, cười nói. <br/>
+    <br/>
+    Thân ảnh này chính là Phệ Linh Tử Hầu. Mấy ngày nay Phệ Linh Tử Hầu đều không xuất hiện.<br/>
+    <br/>
+    “Xèo xèo xèo xèo!” Phệ Linh Tử Hầu tự nhiên vung tay múa chân trước Hoàng Tiểu Long.<br/>
+    <br/>
+    Hoàng Tiểu Long thấy vậy lắc đầu cười, chỉ có hắn mới hiểu được ý nghĩa vung tay múa chân của tiểu gia hỏa này. Ở thế giới Vũ hồn, Yêu thú sau khi đột phá đến cấp mười có được Tiên Thiên mới có khả năng nói chuyện, vậy nên Phệ Linh Tử Hầu còn phải vung tay múa chân để diễn tả với hắn rất lâu nữa. <br/>
+    <br/>
+    Hoàng Tiểu Long cho phép Phệ Linh Tử Hầu tự do đi chơi, rồi vào phòng ngồi xếp bằng trên Hàn ngọc sàng bắt đầu tu luyện Tu La Quyết. Sau khi đột phá Lục giai, hắn thu nạp Cửu U Minh Khí với tốc độ nhanh chóng.<br/>
+    <br/>
+    Sau lưng hắn song long Võ Hồn mở rộng, trên người Hắc Long không ngừng phát ra ánh sáng màu đen, còn Lam Long hấp thu ánh sáng màu xanh.<br/>
+    <br/>
+    Ba ngày trôi qua nhanh chóng. <br/>
+    <br/>
+    Trong ba ngày này, Hoàng Tiểu Long chuyên tâm tu luyện, ổn định thực lực đạt tới Lục giai, Cửu U Đấu Khí tại kinh mạch Lục giai vận chuyển không có một chút cảm giác cản trở nào.<br/>
+    <br/>
+    “Rốt cục đã đến ngày nhập học.” Hoàng Tiểu Long từ gian phòng đi ra, buổi sáng ánh nắng ngập tràn.<br/>
+    <br/>
+    Hôm nay là ngày học viện Tinh Không nhập học. <br/>
+    <br/>
+    Một lát sau, Hoàng Tiểu Long dẫn theo Phí Hầu và bốn hộ vệ Phủ nguyên soái đi đến học viện Tinh Không. Vì sự việc phát sinh tại học viện Tinh Không khiến nguyên soái Hạo Thiên cử hai hộ vệ Thập giai đi theo bảo vệ bên cạnh Hoàng Tiểu Long.<br/>
+    <br/>
+    Không bao lâu, mấy người Hoàng Tiểu Long đã đến học viện Tinh Không.<br/>
+    <br/>
+    Vì hôm nay học viện nhập học nên chỉ có học viên được đeo thẻ học viên mới có thể tiến vào, cho nên năm người Phí Hầu chỉ có thể hộ tống Hoàng Tiểu Long đến cửa chính học viện. <br/>
+    <br/>Một mình Hoàng Tiểu Long bước vào học viện, hỏi thầy hướng dẫn đường lối rồi tự mình hướng đến phòng học.
+</div>
+<hr class="chapter-end" id="chapter-end-bot">
+<div class="ads" style="margin: 15px auto">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1959442024328981" data-ad-slot="7520661085" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+<div class="chapter-nav" id="chapter-nav-bot">
+    <div class="highlight-box" style="padding: 10px;border: 1px dashed #f00;background: #fff;font-weight: bold;margin-bottom:10px;">Bạn đang đọc truyện trên Truyencom.com</div>
+    <div class="list-tags">
+        <a href="https://truyencom.com/tag/truyen-full-dien-van/" title="truyện full điền văn" style="background-color:#f5f5f5;color:#333;font-size:1.23em;">truyện full điền văn</a>
+        <a href="https://truyencom.com/tag/truyen-xuyen-khong/" title="truyện xuyên không" style="background-color:#673ab7;color:#fff;font-size:0.93em;">truyện xuyên không</a>
+        <a href="https://truyencom.com/tag/truyen-trong-sinh-hien-dai-sung/" title="truyện trọng sinh hiện đại sủng" style="background-color:#f5f5f5;color:#333;font-size:1.27em;">truyện trọng sinh hiện đại sủng</a>
+        <a href="https://truyencom.com/tag/truyen-sung-vo/" title="truyện sủng vợ" style="background-color:#324148;color:#fff;font-size:0.99em;">truyện sủng vợ</a>
+        <a href="https://truyencom.com/tag/ngon-tinh-full/" title="Ngôn Tình Full" style="background-color:#2196f3;color:#fff;font-size:1.09em;">Ngôn Tình Full</a>
+        <a href="https://truyencom.com/tag/1v1/" title="1v1" style="background-color:#324148;color:#fff;font-size:1.05em;">1v1</a>
+        <a href="https://truyencom.com/tag/thay-tro/" title="Thầy Trò" style="background-color:#f5f5f5;color:#333;font-size:1.06em;">Thầy Trò</a>
+        <a href="https://truyencom.com/tag/phu-tu-nien-thuong/" title="phụ tử niên thượng" style="background-color:#4caf50;color:#fff;font-size:1.08em;">phụ tử niên thượng</a>
+        <a href="https://truyencom.com/tag/bach-hop-ngot-sung/" title="bách hợp ngọt sủng" style="background-color:#4caf50;color:#fff;font-size:1.17em;">bách hợp ngọt sủng</a>
+        <a href="https://truyencom.com/tag/ngon-tinh-di-nang/" title="Ngôn Tình Dị Năng" style="background-color:#2196f3;color:#fff;font-size:1em;">Ngôn Tình Dị Năng</a>
+    </div>
+    <div class="btn-group">
+        <a class="btn btn-success btn-chapter-nav" href="https://truyencom.com/vo-dich-thien-ha/chuong-50.html" title="Chương 50" id="prev_chap" data-cid="124168">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+            <span class="hidden-xs">Chương </span>
+            trước
+        </a>
+        <button type="button" class="btn btn-success btn-chapter-nav chapter_jump">
+            <span class="glyphicon glyphicon-list-alt"></span>
+        </button>
+        <a class="btn btn-success btn-chapter-nav" href="https://truyencom.com/vo-dich-thien-ha/chuong-52.html" title="Chương 52" id="next_chap" data-cid="124172">
+            <span class="hidden-xs">Chương </span>
+            tiếp <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+    </div>
+    <div class="text-center">
+        <button type="button" class="btn btn-warning" id="chapter_error">
+            <span class="glyphicon glyphicon-flag"></span>
+            Báo lỗi chương 
+        </button>
+    </div>
+</div>
+</div></div></div><script>
+    story = {
+        storyID: 663,
+        alias: 'vo-dich-thien-ha',
+        title: 'Vô Địch Thiên Hạ',
+        dmca: ''
+    };
+    chapterID = 124170;
+    chapNo = 'Chương 51';
+</script>
+</div>
+<div id="footer" class="footer">
+    <div class="container">
+        <div class="col-xs12 col-sm-7">
+            <p>
+                Website <a href="https://truyencom.com/" title="Truyện Com - Trang đọc truyện online miễn phí">Truyện Com</a>
+                là 1 website đọc truyện online hoàn toàn miễn phí, không có quảng cáo, phi lợi nhuận với nhiều thể loại phong phú và được cập nhật liên tục. 
+            </p>
+            <div class="page-list">
+                <a href="https://truyencom.com/page/chinh-sach-bao-mat.html" title="Chính sách bảo mật" rel="nofollow">Chính sách bảo mật</a>
+                <a href="https://truyencom.com/page/dieu-khoan-su-dung.html" title="Điều khoản sử dụng" rel="nofollow">Điều khoản sử dụng</a>
+                <a href="https://truyencom.com/page/quy-dinh-ve-noi-dung.html" title="Quy định về nội dung" rel="nofollow">Quy định về nội dung</a>
+                <a href="https://truyencom.com/page/thoa-thuan-quyen-rieng-tu.html" title="Thỏa thuận quyền riêng tư" rel="nofollow">Thỏa thuận quyền riêng tư</a>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-5">
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                <img alt="Creative Commons License" style="border-width:0;margin-bottom: 10px" src="https://i.creativecommons.org/l/by/4.0/88x31.png">
+            </a>
+            <br>
+            <p>
+                Website hoạt động dưới Giấy phép truy cập mở <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+            </p>
+        </div>
+        <ul class="col-xs-12 col-sm-7 list-unstyled">
+            <li class="text-right pull-right">
+                <a class="backtop" title="Trở lên đầu trang" href="#wrap" rel="nofollow" aria-label="Trở về đầu trang">
+                    <span class="glyphicon glyphicon-upload"></span>
+                </a>
+            </li>
+            <li class="hidden-xs tag-list"></li>
+        </ul>
+    </div>
+</div>
+<!-- Google tag (gtag.js) -->
+<script>
+    genres = JSON.parse('{"1":{"name":"Ti\u00ean Hi\u1ec7p","slug":"tien-hiep"},"2":{"name":"Ki\u1ebfm Hi\u1ec7p","slug":"kiem-hiep"},"3":{"name":"Ng\u00f4n T\u00ecnh","slug":"ngon-tinh"},"5":{"name":"Quan Tr\u01b0\u1eddng","slug":"quan-truong"},"13":{"name":"Xuy\u00ean Kh\u00f4ng","slug":"xuyen-khong"},"15":{"name":"Trinh Th\u00e1m","slug":"trinh-tham"},"16":{"name":"Th\u00e1m Hi\u1ec3m","slug":"tham-hiem"},"17":{"name":"Linh D\u1ecb","slug":"linh-di"},"19":{"name":"Ng\u01b0\u1ee3c","slug":"nguoc"},"20":{"name":"S\u1ee7ng","slug":"sung"},"21":{"name":"Cung \u0110\u1ea5u","slug":"cung-dau"},"22":{"name":"N\u1eef C\u01b0\u1eddng","slug":"nu-cuong"},"24":{"name":"\u0110\u00f4ng Ph\u01b0\u01a1ng ","slug":"dong-phuong"},"25":{"name":"\u0110am M\u1ef9","slug":"dam-my"},"26":{"name":"B\u00e1ch H\u1ee3p","slug":"bach-hop"},"27":{"name":"H\u00e0i H\u01b0\u1edbc","slug":"hai-huoc"},"29":{"name":"C\u1ed5 \u0110\u1ea1i","slug":"co-dai"},"30":{"name":"M\u1ea1t Th\u1ebf","slug":"mat-the"},"32":{"name":"Ti\u1ec3u Thuy\u1ebft ","slug":"tieu-thuyet"},"37":{"name":"Kh\u00e1c","slug":"khac"},"38":{"name":"V\u00f5ng Du","slug":"vong-du"},"39":{"name":"Khoa Huy\u1ec5n","slug":"khoa-huyen"},"40":{"name":"D\u1ecb N\u0103ng","slug":"di-nang"},"41":{"name":"Huy\u1ec1n Huy\u1ec5n","slug":"huyen-huyen"},"42":{"name":"Tr\u1ecdng Sinh","slug":"trong-sinh"},"43":{"name":"\u0110\u00f4 Th\u1ecb","slug":"do-thi"},"44":{"name":"D\u1ecb Gi\u1edbi","slug":"di-gioi"},"45":{"name":"Gia \u0110\u1ea5u","slug":"gia-dau"},"46":{"name":"\u0110i\u1ec1n V\u0103n","slug":"dien-van"},"47":{"name":"N\u1eef Ph\u1ee5 ","slug":"nu-phu"},"48":{"name":"Qu\u00e2n S\u1ef1","slug":"quan-su"},"49":{"name":"L\u1ecbch S\u1eed","slug":"lich-su"},"50":{"name":"Truy\u1ec7n Teen","slug":"truyen-teen"},"51":{"name":"Light Novel","slug":"light-novel"},"53":{"name":"\u0110o\u1ea3n V\u0103n","slug":"doan-van"},"54":{"name":"Vi\u1ec7t Nam","slug":"viet-nam"},"55":{"name":"D\u00e3 S\u1eed","slug":"da-su"},"56":{"name":"Ph\u01b0\u01a1ng T\u00e2y","slug":"phuong-tay"},"57":{"name":"H\u1ec7 Th\u1ed1ng","slug":"he-thong"},"58":{"name":"Xuy\u00ean Nhanh","slug":"xuyen-nhanh"},"62":{"name":"Hi\u1ec7n \u0110\u1ea1i","slug":"hien-dai"},"63":{"name":"T\u1ed5ng t\u00e0i","slug":"tong-tai"}}');
+</script>
+<noscript id="deferred-styles">
+    <link rel="stylesheet" type="text/css" href="https://cdn.truyencom.com/assets/truyenfull/source/css-chapter.css?v=0.1.0">
+</noscript>
+<script type="text/javascript" src="https://cdn.truyencom.com/assets/truyenfull/js/main.js?v=0.4.2"></script>
+<script type="text/javascript" src="https://cdn.truyencom.com/assets/truyenfull/js/chapter.js?v=0.0.7"></script>
+<script type="text/javascript" src="https://js.truyencom.com/tcom.js?v=0.1.1"></script>
+<script type="text/javascript" src="https://js.truyencom.com/aff_ads.js?v=0.0.6"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"c60c516b97e64ddbbaf47f36a2495930","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body></html>

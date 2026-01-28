@@ -1,0 +1,576 @@
+<h3>Danh sách chương</h3>
+<ul class="cf">
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-76" target="_blank" title="Chương 76&nbsp;:&nbsp;Lam Cơ">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 76 &nbsp;:&nbsp;Lam Cơ</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-77" target="_blank" title="Chương 77&nbsp;:&nbsp;H&agrave;n ly đan">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 77 &nbsp;:&nbsp;H &agrave;n ly đan</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-78" target="_blank" title="Chương 78&nbsp;:&nbsp;Luyện đan thuật hiệu quả đặc biệt">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 78 &nbsp;:&nbsp;Luyện đan thuật hiệu quả đặc biệt</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-79" target="_blank" title="Chương 79&nbsp;:&nbsp;Tr&uacute;c cơ b&iacute; văn">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 79 &nbsp;:&nbsp;Tr &uacute;c cơ b &iacute;văn</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-80" target="_blank" title="Chương 80&nbsp;:&nbsp;Tăng l&ecirc;n tư chất ma đạo b&iacute; thuật">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 80 &nbsp;:&nbsp;Tăng l &ecirc;n tư chất ma đạo b &iacute;thuật</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-81" target="_blank" title="Chương 81&nbsp;:&nbsp;Ma thai huyền nguy&ecirc;n b&iacute; ch&uacute;">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 81 &nbsp;:&nbsp;Ma thai huyền nguy &ecirc;n b &iacute;ch &uacute;</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-82" target="_blank" title="Chương 82&nbsp;:&nbsp;Thời buổi rối loạn">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 82 &nbsp;:&nbsp;Thời buổi rối loạn</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-83" target="_blank" title="Chương 83&nbsp;:&nbsp;L&ecirc;n H&agrave;n Huyết phong">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 83 &nbsp;:&nbsp;L &ecirc;n H &agrave;n Huyết phong</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-84" target="_blank" title="Chương 84&nbsp;:&nbsp;Từng c&aacute;i từng c&aacute;i xử l&yacute;">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 84 &nbsp;:&nbsp;Từng c &aacute;i từng c &aacute;i xử l &yacute;</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-85" target="_blank" title="Chương 85&nbsp;:&nbsp;X&eacute;t nh&agrave;, hung hăng x&eacute;t">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 85 &nbsp;:&nbsp;X &eacute;t nh &agrave;, hung hăng x &eacute;t</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-86" target="_blank" title="Chương 86&nbsp;:&nbsp;Đến tiếp sau">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 86 &nbsp;:&nbsp;Đến tiếp sau</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-87" target="_blank" title="Chương 87&nbsp;:&nbsp;Chấp ph&aacute;p đường đồ tốt">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 87 &nbsp;:&nbsp;Chấp ph &aacute;p đường đồ tốt</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-88" target="_blank" title="Chương 88&nbsp;:&nbsp;B&iacute; ch&uacute; tới tay">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 88 &nbsp;:&nbsp;B &iacute;ch &uacute;tới tay</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-89" target="_blank" title="Chương 89&nbsp;:&nbsp;Tu h&agrave;nh tiến triển">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 89 &nbsp;:&nbsp;Tu h &agrave;nh tiến triển</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-90" target="_blank" title="Chương 90&nbsp;:&nbsp;L&ecirc;n khung">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 90 &nbsp;:&nbsp;L &ecirc;n khung</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-91" target="_blank" title="Chương 91&nbsp;:&nbsp;Kh&oacute; tiếp bắt n&ocirc; nhiệm vụ">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 91 &nbsp;:&nbsp;Kh &oacute;tiếp bắt n &ocirc;nhiệm vụ</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-92" target="_blank" title="Chương 92&nbsp;:&nbsp;Phản loạn lời đồn đại">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 92 &nbsp;:&nbsp;Phản loạn lời đồn đại</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-93" target="_blank" title="Chương 93&nbsp;:&nbsp;Tri chu sơn">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 93 &nbsp;:&nbsp;Tri chu sơn</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-94" target="_blank" title="Chương 94&nbsp;:&nbsp;Quỷ nh&atilde;n động">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 94 &nbsp;:&nbsp;Quỷ nh &atilde;n động</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-95" target="_blank" title="Chương 95&nbsp;:&nbsp;Săn giết">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 95 &nbsp;:&nbsp;Săn giết</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-96" target="_blank" title="Chương 96&nbsp;:&nbsp;Ẩn long bảo cốt">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 96 &nbsp;:&nbsp;Ẩn long bảo cốt</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-97" target="_blank" title="Chương 97&nbsp;:&nbsp;Phục thực dưỡng linh">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 97 &nbsp;:&nbsp;Phục thực dưỡng linh</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-98" target="_blank" title="Chương 98&nbsp;:&nbsp;Luyện kh&iacute; t&aacute;m tầng">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 98 &nbsp;:&nbsp;Luyện kh &iacute;t &aacute;m tầng</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-99" target="_blank" title="Chương 99&nbsp;:&nbsp;Tr&uacute;c cơ thứ hai con đường">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 99 &nbsp;:&nbsp;Tr &uacute;c cơ thứ hai con đường</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-100" target="_blank" title="Chương 100&nbsp;:&nbsp;T&ocirc;ng m&ocirc;n tin tức">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 100 &nbsp;:&nbsp;T &ocirc;ng m &ocirc;n tin tức</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-101" target="_blank" title="Chương 101&nbsp;:&nbsp;Bị v&acirc;y">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 101 &nbsp;:&nbsp;Bị v &acirc;y</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-102" target="_blank" title="Chương 102&nbsp;:&nbsp;Thu hoạch, thực t&acirc;m th&agrave;nh">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 102 &nbsp;:&nbsp;Thu hoạch, thực t &acirc;m th &agrave;nh</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-103" target="_blank" title="Chương 103&nbsp;:&nbsp;Ti&ecirc;n ph&agrave;m cư">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 103 &nbsp;:&nbsp;Ti &ecirc;n ph &agrave;m cư</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-104" target="_blank" title="Chương 104&nbsp;:&nbsp;Kim m&atilde;n l&acirc;u">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 104 &nbsp;:&nbsp;Kim m &atilde;n l &acirc;u</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-105" target="_blank" title="Chương 105&nbsp;:&nbsp;Giao long nội đan">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 105 &nbsp;:&nbsp;Giao long nội đan</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-106" target="_blank" title="Chương 106&nbsp;:&nbsp;Khai chiến">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 106 &nbsp;:&nbsp;Khai chiến</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-107" target="_blank" title="Chương 107&nbsp;:&nbsp;Ngao c&ograve; tranh nhau ngư &ocirc;ng được lợi">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 107 &nbsp;:&nbsp;Ngao c &ograve;tranh nhau ngư &ocirc;ng được lợi</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-108" target="_blank" title="Chương 108&nbsp;:&nbsp;Hữu kinh v&ocirc; hiểm">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 108 &nbsp;:&nbsp;Hữu kinh v &ocirc;hiểm</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-109" target="_blank" title="Chương 109&nbsp;:&nbsp;S&aacute;u năm t&igrave;nh thế hỗn loạn c&ugrave;ng tu h&agrave;nh tiến triển">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 109 &nbsp;:&nbsp;S &aacute;u năm t &igrave;nh thế hỗn loạn c &ugrave;ng tu h &agrave;nh tiến triển</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-110" target="_blank" title="Chương 110&nbsp;:&nbsp;S&aacute;u năm t&igrave;nh thế hỗn loạn c&ugrave;ng tu h&agrave;nh tiến triển (2)">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 110 &nbsp;:&nbsp;S &aacute;u năm t &igrave;nh thế hỗn loạn c &ugrave;ng tu h &agrave;nh tiến triển (2)</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-111" target="_blank" title="Chương 111&nbsp;:&nbsp;Quy t&ocirc;ng, c&ocirc;ng ph&aacute;p tiến giai">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 111 &nbsp;:&nbsp;Quy t &ocirc;ng, c &ocirc;ng ph &aacute;p tiến giai</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-112" target="_blank" title="Chương 112&nbsp;:&nbsp;T&iacute;ch nhật cựu y&ecirc;u">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 112 &nbsp;:&nbsp;T &iacute;ch nhật cựu y &ecirc;u</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-113" target="_blank" title="Chương 113&nbsp;:&nbsp;Trời sinh phản cốt Ngu Đường Đường">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 113 &nbsp;:&nbsp;Trời sinh phản cốt Ngu Đường Đường</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-114" target="_blank" title="Chương 114&nbsp;:&nbsp;U tuyền li&ecirc;n, kim cương dịch">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 114 &nbsp;:&nbsp;U tuyền li &ecirc;n, kim cương dịch</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-115" target="_blank" title="Chương 115&nbsp;:&nbsp;Tấn thăng nội m&ocirc;n">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 115 &nbsp;:&nbsp;Tấn thăng nội m &ocirc;n</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-116" target="_blank" title="Chương 116&nbsp;:&nbsp;Trở lại qu&ecirc; hương">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 116 &nbsp;:&nbsp;Trở lại qu &ecirc;hương</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-117" target="_blank" title="Chương 117&nbsp;:&nbsp;Mổ heo">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 117 &nbsp;:&nbsp;Mổ heo</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-118" target="_blank" title="Chương 118&nbsp;:&nbsp;Cẩm y dạ h&agrave;nh">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 118 &nbsp;:&nbsp;Cẩm y dạ h &agrave;nh</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-119" target="_blank" title="Chương 119&nbsp;:&nbsp;Ph&aacute;t rồ">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 119 &nbsp;:&nbsp;Ph &aacute;t rồ</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-120" target="_blank" title="Chương 120&nbsp;:&nbsp;L&atilde;o th&agrave;nh chủ">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 120 &nbsp;:&nbsp;L &atilde;o th &agrave;nh chủ</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-121" target="_blank" title="Chương 121&nbsp;:&nbsp;Giết giết giết">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 121 &nbsp;:&nbsp;Giết giết giết</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-122" target="_blank" title="Chương 122&nbsp;:&nbsp;B&aacute;t phương m&ecirc; thần trận">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 122 &nbsp;:&nbsp;B &aacute;t phương m &ecirc;thần trận</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-123" target="_blank" title="Chương 123&nbsp;:&nbsp;Thi&ecirc;n hư kiếm t&ocirc;ng">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 123 &nbsp;:&nbsp;Thi &ecirc;n hư kiếm t &ocirc;ng</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-124" target="_blank" title="Chương 124&nbsp;:&nbsp;Linh thứu m&ocirc;n Vương Vũ">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 124 &nbsp;:&nbsp;Linh thứu m &ocirc;n Vương Vũ</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-125" target="_blank" title="Chương 125&nbsp;:&nbsp;Bắt sống">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 125 &nbsp;:&nbsp;Bắt sống</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-126" target="_blank" title="Chương 126&nbsp;:&nbsp;Hắc sơn y&ecirc;u địa">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 126 &nbsp;:&nbsp;Hắc sơn y &ecirc;u địa</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-127" target="_blank" title="Chương 127&nbsp;:&nbsp;R&uacute;t lưỡi">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 127 &nbsp;:&nbsp;R &uacute;t lưỡi</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-128" target="_blank" title="Chương 128&nbsp;:&nbsp;Nguyệt quang ti&ecirc;n tử">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 128 &nbsp;:&nbsp;Nguyệt quang ti &ecirc;n tử</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-129" target="_blank" title="Chương 129&nbsp;:&nbsp;T&ocirc;i luyện bản th&acirc;n">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 129 &nbsp;:&nbsp;T &ocirc;i luyện bản th &acirc;n</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-130" target="_blank" title="Chương 130&nbsp;:&nbsp;Đại địa linh kim, cửu long sống g&acirc;n">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 130 &nbsp;:&nbsp;Đại địa linh kim, cửu long sống g &acirc;n</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-131" target="_blank" title="Chương 131&nbsp;:&nbsp;Ma thai th&agrave;nh đoạt linh căn">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 131 &nbsp;:&nbsp;Ma thai th &agrave;nh đoạt linh căn</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-132" target="_blank" title="Chương 132&nbsp;:&nbsp;Luyện kh&iacute; ch&iacute;n tầng">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 132 &nbsp;:&nbsp;Luyện kh &iacute;ch &iacute;n tầng</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-133" target="_blank" title="Chương 133&nbsp;:&nbsp;Nhị giai luyện thể">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 133 &nbsp;:&nbsp;Nhị giai luyện thể</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-134" target="_blank" title="Chương 134&nbsp;:&nbsp;Số năm cơ, y&ecirc;u địa biến cố">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 134 &nbsp;:&nbsp;Số năm cơ, y &ecirc;u địa biến cố</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-135" target="_blank" title="Chương 135&nbsp;:&nbsp;Kiếm t&ocirc;ng h&agrave;nh tẩu">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 135 &nbsp;:&nbsp;Kiếm t &ocirc;ng h &agrave;nh tẩu</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-136" target="_blank" title="Chương 136&nbsp;:&nbsp;Xung đột">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 136 &nbsp;:&nbsp;Xung đột</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-137" target="_blank" title="Chương 137&nbsp;:&nbsp;Lần đầu nghe thấy">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 137 &nbsp;:&nbsp;Lần đầu nghe thấy</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-138" target="_blank" title="Chương 138&nbsp;:&nbsp;Xui xẻo đến ph&aacute;t cho&aacute;ng">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 138 &nbsp;:&nbsp;Xui xẻo đến ph &aacute;t cho &aacute;ng</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-139" target="_blank" title="Chương 139&nbsp;:&nbsp;L&agrave;m kh&oacute; dễ">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 139 &nbsp;:&nbsp;L &agrave;m kh &oacute;dễ</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-140" target="_blank" title="Chương 140&nbsp;:&nbsp;Thần thức tu sĩ">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 140 &nbsp;:&nbsp;Thần thức tu sĩ</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-141" target="_blank" title="Chương 141&nbsp;:&nbsp;Nh&acirc;n đầu kinh quan">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 141 &nbsp;:&nbsp;Nh &acirc;n đầu kinh quan</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-142" target="_blank" title="Chương 142&nbsp;:&nbsp;Mười ba m&ocirc;n hồn đạo truyền thừa">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 142 &nbsp;:&nbsp;Mười ba m &ocirc;n hồn đạo truyền thừa</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-143" target="_blank" title="Chương 143&nbsp;:&nbsp;Nhị giai đ&agrave; long">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 143 &nbsp;:&nbsp;Nhị giai đ &agrave;long</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-144" target="_blank" title="Chương 144&nbsp;:&nbsp;Tề đầu tịnh tiến, u tuyền tr&uacute;c cơ">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 144 &nbsp;:&nbsp;Tề đầu tịnh tiến, u tuyền tr &uacute;c cơ</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-145" target="_blank" title="Chương 145&nbsp;:&nbsp;&Aacute;c chiến Lam B&aacute; Đ&igrave;nh">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 145 &nbsp;:&nbsp;&Aacute;c chiến Lam B &aacute;Đ &igrave;nh</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-146" target="_blank" title="Chương 146&nbsp;:&nbsp;Vượt chiểu">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 146 &nbsp;:&nbsp;Vượt chiểu</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-147" target="_blank" title="Chương 147&nbsp;:&nbsp;Đ&atilde; l&acirc;u, th&aacute;nh t&ocirc;ng">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 147 &nbsp;:&nbsp;Đ &atilde;l &acirc;u, th &aacute;nh t &ocirc;ng</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-148" target="_blank" title="Chương 148&nbsp;:&nbsp;Mới nhị giai c&ocirc;ng ph&aacute;p, tr&uacute;c cơ chấp sự">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 148 &nbsp;:&nbsp;Mới nhị giai c &ocirc;ng ph &aacute;p, tr &uacute;c cơ chấp sự</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-149" target="_blank" title="Chương 149&nbsp;:&nbsp;Giải trĩ quan">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 149 &nbsp;:&nbsp;Giải trĩ quan</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-150" target="_blank" title="Chương 150&nbsp;:&nbsp;Ba mướp đắng đầu tư l&atilde;nh huyết con">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Chương 150 &nbsp;:&nbsp;Ba mướp đắng đầu tư l &atilde;nh huyết con</font>
+            </font>
+        </a>
+    </li>
+</ul>
+<div class="list-chapter">
+    <nav aria-label="Chapter navigation" class="nav-pagination">
+        <ul class="pagination">
+            <li>
+                <a onclick="Loading(0)" href="javascript:void(0);" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            <li class="">
+                <a onclick="Loading(0)" href="javascript:void(0);">1</a>
+            </li>
+            <li class=" active ">
+                <a href="javascript:void(0);">
+                    2<span class="sr-only">(current)</span>
+                </a>
+            </li>
+            <li class="">
+                <a onclick="Loading(2)" href="javascript:void(0);">3</a>
+            </li>
+            <li class="">
+                <a onclick="Loading(3)" href="javascript:void(0);">4</a>
+            </li>
+            <li class="">
+                <a onclick="Loading(4)" href="javascript:void(0);">5</a>
+            </li>
+            <li class="">
+                <a onclick="Loading(5)" href="javascript:void(0);">6</a>
+            </li>
+            <li class="">
+                <a onclick="Loading(6)" href="javascript:void(0);">7</a>
+            </li>
+            <li class="">
+                <a onclick="Loading(7)" href="javascript:void(0);">8</a>
+            </li>
+            <li class="">
+                <a onclick="Loading(8)" href="javascript:void(0);">9</a>
+            </li>
+            <li class="">
+                <a onclick="Loading(9)" href="javascript:void(0);">10</a>
+            </li>
+            <li>
+                <a onclick="Loading(2)" href="javascript:void(0);" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

@@ -1,0 +1,17 @@
+curl 'https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.5' \
+  -H 'cache-control: max-age=0' \
+  -b 'XSRF-TOKEN=eyJpdiI6Ijh0ME13dHhvMXJcL1lQSHU5SzJwa0FRPT0iLCJ2YWx1ZSI6IkVRWWgzbmtEeitKbUJ5a0IzbExlWUVaQnNSeWx0SFZjUkVUVzlZRGhCWW9CcURaTnVDUHlpRjVmSngycVFQTWMzODlLenRNZjcyQWh6cVY3MFppNkdRPT0iLCJtYWMiOiJiOGQwMTBkMDUyYjZiNWU3NzFhNDVjMjc0YzgwZGZkYmY0NGI3NDgwOTViZmMyOGJmZjQxMDVjZTc2Y2M3NmQ0In0%3D; laravel_session=eyJpdiI6IjBLcEJPUUNMbDA1c2kwbXhMcEcxQ1E9PSIsInZhbHVlIjoiV2FNaStwY09cL2hlSFdBQlZnTGVnWStVOG5NZUR2WjBLZFpMcG90bWJmUXlSMWJGQkk5Uzk5bEZtVENPNmJqZ2JrWThtRXg4T21tT0VHUmYxR2FIZzd3PT0iLCJtYWMiOiI1OWRkNWIyYTBlZWIwOWNjM2QxODYxYTYzNjk2M2ExZGQ5ZGQxOThlOWI1OWZiOTliNWEyYjY5OTAzMTk1MjA4In0%3D' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://tangthuvien.net/tong-hop?ctg=1&tp=cv&page=2' \
+  -H 'sec-ch-ua: "Chromium";v="140", "Not=A?Brand";v="24", "Brave";v="140"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-gpc: 1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'

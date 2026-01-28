@@ -1,0 +1,15 @@
+apiVersion: 1
+
+# Provision dashboards from the mounted directory so teams always
+# start with a curated log monitoring experience.
+providers:
+  - name: storyflow-log-dashboards
+    orgId: 1
+    folder: Storyflow Observability
+    folderUid: storyflow-observability
+    type: file
+    disableDeletion: false
+    editable: true
+    allowUiUpdates: true
+    options:
+      path: /var/lib/grafana/dashboards

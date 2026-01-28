@@ -1,0 +1,2307 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile#">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>truyencom.com - Tìm truyện với từ khóa: tiên nghịch</title>
+        <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+        <meta name="description" content="Tìm thấy 1 truyện liên quan đến &quot;tiên nghịch&quot; trên truyencom.com">
+        <meta name='robots' content="noindex,nofollow"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="coccoc-site-verification" content="1519395013a90fe2373e33384a7a5aaa"/>
+        <meta name="coccoc-site-verification" content="3099b8b319d81c8f9557afa4b97bbb08"/>
+        <!--[if lt IE 9]> <script src="https://cdn.truyencom.com/lib/html5.js"></script><![endif]-->
+        <!--[if lt IE 9]> <script src="https://cdn.truyencom.com/lib/css3-mediaqueries.min.js"></script><![endif]-->
+        <link rel="canonical" href="https://truyencom.com/tim-kiem/"/>
+        <link rel="preconnect" href="https://cdn.truyencom.com">
+        <link rel="preconnect" href="https://www.google-analytics.com/">
+        <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff" href="https://cdn.truyencom.com/font/Roboto-Regular.woff">
+        <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff" href="https://cdn.truyencom.com/font/RobotoCondensed-Regular.woff">
+        <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff2" href="https://cdn.truyencom.com/font/glyphicons-halflings-regular.woff2">
+        <link rel="preload" as="image" type="image/jpeg" href="https://cdn.truyencom.com/img/bg.jpg">
+        <link rel="preload" as="image" type="image/png" href="https://cdn.truyencom.com/img/spriteimg_new_white_op.png">
+        <link rel="preload" as="image" type="image/gif" href="https://cdn.truyencom.com/img/pixel-cover.gif">
+        <link rel="preload" as="image" type="image/png" href="https://cdn.truyencom.com/img/full-label.png">
+        <style>
+            html {
+                font-family: sans-serif;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%
+            }
+
+            body {
+                margin: 0
+            }
+
+            a {
+                background-color: transparent
+            }
+
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0
+            }
+
+            img {
+                border: 0
+            }
+
+            button, input, select {
+                color: inherit;
+                font: inherit;
+                margin: 0
+            }
+
+            button {
+                overflow: visible
+            }
+
+            button, select {
+                text-transform: none
+            }
+
+            button {
+                -webkit-appearance: button
+            }
+
+            button::-moz-focus-inner, input::-moz-focus-inner {
+                border: 0;
+                padding: 0
+            }
+
+            input {
+                line-height: normal
+            }
+
+            input[type="search"] {
+                -webkit-appearance: textfield;
+                -webkit-box-sizing: content-box;
+                -moz-box-sizing: content-box;
+                box-sizing: content-box
+            }
+
+            input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
+                -webkit-appearance: none
+            }
+
+            @font-face {
+                font-family: "Glyphicons Halflings";
+                font-display: swap;
+                src: url(//cdn.truyencom.com/font/glyphicons-halflings-regular.eot);
+                src: url("//cdn.truyencom.com/font/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url(//cdn.truyencom.com/font/glyphicons-halflings-regular.woff2) format("woff2"), url(//cdn.truyencom.com/font/glyphicons-halflings-regular.woff) format("woff"), url(//cdn.truyencom.com/font/glyphicons-halflings-regular.ttf) format("truetype"), url("//cdn.truyencom.com/font/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg")
+            }
+
+            .glyphicon {
+                position: relative;
+                top: 1px;
+                display: inline-block;
+                font-family: "Glyphicons Halflings";
+                font-style: normal;
+                font-weight: 400;
+                line-height: 1;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale
+            }
+
+            .glyphicon-search:before {
+                content: "\e003"
+            }
+
+            .glyphicon-cog:before {
+                content: "\e019"
+            }
+
+            .glyphicon-list:before {
+                content: "\e056"
+            }
+
+            .glyphicon-chevron-right:before {
+                content: "\e080"
+            }
+
+            .glyphicon-fire:before {
+                content: "\e104"
+            }
+
+            .glyphicon-menu-right:before {
+                content: "\e258"
+            }
+
+            * {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box
+            }
+
+            *:before, *:after {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box
+            }
+
+            html {
+                font-size: 10px
+            }
+
+            body {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                font-size: 14px;
+                line-height: 1.42857143;
+                color: #333;
+                background-color: #fff
+            }
+
+            input, button, select {
+                font-family: inherit;
+                font-size: inherit;
+                line-height: inherit
+            }
+
+            a {
+                color: #428bca;
+                text-decoration: none
+            }
+
+            img {
+                vertical-align: middle
+            }
+
+            .img-responsive {
+                display: block;
+                max-width: 100%;
+                height: auto
+            }
+
+            .sr-only {
+                position: absolute;
+                width: 1px;
+                height: 1px;
+                margin: -1px;
+                padding: 0;
+                overflow: hidden;
+                clip: rect(0, 0, 0, 0);
+                border: 0
+            }
+
+            h1, h2, h3, h4 {
+                font-family: inherit;
+                font-weight: 500;
+                line-height: 1.1;
+                color: inherit
+            }
+
+            h1, h2, h3 {
+                margin-top: 20px;
+                margin-bottom: 10px
+            }
+
+            h4 {
+                margin-top: 10px;
+                margin-bottom: 10px
+            }
+
+            h1 {
+                font-size: 36px
+            }
+
+            h2 {
+                font-size: 30px
+            }
+
+            h3 {
+                font-size: 24px
+            }
+
+            h4 {
+                font-size: 18px
+            }
+
+            .text-center {
+                text-align: center
+            }
+
+            .text-info {
+                color: #31708f
+            }
+
+            ul {
+                margin-top: 0;
+                margin-bottom: 10px
+            }
+
+            ul ul {
+                margin-bottom: 0
+            }
+
+            .container {
+                margin-right: auto;
+                margin-left: auto;
+                padding-left: 15px;
+                padding-right: 15px
+            }
+
+            @media (min-width: 768px) {
+                .container {
+                    width: 750px
+                }
+            }
+
+            @media (min-width: 992px) {
+                .container {
+                    width: 970px
+                }
+            }
+
+            @media (min-width: 1200px) {
+                .container {
+                    width: 1170px
+                }
+            }
+
+            .row {
+                margin-left: -15px;
+                margin-right: -15px
+            }
+
+            .col-sm-2, .col-md-2, .col-xs-3, .col-sm-3, .col-md-3, .col-md-4, .col-sm-5, .col-md-5, .col-xs-6, .col-sm-6, .col-md-7, .col-md-8, .col-xs-9, .col-xs-12, .col-sm-12 {
+                position: relative;
+                min-height: 1px;
+                padding-left: 15px;
+                padding-right: 15px
+            }
+
+            .col-xs-3, .col-xs-6, .col-xs-9, .col-xs-12 {
+                float: left
+            }
+
+            .col-xs-12 {
+                width: 100%
+            }
+
+            .col-xs-9 {
+                width: 75%
+            }
+
+            .col-xs-6 {
+                width: 50%
+            }
+
+            .col-xs-3 {
+                width: 25%
+            }
+
+            @media (min-width: 768px) {
+                .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6, .col-sm-12 {
+                    float: left
+                }
+
+                .col-sm-12 {
+                    width: 100%
+                }
+
+                .col-sm-6 {
+                    width: 50%
+                }
+
+                .col-sm-5 {
+                    width: 41.66666667%
+                }
+
+                .col-sm-3 {
+                    width: 25%
+                }
+
+                .col-sm-2 {
+                    width: 16.66666667%
+                }
+            }
+
+            @media (min-width: 992px) {
+                .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-7, .col-md-8 {
+                    float: left
+                }
+
+                .col-md-8 {
+                    width: 66.66666667%
+                }
+
+                .col-md-7 {
+                    width: 58.33333333%
+                }
+
+                .col-md-5 {
+                    width: 41.66666667%
+                }
+
+                .col-md-4 {
+                    width: 33.33333333%
+                }
+
+                .col-md-3 {
+                    width: 25%
+                }
+
+                .col-md-2 {
+                    width: 16.66666667%
+                }
+            }
+
+            label {
+                display: inline-block;
+                max-width: 100%;
+                margin-bottom: 5px;
+                font-weight: 700
+            }
+
+            input[type="search"] {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box
+            }
+
+            .form-control {
+                display: block;
+                width: 100%;
+                height: 34px;
+                padding: 6px 12px;
+                font-size: 14px;
+                line-height: 1.42857143;
+                color: #555;
+                background-color: #fff;
+                background-image: none;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+                box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
+            }
+
+            .form-control::-moz-placeholder {
+                color: #777;
+                opacity: 1
+            }
+
+            .form-control:-ms-input-placeholder {
+                color: #777
+            }
+
+            .form-control::-webkit-input-placeholder {
+                color: #777
+            }
+
+            .form-control::-ms-expand {
+                border: 0;
+                background-color: transparent
+            }
+
+            input[type="search"] {
+                -webkit-appearance: none
+            }
+
+            .form-group {
+                margin-bottom: 15px
+            }
+
+            .form-group-sm .form-control {
+                height: 30px;
+                padding: 5px 10px;
+                font-size: 12px;
+                line-height: 1.5;
+                border-radius: 3px
+            }
+
+            .form-group-sm select.form-control {
+                height: 30px;
+                line-height: 30px
+            }
+
+            .form-horizontal .form-group {
+                margin-left: -15px;
+                margin-right: -15px
+            }
+
+            @media (min-width: 768px) {
+                .form-horizontal .control-label {
+                    text-align: right;
+                    margin-bottom: 0;
+                    padding-top: 7px
+                }
+            }
+
+            @media (min-width: 768px) {
+                .form-horizontal .form-group-sm .control-label {
+                    padding-top: 6px;
+                    font-size: 12px
+                }
+            }
+
+            .btn {
+                display: inline-block;
+                margin-bottom: 0;
+                font-weight: 400;
+                text-align: center;
+                vertical-align: middle;
+                -ms-touch-action: manipulation;
+                touch-action: manipulation;
+                background-image: none;
+                border: 1px solid transparent;
+                white-space: nowrap;
+                padding: 6px 12px;
+                font-size: 14px;
+                line-height: 1.42857143;
+                border-radius: 4px
+            }
+
+            .btn-default {
+                color: #333;
+                background-color: #fff;
+                border-color: #ccc
+            }
+
+            .collapse {
+                display: none
+            }
+
+            .caret {
+                display: inline-block;
+                width: 0;
+                height: 0;
+                margin-left: 2px;
+                vertical-align: middle;
+                border-top: 4px dashed;
+                border-top: 4px solid \9;
+                border-right: 4px solid transparent;
+                border-left: 4px solid transparent
+            }
+
+            .dropdown {
+                position: relative
+            }
+
+            .dropdown-menu {
+                position: absolute;
+                top: 100%;
+                left: 0;
+                z-index: 1000;
+                display: none;
+                float: left;
+                min-width: 160px;
+                padding: 5px 0;
+                margin: 2px 0 0;
+                list-style: none;
+                font-size: 14px;
+                text-align: left;
+                background-color: #fff;
+                border: 1px solid #ccc;
+                border: 1px solid rgba(0, 0, 0, 0.15);
+                border-radius: 4px;
+                -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+                box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+                -webkit-background-clip: padding-box;
+                background-clip: padding-box
+            }
+
+            .dropdown-menu > li > a {
+                display: block;
+                padding: 3px 20px;
+                clear: both;
+                font-weight: 400;
+                line-height: 1.42857143;
+                color: #333;
+                white-space: nowrap
+            }
+
+            .dropdown-menu-right {
+                left: auto;
+                right: 0
+            }
+
+            .input-group {
+                position: relative;
+                display: table;
+                border-collapse: separate
+            }
+
+            .input-group .form-control {
+                position: relative;
+                z-index: 2;
+                float: left;
+                width: 100%;
+                margin-bottom: 0
+            }
+
+            .input-group-btn, .input-group .form-control {
+                display: table-cell
+            }
+
+            .input-group .form-control:not(:first-child):not(:last-child) {
+                border-radius: 0
+            }
+
+            .input-group-btn {
+                width: 1%;
+                white-space: nowrap;
+                vertical-align: middle
+            }
+
+            .input-group-btn:last-child > .btn {
+                border-bottom-left-radius: 0;
+                border-top-left-radius: 0
+            }
+
+            .input-group-btn {
+                position: relative;
+                font-size: 0;
+                white-space: nowrap
+            }
+
+            .input-group-btn > .btn {
+                position: relative
+            }
+
+            .input-group-btn:last-child > .btn {
+                z-index: 2;
+                margin-left: -1px
+            }
+
+            .nav {
+                margin-bottom: 0;
+                padding-left: 0;
+                list-style: none
+            }
+
+            .nav > li {
+                position: relative;
+                display: block
+            }
+
+            .nav > li > button {
+                position: relative;
+                display: block;
+                padding: 10px 15px
+            }
+
+            .navbar {
+                position: relative;
+                min-height: 50px;
+                margin-bottom: 20px;
+                border: 1px solid transparent;
+            }
+
+            @media (min-width: 992px) {
+                .navbar {
+                    border-radius: 4px
+                }
+            }
+
+            @media (min-width: 992px) {
+                .navbar-header {
+                    float: left
+                }
+            }
+
+            .navbar-collapse {
+                overflow-x: visible;
+                padding-right: 15px;
+                padding-left: 15px;
+                border-top: 1px solid transparent;
+                -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+                box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+                -webkit-overflow-scrolling: touch
+            }
+
+            @media (min-width: 992px) {
+                .navbar-collapse {
+                    width: auto;
+                    border-top: 0;
+                    -webkit-box-shadow: none;
+                    box-shadow: none
+                }
+
+                .navbar-collapse.collapse {
+                    display: block !important;
+                    height: auto !important;
+                    padding-bottom: 0;
+                    overflow: visible !important
+                }
+
+                .navbar-static-top .navbar-collapse {
+                    padding-left: 0;
+                    padding-right: 0
+                }
+            }
+
+            .container > .navbar-header, .container > .navbar-collapse {
+                margin-right: -15px;
+                margin-left: -15px
+            }
+
+            @media (min-width: 992px) {
+                .container > .navbar-header, .container > .navbar-collapse {
+                    margin-right: 0;
+                    margin-left: 0
+                }
+            }
+
+            .navbar-static-top {
+                z-index: 1000;
+                border-width: 0 0 1px
+            }
+
+            @media (min-width: 992px) {
+                .navbar-static-top {
+                    border-radius: 0
+                }
+            }
+
+            .navbar-toggle {
+                position: relative;
+                float: right;
+                margin-right: 15px;
+                padding: 9px 10px;
+                margin-top: 8px;
+                margin-bottom: 8px;
+                background-color: transparent;
+                background-image: none;
+                border: 1px solid transparent;
+                border-radius: 4px
+            }
+
+            .navbar-toggle .icon-bar {
+                display: block;
+                width: 22px;
+                height: 2px;
+                border-radius: 1px
+            }
+
+            .navbar-toggle .icon-bar + .icon-bar {
+                margin-top: 4px
+            }
+
+            @media (min-width: 992px) {
+                .mobile-search {
+                    display:none;
+                }
+
+                .navbar-toggle {
+                    display: none
+                }
+            }
+
+            .navbar-nav {
+                margin: 7.5px -15px
+            }
+
+            .navbar-nav > li > button {
+                padding-top: 10px;
+                padding-bottom: 10px;
+                line-height: 20px
+            }
+
+            @media (min-width: 992px) {
+                .navbar-nav {
+                    float: left;
+                    margin: 0
+                }
+
+                .navbar-nav > li {
+                    float: left
+                }
+
+                .navbar-nav > li > button {
+                    padding-top: 15px;
+                    padding-bottom: 15px
+                }
+            }
+
+            .navbar-form {
+                margin-left: -15px;
+                margin-right: -15px;
+                padding: 10px 15px;
+                border-top: 1px solid transparent;
+                border-bottom: 1px solid transparent;
+                -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
+                box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
+                margin-top: 8px;
+                margin-bottom: 8px
+            }
+
+            @media (min-width: 768px) {
+                .navbar-form .form-control {
+                    display: inline-block;
+                    width: auto;
+                    vertical-align: middle
+                }
+
+                .navbar-form .input-group {
+                    display: inline-table;
+                    vertical-align: middle
+                }
+
+                .navbar-form .input-group .input-group-btn, .navbar-form .input-group .form-control {
+                    width: auto
+                }
+
+                .navbar-form .input-group > .form-control {
+                    width: 100%
+                }
+            }
+
+            @media (min-width: 992px) {
+                .navbar-form {
+                    width: auto;
+                    border: 0;
+                    margin-left: 0;
+                    margin-right: 0;
+                    padding-top: 0;
+                    padding-bottom: 0;
+                    -webkit-box-shadow: none;
+                    box-shadow: none
+                }
+            }
+
+            .navbar-nav > li > .dropdown-menu {
+                margin-top: 0;
+                border-top-right-radius: 0;
+                border-top-left-radius: 0
+            }
+
+            .col-truyen-main .list.list-new {
+                display: block;
+            }
+
+            .list.list-new>.row {
+                display: flex;
+                width: 100%;
+            }
+
+            @media (min-width: 992px) {
+                .navbar-right {
+                    float: right !important;
+                    margin-right: -15px
+                }
+            }
+
+            .navbar-default {
+                background-color: #f8f8f8;
+                border-color: #e7e7e7
+            }
+
+            .navbar-default .navbar-toggle {
+                border-color: #ddd
+            }
+
+            .navbar-default .navbar-toggle .icon-bar {
+                background-color: #888
+            }
+
+            .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+                border-color: #e7e7e7
+            }
+
+            .list-group {
+                margin-bottom: 20px;
+                padding-left: 0
+            }
+
+            .container:before, .container:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after {
+                content: " ";
+                display: table
+            }
+
+            .container:after, .row:after, .form-horizontal .form-group:after, .nav:after, .navbar:after, .navbar-header:after, .navbar-collapse:after {
+                clear: both
+            }
+
+            .hide {
+                display: none !important
+            }
+
+            @-ms-viewport {
+                width: device-width
+            }
+
+            .visible-md-block, .visible-lg-block {
+                display: none !important
+            }
+
+            @media (min-width: 992px) and (max-width: 1199px) {
+                .visible-md-block {
+                    display: block !important
+                }
+
+                .visible-sm-block {
+                    display: none !important;
+                }
+            }
+
+            @media (min-width: 1200px) {
+                .visible-lg-block {
+                    display: block !important
+                }
+
+                .visible-sm-block {
+                    display: none !important;
+                }
+            }
+
+            @media (max-width: 767px) {
+                .hidden-xs {
+                    display: none !important
+                }
+            }
+
+            @media (min-width: 768px) and (max-width: 991px) {
+                .hidden-sm {
+                    display: none !important
+                }
+            }
+
+            .navbar {
+                min-height: 0
+            }
+
+            .navbar-nav {
+                font-family: "Roboto Condensed", sans-serif
+            }
+
+            .navbar-default {
+                background-color: #ececec;
+                border-color: #ececec
+            }
+
+            html, body {
+                height: 100%
+            }
+
+            body {
+                background: url(//cdn.truyencom.com/img/bg.jpg) top center repeat-x #f4f4f4;
+                color: #4e4e4e
+            }
+
+            * {
+                margin: 0
+            }
+
+            a {
+                color: #4e4e4e
+            }
+
+            .form-control {
+                box-shadow: none
+            }
+
+            .form-control {
+                box-shadow: none
+            }
+
+            h1, h2, h3, h4 {
+                margin: 0;
+                padding: 0;
+                font-size: inherit;
+                display: inline-block
+            }
+
+            #wrap {
+                min-height: 100%;
+                min-height: calc(100% - 117px);
+                height: auto !important;
+                height: 100%
+            }
+
+            .navbar-default {
+                background-color: #14425d;
+                background-position-x: -50px;
+                background-repeat: no-repeat;
+                -moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+                -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+                box-shadow: 0 0 6px rgba(0, 0, 0, 0.3)
+            }
+
+            .navbar-default .navbar-nav > li > button {
+                color: #f2f2f2;
+                border: 0;
+                width: 100%;
+                background: transparent;
+                text-align: left
+            }
+
+            .navbar-breadcrumb {
+                background: #ececec;
+                border-top: 1px solid #476171
+            }
+
+            .settings .form-horizontal .form-group-sm .control-label {
+                font-weight: 400
+            }
+
+            .search-holder .form-control {
+                height: 38px !important;
+                padding: 5px 10px;
+                border-right: 0;
+                border-radius: 0
+            }
+
+            .search-holder > .input-group-btn > .btn {
+                height: 38px;
+                padding: 5px 10px;
+                border-left: 0;
+                border-radius: 0
+            }
+
+            .breadcrumb-container {
+                height: 30px;
+                line-height: 30px;
+                color: #4e4e4e;
+                font-family: "Roboto Condensed", Tahoma, sans-serif
+            }
+
+            .header-logo {
+                display: block;
+                width: 196px;
+                height: 38px;
+                background: url(//cdn.truyencom.com/img/spriteimg_new_white_op.png) no-repeat 0 0;
+                text-indent: -9999px;
+                white-space: nowrap;
+                outline: none;
+                margin: 5px 5px 0 0
+            }
+
+            .multi-column {
+                width: 409px
+            }
+
+            .navbar-nav > li > .dropdown-menu {
+                background-color: #2f566d
+            }
+
+            .multi-column .dropdown-menu {
+                display: flex !important;
+                position: static !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                border: none !important;
+                box-shadow: none !important;
+                min-width: 95px;
+                max-width: none !important;
+                background-color: transparent;
+                flex-wrap: wrap;
+            }
+
+            .multi-column .dropdown-menu > li {
+                width: 33.33334%;
+            }
+
+            .dropdown-menu > li > a {
+                padding: 6px 15px;
+                font-size: 15px
+            }
+
+            .list-search-res {
+                margin-top: 3px;
+                position: absolute;
+                width: 235px;
+                z-index: 1000;
+                background-color: #fff;
+                box-shadow: 0 2px 10px #ababab
+            }
+
+            .search-form {
+                position: relative;
+                z-index: 99;
+                margin: 15px 0;
+            }
+
+            .mobile-search .list-search-res {
+                width: 100%;
+            }
+
+            .search-recent {
+                display: flex;
+                flex-wrap: wrap;
+                margin: 8px 0;
+                gap: 8px;
+                justify-content: center;
+            }
+
+            .search-recent>a {
+                padding: 3px 4px;
+                border-radius: 20px;
+                background: #ddd;
+                color: #000;
+            }
+
+            .search-form .input-group.search-holder {
+                display: block;
+                border-radius: 30px;
+                border: 8px solid #006aff;
+                padding: 2px;
+                position: relative;
+                z-index: 2;
+                background: #fff;
+            }
+
+            .search-form .input-group.search-holder::before {
+                content: "\e003";
+                font-family: 'Glyphicons Halflings';
+                position: absolute;
+                z-index: 999;
+                line-height: 38px;
+                width: 38px;
+                left: 2px;
+                text-align: center;
+                font-size: 1.6em;
+                color: #006aff
+            }
+
+            .search-form .search-holder .form-control {
+                display: block;
+                border-radius: 30px;
+                border: 2px solid transparent;
+                float: none;
+                padding-left: 40px;
+            }
+
+            .search-form .search-holder .form-control:focus {
+                border-color: #333;
+            }
+
+            .search-form .list-search-res {
+                width: 100%;
+                top: 50%;
+                z-index: 1;
+                padding-top: 36px;
+                border-bottom-left-radius: 28px;
+                border-bottom-right-radius: 28px;
+                border: 1px solid #006aff
+            }
+
+            .list {
+                display: table;
+                text-align: left
+            }
+
+            .list h3 {
+                display: inline
+            }
+
+            .col-truyen-main {
+                padding: 0
+            }
+
+            .col-truyen-side .list {
+                background-color: #ecf0f1;
+                border: 1px solid #d9e1e4
+            }
+
+            .list > .row {
+                display: table-row;
+                font-family: "Roboto Condensed", Tahoma, sans-serif;
+                font-size: 15px
+            }
+
+            .col-truyen-side .list > .row {
+                background-color: #ecf0f1
+            }
+
+            .title-list > h2, .title-list > h4 {
+                font-family: "Roboto Condensed", Tahoma, sans-serif;
+                font-size: 20px;
+                height: 40px;
+                line-height: 40px;
+                max-width: 100%;
+                border-bottom: 1px solid #4e4e4e
+            }
+
+            .title-list span.glyphicon {
+                font-size: 16px;
+                line-height: 42px;
+                vertical-align: top;
+                margin-left: 3px
+            }
+
+            .list > .row > div {
+                height: 40px;
+                line-height: 40px;
+                border-left: 1px dashed #ccc;
+                border-bottom: 1px dashed #ccc;
+                overflow: hidden
+            }
+
+            .list > .row:last-child > div {
+                border-bottom: 0 !important
+            }
+
+            .list-cat > .row {
+                font-size: 16px
+            }
+
+            .col-truyen-side .list.list-cat > .row > div {
+                height: 30px !important;
+                line-height: 35px !important;
+                border: 0 !important;
+                padding-left: 20px !important
+            }
+
+            .col-truyen-side .list.list-cat > .row > div:nth-child(odd) {
+                padding-left: 0 !important
+            }
+
+            .list > .row > div:first-child {
+                border-left: 0;
+                padding-left: 0
+            }
+
+            .list .glyphicon-chevron-right {
+                font-size: 12px;
+                color: #8e8c8c
+            }
+
+            .list > .row > div {
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis
+            }
+
+            .col-truyen-side .list > .row > div {
+                max-width: 270px;
+                padding: 0
+            }
+
+            .title-list {
+                text-align: left;
+                height: 40px;
+                text-transform: uppercase;
+                border-bottom: 1px solid #ccc;
+                position: relative
+            }
+
+            .settings {
+                padding: 10px;
+                width: 300px
+            }
+
+            .label-title {
+                padding: 1px 3px;
+                font-size: 13px;
+                vertical-align: bottom;
+                margin-left: 5px
+            }
+
+            .label-full {
+                border: 1px solid #86ad86;
+                color: #86ad86
+            }
+
+            .label-hot {
+                border: 1px solid #fd8383;
+                color: #fd8383
+            }
+
+            .label-new {
+                border: 1px solid #8eb3fd;
+                color: #8eb3fd
+            }
+
+            .label-full:before {
+                content: "Full"
+            }
+
+            .label-hot:before {
+                content: "Hot"
+            }
+
+            .label-new:before {
+                content: "New"
+            }
+
+            .text-info a {
+                color: #31708f
+            }
+
+            .new-select {
+                line-height: 40px;
+                height: 40px;
+                width: initial;
+                border-radius: 0;
+                position: absolute;
+                top: 0;
+                right: 0;
+                padding: 5px;
+                font-family: "Roboto Condensed", Tahoma, sans-serif;
+                text-transform: uppercase;
+                background-color: transparent
+            }
+
+            .new-select {
+                font-size: 20px !important;
+                color: #4e4e4e;
+                border-color: transparent;
+                border-bottom-color: #4e4e4e;
+                border: 1px solid;
+                background: #f4f4f4
+            }
+
+            #intro-index .new-select {
+                background: #d2d2d2
+            }
+
+            #intro-index {
+                margin-bottom: 15px;
+                height: 448px;
+                overflow: hidden
+            }
+
+            .index-intro .item {
+                float: left;
+                margin: 12px 0 0 12px;
+                height: 192px;
+                width: 129px;
+                position: relative
+            }
+
+            .index-intro .item.top-1 {
+                margin-left: 15px;
+                height: 396px;
+                width: 265px
+            }
+
+            .index-intro div.title {
+                position: absolute;
+                bottom: 0;
+                width: 100%;
+                color: #f4f4f4;
+                background-color: rgba(0, 0, 0, 0.6);
+                padding: 5px 0;
+                text-shadow: 1px 2px 2px #000;
+                font-size: 12px;
+                display: block;
+                margin-top: 2px;
+                text-align: center;
+                font-family: "Roboto Condensed", Tahoma, sans-serif
+            }
+
+            .item.top-1 div.title {
+                padding: 10px 0;
+                font-size: 20px;
+                font-weight: 700;
+                color: #fffc57
+            }
+
+            .index-intro .item .item-img {
+                box-shadow: 0 1px 2px #b5b5b5;
+                width: 129px;
+                height: 192px
+            }
+
+            .index-intro .item.top-1 .item-img {
+                width: 265px;
+                height: 396px
+            }
+
+            .full-label {
+                width: 34px;
+                height: 50px;
+                position: absolute;
+                display: block;
+                margin: 140px 0 0 -7px;
+                z-index: 1;
+                background: transparent url(//cdn.truyencom.com/img/full-label.png) no-repeat
+            }
+
+            .top-1 .full-label {
+                margin-top: 305px
+            }
+
+            #list-index {
+                position: relative
+            }
+
+            .breadcrumb-container, .title-list > h2, .title-list > h4, .col-title h3 a {
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis
+            }
+
+            .col-title h3 a {
+                max-width: 79%;
+                max-width: calc(100% - 70px);
+                display: inline-block;
+                height: 40px;
+                line-height: 40px;
+                vertical-align: middle
+            }
+
+            @font-face {
+                font-family: "Roboto Condensed";
+                font-display: fallback;
+                font-style: normal;
+                font-weight: 400;
+                src: url(//cdn.truyencom.com/font/RobotoCondensed-Regular.eot);
+                src: local("Roboto Condensed Regular"), local("RobotoCondensed-Regular"), url(//cdn.truyencom.com/font/RobotoCondensed-Regular.eot) format("embedded-opentype"), url(//cdn.truyencom.com/font/RobotoCondensed-Regular.woff) format("woff")
+            }
+
+            @media all and (-webkit-min-device-pixel-ratio: 0) and (max-width: 480px) {
+                .form-control {
+                    font-size: 16px !important
+                }
+            }
+
+            @media all and (min-width: 768px) {
+                .settings .form-horizontal .form-group-sm .control-label {
+                    font-size: 14px
+                }
+
+                .col-cat {
+                    width: 27.5%
+                }
+
+                .col-chap {
+                    width: 22.5%
+                }
+
+                .form-control {
+                    font-size: 14px
+                }
+            }
+
+            @media all and (min-width: 992px) {
+                .dropdown-menu > li {
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis
+                }
+
+                #list-index {
+                    min-height: 900px
+                }
+
+                .col-cat {
+                    width: 23%
+                }
+
+                .col-chap {
+                    width: 18.66666667%
+                }
+
+                .col-truyen-main {
+                    width: 73%
+                }
+
+                #list-index .col-truyen-side {
+                    top: 0;
+                    right: 0;
+                    position: absolute
+                }
+
+                .col-truyen-side {
+                    width: 27%;
+                    padding: 0 0 0 7.5px
+                }
+
+                .col-truyen-side .list.list-truyen {
+                    margin: 10px 0;
+                    padding-right: 14px;
+                    padding-left: 14px
+                }
+            }
+
+            @media all and (min-width: 1025px) {
+                .list {
+                    border: 0
+                }
+
+                .list .glyphicon-chevron-right {
+                    font-size: 14px
+                }
+
+                #list-index .list h3 a {
+                    font-size: 16px
+                }
+            }
+
+            @media all and (min-width: 1200px) {
+                .col-title {
+                    width: 44.16666667%
+                }
+
+                .col-cat {
+                    width: 22.5%
+                }
+
+                .col-chap {
+                    width: 19.66666667%
+                }
+
+                .col-time {
+                    width: 13.66666667%
+                }
+            }
+
+            @media all and (max-width: 1024px) {
+                .col-truyen-side .list.list-truyen {
+                    padding: 0
+                }
+            }
+
+            @media all and (max-width: 991px) {
+                #intro-index {
+                    height: auto
+                }
+
+                .index-intro .item.top-1 {
+                    margin-left: 3%;
+                    height: auto;
+                    height: calc(21vw * 1.5);
+                    width: 21%
+                }
+
+                .index-intro .top-13 {
+                    display: none
+                }
+
+                .index-intro .top-5, .index-intro .top-9 {
+                    clear: left
+                }
+
+                .index-intro .item {
+                    margin: 2% 0 0 3%;
+                    height: auto;
+                    height: calc(21vw * 1.5);
+                    width: 21%
+                }
+
+                .index-intro .item .item-img, .index-intro .item.top-1 .item-img {
+                    width: 100%;
+                    height: 100%
+                }
+
+                .dark-theme .index-intro .item .item-img {
+                    box-shadow: 0 1px 2px #000
+                }
+
+                .item.top-1 div.title {
+                    padding: 5px 0;
+                    font-size: 12px
+                }
+
+                .full-label {
+                    bottom: 15%;
+                    background-size: 80% 80%;
+                    margin-left: -5px
+                }
+            }
+
+            @media all and (max-width: 891px) {
+                .index-intro .item.top-1, .index-intro .item {
+                    height: calc(21vw * 1.35)
+                }
+            }
+
+            @media all and (max-width: 767px) {
+                .index-intro .item.top-1, .index-intro .item {
+                    height: calc(21vw * 1.5)
+                }
+            }
+
+            @media all and (max-width: 480px) {
+                #wrap {
+                    min-height: calc(100% - 43.5px)
+                }
+
+                .list > .row > div, .title-list > h2, .title-list > h4 {
+                    padding: 0 5px !important
+                }
+
+                .container {
+                    padding: 0
+                }
+
+                .container > .row {
+                    margin: 0
+                }
+
+                .header-logo {
+                    margin-left: 20px
+                }
+
+                .navbar-collapse, .navbar-header {
+                    margin-right: 0 !important;
+                    margin-left: 0 !important
+                }
+
+                .breadcrumb-container {
+                    padding: 0 5px
+                }
+
+                .book-text span {
+                    display: none
+                }
+
+                .book-text:before {
+                    display: inline;
+                    content: "Q"
+                }
+
+                .chapter-text span {
+                    display: none
+                }
+
+                .chapter-text:before {
+                    display: inline;
+                    content: "C"
+                }
+
+                .col-title {
+                    max-width: 280px
+                }
+            }
+
+            @media all and (max-width: 320px) {
+                .col-title {
+                    max-width: 240px
+                }
+            }
+
+            @media all and (device-width: 768px) {
+                .form-horizontal .form-group {
+                    margin-left: 0;
+                    margin-right: 0
+                }
+            }
+
+            .dark-theme {
+                background-image: url(https://cdn.truyencom.com/img/bg_dark.gif);
+                background-color: #232323;
+                background-repeat: repeat;
+                color: rgba(255, 255, 255, 0.6)
+            }
+
+            .dark-theme img {
+                opacity: 0.9
+            }
+
+            .dark-theme a {
+                color: #b1b1b1
+            }
+
+            .dark-theme .navbar-default {
+                background: #242f39;
+                border-bottom-color: #242f39;
+                box-shadow: 0 0 1px rgba(10, 10, 10, 0.4)
+            }
+
+            .dark-theme .navbar-breadcrumb {
+                background: #2e3740;
+                border-top: 0
+            }
+
+            .dark-theme .breadcrumb-container {
+                color: #b1b1b1
+            }
+
+            .dark-theme .col-truyen-side .list {
+                background-color: inherit;
+                border: inherit
+            }
+
+            .dark-theme .list > .row, .dark-theme .col-truyen-side .list > .row {
+                background-color: inherit
+            }
+
+            .dark-theme .list > .row:nth-child(2n), .dark-theme .col-truyen-side .list > .row:nth-child(2n) {
+                background-color: rgba(255, 255, 255, 0.04)
+            }
+
+            .dark-theme .list > .row > div {
+                border-left: 0;
+                border-bottom: 0
+            }
+
+            .dark-theme .title-list, .dark-theme .title-list > h2, .dark-theme .title-list > h4 {
+                border-bottom: 0
+            }
+
+            .dark-theme .title-list > h2, .dark-theme .title-list > h4, .dark-theme .title-list > a, .dark-theme .title-list > h2 > a {
+                color: #fff;
+                text-shadow: 1px 1px 2px #000
+            }
+
+            .dark-theme .text-info a {
+                color: #a9cf54
+            }
+
+            .dark-theme .new-select, .dark-theme #intro-index .new-select {
+                background-color: #2d3741;
+                box-shadow: 0 0 3px rgba(10, 10, 10, 0.4)
+            }
+
+            .dark-theme .new-select {
+                line-height: 34px;
+                height: 34px;
+                border: 0;
+                color: #fff
+            }
+
+            .dark-theme .search-holder > .input-group-btn > .btn {
+                border: 1px solid;
+                margin-left: 2px
+            }
+
+            .dark-theme .search-holder .form-control, .dark-theme .list-search-res, .dark-theme .form-control {
+                box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+                background: #1c242d;
+                border: 1px solid #192128;
+                color: #fff
+            }
+
+            .dark-theme .list-search-res {
+                border-color: #555;
+                box-shadow: 0 2px 10px #222
+            }
+
+            .dark-theme .search-holder > .input-group-btn > .btn {
+                color: #92bb35;
+                border-color: #92bb35;
+                text-shadow: 1px 1px 0 rgba(10, 10, 10, 0.4);
+                background: rgba(10, 10, 10, 0.15)
+            }
+
+            .dark-theme .btn {
+                color: #a9a9a9;
+                background: #121212
+            }
+
+            @media only screen and (min-width: 1025px) {
+                .dark-theme .index-intro .item .item-img {
+                    -webkit-box-shadow: 0 1px 2px #000;
+                    box-shadow: 0 1px 2px #000
+                }
+            }
+        </style>
+        <link rel="shortcut icon" type="image/x-icon" href="https://cdn.truyencom.com/favicon-1.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.truyencom.com/apple-touch-icon-1.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.truyencom.com/favicon-32x32-1.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.truyencom.com/favicon-16x16-1.png">
+        <link rel="manifest" href="https://truyencom.com/site.webmanifest1">
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "truyencom.com",
+                "url": "https://truyencom.com",
+                "logo": "https://cdn.truyencom.com/truyencom_logo.png"
+            }</script>
+    <body id="body_home">
+        <div id="wrap">
+            <div class="navbar navbar-default navbar-static-top" role="navigation" id="nav">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Hiện menu</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="header-logo" href="https://truyencom.com" title="Trang đọc truyện online hay và miễn phí">Trang đọc truyện online hoàn toàn miễn phí</a>
+                    </div>
+                    <div class="navbar-collapse collapse" itemscope="" itemtype="https://schema.org/WebSite">
+                        <meta itemprop="url" content="https://truyencom.com">
+                        <ul class="control nav navbar-nav ">
+                            <li class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-list"></span>
+                                    Danh sách <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li>
+                                        <a href="https://truyencom.com/truyen-hot/" title="Truyện Hot">Truyện Hot</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyencom.com/truyen-full/" title="Truyện Full">Truyện Full</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyencom.com/truyen-moi-cap-nhat/" title="Truyện mới cập nhật">Truyện mới cập nhật</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://truyencom.com/truyen-moi-dang/" title="Truyện mới đăng">Truyện mới đăng</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <button type="button" class="dropdown-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-list"></span>
+                                    Thể loại <span class="caret"></span>
+                                </button>
+                                <div class="dropdown-menu multi-column">
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-tien-hiep/full/" title="Truyện Tiên Hiệp full">Tiên Hiệp Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-kiem-hiep/full/" title="Truyện Kiếm Hiệp full">Kiếm Hiệp Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-ngon-tinh/full/" title="Truyện Ngôn Tình full">Ngôn Tình Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-quan-truong/full/" title="Truyện Quan Trường full">Quan Trường Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-xuyen-khong/full/" title="Truyện Xuyên Không full">Xuyên Không Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-trinh-tham/full/" title="Truyện Trinh Thám full">Trinh Thám Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-tham-hiem/full/" title="Truyện Thám Hiểm full">Thám Hiểm Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-linh-di/full/" title="Truyện Linh Dị full">Linh Dị Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-nguoc/full/" title="Truyện Ngược full">Ngược Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-sung/full/" title="Truyện Sủng full">Sủng Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-cung-dau/full/" title="Truyện Cung Đấu full">Cung Đấu Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-nu-cuong/full/" title="Truyện Nữ Cường full">Nữ Cường Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-dong-phuong/full/" title="Truyện Đông Phương full">Đông Phương Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-dam-my/full/" title="Truyện Đam Mỹ full">Đam Mỹ Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-bach-hop/full/" title="Truyện Bách Hợp full">Bách Hợp Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-hai-huoc/full/" title="Truyện Hài Hước full">Hài Hước Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-co-dai/full/" title="Truyện Cổ Đại full">Cổ Đại Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-mat-the/full/" title="Truyện Mạt Thế full">Mạt Thế Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-tieu-thuyet/full/" title="Truyện Tiểu Thuyết full">Tiểu Thuyết Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-khac/full/" title="Truyện Khác full">Khác Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-vong-du/full/" title="Truyện Võng Du full">Võng Du Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-khoa-huyen/full/" title="Truyện Khoa Huyễn full">Khoa Huyễn Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-di-nang/full/" title="Truyện Dị Năng full">Dị Năng Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-huyen-huyen/full/" title="Truyện Huyền Huyễn full">Huyền Huyễn Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-trong-sinh/full/" title="Truyện Trọng Sinh full">Trọng Sinh Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-do-thi/full/" title="Truyện Đô Thị full">Đô Thị Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-di-gioi/full/" title="Truyện Dị Giới full">Dị Giới Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-gia-dau/full/" title="Truyện Gia Đấu full">Gia Đấu Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-dien-van/full/" title="Truyện Điền Văn full">Điền Văn Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-nu-phu/full/" title="Truyện Nữ Phụ full">Nữ Phụ Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-quan-su/full/" title="Truyện Quân Sự full">Quân Sự Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-lich-su/full/" title="Truyện Lịch Sử full">Lịch Sử Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-teen/full/" title="Truyện Teen full">Truyện Teen Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-light-novel/full/" title="Truyện Light Novel full">Light Novel Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-doan-van/full/" title="Truyện Đoản Văn full">Đoản Văn Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-viet-nam/full/" title="Truyện Việt Nam full">Việt Nam Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-da-su/full/" title="Truyện Dã Sử full">Dã Sử Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-phuong-tay/full/" title="Truyện Phương Tây full">Phương Tây Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-he-thong/full/" title="Truyện Hệ Thống full">Hệ Thống Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-xuyen-nhanh/full/" title="Truyện Xuyên Nhanh full">Xuyên Nhanh Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-hien-dai/full/" title="Truyện Hiện Đại full">Hiện Đại Full</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://truyencom.com/truyen-tong-tai/full/" title="Truyện Tổng tài full">Tổng tài Full</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="dropdown">
+                                <button type="button" class="dropdown-toggle settings-panel-toggle" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-cog"></span>
+                                    Tùy chỉnh <span class="caret"></span>
+                                </button>
+                                <div class="dropdown-menu dropdown-menu-right settings">
+                                    <form class="form-horizontal">
+                                        <div class="form-group form-group-sm">
+                                            <label class="col-sm-2 col-md-5 control-label">Chế độ ban đêm</label>
+                                            <div class="col-sm-5 col-md-7">
+                                                <label class="radio-inline" for="dark-yes">
+                                                    <input type="radio" name="dark-switch" id="dark-yes" value="yes">Có
+                                                </label>
+                                                <label class="radio-inline" for="dark-no">
+                                                    <input type="radio" name="dark-switch" id="dark-no" value="no" checked="">Không
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </li>
+                        </ul>
+                        <form class="navbar-form navbar-right" action="https://truyencom.com/tim-kiem/" role="search" itemprop="potentialAction" itemscope="" itemtype="https://schema.org/SearchAction">
+                            <div class="input-group search-holder">
+                                <meta itemprop="target" content="https://truyencom.com/tim-kiem/?tukhoa={tukhoa}">
+                                <input aria-label="Từ khóa tìm kiếm" autocomplete="off" role="search key" class="form-control" id="search-input" type="search" name="tukhoa" placeholder="Tìm kiếm..." value="" itemprop="query-input" required="">
+                                <div class="input-group-btn">
+                                    <button class="btn btn-default" type="submit" aria-label="Tìm kiếm" role="search">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="list-group list-search-res hide"></div>
+                        </form>
+                    </div>
+                </div>
+                <div class="navbar-breadcrumb">
+                    <div class="container breadcrumb-container">
+                        <ol class="breadcrumb" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                                <a href="https://truyencom.com" accesskey="1">
+                                    <span class="glyphicon glyphicon-home"></span>
+                                </a>
+                                <a href="https://truyencom.com" title="Đọc truyện online" itemprop="item">
+                                    <span itemprop="name">Truyện</span>
+                                </a>
+                                <meta itemprop="position" content="1">
+                            </li>
+                            <li class="active" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                                <h1>
+                                    <a href="https://truyencom.com/tim-kiem/?tukhoa=tiên nghịch" title="Tìm truyện với từ khóa: tiên nghịch" itemprop="item">
+                                        <span itemprop="name">Tìm truyện với từ khóa: tiên nghịch</span>
+                                    </a>
+                                </h1>
+                                <meta itemprop="position" content="2">
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div class="container" id="list-page">
+                <div class="col-xs-12 col-sm-12 col-md-9 col-truyen-main">
+                    <div class="text-center"></div>
+                    <div class="list list-truyen col-xs-12">
+                        <div class="title-list cat-title">
+                            <h2>truyencom.com - Tìm truyện với từ khóa: tiên nghịch</h2>
+                        </div>
+                        <div class="row" itemscope itemtype="https://schema.org/Book">
+                            <div class="col-xs-3 col-sm-2 col-md-3 col-list-image">
+                                <div>
+                                    <div data-image="https://cdn.truyencom.com/medias/covers/0/2-tien-nghich_cover_small.jpg" data-desk-image="https://cdn.truyencom.com/medias/covers/0/2-tien-nghich_cover_list.jpg" data-classname="cover" data-alt="Tiên Nghịch" class="lazyimg"></div>
+                                </div>
+                            </div>
+                            <div class="col-xs-9 col-sm-10 col-md-9 col-list-info">
+                                <div>
+                                    <span class="glyphicon glyphicon-book"></span>
+                                    <h3 class="truyen-title" itemprop="name">
+                                        <a href="https://truyencom.com/tien-nghich.2/" title="Tiên Nghịch" itemprop="url">Tiên Nghịch</a>
+                                    </h3>
+                                    <span class="label-title label-full"></span>
+                                    <span class="label-title label-hot"></span>
+                                    <span class="author" itemprop="author">
+                                        <span class="glyphicon glyphicon-pencil"></span>
+                                        Nhĩ Căn
+                                    </span>
+                                    <span class="author">
+                                        <span class="glyphicon glyphicon-list"></span>
+                                        1974 chương
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="visible-md-block visible-lg-block col-md-3 text-center col-truyen-side">
+                    <div class="panel cat-desc text-left">
+                        <div class="panel-body">Tìm thấy 1 truyện liên quan đến "tiên nghịch" trên truyencom.com</div>
+                    </div>
+                    <div class="list list-truyen list-cat col-xs-12">
+                        <div class="title-list">
+                            <h4>Thể loại truyện</h4>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-tien-hiep/full/" title="Truyện Tiên Hiệp full">Truyện Tiên Hiệp</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-kiem-hiep/full/" title="Truyện Kiếm Hiệp full">Truyện Kiếm Hiệp</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-ngon-tinh/full/" title="Truyện Ngôn Tình full">Truyện Ngôn Tình</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-quan-truong/full/" title="Truyện Quan Trường full">Truyện Quan Trường</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-xuyen-khong/full/" title="Truyện Xuyên Không full">Truyện Xuyên Không</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-trinh-tham/full/" title="Truyện Trinh Thám full">Truyện Trinh Thám</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-tham-hiem/full/" title="Truyện Thám Hiểm full">Truyện Thám Hiểm</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-linh-di/full/" title="Truyện Linh Dị full">Truyện Linh Dị</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-nguoc/full/" title="Truyện Ngược full">Truyện Ngược</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-sung/full/" title="Truyện Sủng full">Truyện Sủng</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-cung-dau/full/" title="Truyện Cung Đấu full">Truyện Cung Đấu</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-nu-cuong/full/" title="Truyện Nữ Cường full">Truyện Nữ Cường</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-dong-phuong/full/" title="Truyện Đông Phương full">Truyện Đông Phương </a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-dam-my/full/" title="Truyện Đam Mỹ full">Truyện Đam Mỹ</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-bach-hop/full/" title="Truyện Bách Hợp full">Truyện Bách Hợp</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-hai-huoc/full/" title="Truyện Hài Hước full">Truyện Hài Hước</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-co-dai/full/" title="Truyện Cổ Đại full">Truyện Cổ Đại</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-mat-the/full/" title="Truyện Mạt Thế full">Truyện Mạt Thế</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-tieu-thuyet/full/" title="Truyện Tiểu Thuyết full">Truyện Tiểu Thuyết </a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-khac/full/" title="Truyện Khác full">Truyện Khác</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-vong-du/full/" title="Truyện Võng Du full">Truyện Võng Du</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-khoa-huyen/full/" title="Truyện Khoa Huyễn full">Truyện Khoa Huyễn</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-di-nang/full/" title="Truyện Dị Năng full">Truyện Dị Năng</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-huyen-huyen/full/" title="Truyện Huyền Huyễn full">Truyện Huyền Huyễn</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-trong-sinh/full/" title="Truyện Trọng Sinh full">Truyện Trọng Sinh</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-do-thi/full/" title="Truyện Đô Thị full">Truyện Đô Thị</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-di-gioi/full/" title="Truyện Dị Giới full">Truyện Dị Giới</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-gia-dau/full/" title="Truyện Gia Đấu full">Truyện Gia Đấu</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-dien-van/full/" title="Truyện Điền Văn full">Truyện Điền Văn</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-nu-phu/full/" title="Truyện Nữ Phụ full">Truyện Nữ Phụ </a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-quan-su/full/" title="Truyện Quân Sự full">Truyện Quân Sự</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-lich-su/full/" title="Truyện Lịch Sử full">Truyện Lịch Sử</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-teen/full/" title="Truyện Teen full">Truyện Teen</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-light-novel/full/" title="Truyện Light Novel full">Truyện Light Novel</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-doan-van/full/" title="Truyện Đoản Văn full">Truyện Đoản Văn</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-viet-nam/full/" title="Truyện Việt Nam full">Truyện Việt Nam</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-da-su/full/" title="Truyện Dã Sử full">Truyện Dã Sử</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-phuong-tay/full/" title="Truyện Phương Tây full">Truyện Phương Tây</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-he-thong/full/" title="Truyện Hệ Thống full">Truyện Hệ Thống</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-xuyen-nhanh/full/" title="Truyện Xuyên Nhanh full">Truyện Xuyên Nhanh</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-hien-dai/full/" title="Truyện Hiện Đại full">Truyện Hiện Đại</a>
+                            </div>
+                            <div class="col-xs-6">
+                                <a href="https://truyencom.com/truyen-tong-tai/full/" title="Truyện Tổng tài full">Truyện Tổng tài</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="list list-truyen list-side col-xs-12" id="top-hot-list">
+                        <div class="title-list">
+                            <h4>Truyện Đang Hot</h4>
+                        </div>
+                        <div class="row top-nav" data-limit="10" data-cat="0">
+                            <div class="col-xs-4 active" data-type="day">Ngày</div>
+                            <div class="col-xs-4" data-type="month">Tháng</div>
+                            <div class="col-xs-4" data-type="all">All time</div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-1">1</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/tam-tien-khai-ky-luc.20957/" title="Tầm Tiên Khải Kỳ Lục">Tầm Tiên Khải Kỳ Lục</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-tien-hiep/full/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-2">2</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/di-la-thanh-quyen.20956/" title="Di La Thanh Quyển">Di La Thanh Quyển</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-tien-hiep/full/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-3">3</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/thuy-thuyet-tha-tu-tien-thien-phu-soa-dich.20955/" title="Thùy Thuyết Tha Tu Tiên Thiên Phú Soa Đích?">Thùy Thuyết Tha Tu Tiên Thiên Phú Soa Đích?</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-tien-hiep/full/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-4">4</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/nhat-giac-tinh-lai-tong-mon-tuu-thang-tam-qua-luong-tao.20954/" title="Nhất Giác Tỉnh Lai, Tông Môn Tựu Thặng Tam Qua Lưỡng Tảo">Nhất Giác Tỉnh Lai, Tông Môn Tựu Thặng Tam Qua Lưỡng Tảo</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-tien-hiep/full/" title="Tiên Hiệp">Tiên Hiệp</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-5">5</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/chung-quy-du-hi-khai-cuc-doc-tam-toan-gia-tuong-sat-nga.20953/" title="Chung Quỷ Du Hí: Khai Cục Độc Tâm, Toàn Gia Tưởng Sát Ngã">Chung Quỷ Du Hí: Khai Cục Độc Tâm, Toàn Gia Tưởng Sát Ngã</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-khoa-huyen/full/" title="Khoa Huyễn">Khoa Huyễn</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-6">6</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/cham-vao-coi-pham.20952/" title="Chạm Vào Cõi Phàm">Chạm Vào Cõi Phàm</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-ngon-tinh/full/" title="Ngôn Tình">Ngôn Tình</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-xuyen-khong/full/" title="Xuyên Không">Xuyên Không</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-sung/full/" title="Sủng">Sủng</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-co-dai/full/" title="Cổ Đại">Cổ Đại</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-dien-van/full/" title="Điền Văn">Điền Văn</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-7">7</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/ai-cung-noi-toi-la-nu-chinh.20951/" title="Ai Cũng Nói Tôi Là Nữ Chính">Ai Cũng Nói Tôi Là Nữ Chính</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-nu-cuong/full/" title="Nữ Cường">Nữ Cường</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-hien-dai/full/" title="Hiện Đại">Hiện Đại</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-8">8</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/tinh-yeu-va-su-cuu-roi.20950/" title="Tình Yêu Và Sự Cứu Rỗi">Tình Yêu Và Sự Cứu Rỗi</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-ngon-tinh/full/" title="Ngôn Tình">Ngôn Tình</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-hien-dai/full/" title="Hiện Đại">Hiện Đại</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-9">9</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/tren-nhung-tang-may.20949/" title="Trên Những Tầng Mây">Trên Những Tầng Mây</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-dam-my/full/" title="Đam Mỹ">Đam Mỹ</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-khac/full/" title="Khác">Khác</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-do-thi/full/" title="Đô Thị">Đô Thị</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row top-item">
+                            <div class="col-xs-12">
+                                <div class="top-num top-10">10</div>
+                                <div class="s-title">
+                                    <h3>
+                                        <a href="https://truyencom.com/vua-nhin-anh-lien-thich-em.20948/" title="Vừa Nhìn, Anh Liền Thích Em">Vừa Nhìn, Anh Liền Thích Em</a>
+                                    </h3>
+                                </div>
+                                <div>
+                                    <a itemprop="genre" href="https://truyencom.com/truyen-ngon-tinh/full/" title="Ngôn Tình">Ngôn Tình</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-sung/full/" title="Sủng">Sủng</a>
+                                    , <a itemprop="genre" href="https://truyencom.com/truyen-do-thi/full/" title="Đô Thị">Đô Thị</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container text-center pagination-container">
+                <div class="col-xs-12 col-sm-12 col-md-9 col-truyen-main">
+                    <ul class="pagination pagination-sm"></ul>
+                </div>
+            </div>
+        </div>
+        <div id="footer" class="footer">
+            <div class="container">
+                <div class="col-xs12 col-sm-7">
+                    <p>
+                        Website <a href="https://truyencom.com/" title="Truyện Com - Trang đọc truyện online miễn phí">Truyện Com</a>
+                        là 1 website đọc truyện online hoàn toàn miễn phí, không có quảng cáo, phi lợi nhuận với nhiều thể loại phong phú và được cập nhật liên tục. 
+                    </p>
+                    <div class="page-list">
+                        <a href="https://truyencom.com/page/chinh-sach-bao-mat.html" title="Chính sách bảo mật" rel="nofollow">Chính sách bảo mật</a>
+                        <a href="https://truyencom.com/page/dieu-khoan-su-dung.html" title="Điều khoản sử dụng" rel="nofollow">Điều khoản sử dụng</a>
+                        <a href="https://truyencom.com/page/quy-dinh-ve-noi-dung.html" title="Quy định về nội dung" rel="nofollow">Quy định về nội dung</a>
+                        <a href="https://truyencom.com/page/thoa-thuan-quyen-rieng-tu.html" title="Thỏa thuận quyền riêng tư" rel="nofollow">Thỏa thuận quyền riêng tư</a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-5">
+                    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                        <img alt="Creative Commons License" style="border-width:0;margin-bottom: 10px" src="https://i.creativecommons.org/l/by/4.0/88x31.png">
+                    </a>
+                    <br>
+                    <p>
+                        Website hoạt động dưới Giấy phép truy cập mở <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+                    </p>
+                </div>
+                <ul class="col-xs-12 col-sm-7 list-unstyled">
+                    <li class="text-right pull-right">
+                        <a class="backtop" title="Trở lên đầu trang" href="#wrap" rel="nofollow" aria-label="Trở về đầu trang">
+                            <span class="glyphicon glyphicon-upload"></span>
+                        </a>
+                    </li>
+                    <li class="hidden-xs tag-list"></li>
+                </ul>
+            </div>
+        </div>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-E4BWW106Q3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'G-E4BWW106Q3');
+        </script>
+        <script>
+            genres = JSON.parse('{"1":{"name":"Ti\u00ean Hi\u1ec7p","slug":"tien-hiep"},"2":{"name":"Ki\u1ebfm Hi\u1ec7p","slug":"kiem-hiep"},"3":{"name":"Ng\u00f4n T\u00ecnh","slug":"ngon-tinh"},"5":{"name":"Quan Tr\u01b0\u1eddng","slug":"quan-truong"},"13":{"name":"Xuy\u00ean Kh\u00f4ng","slug":"xuyen-khong"},"15":{"name":"Trinh Th\u00e1m","slug":"trinh-tham"},"16":{"name":"Th\u00e1m Hi\u1ec3m","slug":"tham-hiem"},"17":{"name":"Linh D\u1ecb","slug":"linh-di"},"19":{"name":"Ng\u01b0\u1ee3c","slug":"nguoc"},"20":{"name":"S\u1ee7ng","slug":"sung"},"21":{"name":"Cung \u0110\u1ea5u","slug":"cung-dau"},"22":{"name":"N\u1eef C\u01b0\u1eddng","slug":"nu-cuong"},"24":{"name":"\u0110\u00f4ng Ph\u01b0\u01a1ng ","slug":"dong-phuong"},"25":{"name":"\u0110am M\u1ef9","slug":"dam-my"},"26":{"name":"B\u00e1ch H\u1ee3p","slug":"bach-hop"},"27":{"name":"H\u00e0i H\u01b0\u1edbc","slug":"hai-huoc"},"29":{"name":"C\u1ed5 \u0110\u1ea1i","slug":"co-dai"},"30":{"name":"M\u1ea1t Th\u1ebf","slug":"mat-the"},"32":{"name":"Ti\u1ec3u Thuy\u1ebft ","slug":"tieu-thuyet"},"37":{"name":"Kh\u00e1c","slug":"khac"},"38":{"name":"V\u00f5ng Du","slug":"vong-du"},"39":{"name":"Khoa Huy\u1ec5n","slug":"khoa-huyen"},"40":{"name":"D\u1ecb N\u0103ng","slug":"di-nang"},"41":{"name":"Huy\u1ec1n Huy\u1ec5n","slug":"huyen-huyen"},"42":{"name":"Tr\u1ecdng Sinh","slug":"trong-sinh"},"43":{"name":"\u0110\u00f4 Th\u1ecb","slug":"do-thi"},"44":{"name":"D\u1ecb Gi\u1edbi","slug":"di-gioi"},"45":{"name":"Gia \u0110\u1ea5u","slug":"gia-dau"},"46":{"name":"\u0110i\u1ec1n V\u0103n","slug":"dien-van"},"47":{"name":"N\u1eef Ph\u1ee5 ","slug":"nu-phu"},"48":{"name":"Qu\u00e2n S\u1ef1","slug":"quan-su"},"49":{"name":"L\u1ecbch S\u1eed","slug":"lich-su"},"50":{"name":"Truy\u1ec7n Teen","slug":"truyen-teen"},"51":{"name":"Light Novel","slug":"light-novel"},"53":{"name":"\u0110o\u1ea3n V\u0103n","slug":"doan-van"},"54":{"name":"Vi\u1ec7t Nam","slug":"viet-nam"},"55":{"name":"D\u00e3 S\u1eed","slug":"da-su"},"56":{"name":"Ph\u01b0\u01a1ng T\u00e2y","slug":"phuong-tay"},"57":{"name":"H\u1ec7 Th\u1ed1ng","slug":"he-thong"},"58":{"name":"Xuy\u00ean Nhanh","slug":"xuyen-nhanh"},"62":{"name":"Hi\u1ec7n \u0110\u1ea1i","slug":"hien-dai"},"63":{"name":"T\u1ed5ng t\u00e0i","slug":"tong-tai"}}');
+        </script>
+        <noscript id="deferred-styles">
+            <link rel="stylesheet" type="text/css" href="https://cdn.truyencom.com/assets/truyenfull/source/css-cat.css?v=0.0.3">
+        </noscript>
+        <script type="text/javascript" src="https://cdn.truyencom.com/assets/truyenfull/js/main.js?v=0.4.2"></script>
+        <script type="text/javascript" src="https://cdn.truyencom.com/assets/truyenfull/js/cat.js?v=0.0.1"></script>
+        <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"c60c516b97e64ddbbaf47f36a2495930","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+    </body>
+</html>

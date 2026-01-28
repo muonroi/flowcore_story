@@ -1,0 +1,306 @@
+{
+    "storyID": 663,
+    "items": [
+        {
+            "chapterID": "124170",
+            "chapter_name": "Ch\u01b0\u01a1ng 51: X\u1ea3y ra chuy\u1ec7n l\u1edbn!",
+            "prevChapterID": "124168",
+            "nextChapterID": "124172"
+        },
+        {
+            "chapterID": "124172",
+            "chapter_name": "Ch\u01b0\u01a1ng 52: V\u00f4 \u0111\u1ecbch thi\u00ean h\u1ea1?",
+            "prevChapterID": "124170",
+            "nextChapterID": "124174"
+        },
+        {
+            "chapterID": "124174",
+            "chapter_name": "Ch\u01b0\u01a1ng 53: \u0110\u00e1nh c\u01b0\u1ee3c",
+            "prevChapterID": "124172",
+            "nextChapterID": "124176"
+        },
+        {
+            "chapterID": "124176",
+            "chapter_name": "Ch\u01b0\u01a1ng 54: T\u00e2n sinh tr\u1eafc th\u00ed",
+            "prevChapterID": "124174",
+            "nextChapterID": "124178"
+        },
+        {
+            "chapterID": "124178",
+            "chapter_name": "Ch\u01b0\u01a1ng 55: Khi\u00eau chi\u1ebfn t\u1ea5t c\u1ea3 t\u00e2n sinh",
+            "prevChapterID": "124176",
+            "nextChapterID": "124180"
+        },
+        {
+            "chapterID": "124180",
+            "chapter_name": "Ch\u01b0\u01a1ng 56: B\u1ed1n h\u00f4 h\u1ea5p?",
+            "prevChapterID": "124178",
+            "nextChapterID": "124182"
+        },
+        {
+            "chapterID": "124182",
+            "chapter_name": "Ch\u01b0\u01a1ng 57: C\u00e1i g\u00ec m\u00e0 thi\u00ean ph\u00fa ngh\u1ecbch thi\u00ean",
+            "prevChapterID": "124180",
+            "nextChapterID": "124184"
+        },
+        {
+            "chapterID": "124184",
+            "chapter_name": "Ch\u01b0\u01a1ng 58: Ng\u01b0\u01a1i nghe kh\u00f4ng hi\u1ec3u \u00fd t\u1ee9 c\u1ee7ata?",
+            "prevChapterID": "124182",
+            "nextChapterID": "124187"
+        },
+        {
+            "chapterID": "124187",
+            "chapter_name": "Ch\u01b0\u01a1ng 59: Thu ho\u00e0ng ti\u1ec3u long l\u00e0m \u0111\u1ed3 \u0111\u1ec7?",
+            "prevChapterID": "124184",
+            "nextChapterID": "124188"
+        },
+        {
+            "chapterID": "124188",
+            "chapter_name": "Ch\u01b0\u01a1ng 60: H\u1eafn kh\u00f4ng ph\u1ea3i t\u01b0 sinh t\u1eed c\u1ee7a ng\u01b0\u01a1i sao?",
+            "prevChapterID": "124187",
+            "nextChapterID": "124190"
+        },
+        {
+            "chapterID": "124190",
+            "chapter_name": "Ch\u01b0\u01a1ng 61: Di\u1ec7t ph\u1ee7 nguy\u00ean so\u00e1i?",
+            "prevChapterID": "124188",
+            "nextChapterID": "124192"
+        },
+        {
+            "chapterID": "124192",
+            "chapter_name": "Ch\u01b0\u01a1ng 62: \u0110\u1ed9c huy\u1ebft ch\u01b0\u1edfng",
+            "prevChapterID": "124190",
+            "nextChapterID": "124194"
+        },
+        {
+            "chapterID": "124194",
+            "chapter_name": "Ch\u01b0\u01a1ng 63: D\u01b0\u1edbi g\u1ed1c \u0111\u1ea1i th\u1ee5",
+            "prevChapterID": "124192",
+            "nextChapterID": "124196"
+        },
+        {
+            "chapterID": "124196",
+            "chapter_name": "Ch\u01b0\u01a1ng 64: Ch\u1ec9 m\u1ed9t ki\u1ebfm",
+            "prevChapterID": "124194",
+            "nextChapterID": "124198"
+        },
+        {
+            "chapterID": "124198",
+            "chapter_name": "Ch\u01b0\u01a1ng 65: Tr\u1edf l\u1ea1i v\u01b0\u01a1ng th\u00e0nh",
+            "prevChapterID": "124196",
+            "nextChapterID": "124201"
+        },
+        {
+            "chapterID": "124201",
+            "chapter_name": "Ch\u01b0\u01a1ng 66: Ch\u1eafc l\u00e0 b\u00ecnh th\u1ee7",
+            "prevChapterID": "124198",
+            "nextChapterID": "124203"
+        },
+        {
+            "chapterID": "124203",
+            "chapter_name": "Ch\u01b0\u01a1ng 67: B\u1eaft \u0111\u1ea7u thi \u0111\u1ea5u c\u00f9ng kh\u1ed1i",
+            "prevChapterID": "124201",
+            "nextChapterID": "124205"
+        },
+        {
+            "chapterID": "124205",
+            "chapter_name": "Ch\u01b0\u01a1ng 68: Qu\u1ed1c v\u01b0\u01a1ng l\u1ee5c tri\u1ebft",
+            "prevChapterID": "124203",
+            "nextChapterID": "124207"
+        },
+        {
+            "chapterID": "124207",
+            "chapter_name": "Ch\u01b0\u01a1ng 69: Ch\u01b0a ch\u1eafc",
+            "prevChapterID": "124205",
+            "nextChapterID": "124209"
+        },
+        {
+            "chapterID": "124209",
+            "chapter_name": "Ch\u01b0\u01a1ng 70: Kh\u00f4ng cam l\u00f2ng ch\u1ecbu thua",
+            "prevChapterID": "124207",
+            "nextChapterID": "124211"
+        },
+        {
+            "chapterID": "124211",
+            "chapter_name": "Ch\u01b0\u01a1ng 71: G\u1ecdi v\u0169 h\u1ed3n c\u1ee7a ng\u01b0\u01a1i ra \u0111i",
+            "prevChapterID": "124209",
+            "nextChapterID": "124213"
+        },
+        {
+            "chapterID": "124213",
+            "chapter_name": "Ch\u01b0\u01a1ng 72: V\u0169 h\u1ed3n c\u1ee7a ho\u00e0ng ti\u1ec3u long",
+            "prevChapterID": "124211",
+            "nextChapterID": "124215"
+        },
+        {
+            "chapterID": "124215",
+            "chapter_name": "Ch\u01b0\u01a1ng 73: Thi \u0111\u1ea5u trong h\u1ecdc vi\u1ec7n k\u1ebft th\u00fac",
+            "prevChapterID": "124213",
+            "nextChapterID": "124217"
+        },
+        {
+            "chapterID": "124217",
+            "chapter_name": "Ch\u01b0\u01a1ng 74: Tu luy\u1ec7n \u1edf long di\u1ec5m c\u1ed1c",
+            "prevChapterID": "124215",
+            "nextChapterID": "124219"
+        },
+        {
+            "chapterID": "124219",
+            "chapter_name": "Ch\u01b0\u01a1ng 75: B\u1ea3o th\u00e1p",
+            "prevChapterID": "124217",
+            "nextChapterID": "124221"
+        },
+        {
+            "chapterID": "124221",
+            "chapter_name": "Ch\u01b0\u01a1ng 76: T\u1ed5ng b\u1ed9 tu la m\u00f4n",
+            "prevChapterID": "124219",
+            "nextChapterID": "124223"
+        },
+        {
+            "chapterID": "124223",
+            "chapter_name": "Ch\u01b0\u01a1ng 77: ",
+            "prevChapterID": "124221",
+            "nextChapterID": "124225"
+        },
+        {
+            "chapterID": "124225",
+            "chapter_name": "Ch\u01b0\u01a1ng 78: D\u1ecb b\u1ea3o \u0111\u1ee9ng \u0111\u1ea7u b\u1ea3ng",
+            "prevChapterID": "124223",
+            "nextChapterID": "124227"
+        },
+        {
+            "chapterID": "124227",
+            "chapter_name": "Ch\u01b0\u01a1ng 79: Ho\u00e0ng ti\u1ec3u long v\u1ec1 nh\u00e0",
+            "prevChapterID": "124225",
+            "nextChapterID": "124229"
+        },
+        {
+            "chapterID": "124229",
+            "chapter_name": "Ch\u01b0\u01a1ng 80: \u0110\u00f4ng \u0111i\u1ec7n g\u1eb7p chuy\u1ec7n kh\u00f4ng may",
+            "prevChapterID": "124227",
+            "nextChapterID": "124231"
+        },
+        {
+            "chapterID": "124231",
+            "chapter_name": "Ch\u01b0\u01a1ng 81: Ph\u1ee5 th\u00e2n h\u1eafn b\u1ecb ng\u01b0\u1eddi \u0111\u1ea3 th\u01b0\u01a1ng",
+            "prevChapterID": "124229",
+            "nextChapterID": "124233"
+        },
+        {
+            "chapterID": "124233",
+            "chapter_name": "Ch\u01b0\u01a1ng 82: C\u00fat ra \u0111\u00e2y cho ta",
+            "prevChapterID": "124231",
+            "nextChapterID": "124235"
+        },
+        {
+            "chapterID": "124235",
+            "chapter_name": "Ch\u01b0\u01a1ng 83: \u0110\u1ea1i Ki\u1ebfm T\u00f4ng t\u00ednh l\u00e0 c\u00e1i th\u1ee9 g\u00ec",
+            "prevChapterID": "124233",
+            "nextChapterID": "124238"
+        },
+        {
+            "chapterID": "124238",
+            "chapter_name": "Ch\u01b0\u01a1ng 84: \u0110\u1ea1i b\u00e1 bi\u1ebft sai r\u1ed3i!",
+            "prevChapterID": "124235",
+            "nextChapterID": "124240"
+        },
+        {
+            "chapterID": "124240",
+            "chapter_name": "Ch\u01b0\u01a1ng 85: Mi\u1ec5n ph\u00ed \u0111\u01b0a cho ta",
+            "prevChapterID": "124238",
+            "nextChapterID": "124242"
+        },
+        {
+            "chapterID": "124242",
+            "chapter_name": "Ch\u01b0\u01a1ng 86: Ph\u1ee5 t\u1eed ho\u00e0ng minh b\u1ecb gi\u1ebft",
+            "prevChapterID": "124240",
+            "nextChapterID": "124244"
+        },
+        {
+            "chapterID": "124244",
+            "chapter_name": "Ch\u01b0\u01a1ng 87: \u0110\u1ec3 cho b\u1ecdn h\u1eafn \u0111i l\u1ea7u m\u1ed9t \u0103n",
+            "prevChapterID": "124242",
+            "nextChapterID": "124246"
+        },
+        {
+            "chapterID": "124246",
+            "chapter_name": "Ch\u01b0\u01a1ng 88: S\u1ebd kh\u00f4ng tr\u00f9ng h\u1ee3p nh\u01b0 v\u1eady ch\u1ee9!",
+            "prevChapterID": "124244",
+            "nextChapterID": "124248"
+        },
+        {
+            "chapterID": "124248",
+            "chapter_name": "Ch\u01b0\u01a1ng 89: Tr\u1edf l\u1ea1i thi\u00ean huy\u1ec1n ph\u1ee7",
+            "prevChapterID": "124246",
+            "nextChapterID": "124250"
+        },
+        {
+            "chapterID": "124250",
+            "chapter_name": "Ch\u01b0\u01a1ng 90: Minh v\u01b0\u01a1ng chi n\u1ed9",
+            "prevChapterID": "124248",
+            "nextChapterID": "124252"
+        },
+        {
+            "chapterID": "124252",
+            "chapter_name": "Ch\u01b0\u01a1ng 91: \u0110\u1ed9t ph\u00e1 th\u1ea5t giai",
+            "prevChapterID": "124250",
+            "nextChapterID": "124254"
+        },
+        {
+            "chapterID": "124254",
+            "chapter_name": "Ch\u01b0\u01a1ng 92: M\u1edf ra linh lung kim th\u00e2n",
+            "prevChapterID": "124252",
+            "nextChapterID": "124256"
+        },
+        {
+            "chapterID": "124256",
+            "chapter_name": "Ch\u01b0\u01a1ng 93: T\u1ea5n ch\u1ee9c kh\u1ea3o h\u1ea1ch",
+            "prevChapterID": "124254",
+            "nextChapterID": "124258"
+        },
+        {
+            "chapterID": "124258",
+            "chapter_name": "Ch\u01b0\u01a1ng 94: Thi\u0323 tr\u1ea5n nh\u1ecf qu\u1ef7 d\u1ecb",
+            "prevChapterID": "124256",
+            "nextChapterID": "124260"
+        },
+        {
+            "chapterID": "124260",
+            "chapter_name": "Ch\u01b0\u01a1ng 95: Tr\u1eef v\u0169 gia t\u1ed9c",
+            "prevChapterID": "124258",
+            "nextChapterID": "124262"
+        },
+        {
+            "chapterID": "124262",
+            "chapter_name": "Ch\u01b0\u01a1ng 96: B\u1eaft h\u1ebft cho ta",
+            "prevChapterID": "124260",
+            "nextChapterID": "124264"
+        },
+        {
+            "chapterID": "124264",
+            "chapter_name": "Ch\u01b0\u01a1ng 97: B\u1ed1n n\u0103m qua \u0111i",
+            "prevChapterID": "124262",
+            "nextChapterID": "124267"
+        },
+        {
+            "chapterID": "124267",
+            "chapter_name": "Ch\u01b0\u01a1ng 98: \u00c1c ma chi d\u1ef1c",
+            "prevChapterID": "124264",
+            "nextChapterID": "124269"
+        },
+        {
+            "chapterID": "124269",
+            "chapter_name": "Ch\u01b0\u01a1ng 99: \u0110\u1ed3 nam nh\u00e2n bi\u1ebfn th\u00e1i",
+            "prevChapterID": "124267",
+            "nextChapterID": "124271"
+        },
+        {
+            "chapterID": "124271",
+            "chapter_name": "Ch\u01b0\u01a1ng 100: Vu Minh M\u1ea5t T\u00edch",
+            "prevChapterID": "124269",
+            "nextChapterID": "124273"
+        }
+    ],
+    "pagination": "<li><a href=\"https:\/\/truyencom.com\/vo-dich-thien-ha.663\/\" title=\"{title}\"><span class=\"glyphicon glyphicon-menu-left\"><\/span><\/a><\/li><li><a title=\"{title}\" href=\"https:\/\/truyencom.com\/vo-dich-thien-ha.663\/\">1<\/a><\/li><li class=\"active\"><span>2<span class=\"sr-only\"> (\u0111ang xem)<\/span><\/span><\/li><li><a title=\"{title}\" href=\"https:\/\/truyencom.com\/vo-dich-thien-ha.663\/\/trang-3\/#chapter-list\">3<\/a><\/li><li><a title=\"{title}\" href=\"https:\/\/truyencom.com\/vo-dich-thien-ha.663\/\/trang-4\/#chapter-list\">4<\/a><\/li><li><a title=\"{title}\" href=\"https:\/\/truyencom.com\/vo-dich-thien-ha.663\/\/trang-5\/#chapter-list\">5<\/a><\/li><li><a href=\"https:\/\/truyencom.com\/vo-dich-thien-ha.663\/\/trang-3\/#chapter-list\" title=\"{title}\"><span class=\"sr-only\">Next page<\/span><span class=\"glyphicon glyphicon-menu-right\"><\/span><\/a><\/li><li><a title=\"{title}\" href=\"https:\/\/truyencom.com\/vo-dich-thien-ha.663\/\/trang-76\/#chapter-list\">Last <span class=\"arrow\">\u00bb<\/span><\/a><\/li><li class=\"dropup page-nav\"><a href=\"javascript:void(0)\" data-toggle=\"dropdown\">Select page <span class=\"caret\"><\/span><\/a><div class=\"dropdown-menu dropdown-menu-right\" role=\"menu\"><form action=\".\" name=\"page_jump\" id=\"page_jump\" method=\"get\"><div class=\"input-group\"><input name=\"format\" type=\"hidden\" value=\"https:\/\/truyencom.com\/vo-dich-thien-ha.663\/\/trang-%d\/#chapter-list\"><input class=\"form-control\" name=\"page\" type=\"number\" placeholder=\"Page...\" value=\"\"><span class=\"input-group-btn\"><button class=\"btn btn-default\" type=\"submit\">Go<\/button><\/span><\/div><\/form><\/div> <\/li>"
+}

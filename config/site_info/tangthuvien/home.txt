@@ -1,0 +1,1359 @@
+<html class=" js csstransitions"><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/Jv8jlA-BQE5JD6rA-h_iqNH2/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-Favr7vFIBo/+ruj/aVntsNMFZCKhrSm5l7oEO+HHTCa4qjhPlnHiz0CxvTwXMoTZ"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js" id="eppiocemhmnlbhjplcgkofciiegomcon"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <!-- SEO Meta -->
+    <meta charset="UTF-8">
+    <meta http-equiv="content-language" content="vi">
+    <meta name="revisit-after" content="1 days">
+    <meta name="ROBOTS" content="index,follow,noodp">
+    <meta name="googlebot" content="index,follow">
+    <meta name="BingBOT" content="index,follow">
+    <meta name="yahooBOT" content="index,follow">
+    <meta name="slurp" content="index,follow">
+    <meta name="msnbot" content="index,follow">
+    <title>Tiên Hiệp</title>
+    <meta property="og:url" content="http://tangthuvien.net">
+    <meta property="og:title" content="Tàng Thư Viện - Nơi dừng chân của những người đam mê kiếm hiệp, tiên hiệp, ngôn tình">
+    <meta property="og:description" content="Tàng Thư Viện - Nơi dừng chân của những người đam mê kiếm hiệp, tiên hiệp, ngôn tình">
+    <meta name="description" content="Tàng Thư Viện - Nơi dừng chân của những người đam mê kiếm hiệp, tiên hiệp, ngôn tình">
+    <meta name="keywords" content="truyen convert, truyen dich, truyen kiem hiep, truyen ngon tinh, truyen full, truyen hoan thanh, truyen tien hiep, truyen lich su, truyen do thi">
+    <meta property="article:tag" content="doc truyen, doc truyen online, truyen hay, truyen full">
+    <meta property="article:tag" content="kiem hiep, tien hiep, ngon tinh, do thi, huyen huyen, lich su">
+    <meta property="article:tag" content="truyen convert, truyen dich, truyen ngon tinh, truyen sang tac">
+    <!-- End-->
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://tangthuvien.net/images/icon-favico.png">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,700i,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://tangthuvien.net/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/minified/jquery-ui.min.css" type="text/css">
+    <link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/category.css?v=1759499125">
+    <link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/component.css?v=1759499125">
+    <link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/login-box.css?v=1759499125">
+    <script src="https://tangthuvien.net/js/jquery-2.2.4.js"></script><script bis_use="true" type="text/javascript" charset="utf-8" data-bis-config="[&quot;facebook.com/&quot;,&quot;twitter.com/&quot;,&quot;youtube-nocookie.com/embed/&quot;,&quot;//vk.com/&quot;,&quot;//www.vk.com/&quot;,&quot;linkedin.com/&quot;,&quot;//www.linkedin.com/&quot;,&quot;//instagram.com/&quot;,&quot;//www.instagram.com/&quot;,&quot;//www.google.com/recaptcha/api2/&quot;,&quot;//hangouts.google.com/webchat/&quot;,&quot;//www.google.com/calendar/&quot;,&quot;//www.google.com/maps/embed&quot;,&quot;spotify.com/&quot;,&quot;soundcloud.com/&quot;,&quot;//player.vimeo.com/&quot;,&quot;//disqus.com/&quot;,&quot;//tgwidget.com/&quot;,&quot;//js.driftt.com/&quot;,&quot;friends2follow.com&quot;,&quot;/widget&quot;,&quot;login&quot;,&quot;//video.bigmir.net/&quot;,&quot;blogger.com&quot;,&quot;//smartlock.google.com/&quot;,&quot;//keep.google.com/&quot;,&quot;/web.tolstoycomments.com/&quot;,&quot;moz-extension://&quot;,&quot;chrome-extension://&quot;,&quot;/auth/&quot;,&quot;//analytics.google.com/&quot;,&quot;adclarity.com&quot;,&quot;paddle.com/checkout&quot;,&quot;hcaptcha.com&quot;,&quot;recaptcha.net&quot;,&quot;2captcha.com&quot;,&quot;accounts.google.com&quot;,&quot;www.google.com/shopping/customerreviews&quot;,&quot;buy.tinypass.com&quot;,&quot;gstatic.com&quot;,&quot;secureir.ebaystatic.com&quot;,&quot;docs.google.com&quot;,&quot;contacts.google.com&quot;,&quot;github.com&quot;,&quot;mail.google.com&quot;,&quot;chat.google.com&quot;,&quot;audio.xpleer.com&quot;,&quot;keepa.com&quot;,&quot;static.xx.fbcdn.net&quot;,&quot;sas.selleramp.com&quot;,&quot;1plus1.video&quot;,&quot;console.googletagservices.com&quot;,&quot;//lnkd.demdex.net/&quot;,&quot;//radar.cedexis.com/&quot;,&quot;//li.protechts.net/&quot;,&quot;challenges.cloudflare.com/&quot;,&quot;ogs.google.com&quot;]" src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executors/traffic.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/ui/1.10.1/jquery-ui.min.js"></script>
+    <script src="https://tangthuvien.net/js/waterwheel.js"></script>
+    <script src="https://tangthuvien.net/js/modernizr.custom.js"></script>
+    <script src="https://tangthuvien.net/js/jquery.cbpcontentslider.js"></script>
+    <script src="https://tangthuvien.net/js/category.js?v=1759499125"></script>
+    <script src="https://tangthuvien.net/js/account.js?v=1759499125"></script>
+</head><body class="loaded" __processed_47fa2a56-7ced-4c41-9005-4be14ca803c0__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCIsIlBJTlRFUkVTVCI6ImRpc2FibGVkIiwiSU5TVEFHUkFNIjoiZGlzYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZGlzYWJsZWQiLCJDT05GSUciOiJkaXNhYmxlZCJ9LCJ2ZXJzaW9uIjoiMi4wLjI2Iiwic2NvcmUiOjIwMDI2fV0=">
+<header>
+    <div id="pin-nav" class="pin-nav-wrap need-search" bis_skin_checked="1">
+        <div class="box-center cf" bis_skin_checked="1">
+            <div class="nav-list site-nav fl" bis_skin_checked="1">
+                <ul>
+                    <li class="site"><a class="pin-logo" href="https://tangthuvien.net" data-eid="qd_A43">Trang chủ</a>
+                    </li>
+                                                                                            <li class=""><a href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></li>
+                                                                                                                        <li class=""><a href="https://tangthuvien.net/the-loai/huyen-huyen">Huyền Huyễn</a></li>
+                                                                                                                        <li class=""><a href="https://tangthuvien.net/the-loai/do-thi">Đô Thị</a></li>
+                                                                                                                        <li class=""><a href="https://tangthuvien.net/the-loai/khoa-huyen">Khoa Huyễn</a></li>
+                                                                                                                        <li class=""><a href="https://tangthuvien.net/the-loai/ky-huyen">Kỳ Huyễn</a></li>
+                                                                                                                        <li class=""><a href="https://tangthuvien.net/the-loai/vo-hiep">Võ Hiệp</a></li>
+                                                                                                                        <li class=""><a href="https://tangthuvien.net/the-loai/lich-su">Lịch Sử</a></li>
+                                                                                                                                                        <li class="more">
+                                    <a href="javascript:" id="top-nav-more" onclick="jQuery('.dropdown').toggle()" data-eid="qd_A54">Khác<span></span></a>
+                                    <div class="dropdown" bis_skin_checked="1">
+                                                                                <a href="https://tangthuvien.net/the-loai/dong-nhan">Đồng Nhân</a>
+                                                                                                                                                                                                        <a href="https://tangthuvien.net/the-loai/quan-su">Quân Sự</a>
+                                                                                                                                                                                                        <a href="https://tangthuvien.net/the-loai/du-hi">Du Hí</a>
+                                                                                                                                                                                                        <a href="https://tangthuvien.net/the-loai/canh-ky">Cạnh Kỹ</a>
+                                                                                                                                                                                                        <a href="https://tangthuvien.net/the-loai/linh-di">Linh Dị</a>
+                                                                            </div>
+                                </li>
+                                                                                                                </ul>
+            </div>
+            <div class="nav-list min-user fr" bis_skin_checked="1">
+                <ul>
+                    <li id="min-search">
+                        <form id="formUrl" action="//www.qidian.com/search" method="get" target="_blank">
+                            <label id="pin-search" for="topSearchSubmit" data-eid="qd_A62"><em class="iconfont"></em>
+                            </label>
+                            <input id="pin-input" class="pin-input hide ui-autocomplete-input" type="text" name="kw" placeholder="Tìm kiếm.." autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+                            <input class="submit-input" id="topSearchSubmit" data-eid="qd_A62">
+                        </form>
+                    </li>
+                    <li class="line"></li>
+                    <li class="book-shelf" id="top-book-shelf">
+                                                    <a href="javascript:void(0);" onclick="loginBox()"><em class="iconfont"></em><i>Tài khoản</i></a>
+                                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="channel-header xuanhuan" style="background-image: url('https://tangthuvien.net/images/category/tien-hiep.jpeg');" bis_skin_checked="1">
+    <div class="logo-wrap box-center" bis_skin_checked="1">
+        <div class="box-center cf" bis_skin_checked="1">
+            <div class="logo-mask" bis_skin_checked="1"></div>
+            <div class="logo fl" bis_skin_checked="1">
+                <a href="https://tangthuvien.net" data-eid="qd_A11"></a>
+            </div>
+            <div class="search-wrap fl" bis_skin_checked="1">
+                <form id="formUrl" action="#" method="get">
+                    <p><input class="search-box ui-autocomplete-input" id="inset-autocomplete-input" name="kw" type="text" data-type="search" placeholder="Nhập tên truyện hoặc tác giả.." autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span></p>
+                    <label id="search-btn" class="search-btn" for="searchSubmit">
+                        <em class="iconfont" data-eid="qd_A13"></em>
+                    </label>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    </div>
+</header>
+<div class="update-wrap box-center mb40 cf" bis_skin_checked="1">
+
+    <div class="sub-type-wrap" bis_skin_checked="1">
+                <div class="box-center cf" bis_skin_checked="1">
+                        <a href="https://tangthuvien.net/tong-hop?ctg=1&amp;subcat=200" data-eid="qd_F200">Cổ điển tiên hiệp</a>
+                        <a href="https://tangthuvien.net/tong-hop?ctg=1&amp;subcat=160" data-eid="qd_F160">Hiện đại tu chân</a>
+                        <a href="https://tangthuvien.net/tong-hop?ctg=1&amp;subcat=162" data-eid="qd_F162">Huyễn tưởng tu tiên</a>
+                        <a href="https://tangthuvien.net/tong-hop?ctg=1&amp;subcat=163" data-eid="qd_F163">Thần thoại tu chân</a>
+                        <a href="https://tangthuvien.net/tong-hop?ctg=1&amp;subcat=161" data-eid="qd_F161">Tu chân văn minh</a>
+                    </div>
+    </div>
+
+    <div class="update-rec-wrap fl" bis_skin_checked="1">
+        <h3 class="wrap-title lang">Có thể bạn sẽ thích</h3>
+        <div class="update-rec-list" bis_skin_checked="1">
+            <ul>
+                                <li>
+                    <div class="book-wrap cf" bis_skin_checked="1">
+                        <div class="book-info fr" bis_skin_checked="1">
+                            <h4>
+                                <a href="https://tangthuvien.net/doc-truyen/cam-duc-he-than-hao" target="_blank">Cấm Dục Hệ Thần Hào (x)</a>
+                            </h4>
+                            <p class="digital"><span>&nbsp;chương</span><span>30</span></p>
+                            <p class="author">
+                                <a class="writer" href="https://tangthuvien.net/tac-gia?author=23029">Thuỳ tiểu ca ca</a>
+                            </p>
+                        </div>
+                        <div class="book-cover" bis_skin_checked="1">
+                            <a class="link" href="https://tangthuvien.net/doc-truyen/cam-duc-he-than-hao" target="_blank">
+                                <img src="https://img.tangthuvien.net/images/story/0.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                            </a><span></span>
+                        </div>
+                    </div>
+                    <p class="intro">Cấm dục không phải là cấm đi tất cả dục vọng mà chỉ cấm nhưng...</p>
+                    <p><a class="blue" href="https://tangthuvien.net/doc-truyen/cam-duc-he-than-hao" data-bid="1005062814" data-eid="qd_F54" target="_blank">Đọc truyện<em class="iconfont"></em></a></p>
+                </li>
+                                <li>
+                    <div class="book-wrap cf" bis_skin_checked="1">
+                        <div class="book-info fr" bis_skin_checked="1">
+                            <h4>
+                                <a href="https://tangthuvien.net/doc-truyen/linh-hien-chan-quan" target="_blank">Linh Hiển Chân Quân</a>
+                            </h4>
+                            <p class="digital"><span>&nbsp;chương</span><span>547</span></p>
+                            <p class="author">
+                                <a class="writer" href="https://tangthuvien.net/tac-gia?author=11406">Nhất Ngữ Phá Xuân Phong</a>
+                            </p>
+                        </div>
+                        <div class="book-cover" bis_skin_checked="1">
+                            <a class="link" href="https://tangthuvien.net/doc-truyen/linh-hien-chan-quan" target="_blank">
+                                <img src="https://img.tangthuvien.net/images/story/19fa4752b6ea7647aa9be525d3d017b159d4a36aac9d205b2ea2941ddc305d79.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                            </a><span></span>
+                        </div>
+                    </div>
+                    <p class="intro">Tỉnh lại sau giấc ngủ, đối Trần Diên tới nói cũng không phải chuyện...</p>
+                    <p><a class="blue" href="https://tangthuvien.net/doc-truyen/linh-hien-chan-quan" data-bid="1005062814" data-eid="qd_F54" target="_blank">Đọc truyện<em class="iconfont"></em></a></p>
+                </li>
+                            </ul>
+        </div>
+    </div>
+    <div class="update-list-wrap fl" bis_skin_checked="1">
+
+        <div class="update-list" id="update-list" bis_skin_checked="1">
+            <div class="update-table all" bis_skin_checked="1">
+                <table width="100%">
+                    <colgroup><col width="90px"><col width="270px"><col width="120px"><col width="150px"><col width="70px"></colgroup>
+                    <tbody>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/tiep-quan-dia-phu-sau-do-ta-tro-thanh-quy-di-dau-linh">Tiếp Quản Địa Phủ Sau Đó, Ta Trở Thành Quỷ Dị Đầu Lĩnh (Tiếp Quản Địa Phủ Hậu, Ngã Thành Liễu Quỷ Dị Đầu Tử)</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/tiep-quan-dia-phu-sau-do-ta-tro-thanh-quy-di-dau-linh/chuong-37">Chương 37</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=23488">Bạo Tạc Tiểu Nã Thiết</a></td>
+                            <td class="respon"><i>20:31 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/bach-the-hoan-tan-thien">Bách Thế Hoán Tân Thiên</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/bach-the-hoan-tan-thien/chuong-760">Chương 760</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=24453">Lưu Thủy Thiên Tái</a></td>
+                            <td class="respon"><i>19:06 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/quy-khu-tien-quoc">Quy Khư Tiên Quốc</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/quy-khu-tien-quoc/chuong-38">Chương 38</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=718">Cô Độc Phiêu Lưu</a></td>
+                            <td class="respon"><i>18:58 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/tien-nhan-bien-mat-ve-sau">Tiên Nhân Biến Mất Về Sau (Tiên Nhân Tiêu Thất Chi Hậu)</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/tien-nhan-bien-mat-ve-sau/chuong-2401">Chương 2401</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=24894">Cửu Phương Diệp</a></td>
+                            <td class="respon"><i>17:51 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/quy-di-tu-tien-nga-huu-nhat-toa-ngu-tang-mieu">Quỷ Dị Tu Tiên, Ngã Hữu Nhất Tọa Ngũ Tạng Miếu</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/quy-di-tu-tien-nga-huu-nhat-toa-ngu-tang-mieu/chuong-676">Chương 676</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=1774">Ngũ Chí</a></td>
+                            <td class="respon"><i>16:13 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/o-long-son-tu-hanh-but-ky">Ô Long Sơn Tu Hành Bút Ký</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/o-long-son-tu-hanh-but-ky/chuong-519">Chương 519</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=20918">Bát Bảo Phạn</a></td>
+                            <td class="respon"><i>14:52 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/tu-ton-thieu-huong-ba-nga-cung-thanh-chan-tien">Tử Tôn Thiêu Hương, Bả Ngã Cung Thành Chân Tiên</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/tu-ton-thieu-huong-ba-nga-cung-thanh-chan-tien/chuong-686">Chương 686</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=25537">Doanh Ma Liễu</a></td>
+                            <td class="respon"><i>13:00 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/khong-phai-dau-quan-tu-cung-phong-bat-thi-ba-quan-tu-da-phong">Bất Thị Ba Quân Tử Dã Phòng (Không Phải Đâu Quân Tử Cũng Phòng)</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/khong-phai-dau-quan-tu-cung-phong-bat-thi-ba-quan-tu-da-phong/chuong-979">Chương 979</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=23681">Dương Tiểu Nhung</a></td>
+                            <td class="respon"><i>11:39 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/nguyen-thuy-kim-chuong">Nguyên Thủy Kim Chương</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/nguyen-thuy-kim-chuong/chuong-103">Chương 103</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=65">Vụ Ngoại Giang Sơn</a></td>
+                            <td class="respon"><i>09:53 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/ngay-hom-nay-cũng-dang-co-gang-lam-ma-dau-kim-thien-da-tai-no-luc-to-ma-dau">Ngày Hôm Nay Cũng Đang Cố Gắng Làm Ma Đầu (Kim Thiên Dã Tại Nỗ Lực Tố Ma Đầu)</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/ngay-hom-nay-cũng-dang-co-gang-lam-ma-dau-kim-thien-da-tai-no-luc-to-ma-dau/chuong-210">Chương 210</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=91">Khai Hoang</a></td>
+                            <td class="respon"><i>09:52 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/tien-dao-tan-dau-noi-ket-thuc-tien-dao">Tiên Đạo Tận Đầu (Nơi Kết Thúc Tiên Đạo)</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/tien-dao-tan-dau-noi-ket-thuc-tien-dao/chuong-174">Chương 174</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=23812">Phạ Lạt Đích Hồng Tiêu</a></td>
+                            <td class="respon"><i>02:59 03/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/tien-cong-khai-vat-re-convert">Tiên Công Khai Vật (Re -Convert)</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/tien-cong-khai-vat-re-convert/chuong-706">Chương 706</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=356">Cổ Chân Nhân</a></td>
+                            <td class="respon"><i>18:07 02/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/bach-the-phi-thang">Bách Thế Phi Thăng</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/bach-the-phi-thang/chuong-898">Chương 898</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=26020">Bạch Mi La Hán</a></td>
+                            <td class="respon"><i>17:37 02/10</i></td>
+                        </tr>
+                                            <tr data-rid="1">
+                            <td><a class="classify" href="https://tangthuvien.net/the-loai/tien-hiep">Tiên Hiệp</a></td>
+                            <td><a class="name" href="https://tangthuvien.net/doc-truyen/chi-muon-nam-thi-ta-bi-ep-tu-tien-chich-tuong-thang-thi-dich-nga-bi-bach-tu-tien">Chỉ Muốn Nằm Thi Ta Bị Ép Tu Tiên (Chích Tưởng Thảng Thi Đích Ngã Bị Bách Tu Tiên)</a></td>
+                            <td><a class="section" href="https://tangthuvien.net/doc-truyen/chi-muon-nam-thi-ta-bi-ep-tu-tien-chich-tuong-thang-thi-dich-nga-bi-bach-tu-tien/chuong-395">Chương 395</a></td>
+                            <td class="respon"><a class="author" href="https://tangthuvien.net/tac-gia?author=25949">Nhất Hà Tri Hạ</a></td>
+                            <td class="respon"><i>12:24 02/10</i></td>
+                        </tr>
+                                        </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="update-tab cf" bis_skin_checked="1">
+            <h3 class="wrap-title lang" style="float:left;">Mới cập nhật</h3>
+            <p id="update-tab">
+                                                                                <a href="https://tangthuvien.net/tong-hop?tp=cv&amp;ctg=1" target="_blank" data-eid="qd_A152">Xem thêm<em class="iconfont more-dashen"></em></a>
+
+
+            </p>
+        </div>
+    </div>
+    <div class="update-fin-wrap fr" bis_skin_checked="1">
+        <h3 class="wrap-title lang">Đánh giá nhiều</h3>
+        <div class="update-fin-list" bis_skin_checked="1">
+            <ul>
+                                <li>
+                    <div class="book-img" bis_skin_checked="1">
+                        <a href="https://tangthuvien.net/doc-truyen/5759-nhat-niem-vinh-hang" target="_blank">
+                            <img src="https://img.tangthuvien.net/images/story/4c7ffc92d515b0ac2dd4c2d87d533ae88fd728cfad91c88b3ff73605a1125986.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                        </a></div>
+                    <div class="book-info" bis_skin_checked="1">
+
+                        <h3><a href="https://tangthuvien.net/doc-truyen/5759-nhat-niem-vinh-hang" target="_blank">Nhất Niệm Vĩnh Hằng</a>
+                        </h3>
+                        <p><a href="https://tangthuvien.net/tac-gia?author=26">Nhĩ Căn</a></p>
+                        <p><span>
+                                                                                                        <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-off.png">
+                                                                                                </span>
+                            <br>
+                            <i>633 đánh giá</i>
+                        </p>
+                    </div>
+                </li>
+                                <li>
+                    <div class="book-img" bis_skin_checked="1">
+                        <a href="https://tangthuvien.net/doc-truyen/pham-nhan-tu-tien-chi-tien-gioi-thien" target="_blank">
+                            <img src="https://img.tangthuvien.net/images/story/0e497116d52b6e88bebefac19db7c367eb589e30235a5b7d3e5f6ac292f5f911.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                        </a></div>
+                    <div class="book-info" bis_skin_checked="1">
+
+                        <h3><a href="https://tangthuvien.net/doc-truyen/pham-nhan-tu-tien-chi-tien-gioi-thien" target="_blank">Phàm Nhân Tu Tiên Chi Tiên Giới Thiên</a>
+                        </h3>
+                        <p><a href="https://tangthuvien.net/tac-gia?author=142">Vong Ngữ</a></p>
+                        <p><span>
+                                                                                                        <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-off.png">
+                                                                                                </span>
+                            <br>
+                            <i>595 đánh giá</i>
+                        </p>
+                    </div>
+                </li>
+                                <li>
+                    <div class="book-img" bis_skin_checked="1">
+                        <a href="https://tangthuvien.net/doc-truyen/chap-ma" target="_blank">
+                            <img src="https://img.tangthuvien.net/images/story/7005586764cef8610d7c022c1aedc00cae3d72b26e7ece5b62b7196984baa973.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                        </a></div>
+                    <div class="book-info" bis_skin_checked="1">
+
+                        <h3><a href="https://tangthuvien.net/doc-truyen/chap-ma" target="_blank">Chấp Ma</a>
+                        </h3>
+                        <p><a href="https://tangthuvien.net/tac-gia?author=761">Ngã Thị Mặc Thủy</a></p>
+                        <p><span>
+                                                                                                        <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-off.png">
+                                                                                                </span>
+                            <br>
+                            <i>434 đánh giá</i>
+                        </p>
+                    </div>
+                </li>
+                                <li>
+                    <div class="book-img" bis_skin_checked="1">
+                        <a href="https://tangthuvien.net/doc-truyen/thanh-lien-chi-dinh" target="_blank">
+                            <img src="https://img.tangthuvien.net/images/story/b43cccd662ad09fe742e1bf021cd42832b1b854840b9873296133bb39e274990.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                        </a></div>
+                    <div class="book-info" bis_skin_checked="1">
+
+                        <h3><a href="https://tangthuvien.net/doc-truyen/thanh-lien-chi-dinh" target="_blank">Thanh Liên Chi Đỉnh</a>
+                        </h3>
+                        <p><a href="https://tangthuvien.net/tac-gia?author=14618">Tiêu Thập Nhất Mạc</a></p>
+                        <p><span>
+                                                                                                        <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-off.png">
+                                                                                                </span>
+                            <br>
+                            <i>335 đánh giá</i>
+                        </p>
+                    </div>
+                </li>
+                                <li>
+                    <div class="book-img" bis_skin_checked="1">
+                        <a href="https://tangthuvien.net/doc-truyen/phi-kiem-van-dao" target="_blank">
+                            <img src="https://img.tangthuvien.net/images/story/678cee88d81b53bd329d248836ec326ecb9e2e81b5726425b317b2a7a904d385.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'">
+                        </a></div>
+                    <div class="book-info" bis_skin_checked="1">
+
+                        <h3><a href="https://tangthuvien.net/doc-truyen/phi-kiem-van-dao" target="_blank">Phi Kiếm Vấn Đạo</a>
+                        </h3>
+                        <p><a href="https://tangthuvien.net/tac-gia?author=100">Ngã Cật Tây Hồng Thị</a></p>
+                        <p><span>
+                                                                                                        <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-on.png">
+                                                                                                                                                <img src="https://tangthuvien.net/images/star-off.png">
+                                                                                                </span>
+                            <br>
+                            <i>228 đánh giá</i>
+                        </p>
+                    </div>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</div><div class="new-rec-wrap box-center cf" bis_skin_checked="1">
+    <div class="left-wrap fl" bis_skin_checked="1">
+        <h3 class="wrap-title lang">Truyện mới<a href="https://tangthuvien.net/tong-hop?ord=new&amp;ctg=1" target="_blank">Xem thêm<em class="iconfont more-dashen"></em></a></h3>
+                                            <div class="left-info fl" bis_skin_checked="1">
+                    <div class="slide-box" bis_skin_checked="1">
+                        <ul>
+                            <li>
+                                <a href="https://tangthuvien.net/doc-truyen/tiep-quan-dia-phu-sau-do-ta-tro-thanh-quy-di-dau-linh">
+                                    <img class="lazy" src="https://img.tangthuvien.net/images/story/128e953c9be4239db7f5f660596ed64cc131c95321f460a396d06104db20aee9.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Tiếp Quản Địa Phủ Sau Đó, Ta Trở Thành Quỷ Dị Đầu Lĩnh (Tiếp Quản Địa Phủ Hậu, Ngã Thành Liễu Quỷ Dị Đầu Tử)">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="info-text" bis_skin_checked="1">
+                        <dl>
+                            <dd>
+                                <h3>
+                                    <a href="https://tangthuvien.net/doc-truyen/tiep-quan-dia-phu-sau-do-ta-tro-thanh-quy-di-dau-linh">Tiếp Quản Địa Phủ Sau Đó, Ta Trở Thành Quỷ Dị Đầu Lĩnh (Tiếp Quản Địa Phủ Hậu, Ngã Thành Liễu Quỷ Dị Đầu Tử)</a>
+                                </h3>
+                                <p class="author">
+                                    <a href="https://tangthuvien.net/tac-gia?author=23488">Bạo Tạc Tiểu Nã Thiết</a>
+                                </p>
+                                <p class="total">
+                                    <b>37</b><span>chương</span>
+                                </p>
+                                <p class="intro">Trịnh Xác xuyên qua đến Tu Chân giới, bắt đầu nỗ lực tu luyện.
+"Quỷ tân nương,...</p>
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="center-book-list fl" bis_skin_checked="1">
+                    <div class="line line1" bis_skin_checked="1"></div>
+                    <div class="line line2" bis_skin_checked="1"></div>
+                    <ul>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/hong-hoang-tai-than-biet-nhuong-trieu-cong-minh-tai-tram-thi-lieu!">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/4a66c5fb0353a75c1abb13511bad0d3ec8fb854416175b29efadd11c01677595.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Hồng Hoang Tài Thần: Biệt Nhượng Triệu Công Minh Tái Trảm Thi Liễu!">
+                                        <span style="opacity: 0;">3.7</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/hong-hoang-tai-than-biet-nhuong-trieu-cong-minh-tai-tram-thi-lieu!" title="Hồng Hoang Tài Thần: Biệt Nhượng Triệu Công Minh Tái Trảm Thi Liễu!">Hồng Hoang Tài Thần: Biệt Nhượng Triệu Công Minh Tái Trảm Thi Liễu!</a>
+                                    </h3>
+                                    <p>Mong các đạo hữu ủng hộ truyện và Converter bằng các cách sau:
+- Vote 5*,...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=26187"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Tiếu Đàm Thanh Phong</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/quy-khu-tien-quoc">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/31532989098d4aa0fe19d66e6479a3eaaec2fc3fabd45ea556614d9a5a80420d.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Quy Khư Tiên Quốc">
+                                        <span style="opacity: 0;">4.7</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/quy-khu-tien-quoc" title="Quy Khư Tiên Quốc">Quy Khư Tiên Quốc</a>
+                                    </h3>
+                                    <p>Quy khư là chư thiên vạn giới, thậm chí là chư thiên vạn tộc, vạn linh, tất...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=718"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Cô Độc Phiêu Lưu</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li class="fl-right">
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/-dich--cau-tha-tai-thanh-ma-mon-ban-dau-lam-nhan-tai">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/504f1863a5e174468be4a8dd540eff2702692b8f9c07cab4c7218380ccd85f27.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="[Dịch] Cẩu Tại Sơ Thánh Ma Môn Làm Nhân Tài">
+                                        <span style="opacity: 0;">5</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/-dich--cau-tha-tai-thanh-ma-mon-ban-dau-lam-nhan-tai" title="[Dịch] Cẩu Tại Sơ Thánh Ma Môn Làm Nhân Tài">[Dịch] Cẩu Tại Sơ Thánh Ma Môn Làm Nhân Tài</a>
+                                    </h3>
+                                    <p>Lữ Dương xuyên không đến tu tiên giới, trớ trêu thay lại trở thành đệ tử...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=25883"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Hạc Thủ Nguyệt Mãn Trì</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/tu-ton-thieu-huong-ba-nga-cung-thanh-chan-tien">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/dcf09f14b92289cb753349527fcda551ea56f4de5cb77ee7be8526cc8e8dc64b.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Tử Tôn Thiêu Hương, Bả Ngã Cung Thành Chân Tiên">
+                                        <span style="opacity: 0;">3</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/tu-ton-thieu-huong-ba-nga-cung-thanh-chan-tien" title="Tử Tôn Thiêu Hương, Bả Ngã Cung Thành Chân Tiên">Tử Tôn Thiêu Hương, Bả Ngã Cung Thành Chân Tiên</a>
+                                    </h3>
+                                    <p>【 ngài ở tu tiên giới tử Tôn cung phụng một bàn điểm tâm 】
+
+	【 hương...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=25537"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Doanh Ma Liễu</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/-dich--ta-mo-phong-truong-sinh-lo">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/5aa33a760ac499344ab1cb6f6c31771c92aebbefaf276deb1094d3d780240789.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="[ Dịch ] Ta Mô Phỏng Trường Sinh Lộ">
+                                        <span style="opacity: 0;">5</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/-dich--ta-mo-phong-truong-sinh-lo" title="[ Dịch ] Ta Mô Phỏng Trường Sinh Lộ">[ Dịch ] Ta Mô Phỏng Trường Sinh Lộ</a>
+                                    </h3>
+                                    <p>Tiên đạo khó khăn vô cùng!
+
+Huống chi Tu Tiên giới này còn bị một hồi ôn...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=24256"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Phẫn Nộ Đích Ô Tặc</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li class="fl-right">
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/nguyen-thuy-kim-chuong">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/6eb4938d0502c994ce4940e5adc5f2236526a9b64f22ba598ac5900e552f62ce.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Nguyên Thủy Kim Chương">
+                                        <span style="opacity: 0;">4.7</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/nguyen-thuy-kim-chuong" title="Nguyên Thủy Kim Chương">Nguyên Thủy Kim Chương</a>
+                                    </h3>
+                                    <p>Tu tiên văn minh truyền thừa vạn vạn năm, biến chuyển từng ngày, bỏ cũ lập...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=65"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Vụ Ngoại Giang Sơn</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/-dich-tran-van-truong-sinh">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/ff1964c32e0583e7051a9db0f1bac2756c30c7009fd6fd1f1ec53ad7c5a396ef.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="[ Dịch ]Trận Vấn Trường Sinh">
+                                        <span style="opacity: 0;">5</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/-dich-tran-van-truong-sinh" title="[ Dịch ]Trận Vấn Trường Sinh">[ Dịch ]Trận Vấn Trường Sinh</a>
+                                    </h3>
+                                    <p>Tu đạo giai tầng sâm nghiêm, tán tu sinh hoạt khốn khổ.
+
+Mặc Họa lúc mười...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=25524"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Quan Hư</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/-dich--cau-tha-tu-luyen-ben-nguoi-nu-ma-dau">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/ad4e385ffa95e494d057d622b35ed75fb0cbbf19fea5aa94f697c7da86816893.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="[ Dịch ] Cẩu Thả Tu Luyện Bên Người Nữ Ma Đầu">
+                                        <span style="opacity: 0;">4</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/-dich--cau-tha-tu-luyen-ben-nguoi-nu-ma-dau" title="[ Dịch ] Cẩu Thả Tu Luyện Bên Người Nữ Ma Đầu">[ Dịch ] Cẩu Thả Tu Luyện Bên Người Nữ Ma Đầu</a>
+                                    </h3>
+                                    <p>Giang Hạo xuyên qua phổ thông nhân gia, bị ép bán nhập ma môn, trở thành Ma Môn...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=23812"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Phạ Lạt Đích Hồng Tiêu</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li class="fl-right">
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/bach-luyen-phi-thang-luc-recover">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/64ec8e769c6a508e0ee6d93c8469a3ce32401a11021e2742470bce6659587638.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Bách Luyện Phi Thăng Lục (Recover)">
+                                        <span style="opacity: 0;">0</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/bach-luyen-phi-thang-luc-recover" title="Bách Luyện Phi Thăng Lục (Recover)">Bách Luyện Phi Thăng Lục (Recover)</a>
+                                    </h3>
+                                    <p>Hắn vốn là sơn thôn thiếu niên bình thường, ăn nhầm vô danh chu quả, bước...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=763"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Hư Chân</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                    </ul>
+                </div>
+                                    </div>
+</div><div class="banner-wrap box-center mb30" id="banner-two" data-l1="31" bis_skin_checked="1">
+    <a href="https://tangthuvien.net/tai-app" target="_blank" data-eid="qd_A116" data-qd_dd_p1="1" style="display: inline;">
+        <img src="https://tangthuvien.net/images/banner-app-ttv.jpg">
+        <span class="op-tag"></span>
+    </a>
+</div>
+<div class="rank-wrap box-center mb20" bis_skin_checked="1">
+    <div id="numero3" bis_skin_checked="1">
+        <div id="rank-list-row" class="rank-list-row cf mb20" bis_skin_checked="1">
+            <div class="rank-list" bis_skin_checked="1">
+                <h3 class="wrap-title lang">Đề cử<a href="https://tangthuvien.net/tong-hop?rank=nm&amp;time=m&amp;ctg=1" target="_blank">Tất cả<em class="iconfont more-dashen"></em></a></h3>
+                <div class="book-list" bis_skin_checked="1">
+                    <ul>
+                                                                                                            <li class="unfold" data-rid="1">
+                                    <div class="book-wrap cf" bis_skin_checked="1">
+                                        <div class="book-info fl" bis_skin_checked="1">
+                                            <h3>NO.1</h3>
+                                            <h4><a href="https://tangthuvien.net/doc-truyen/ngay-hom-nay-cũng-dang-co-gang-lam-ma-dau-kim-thien-da-tai-no-luc-to-ma-dau">Ngày Hôm Nay Cũng Đang Cố Gắng Làm Ma Đầu (Kim Thiên Dã Tại Nỗ Lực Tố Ma Đầu)</a></h4>
+                                            <p class="digital"><em>33</em>Đề cử</p>
+                                            <p class="author">
+                                                <a class="type" href="https://tangthuvien.net/the-loai/tien-hiep" target="_blank">Tiên Hiệp</a><i>·</i>
+                                                <a class="writer" href="https://tangthuvien.net/tac-gia?author=91" target="_blank">Khai Hoang</a>
+                                            </p>
+                                        </div>
+                                        <div class="book-cover" bis_skin_checked="1">
+                                            <a class="link" href="https://tangthuvien.net/doc-truyen/ngay-hom-nay-cũng-dang-co-gang-lam-ma-dau-kim-thien-da-tai-no-luc-to-ma-dau">
+                                                <img src="https://img.tangthuvien.net/images/story/b31942887c56ee913a39ee70e5195b0d51d35b8fc0121156cd57fbb421903126.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Ngày Hôm Nay Cũng Đang Cố Gắng Làm Ma Đầu (Kim Thiên Dã Tại Nỗ Lực Tố Ma Đầu)">
+                                            </a><span></span>
+                                        </div>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="2">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num2">2</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/nguyen-thuy-kim-chuong">Nguyên Thủy Kim Chương</a>
+                                        <i class="total">22</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="3">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num3">3</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/-dich--cau-tha-tai-thanh-ma-mon-ban-dau-lam-nhan-tai">[Dịch] Cẩu Tại Sơ Thánh Ma Môn Làm Nhân Tài</a>
+                                        <i class="total">8</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="4">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num4">4</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/bach-the-phi-thang">Bách Thế Phi Thăng</a>
+                                        <i class="total">5</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="5">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num5">5</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/tien-cong-khai-vat-re-convert">Tiên Công Khai Vật (Re -Convert)</a>
+                                        <i class="total">2</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="6">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num6">6</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/thanh-lien-chi-dinh">Thanh Liên Chi Đỉnh</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="7">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num7">7</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/xich-tam-tuan-thien">Xích Tâm Tuần Thiên</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="8">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num8">8</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/khai-cuc-nu-ma-dau-phu-ta">Khai Cục Nữ Ma Đầu Phụ Ta (Khai Cục Nữ Ma Đầu Phụ Liễu Ngã)</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="9">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num9">9</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/hao-huu-tu-vong-nga-tu-vi-huu-de-thang-lieu">Hảo Hữu Tử Vong: Ngã Tu Vị Hựu Đề Thăng Liễu</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="10">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num10">10</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/kiem-lai---tang-thu-vien">[Dịch] Kiếm Lai - Tàng Thư Viện</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="11">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num11">11</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/vinh-hang-quoc-do">Vĩnh Hằng Quốc Độ</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="12">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num12">12</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/dao-quan">Đạo Quân</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="13">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num13">13</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/tran-van-truong-sinh">Trận Vấn Trường Sinh</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="14">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num14">14</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/tan-bach-xa-van-dao">Tân Bạch Xà Vấn Tiên</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="15">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num15">15</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/dieu-thap-tai-tu-tien-gioi">Đê Điều Tại Tu Tiên Thế Giới (Điệu Thấp Tại Tu Tiên Giới)</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="16">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num16">16</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/thuy-nhuong-tha-tu-tien-dich!--ai-bao-han-tu-tien!">Ai Bảo Hắn Tu Tiên! (Thùy Nhượng Tha Tu Tiên Đích!)</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="17">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num17">17</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/trach-nhat-phi-thang">Trạch Nhật Phi Thăng</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="18">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num18">18</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/lan-kha-ky-duyen">Lạn Kha Kỳ Duyên</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="19">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num19">19</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/tam-thon-nhan-gian">Tam Thốn Nhân Gian</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="20">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num20">20</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/dai-dao-thieu-hoa">Đại Đạo Thiều Hoa</a>
+                                        <i class="total">0</i>
+                                    </div>
+                                </li>
+                                                                                                    </ul>
+                </div>
+            </div>
+            <div class="rank-list " bis_skin_checked="1">
+                <h3 class="wrap-title lang">Xem nhiều<a href="https://tangthuvien.net/tong-hop?rank=vw&amp;time=m&amp;ctg=1" target="_blank">Tất cả<em class="iconfont more-dashen"></em></a></h3>
+                <div class="book-list" bis_skin_checked="1">
+                    <ul>
+                                                                                                            <li class="unfold" data-rid="1">
+                                    <div class="book-wrap cf" bis_skin_checked="1">
+                                        <div class="book-info fl" bis_skin_checked="1">
+                                            <h3>NO.1</h3>
+                                            <h4><a href="https://tangthuvien.net/doc-truyen/tran-van-truong-sinh">Trận Vấn Trường Sinh</a></h4>
+                                            <p class="digital"><em>10817</em>Lượt xem</p>
+                                            <p class="author">
+                                                <a class="type" href="https://tangthuvien.net/the-loai/tien-hiep" target="_blank">Tiên Hiệp</a><i>·</i>
+                                                <a class="writer" href="https://tangthuvien.net/tac-gia?author=25524" target="_blank">Quan Hư</a>
+                                            </p>
+                                        </div>
+                                        <div class="book-cover" bis_skin_checked="1">
+                                            <a class="link" href="https://tangthuvien.net/doc-truyen/tran-van-truong-sinh">
+                                                <img src="https://img.tangthuvien.net/images/story/b574c544335443cc763f3702d598d50b96124d4ea630dd4bfbad677c68892090.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Trận Vấn Trường Sinh">
+                                            </a><span></span>
+                                        </div>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="2">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num2">2</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/huyen-tran-dao-do-">Huyền Trần Đạo Đồ</a>
+                                        <i class="total">10026</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="3">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num3">3</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/tien-dao-tan-dau-noi-ket-thuc-tien-dao">Tiên Đạo Tận Đầu (Nơi Kết Thúc Tiên Đạo)</a>
+                                        <i class="total">8480</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="4">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num4">4</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/bach-the-phi-thang">Bách Thế Phi Thăng</a>
+                                        <i class="total">7501</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="5">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num5">5</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/nga-tai-tu-tien-gioi-van-co-truong-thanh">Ngã Tại Tu Tiên Giới Vạn Cổ Trường Thanh</a>
+                                        <i class="total">7378</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="6">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num6">6</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/o-long-son-tu-hanh-but-ky">Ô Long Sơn Tu Hành Bút Ký</a>
+                                        <i class="total">7162</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="7">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num7">7</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/ngay-hom-nay-cũng-dang-co-gang-lam-ma-dau-kim-thien-da-tai-no-luc-to-ma-dau">Ngày Hôm Nay Cũng Đang Cố Gắng Làm Ma Đầu (Kim Thiên Dã Tại Nỗ Lực Tố Ma Đầu)</a>
+                                        <i class="total">6315</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="8">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num8">8</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/nguyen-thuy-kim-chuong">Nguyên Thủy Kim Chương</a>
+                                        <i class="total">5614</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="9">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num9">9</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/chap-ma">Chấp Ma</a>
+                                        <i class="total">5257</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="10">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num10">10</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/ta-tai-pham-nhan-khoa-hoc-tu-tien-1">Ta Tại Phàm Nhân Khoa Học Tu Tiên (Ngã Tại Phàm Nhân Khoa Học Tu Tiên)</a>
+                                        <i class="total">4972</i>
+                                    </div>
+                                </li>
+                                                                                                    </ul>
+                </div>
+            </div>
+            <div class="rank-list" bis_skin_checked="1">
+                <h3 class="wrap-title lang">Yêu thích<a href="https://tangthuvien.net/tong-hop?rank=yt&amp;ctg=1" target="_blank">Tất cả<em class="iconfont more-dashen"></em></a></h3>
+                <div class="book-list" bis_skin_checked="1">
+                    <ul>
+                                                                                                            <li class="unfold" data-rid="1">
+                                    <div class="book-wrap cf" bis_skin_checked="1">
+                                        <div class="book-info fl" bis_skin_checked="1">
+                                            <h3>NO.1</h3>
+                                            <h4><a href="https://tangthuvien.net/doc-truyen/pham-nhan-tu-tien-chi-tien-gioi-thien">Phàm Nhân Tu Tiên Chi Tiên Giới Thiên</a></h4>
+                                            <p class="digital"><em>1222</em>Lượt thích</p>
+                                            <p class="author">
+                                                <a class="type" href="https://tangthuvien.net/the-loai/tien-hiep" target="_blank">Tiên Hiệp</a><i>·</i>
+                                                <a class="writer" href="https://tangthuvien.net/tac-gia?author=142" target="_blank">Vong Ngữ</a>
+                                            </p>
+                                        </div>
+                                        <div class="book-cover" bis_skin_checked="1">
+                                            <a class="link" href="https://tangthuvien.net/doc-truyen/pham-nhan-tu-tien-chi-tien-gioi-thien">
+                                                <img src="https://img.tangthuvien.net/images/story/0e497116d52b6e88bebefac19db7c367eb589e30235a5b7d3e5f6ac292f5f911.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Phàm Nhân Tu Tiên Chi Tiên Giới Thiên">
+                                            </a><span></span>
+                                        </div>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="2">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num2">2</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/thanh-lien-chi-dinh">Thanh Liên Chi Đỉnh</a>
+                                        <i class="total">1088</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="3">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num3">3</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/5759-nhat-niem-vinh-hang">Nhất Niệm Vĩnh Hằng</a>
+                                        <i class="total">1010</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="4">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num4">4</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/vinh-hang-quoc-do">Vĩnh Hằng Quốc Độ</a>
+                                        <i class="total">664</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="5">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num5">5</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/lan-kha-ky-duyen">Lạn Kha Kỳ Duyên</a>
+                                        <i class="total">629</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="6">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num6">6</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/tam-thon-nhan-gian">Tam Thốn Nhân Gian</a>
+                                        <i class="total">562</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="7">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num7">7</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/phi-kiem-van-dao">Phi Kiếm Vấn Đạo</a>
+                                        <i class="total">542</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="8">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num8">8</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/khai-cuc-nu-ma-dau-phu-ta">Khai Cục Nữ Ma Đầu Phụ Ta (Khai Cục Nữ Ma Đầu Phụ Liễu Ngã)</a>
+                                        <i class="total">518</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="9">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num9">9</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/thuy-nhuong-tha-tu-tien-dich!--ai-bao-han-tu-tien!">Ai Bảo Hắn Tu Tiên! (Thùy Nhượng Tha Tu Tiên Đích!)</a>
+                                        <i class="total">494</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="10">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num10">10</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/cuc-dao-thien-ma">Cực Đạo Thiên Ma</a>
+                                        <i class="total">487</i>
+                                    </div>
+                                </li>
+                                                                                                    </ul>
+                </div>
+            </div>
+            <div class="rank-list mr0" bis_skin_checked="1">
+                <h3 class="wrap-title lang">Theo dõi nhiều<a href="https://tangthuvien.net/tong-hop?rank=td&amp;ctg=1" target="_blank">Tất cả<em class="iconfont more-dashen"></em></a></h3>
+                <div class="book-list" bis_skin_checked="1">
+                    <ul>
+                                                                                                            <li class="unfold" data-rid="1">
+                                    <div class="book-wrap cf" bis_skin_checked="1">
+                                        <div class="book-info fl" bis_skin_checked="1">
+                                            <h3>NO.1</h3>
+                                            <h4><a href="https://tangthuvien.net/doc-truyen/vinh-hang-quoc-do">Vĩnh Hằng Quốc Độ</a></h4>
+                                            <p class="digital"><em>10820</em>Luợt theo dõi</p>
+                                            <p class="author">
+                                                <a class="type" href="https://tangthuvien.net/the-loai/tien-hiep" target="_blank">Tiên Hiệp</a><i>·</i>
+                                                <a class="writer" href="https://tangthuvien.net/tac-gia?author=718" target="_blank">Cô Độc Phiêu Lưu</a>
+                                            </p>
+                                        </div>
+                                        <div class="book-cover" bis_skin_checked="1">
+                                            <a class="link" href="https://tangthuvien.net/doc-truyen/vinh-hang-quoc-do">
+                                                <img src="https://img.tangthuvien.net/images/story/13951.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Vĩnh Hằng Quốc Độ">
+                                            </a><span></span>
+                                        </div>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="2">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num2">2</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/5759-nhat-niem-vinh-hang">Nhất Niệm Vĩnh Hằng</a>
+                                        <i class="total">9551</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="3">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num3">3</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/pham-nhan-tu-tien-chi-tien-gioi-thien">Phàm Nhân Tu Tiên Chi Tiên Giới Thiên</a>
+                                        <i class="total">8908</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="4">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num4">4</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/cuc-dao-thien-ma">Cực Đạo Thiên Ma</a>
+                                        <i class="total">8009</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="5">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num5">5</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/chap-ma">Chấp Ma</a>
+                                        <i class="total">7448</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="6">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num6">6</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/thanh-lien-chi-dinh">Thanh Liên Chi Đỉnh</a>
+                                        <i class="total">7143</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="7">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num7">7</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/dao-quan">Đạo Quân</a>
+                                        <i class="total">6324</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="8">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num8">8</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/dichpham-nhan-tu-tien-suu-tam">[Dịch] Phàm Nhân Tu Tiên Truyện</a>
+                                        <i class="total">6213</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="9">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num9">9</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/luoc-thien-ky">Lược Thiên Ký</a>
+                                        <i class="total">6072</i>
+                                    </div>
+                                </li>
+                                                                                                                                            <li data-rid="10">
+                                    <div class="num-box" bis_skin_checked="1"><span class="num10">10</span></div>
+                                    <div class="name-box" bis_skin_checked="1">
+                                        <a class="name" href="https://tangthuvien.net/doc-truyen/tien-lo-chi-ton">Tiên Lộ Chí Tôn</a>
+                                        <i class="total">5360</i>
+                                    </div>
+                                </li>
+                                                                                                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div><div class="banner-wrap box-center mb30" style="text-align: center" id="banner-two" data-l1="31" bis_skin_checked="1">
+    .
+</div>
+<div class="finish-book-wrap box-center cf" bis_skin_checked="1">
+    <div class="left-wrap fl" bis_skin_checked="1">
+        <h3 class="wrap-title lang">Truyện đã hoàn thành<a href="https://tangthuvien.net/tong-hop?fns=ht&amp;ctg=1" target="_blank">Xem thêm<em class="iconfont more-dashen"></em></a></h3>
+                                            <div class="left-info fl" bis_skin_checked="1">
+                    <div class="slide-box" bis_skin_checked="1">
+                        <ul>
+                            <li>
+                                <a href="https://tangthuvien.net/doc-truyen/dao-mon-sinh">
+                                    <img class="lazy" src="https://img.tangthuvien.net/images/story/657f7e71a09faf7571f8ad0f47e1d65ec17d78096e52e6b97431155518c72b1f.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Đạo Môn Sinh">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="info-text" bis_skin_checked="1">
+                        <dl>
+                            <dd>
+                                <h3>
+                                    <a href="https://tangthuvien.net/doc-truyen/dao-mon-sinh">Đạo Môn Sinh</a>
+                                </h3>
+                                <p class="author">
+                                    <a href="https://tangthuvien.net/tac-gia?author=20232">Mạc Ma Công Tử</a>
+                                </p>
+                                <p class="total">
+                                    <b>1893</b><span>chương</span>
+                                </p>
+                                <p class="intro">Mong các đạo hữu ủng hộ truyện và Converter bằng các cách sau:
+- Vote 5*, bấm...</p>
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="center-book-list fl" bis_skin_checked="1">
+                    <div class="line line1" bis_skin_checked="1"></div>
+                    <div class="line line2" bis_skin_checked="1"></div>
+                    <ul>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/-dich--cau-tha-tu-luyen-ben-nguoi-nu-ma-dau">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/ad4e385ffa95e494d057d622b35ed75fb0cbbf19fea5aa94f697c7da86816893.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="[ Dịch ] Cẩu Thả Tu Luyện Bên Người Nữ Ma Đầu">
+                                        <span>4</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/-dich--cau-tha-tu-luyen-ben-nguoi-nu-ma-dau" title="[ Dịch ] Cẩu Thả Tu Luyện Bên Người Nữ Ma Đầu">[ Dịch ] Cẩu Thả Tu Luyện Bên Người Nữ Ma Đầu</a>
+                                    </h3>
+                                    <p>Giang Hạo xuyên qua phổ thông nhân gia, bị ép bán nhập ma môn, trở thành Ma Môn...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=23812"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Phạ Lạt Đích Hồng Tiêu</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/hon-chu">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/24a1b45b5360b34498184b06f13ed7bfa50dcb48d8cf7f157c96d219f7caa928.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Hồn Chủ">
+                                        <span>4.2</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/hon-chu" title="Hồn Chủ">Hồn Chủ</a>
+                                    </h3>
+                                    <p>Dương Đại trọng sinh đến cao tam thời kỳ còn chưa tới kịp cao hứng đã bị...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=13386"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Nhâm Ngã Tiếu</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li class="fl-right">
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/su-thuong-toi-cuong-lao-to">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/0929ab6e0d4180cc742bd7b6b61f43bb3c3bdbe0bf45d8042d5ac21596d97e90.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Sử Thượng Tối Cuồng Lão Tổ">
+                                        <span>4</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/su-thuong-toi-cuong-lao-to" title="Sử Thượng Tối Cuồng Lão Tổ">Sử Thượng Tối Cuồng Lão Tổ</a>
+                                    </h3>
+                                    <p>Mong các đạo hữu ủng hộ truyện và Converter bằng các cách sau:
+- Vote 5*,...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=24461"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Yến Linh Tiên Quân</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/thai-giam-co-the-co-cai-gi-ý-dò-xáu-thai-giam-nang-huu-thap-yeu-phoi-tam-tu">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/ac44310946b6dcb5afe89fec24380ea4b5b50c12a7b579b72ec9e80e725d1bc0.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Thái Giám Năng Hữu Thập Yêu Phôi Tâm Tư">
+                                        <span>5</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/thai-giam-co-the-co-cai-gi-ý-dò-xáu-thai-giam-nang-huu-thap-yeu-phoi-tam-tu" title="Thái Giám Năng Hữu Thập Yêu Phôi Tâm Tư">Thái Giám Năng Hữu Thập Yêu Phôi Tâm Tư</a>
+                                    </h3>
+                                    <p>Mong các đạo hữu ủng hộ truyện và Converter bằng các cách sau:
+- Vote 5*,...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=23843"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Tiểu Tiểu Bộ Trưởng</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/len-san-khau-lien-man-cap-nhan-sinh-nen-lam-the-nao-xuat-trang-tuu-man-cap-dich-nhan-sinh-cai-cham-ma-ban">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/f703456cb70f6f16ba0e89ae42e1d238ee1ee4a4085ed7fd018a1845abd00e4f.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Lên Sân Khấu Liền Mãn Cấp Nhân Sinh Nên Làm Thế Nào (Xuất Tràng Tựu Mãn Cấp Đích Nhân Sinh Cai Chẩm Ma Bạn)">
+                                        <span>4.7</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/len-san-khau-lien-man-cap-nhan-sinh-nen-lam-the-nao-xuat-trang-tuu-man-cap-dich-nhan-sinh-cai-cham-ma-ban" title="Lên Sân Khấu Liền Mãn Cấp Nhân Sinh Nên Làm Thế Nào (Xuất Tràng Tựu Mãn Cấp Đích Nhân Sinh Cai Chẩm Ma Bạn)">Lên Sân Khấu Liền Mãn Cấp Nhân Sinh Nên Làm Thế Nào (Xuất Tràng Tựu Mãn Cấp Đích Nhân Sinh Cai Chẩm Ma Bạn)</a>
+                                    </h3>
+                                    <p>Mong các đạo hữu ủng hộ truyện và Converter bằng các cách sau:
+- Vote 5*,...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=22697"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Bạn Độc Tiểu Mục Đồng</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li class="fl-right">
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/dai-mong-chu">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/8f5b513e4508d68995ddd052983995257870d43911c0945903698742f08da59e.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Đại Mộng Chủ">
+                                        <span>4.5</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/dai-mong-chu" title="Đại Mộng Chủ">Đại Mộng Chủ</a>
+                                    </h3>
+                                    <p>Mong các đạo hữu ủng hộ truyện và Converter bằng các cách sau:
+- Vote 5*,...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=142"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Vong Ngữ</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/tu-hanh-tong-ngu-phu-khai-thuy">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/92bd243c2b9cc851b48625518bc5cae7275ace4db24b9e2c1876b0e944add433.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Tu Hành Tòng Ngư Phu Khai Thủy">
+                                        <span>4.4</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/tu-hanh-tong-ngu-phu-khai-thuy" title="Tu Hành Tòng Ngư Phu Khai Thủy">Tu Hành Tòng Ngư Phu Khai Thủy</a>
+                                    </h3>
+                                    <p>Mong các đạo hữu ủng hộ truyện và Converter bằng các cách sau:
+- Vote 5*,...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=22310"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Thương Hữu</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li>
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/tien-cung">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/5928166e0695ee775efef7c57a042f24dae3d9433f866012f1fd2cae9556c266.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Tiên Cung">
+                                        <span>4.4</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/tien-cung" title="Tiên Cung">Tiên Cung</a>
+                                    </h3>
+                                    <p>Mong các đạo hữu ủng hộ truyện và Converter bằng các cách sau:
+- Vote 5*,...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=1112"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Đả Nhãn</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                                                            <li class="fl-right">
+                                <div class="book-img" bis_skin_checked="1">
+                                    <a href="https://tangthuvien.net/doc-truyen/truong-sinh-tien-duyen-theo-chieu-co-dao-huynh-the-nu-bat-dau">
+                                        <img class="lazy" src="https://img.tangthuvien.net/images/story/2988755cc5e77f08caafe68faeb28234b475e4d65241100049105a8fa81371c9.jpg" onerror="this.src='https://tangthuvien.net/images/default-book.png'" alt="Trường Sinh Tiên Duyên: Tòng Chiếu Cố Đạo Huynh Thê Nữ Khai Thủy">
+                                        <span>4.3</span>
+                                    </a>
+                                </div>
+                                <div class="book-info" bis_skin_checked="1">
+                                    <h3>
+                                        <a href="https://tangthuvien.net/doc-truyen/truong-sinh-tien-duyen-theo-chieu-co-dao-huynh-the-nu-bat-dau" title="Trường Sinh Tiên Duyên: Tòng Chiếu Cố Đạo Huynh Thê Nữ Khai Thủy">Trường Sinh Tiên Duyên: Tòng Chiếu Cố Đạo Huynh Thê Nữ Khai Thủy</a>
+                                    </h3>
+                                    <p>Hạ Trường Ca là một người nhát gan như chuột - cẩu đạo nhân sĩ - thành thật...</p>
+                                    <div class="state-box cf" bis_skin_checked="1">
+                                        <a href="https://tangthuvien.net/the-loai/tien-hiep"><i>Tiên Hiệp</i></a>
+                                        <a class="author" href="https://tangthuvien.net/tac-gia?author=24587"><img src="//qidian.gtimg.com/qd/images/ico/user.f22d3.png">Cô Phi Tuyết</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                                    </ul>
+                </div>
+                                    </div>
+</div><footer>
+    <div class="footer-container" bis_skin_checked="1">
+        <div class="container" bis_skin_checked="1">
+            <div class="col-md-3" bis_skin_checked="1"><img src="https://tangthuvien.net/images/logo-web-gray.png" height="60"></div>
+            <div class="footer-right col-md-9" bis_skin_checked="1">
+                © 2007 Tàng Thư Viện - <a href="https://tangthuvien.net/policy/privacy_mobile.html" target="_blank" rel="nofollow"> Chính sách</a><br>
+                Tàng Thư Viện là sân chơi mở và free cho cộng đồng fan kiếm hiệp, tiên hiệp, ngôn tình.
+                Chúc các bạn có những giây phút thư giãn thoải mái sau giờ làm việc và học tập căng thẳng.
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-13FFK38L2F"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-13FFK38L2F');
+</script><link charset="utf-8" rel="stylesheet" href="https://tangthuvien.net/css/login-box.css?v=1759499125">
+<div class="mask" style="display: none" onclick="closeBox()" bis_skin_checked="1"></div>
+<div class="qdlogin-wrap" style="display: none;" bis_skin_checked="1">
+    <div class="login-wrap type-10 fl" bis_skin_checked="1">
+        <a class="close" id="close" href="javascript:" onclick="closeBox()"><img src="https://tangthuvien.net/images/ic_close.png" width="30px"></a>
+        <div class="login-tab cf" bis_skin_checked="1">
+            <ul>
+                <li class="lang act" onclick="changeLog(this)" data-tab="login">Đăng nhập</li>
+                <li class="lang" onclick="changeLog(this)" data-tab="reg">Đăng ký mới</li>
+            </ul>
+        </div>
+        <div class="login-switch-wrap" bis_skin_checked="1">
+            <div class="login-tab-wrap" bis_skin_checked="1">
+                <div class="login-box q-login yw-login" bis_skin_checked="1">
+                    <div class="logging-fade hidden" bis_skin_checked="1"></div>
+                    <div class="error-tip hidden" bis_skin_checked="1"></div>
+                    <dl>
+                        <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="text" name="username" tabindex="1" placeholder="Tài khoản" id="username">
+                        </dd>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="password" name="password" tabindex="2" placeholder="Mật khẩu" id="password">
+                        </dd>
+                    </dl>
+                    <div class="login-common-wrap" bis_skin_checked="1">
+                                                <p class="forgot-link"><a href="javascript:void(0);" onclick="changeLog(this)" data-tab="fgpw">Quên mật khẩu ?</a></p>
+                        <a class="red-btn go-login btnLogin login-button" href="javascript:void(0);" onclick="submitLog()">Đăng nhập</a>
+                        <br>
+                        <a class="blue-btn go-login btnLogin login-button" href="https://tangthuvien.net/fbredirect" onclick="jQuery('.logging-fade').removeClass('hidden');"><i class="fa fa-facebook-official" style="margin-right: 5px;"></i>Đăng nhập bằng Facebook</a>
+                    </div>
+                </div>
+                <div class="login-box q-reg yw-login" style="display:none;" bis_skin_checked="1">
+                    <div class="logging-fade hidden" bis_skin_checked="1"></div>
+                    <div class="error-tip hidden" bis_skin_checked="1"></div>
+                    <dl>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="text" name="username" tabindex="1" placeholder="Tài khoản" id="username">
+                        </dd>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="email" name="email" tabindex="1" placeholder="Email" id="email" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiYmZkZTQxOS00ZGRkLWU5NDYtOWQ2MC05OGExNGJiMTA3N2YiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RDAyNDkwMkRDOTIyMTFFNkI0MzFGRTk2RjM1OTdENTciIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RDAyNDkwMkNDOTIyMTFFNkI0MzFGRTk2RjM1OTdENTciIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OTU2NTE1NDItMmIzOC1kZjRkLTk0N2UtN2NjOTlmMjQ5ZGFjIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJiZmRlNDE5LTRkZGQtZTk0Ni05ZDYwLTk4YTE0YmIxMDc3ZiIv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&quot;) !important; background-repeat: no-repeat; background-size: 20px; background-position: 97% center; cursor: auto;" data-temp-mail-org="0">
+                        </dd>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="password" name="password" tabindex="2" placeholder="Mật khẩu" id="password">
+                        </dd>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="password" name="re-password" tabindex="2" placeholder="Xác nhận mật khẩu" id="re-password">
+                        </dd>
+                    </dl>
+                    <div class="login-common-wrap" bis_skin_checked="1">
+                        <div id="grecaptcha1" bis_skin_checked="1"><div style="width: 304px; height: 78px;" bis_skin_checked="1"><div bis_skin_checked="1"><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-8868riot4fgg" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J&amp;co=aHR0cHM6Ly90YW5ndGh1dmllbi5uZXQ6NDQz&amp;hl=en&amp;v=Jv8jlA-BQE5JD6rA-h_iqNH2&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=ze2yfxksl1p7" bis_size="{&quot;x&quot;:0,&quot;y&quot;:0,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:0}"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div>
+                        <br>
+                        <a class="red-btn go-login btnLogin login-button" href="javascript:void(0);" onclick="submitReg()">Đăng ký</a>
+                    </div>
+                </div>
+                <div class="login-box q-fgpw yw-login" style="display:none;" bis_skin_checked="1">
+                    <div class="logging-fade hidden" bis_skin_checked="1"></div>
+                    <div class="error-tip hidden" bis_skin_checked="1"></div>
+                    <dl>
+                        <dd>
+                            <em class="iconfont"></em>
+                            <input type="email" name="email" tabindex="1" placeholder="Email" id="email" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiYmZkZTQxOS00ZGRkLWU5NDYtOWQ2MC05OGExNGJiMTA3N2YiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RDAyNDkwMkRDOTIyMTFFNkI0MzFGRTk2RjM1OTdENTciIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RDAyNDkwMkNDOTIyMTFFNkI0MzFGRTk2RjM1OTdENTciIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OTU2NTE1NDItMmIzOC1kZjRkLTk0N2UtN2NjOTlmMjQ5ZGFjIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJiZmRlNDE5LTRkZGQtZTk0Ni05ZDYwLTk4YTE0YmIxMDc3ZiIv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&quot;) !important; background-repeat: no-repeat; background-size: 20px; background-position: 97% center; cursor: auto;" data-temp-mail-org="1">
+                        </dd>
+                    </dl>
+                    <div class="login-common-wrap" bis_skin_checked="1">
+                        <div id="grecaptcha2" bis_skin_checked="1"><div style="width: 304px; height: 78px;" bis_skin_checked="1"><div bis_skin_checked="1"><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-o4j92n3f06xu" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J&amp;co=aHR0cHM6Ly90YW5ndGh1dmllbi5uZXQ6NDQz&amp;hl=en&amp;v=Jv8jlA-BQE5JD6rA-h_iqNH2&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=aaeyj8yj23iu" bis_size="{&quot;x&quot;:0,&quot;y&quot;:0,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:0}"></iframe></div><textarea id="g-recaptcha-response-1" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+                        <br>
+                        <a class="red-btn go-login btnLogin login-button" href="javascript:void(0);" onclick="submitFgpwd()">Gửi</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://www.google.com/recaptcha/api.js?onload=grecaptchaCallback&amp;render=explicit" async="" defer=""></script>
+<script type="text/javascript">
+    var gwidgetid1 = '';
+    var gwidgetid2 = '';
+    var grecaptchaCallback = function() {
+        var sitekey = "6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J";
+        gwidgetid1 = grecaptcha.render('grecaptcha1', {'sitekey' : sitekey});
+        gwidgetid2 = grecaptcha.render('grecaptcha2', {'sitekey' : sitekey});
+    };
+</script>
+<script src="https://tangthuvien.net/js/account.js?v=1759499125"></script>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="display: none;"></ul><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;" bis_skin_checked="1"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;" bis_skin_checked="1"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;" bis_skin_checked="1"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;" bis_skin_checked="1"></div><div style="z-index: 2000000000; position: relative;" bis_skin_checked="1"><iframe title="recaptcha challenge expires in two minutes" name="c-8868riot4fgg" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=Jv8jlA-BQE5JD6rA-h_iqNH2&amp;k=6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J&amp;bft=0dAFcWeA5qwKWl9QK21r4rTYKmZ6K3nc3xfJaierAmmqIA0I5yOZ4RVpTsGxF906-1LPgykpGw4Txq2xX2VvcmJsBmrqv15A3I6A" style="width: 100%; height: 100%;" bis_size="{&quot;x&quot;:1,&quot;y&quot;:-9999,&quot;w&quot;:300,&quot;h&quot;:150,&quot;abs_x&quot;:1,&quot;abs_y&quot;:-9999}"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;" bis_skin_checked="1"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;" bis_skin_checked="1"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;" bis_skin_checked="1"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;" bis_skin_checked="1"></div><div style="z-index: 2000000000; position: relative;" bis_skin_checked="1"><iframe title="recaptcha challenge expires in two minutes" name="c-o4j92n3f06xu" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=Jv8jlA-BQE5JD6rA-h_iqNH2&amp;k=6Lfcd4oqAAAAACkE6o2XZDgZsW3KBSKt5SjY0t-J&amp;bft=0dAFcWeA67pe12N3t_VUloP6_asNQZpgw01HcPDFir5biNYxwkCsIsCsHMhoCxCx-j1yjwdvFUetz2u61Cj-WRQHF0AXH_K2AZNg" style="width: 100%; height: 100%;" bis_size="{&quot;x&quot;:1,&quot;y&quot;:-9999,&quot;w&quot;:300,&quot;h&quot;:150,&quot;abs_x&quot;:1,&quot;abs_y&quot;:-9999}"></iframe></div></div></body><ddict-div style="visibility: visible !important;"></ddict-div></html>

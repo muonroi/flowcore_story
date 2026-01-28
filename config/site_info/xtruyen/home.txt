@@ -1,0 +1,2737 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="robots" content="index, follow"><meta name="description" content="xtruyen.vn là trang web đọc truyện, nghe truyện online, truyện ngôn tình, truyện full, truyện đam mỹ,...mới nhất hằng ngày. Cập nhật liên tục các chương truyện một cách nhanh nhất."><meta name="keywords" content="doc truyen, nghe truyen online,truyen audio ,truyen hay, truyen chu, truyen audio, truyenfull, xtruyen">
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "XTruyện",
+                "url": "https://xtruyen.vn/",
+                "logo": "https://xtruyen.vn/favicon.ico",
+                "alternateName": ["XTRUYEN", "X Truyện"]
+            }
+        </script>
+
+
+
+    <title>XTruyện &#8211; Đọc truyện online, truyện hay, truyện mới, truyenfull</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="Dòng thông tin XTruyện &raquo;" href="https://xtruyen.vn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="XTruyện &raquo; Dòng bình luận" href="https://xtruyen.vn/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/xtruyen.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.121"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {	
+		height: 1em ;
+		width: 1em ;	
+	}
+</style>
+<link rel='stylesheet' id='bootstrap-css' href='https://xtruyen.vn/wp-content/themes/madara/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://xtruyen.vn/wp-content/themes/madara/js/slick/slick.css?ver=1.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css' href='https://xtruyen.vn/wp-content/themes/madara/js/slick/slick-theme.css?ver=6.7.121' type='text/css' media='all' />
+<link rel='stylesheet' id='madara-css-child-css' href='https://xtruyen.vn/wp-content/themes/madara/style.css?ver=6.7.121' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://xtruyen.vn/wp-content/themes/madara/app/lib/fontawesome/web-fonts-with-css/css/all.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css' href='https://xtruyen.vn/wp-content/themes/madara/css/fonts/ionicons/css/ionicons.min.css?ver=4.5.10' type='text/css' media='all' />
+<link rel='stylesheet' id='loaders-css' href='https://xtruyen.vn/wp-content/themes/madara/css/loaders.min.css?ver=6.7.121' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://xtruyen.vn/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://xtruyen.vn/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://xtruyen.vn/wp-json/wp/v2/pages/720" /><link rel="canonical" href="https://xtruyen.vn/" />
+<link rel="alternate" title="oNhúng (JSON)" type="application/json+oembed" href="https://xtruyen.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fxtruyen.vn%2F" />
+<link rel="alternate" title="oNhúng (XML)" type="text/xml+oembed" href="https://xtruyen.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fxtruyen.vn%2F&#038;format=xml" />
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <script>
+          window.OneSignalDeferred = window.OneSignalDeferred || [];
+          OneSignalDeferred.push(async function(OneSignal) {
+            await OneSignal.init({
+              appId: "c05cd334-1f55-470e-85e7-a8881d858809",
+              serviceWorkerOverrideForTypical: true,
+              path: "https://xtruyen.vn/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/",
+              serviceWorkerParam: { scope: "/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/push/onesignal/" },
+              serviceWorkerPath: "OneSignalSDKWorker.js",
+            });
+          });
+
+          // Unregister the legacy OneSignal service worker to prevent scope conflicts
+          navigator.serviceWorker.getRegistrations().then((registrations) => {
+            // Iterate through all registered service workers
+            registrations.forEach((registration) => {
+              // Check the script URL to identify the specific service worker
+              if (registration.active && registration.active.scriptURL.includes('OneSignalSDKWorker.js.php')) {
+                // Unregister the service worker
+                registration.unregister().then((success) => {
+                  if (success) {
+                    console.log('OneSignalSW: Successfully unregistered:', registration.active.scriptURL);
+                  } else {
+                    console.log('OneSignalSW: Failed to unregister:', registration.active.scriptURL);
+                  }
+                });
+              }
+            });
+          }).catch((error) => {
+            console.error('Error fetching service worker registrations:', error);
+          });
+        </script>
+<link rel="icon" href="https://xtruyen.vn/wp-content/uploads/2025/09/cropped-xlogo_A-3-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://xtruyen.vn/wp-content/uploads/2025/09/cropped-xlogo_A-3-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://xtruyen.vn/wp-content/uploads/2025/09/cropped-xlogo_A-3-180x180.png" />
+<meta name="msapplication-TileImage" content="https://xtruyen.vn/wp-content/uploads/2025/09/cropped-xlogo_A-3-270x270.png" />
+<meta property="fb:app_id" content="" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@XTruyện" />
+<meta name="twitter:title" content="XTruyện" />
+<meta name="twitter:description" content="Đọc truyện online, truyện hay, truyện mới, truyenfull" />
+<meta name="twitter:image" content="https://xtruyen.vn/wp-content/uploads/2017/10/XTRUYENLOGO0610TRANS.png" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J522WMKBPE"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-J522WMKBPE');
+    </script>
+
+</head>
+
+<body class="home page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php page page-id-720 wp-embed-responsive header-style-1 sticky-enabled sticky-style-1 is-sidebar text-ui-dark sticky-for-mobile">
+
+    
+    
+        
+        <div class="wrap">
+            <div class="body-wrap">
+                                    <header class="site-header">
+                        <div class="c-header__top">
+                            <ul class="search-main-menu search-main-menu-mobile" >
+                                <li>
+                                    <form id="blog-post-search" class="ajax" action="https://xtruyen.vn/" method="get">
+                                        <input type="text" placeholder="Bạn muốn đọc truyện nào ?" name="s" value="">
+                                        <input type="submit" value="Tìm">
+
+                                        <div class="loader-inner line-scale">
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                            <div></div>
+                                        </div>
+                                    </form>
+                                </li>
+                            </ul>
+
+
+
+
+                            <div class="main-navigation style-1 ">
+                                <div class="container ">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="main-navigation_wrap">
+                                                <div class="wrap_branding">
+
+                                                    <h1>
+                                                    <span style="position: absolute; left: -9999px;">truyen, doc truyen, truyen full, truyen audio </span>
+                                                    <a href="https://xtruyen.vn" title="doc truyen, nghe truyen">
+                                                        <!-- <img src="https://xtruyen.vn/wp-content/uploads/2017/10/XTRUYENLOGO0610TRANS.png" style="height:37px !important" alt='xtruyen'>
+                                                          -->
+                                                         <img src="https://xtruyen.vn/wp-content/uploads/xlogo.png" style="height:37px !important" alt='xtruyen'> 
+                                                   
+                                                    </a>
+                                            
+                                                    </h1>                                                    <a style="
+                                                           /* letter-spacing: 2px; */
+                                                        padding-left: 0px !important;
+                                                        padding-top: 4px !important;
+                                                        FONT-WEIGHT: 500 !important;
+                                                        FONT-SIZE: 28px !important;
+                                                        COLOR: WHITESMOKE !important;
+                                                        FONT-FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto !important;" href="https://xtruyen.vn" >
+                                                       TRUYỆN
+                                                    </a>
+                                                </div>
+
+                                                  
+
+
+                                                
+<div class="main-menu">
+
+<ul class="nav navbar-nav main-navbar"><li id="menu-item-787966" class="menu-itemmenu-item-787966"><a href="#"><i class="fas fa-bars"></i> <span>Danh sách</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-787973" class="menu-item menu-item-787973"><a href="/truyen/?m_orderby=latest">Mới cập nhật</a></li>
+	<li id="menu-item-3959081" class="menu-item menu-item-3959081"><a href="/truyen/?m_orderby=trending">Truyện HOT</a></li>
+	<li id="menu-item-8496186" class="menu-item menu-item-8496186"><a href="/truyen/?m_orderby=trending&#038;status=end&#038;page=1">Hoàn thành</a></li>
+	<li id="menu-item-8996176" class="menu-item menu-item-8996176"><a href="/truyen/?m_orderby=views">Phổ biến nhất</a></li>
+	<li id="menu-item-10561145" class="menu-item menu-item-10561145"><a href="#"><hr class="mt-1 mb-1"></a></li>
+	<li id="menu-item-9807654" class="menu-item menu-item-9807654"><a href="/tag/audio/">Truyện audio <i class="fas fa-music" style="padding-left:7px"></i></a></li>
+	<li id="menu-item-10561144" class="menu-item menu-item-10561144"><a href="#"><hr class="mt-1 mb-1"></a></li>
+	<li id="menu-item-787967" class="menu-item menu-item-787967"><a href="/tag/c100/?m_orderby=views">Dưới 100 chương</a></li>
+	<li id="menu-item-787970" class="menu-item menu-item-787970"><a href="/tag/c500/?m_orderby=views">Dưới 500 chương</a></li>
+	<li id="menu-item-787971" class="menu-item menu-item-787971"><a href="/tag/c1000/?m_orderby=views">Dưới 1000 chương</a></li>
+	<li id="menu-item-787972" class="menu-item menu-item-787972"><a href="/tag/c1000up/?m_orderby=views">Trên 1000 chương</a></li>
+</ul>
+</li>
+<li id="menu-item-787939" class="menu-itemmenu-item-787939"><a href="#"><i class="fas fa-bars"></i> <span>Thể Loại</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-10111370" class="menu-item menu-item-10111370"><a href="/theloai/tien-hiep/?m_orderby=views">Tiên Hiệp</a></li>
+	<li id="menu-item-10111369" class="menu-item menu-item-10111369"><a href="/theloai/kiem-hiep/?m_orderby=views">Kiếm Hiệp</a></li>
+	<li id="menu-item-10111371" class="menu-item menu-item-10111371"><a href="/theloai/ngon-tinh/?m_orderby=views">Ngôn Tình</a></li>
+	<li id="menu-item-10111372" class="menu-item menu-item-10111372"><a href="/theloai/cung-dau/?m_orderby=views">Cung Đấu</a></li>
+	<li id="menu-item-10111373" class="menu-item menu-item-10111373"><a href="/theloai/nu-cuong/?m_orderby=views">Nữ Cường</a></li>
+	<li id="menu-item-10111374" class="menu-item menu-item-10111374"><a href="/theloai/gia-dau/?m_orderby=views">Gia Đấu</a></li>
+	<li id="menu-item-10149084" class="menu-item menu-item-10149084"><a href="/theloai/tong-tai/?m_orderby=views">Tổng Tài</a></li>
+	<li id="menu-item-10149080" class="menu-item menu-item-10149080"><a href="/theloai/dong-phuong/?m_orderby=views">Đông Phương</a></li>
+	<li id="menu-item-10149081" class="menu-item menu-item-10149081"><a href="/theloai/bach-hop/?m_orderby=views">Bách Hợp</a></li>
+	<li id="menu-item-10149083" class="menu-item menu-item-10149083"><a href="/theloai/do-thi/?m_orderby=views">Đô Thị</a></li>
+	<li id="menu-item-10149082" class="menu-item menu-item-10149082"><a href="/theloai/hai-huoc/?m_orderby=views">Hài Hước</a></li>
+	<li id="menu-item-10149106" class="menu-item menu-item-10149106"><a href="/theloai/dien-van/?m_orderby=views">Điền Văn</a></li>
+	<li id="menu-item-10149107" class="menu-item menu-item-10149107"><a href="/theloai/truyen-teen/?m_orderby=views">Truyện Teen</a></li>
+	<li id="menu-item-10149108" class="menu-item menu-item-10149108"><a href="/theloai/mat-the/?m_orderby=views">Mạt Thế</a></li>
+	<li id="menu-item-10149109" class="menu-item menu-item-10149109"><a href="/theloai/co-dai/?m_orderby=views">Cổ Đại</a></li>
+	<li id="menu-item-10149110" class="menu-item menu-item-10149110"><a href="/theloai/phuong-tay/?m_orderby=views">Phương Tây</a></li>
+	<li id="menu-item-10149105" class="menu-item menu-item-10149105"><a href="/theloai/nu-phu/?m_orderby=views">Nữ Phụ</a></li>
+	<li id="menu-item-10149111" class="menu-item menu-item-10149111"><a href="/theloai/light-novel/?m_orderby=views">Light Novel</a></li>
+	<li id="menu-item-10149165" class="menu-item menu-item-10149165"><a href="/theloai/doan-van/?m_orderby=views">Đoản Văn</a></li>
+	<li id="menu-item-10149154" class="menu-item menu-item-10149154"><a href="/theloai/sac/?m_orderby=views">Sắc</a></li>
+	<li id="menu-item-10149155" class="menu-item menu-item-10149155"><a href="/theloai/sung/?m_orderby=views">Sủng</a></li>
+	<li id="menu-item-10149157" class="menu-item menu-item-10149157"><a href="/theloai/nguoc/?m_orderby=views">Ngược</a></li>
+	<li id="menu-item-10149156" class="menu-item menu-item-10149156"><a href="/theloai/vong-du/?m_orderby=views">Võng Du</a></li>
+	<li id="menu-item-10149158" class="menu-item menu-item-10149158"><a href="/theloai/khoa-huyen/?m_orderby=views">Khoa Huyễn</a></li>
+	<li id="menu-item-10149159" class="menu-item menu-item-10149159"><a href="/theloai/huyen-huyen/?m_orderby=views">Huyền Huyễn</a></li>
+	<li id="menu-item-10149160" class="menu-item menu-item-10149160"><a href="/theloai/di-gioi/?m_orderby=views">Dị Giới</a></li>
+	<li id="menu-item-10149162" class="menu-item menu-item-10149162"><a href="/theloai/di-nang/?m_orderby=views">Dị Năng</a></li>
+	<li id="menu-item-10149164" class="menu-item menu-item-10149164"><a href="/theloai/dam-my/?m_orderby=views">Đam Mỹ</a></li>
+	<li id="menu-item-10149163" class="menu-item menu-item-10149163"><a href="/theloai/quan-truong/?m_orderby=views">Quan Trường</a></li>
+	<li id="menu-item-10149268" class="menu-item menu-item-10149268"><a href="/theloai/xuyen-nhanh/?m_orderby=views">Xuyên Nhanh</a></li>
+	<li id="menu-item-10149269" class="menu-item menu-item-10149269"><a href="/theloai/trong-sinh/?m_orderby=views">Trọng Sinh</a></li>
+	<li id="menu-item-10149270" class="menu-item menu-item-10149270"><a href="/theloai/trinh-tham/?m_orderby=views">Trinh Thám</a></li>
+	<li id="menu-item-10111234" class="menu-item menu-item-10111234"><a href="/theloai/tham-hiem/?m_orderby=views">Thám Hiểm</a></li>
+	<li id="menu-item-10111220" class="menu-item menu-item-10111220"><a href="/theloai/linh-di/?m_orderby=views">Linh Dị</a></li>
+	<li id="menu-item-10111224" class="menu-item menu-item-10111224"><a href="/theloai/xuyen-khong/?m_orderby=views">Xuyên Không</a></li>
+	<li id="menu-item-10111215" class="menu-item menu-item-10111215"><a href="/theloai/lich-su/?m_orderby=views">Lịch sử</a></li>
+	<li id="menu-item-10111174" class="menu-item menu-item-10111174"><a href="/theloai/quan-su/?m_orderby=views">Quân Sự</a></li>
+	<li id="menu-item-10111170" class="menu-item menu-item-10111170"><a href="/theloai/he-thong/?m_orderby=views">Hệ Thống</a></li>
+	<li id="menu-item-10111166" class="menu-item menu-item-10111166"><a href="/theloai/viet-nam/?m_orderby=views">Việt Nam</a></li>
+	<li id="menu-item-10175714" class="menu-item menu-item-10175714"><a href="/theloai/Hien-Dai/?m_orderby=views">Hiện Đại</a></li>
+	<li id="menu-item-10111041" class="menu-item menu-item-10111041"><a href="/theloai/khac/?m_orderby=views">Khác</a></li>
+	<li id="menu-item-4415972" class="menu-item menu-item-4415972"><a href="https://xtruyen.vn/truyen-song-ngu-anh-viet-hay-va-de-doc/">Truyện song ngữ</a></li>
+</ul>
+</li>
+<li id="menu-item-user">
+			<a href="#"><i class="fas fa-user"></i> <span>Tài khoản</span></a>
+			<ul class="sub-menu">
+				<li class="menu-item signup-modal">
+					<a href="javascript:void(0)" data-toggle="modal" data-target="#form-login" class="btn-active-modal">Đăng nhập</a>
+				</li>
+				<li class="menu-item signup-modal">
+					<a href="javascript:void(0)" data-toggle="modal" data-target="#form-sign-up" class="btn-active-modal">Đăng kí</a>
+				</li>
+			</ul>
+		</li> </ul>
+
+
+</div>
+
+
+<div id="darkmode_menu" style="display: none;"> <a href="#" tabindex="0"><img draggable="false" role="img" class="emoji" alt="🌙" src="https://s.w.org/images/core/emoji/15.0.3/svg/1f319.svg"></a></div>;
+
+<div class="manga-search-form-desktop" style="display:none">
+<form id="blog-post-search" class="ajax manga-search-form" action="https://xtruyen.vn/" method="get">
+<input type="text" placeholder="Bạn muốn đọc truyện nào ?" name="s" value="">
+
+
+<button type="submit">
+<i class="fas fa-search"></i>
+</button>
+
+
+<div class="loader-inner line-scale">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</form>
+</div>
+
+ 
+
+
+
+
+
+    <!-- <div class="darkmode_customer">
+    <a href="#" tabindex="0"><img draggable="false" role="img" class="emoji" alt="🌙" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f319.svg"></a>
+</div> -->
+        
+
+
+<div class="search-navigation search-sidebar">
+ 
+            <div id="manga-search-3" class="widget col-12 col-md-12   default  no-icon heading-style-1 manga-widget widget-manga-search"><div class="widget__inner manga-widget widget-manga-search__inner c-widget-wrap"><div class="widget-content">
+		<div class="search-navigation__wrap">
+
+			
+<ul class="main-menu-search nav-menu">
+    <li class="menu-search">
+        <a href="javascript:;" class="open-search-main-menu "> <i class="icon ion-ios-search"></i>
+            <i class="icon ion-android-close"></i> </a>
+        <ul class="search-main-menu">
+            <li>
+                <form class="manga-search-form search-form ajax" action="https://xtruyen.vn/" method="get">
+                    <input class="manga-search-field" type="text" placeholder="Tìm truyện..." name="s" value="">
+                    <input type="hidden" name="post_type" value="wp-manga"> <i class="icon ion-ios-search"></i>
+                    <div class="loader-inner ball-clip-rotate-multiple">
+                        <div></div>
+                        <div></div>
+                    </div>
+                    <input type="submit" value="Tìm">
+                </form>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+		
+		</div>
+
+		</div></div></div>    
+
+</div>
+
+
+<div class="c-togle__menu">
+    <button type="button" class="menu_icon__open">
+        <span></span> <span></span> <span></span>
+    </button>
+</div>
+
+                                                
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+<div class="mobile-menu menu-collapse off-canvas">
+    <div class="close-nav">
+        <button>
+            <i class="fas fa-window-close"></i>
+        </button>
+    </div>
+
+    
+
+    
+    <nav class="off-menu">
+        <ul id="menu-new-main-menu-1" class="nav navbar-nav main-navbar"><li id="nav-menu-item-787966" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent dropdown"><a href="#" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown"><i class="fas fa-bars"></i>   <span>Danh sách</span> </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-787973" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/truyen/?m_orderby=latest" class="menu-link  sub-menu-link">Mới cập nhật </a></li>
+	<li id="nav-menu-item-3959081" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/truyen/?m_orderby=trending" class="menu-link  sub-menu-link">Truyện HOT </a></li>
+	<li id="nav-menu-item-8496186" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/truyen/?m_orderby=trending&amp;status=end&amp;page=1" class="menu-link  sub-menu-link">Hoàn thành </a></li>
+	<li id="nav-menu-item-8996176" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/truyen/?m_orderby=views" class="menu-link  sub-menu-link">Phổ biến nhất </a></li>
+	<li id="nav-menu-item-10561145" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="#" class="menu-link  sub-menu-link"><hr class="mt-1 mb-1"> </a></li>
+	<li id="nav-menu-item-9807654" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/audio/" class="menu-link  sub-menu-link">Truyện audio <i class="fas fa-music" style="padding-left:7px"></i> </a></li>
+	<li id="nav-menu-item-10561144" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="#" class="menu-link  sub-menu-link"><hr class="mt-1 mb-1"> </a></li>
+	<li id="nav-menu-item-787967" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/c100/?m_orderby=views" class="menu-link  sub-menu-link">Dưới 100 chương </a></li>
+	<li id="nav-menu-item-787970" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/c500/?m_orderby=views" class="menu-link  sub-menu-link">Dưới 500 chương </a></li>
+	<li id="nav-menu-item-787971" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/c1000/?m_orderby=views" class="menu-link  sub-menu-link">Dưới 1000 chương </a></li>
+	<li id="nav-menu-item-787972" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/c1000up/?m_orderby=views" class="menu-link  sub-menu-link">Trên 1000 chương </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-787939" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent dropdown"><a href="#" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown"><i class="fas fa-bars"></i>   <span>Thể Loại</span> </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-10111370" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/tien-hiep/?m_orderby=views" class="menu-link  sub-menu-link">Tiên Hiệp </a></li>
+	<li id="nav-menu-item-10111369" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/kiem-hiep/?m_orderby=views" class="menu-link  sub-menu-link">Kiếm Hiệp </a></li>
+	<li id="nav-menu-item-10111371" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/ngon-tinh/?m_orderby=views" class="menu-link  sub-menu-link">Ngôn Tình </a></li>
+	<li id="nav-menu-item-10111372" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/cung-dau/?m_orderby=views" class="menu-link  sub-menu-link">Cung Đấu </a></li>
+	<li id="nav-menu-item-10111373" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/nu-cuong/?m_orderby=views" class="menu-link  sub-menu-link">Nữ Cường </a></li>
+	<li id="nav-menu-item-10111374" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/gia-dau/?m_orderby=views" class="menu-link  sub-menu-link">Gia Đấu </a></li>
+	<li id="nav-menu-item-10149084" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/tong-tai/?m_orderby=views" class="menu-link  sub-menu-link">Tổng Tài </a></li>
+	<li id="nav-menu-item-10149080" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/dong-phuong/?m_orderby=views" class="menu-link  sub-menu-link">Đông Phương </a></li>
+	<li id="nav-menu-item-10149081" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/bach-hop/?m_orderby=views" class="menu-link  sub-menu-link">Bách Hợp </a></li>
+	<li id="nav-menu-item-10149083" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/do-thi/?m_orderby=views" class="menu-link  sub-menu-link">Đô Thị </a></li>
+	<li id="nav-menu-item-10149082" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/hai-huoc/?m_orderby=views" class="menu-link  sub-menu-link">Hài Hước </a></li>
+	<li id="nav-menu-item-10149106" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/dien-van/?m_orderby=views" class="menu-link  sub-menu-link">Điền Văn </a></li>
+	<li id="nav-menu-item-10149107" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/truyen-teen/?m_orderby=views" class="menu-link  sub-menu-link">Truyện Teen </a></li>
+	<li id="nav-menu-item-10149108" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/mat-the/?m_orderby=views" class="menu-link  sub-menu-link">Mạt Thế </a></li>
+	<li id="nav-menu-item-10149109" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/co-dai/?m_orderby=views" class="menu-link  sub-menu-link">Cổ Đại </a></li>
+	<li id="nav-menu-item-10149110" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/phuong-tay/?m_orderby=views" class="menu-link  sub-menu-link">Phương Tây </a></li>
+	<li id="nav-menu-item-10149105" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/nu-phu/?m_orderby=views" class="menu-link  sub-menu-link">Nữ Phụ </a></li>
+	<li id="nav-menu-item-10149111" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/light-novel/?m_orderby=views" class="menu-link  sub-menu-link">Light Novel </a></li>
+	<li id="nav-menu-item-10149165" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/doan-van/?m_orderby=views" class="menu-link  sub-menu-link">Đoản Văn </a></li>
+	<li id="nav-menu-item-10149154" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/sac/?m_orderby=views" class="menu-link  sub-menu-link">Sắc </a></li>
+	<li id="nav-menu-item-10149155" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/sung/?m_orderby=views" class="menu-link  sub-menu-link">Sủng </a></li>
+	<li id="nav-menu-item-10149157" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/nguoc/?m_orderby=views" class="menu-link  sub-menu-link">Ngược </a></li>
+	<li id="nav-menu-item-10149156" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/vong-du/?m_orderby=views" class="menu-link  sub-menu-link">Võng Du </a></li>
+	<li id="nav-menu-item-10149158" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/khoa-huyen/?m_orderby=views" class="menu-link  sub-menu-link">Khoa Huyễn </a></li>
+	<li id="nav-menu-item-10149159" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/huyen-huyen/?m_orderby=views" class="menu-link  sub-menu-link">Huyền Huyễn </a></li>
+	<li id="nav-menu-item-10149160" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/di-gioi/?m_orderby=views" class="menu-link  sub-menu-link">Dị Giới </a></li>
+	<li id="nav-menu-item-10149162" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/di-nang/?m_orderby=views" class="menu-link  sub-menu-link">Dị Năng </a></li>
+	<li id="nav-menu-item-10149164" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/dam-my/?m_orderby=views" class="menu-link  sub-menu-link">Đam Mỹ </a></li>
+	<li id="nav-menu-item-10149163" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/quan-truong/?m_orderby=views" class="menu-link  sub-menu-link">Quan Trường </a></li>
+	<li id="nav-menu-item-10149268" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/xuyen-nhanh/?m_orderby=views" class="menu-link  sub-menu-link">Xuyên Nhanh </a></li>
+	<li id="nav-menu-item-10149269" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/trong-sinh/?m_orderby=views" class="menu-link  sub-menu-link">Trọng Sinh </a></li>
+	<li id="nav-menu-item-10149270" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/trinh-tham/?m_orderby=views" class="menu-link  sub-menu-link">Trinh Thám </a></li>
+	<li id="nav-menu-item-10111234" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/tham-hiem/?m_orderby=views" class="menu-link  sub-menu-link">Thám Hiểm </a></li>
+	<li id="nav-menu-item-10111220" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/linh-di/?m_orderby=views" class="menu-link  sub-menu-link">Linh Dị </a></li>
+	<li id="nav-menu-item-10111224" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/xuyen-khong/?m_orderby=views" class="menu-link  sub-menu-link">Xuyên Không </a></li>
+	<li id="nav-menu-item-10111215" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/lich-su/?m_orderby=views" class="menu-link  sub-menu-link">Lịch sử </a></li>
+	<li id="nav-menu-item-10111174" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/quan-su/?m_orderby=views" class="menu-link  sub-menu-link">Quân Sự </a></li>
+	<li id="nav-menu-item-10111170" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/he-thong/?m_orderby=views" class="menu-link  sub-menu-link">Hệ Thống </a></li>
+	<li id="nav-menu-item-10111166" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/viet-nam/?m_orderby=views" class="menu-link  sub-menu-link">Việt Nam </a></li>
+	<li id="nav-menu-item-10175714" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/Hien-Dai/?m_orderby=views" class="menu-link  sub-menu-link">Hiện Đại </a></li>
+	<li id="nav-menu-item-10111041" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/theloai/khac/?m_orderby=views" class="menu-link  sub-menu-link">Khác </a></li>
+	<li id="nav-menu-item-4415972" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://xtruyen.vn/truyen-song-ngu-anh-viet-hay-va-de-doc/" class="menu-link  sub-menu-link">Truyện song ngữ </a></li>
+
+</ul>
+</li>
+<li id="menu-item-user">
+			<a href="#"><i class="fas fa-user"></i> <span>Tài khoản</span></a>
+			<ul class="sub-menu">
+				<li class="menu-item signup-modal">
+					<a href="javascript:void(0)" data-toggle="modal" data-target="#form-login" class="btn-active-modal">Đăng nhập</a>
+				</li>
+				<li class="menu-item signup-modal">
+					<a href="javascript:void(0)" data-toggle="modal" data-target="#form-sign-up" class="btn-active-modal">Đăng kí</a>
+				</li>
+			</ul>
+		    </li> </ul>
+    </nav>
+
+    <div class="c-modal_menu_mobile">
+    
+        
+            <div class="c-modal_item ">
+                <!-- Button trigger modal -->
+                <span class="c-modal_sign-in">
+                    <a href="#" data-toggle="modal" data-target="#form-login" class="btn-active-modal">Đăng nhập</a>
+                </span>
+
+                <span class="c-modal_sign-up">
+                    <a href="javascript:void(0)" data-toggle="modal" data-target="#form-sign-up" class="btn-active-modal">Đăng kí</a>
+                </span>
+
+
+
+            </div>
+           
+       
+
+
+         <div class="darkmode_customer">
+                <a href="#" tabindex="0"><img draggable="false" role="img" class="emoji" alt="🌙" src="https://s.w.org/images/core/emoji/15.0.3/svg/1f319.svg"></a>
+            </div>
+ </div>
+
+    <div class="center"></div>
+</div>
+
+                        
+
+                        
+
+
+
+
+                        <!-- end dark mode -->
+                    </header>
+
+                    
+			
+			
+			                                <div class="site-content">
+                    
+                
+
+
+                <audio id="xaudio" >
+                 
+                </audio><script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
+<div class="c-page-content style-1">
+	<div class="content-area">
+
+		
+			<div class="c-breadcrumb-wrapper">
+				<div class="container" style="padding-top: 1px;">
+					<marquee>Website đọc truyện online miễn phí. Cập nhật liên tục.</marquee>
+				</div>
+			</div>
+
+		
+
+		<div class="container">
+			<div class="row">
+			  
+				<div
+					class="main-col col-md-9 col-sm-9">
+					
+
+
+
+					<div class="main-col-inner">
+						<div class="c-blog__heading style-2 font-heading no-icon">
+							<select id="ranking_select"
+
+								class="form-control " aria-label="Chọn thể loại">
+								<option value=recommend>GỢI Ý BẠN</option><span class="glyphicon glyphicon-fire"></span><option value=views>TRUYỆN HOT</option><span class="glyphicon glyphicon-fire"></span><option value=trending_day>TOP NGÀY</option><span class="glyphicon glyphicon-fire"></span><option value=trending_week>TOP TUẦN</option><span class="glyphicon glyphicon-fire"></span><option value=trending>TOP THÁNG</option><span class="glyphicon glyphicon-fire"></span><option value=trending_year>TOP NĂM</option><span class="glyphicon glyphicon-fire"></span><option value=random>NGẪU NHIÊN</option><span class="glyphicon glyphicon-fire"></span><option value=new-manga>TRUYỆN MỚI</option><span class="glyphicon glyphicon-fire"></span>							</select>
+
+
+							<select id="theloai_select" class="form-control "
+
+								aria-label="Chọn thể loại">
+
+									<option value="all" class='glyphicon-fire'>Tất cả</option>
+	<option value="tien-hiep">Tiên Hiệp</option>
+	<option value="kiem-hiep">Kiếm Hiệp</option>
+	<option value="ngon-tinh">Ngôn Tình</option>
+	<option value="Tong-Tai">Tổng Tài</option>
+	<option value="dam-my">Đam Mỹ</option>
+	<option value="quan-truong">Quan Trường</option>
+	<option value="vong-du">Võng Du</option>
+	<option value="khoa-huyen">Khoa Huyễn</option>
+	<option value="he-thong">Hệ Thống</option>
+	<option value="huyen-huyen">Huyền Huyễn</option>
+	<option value="di-gioi">Dị Giới</option>
+	<option value="di-nang">Dị Năng</option>
+	<option value="quan-su">Quân Sự</option>
+	<option value="lich-su">Lịch Sử</option>
+	<option value="xuyen-khong">Xuyên Không</option>
+	<option value="xuyen-nhanh">Xuyên Nhanh</option>
+	<option value="trong-sinh">Trọng Sinh</option>
+	<option value="trinh-tham">Trinh Thám</option>
+	<option value="tham-hiem">Thám Hiểm</option>
+	<option value="linh-di">Linh Dị</option>
+	<option value="nguoc">Ngược</option>
+	<option value="sung">Sủng</option>
+	<option value="cung-dau">Cung Đấu</option>
+	<option value="nu-cuong">Nữ Cường</option>
+	<option value="gia-dau">Gia Đấu</option>
+	<option value="dong-phuong">Đông Phương</option>
+	<option value="do-thi">Đô Thị</option>
+	<option value="bach-hop">Bách Hợp</option>
+	<option value="hai-huoc">Hài Hước</option>
+	<option value="dien-van">Điền Văn</option>
+	<option value="co-dai">Cổ Đại</option>
+	<option value="mat-the">Mạt Thế</option>
+	<option value="truyen-teen">Truyện Teen</option>
+	<option value="phuong-tay">Phương Tây</option>
+	<option value="nu-phu">Nữ Phụ</option>
+	<option value="light-novel">Light Novel</option>
+	<option value="viet-nam">Việt Nam</option>
+	<option value="doan-van">Đoản Văn</option>
+	
+	<option value="My-Thuc">Mỹ Thực</option>
+	<option value="sac">Sắc</option>
+	<option value="Hien-Dai">Hiện Đại</option>
+	<option value="khac">Khác</option>
+
+							</select>
+
+						</div>
+
+
+						<div id='front_main_list' class="c-blog-listing">
+							<div class="c-blog__inner">
+								<div class="c-blog__content">
+
+									<div id="loop-content" class="page-content-listing item-big_thumbnail">
+										<div id="loading-box" style="display: flex; align-items: center; justify-content: center; height: 200px;">
+											<div>
+												<div class="spinner" style="margin: 0 auto; width: 40px; height: 40px; border: 5px solid #ccc; border-top: 5px solid #007bff; border-radius: 50%; animation: spin 1s linear infinite;"></div>
+												<p style="text-align: center; margin-top: 10px;">Đang tìm truyện giúp bạn...</p>
+											</div>
+										</div>
+
+									</div>
+
+
+
+									<!-- //viet cau select -->
+									<script type="text/javascript">
+										var manga_args = {
+											"orderby": "meta_value_num",
+											"paged": 0,
+											"timerange": "",
+											"posts_per_page": 12,
+											"tax_query": {
+												"relation": "OR"
+											},
+											"meta_query": {
+												"relation": "AND",
+												"0": {
+													"relation": "AND"
+												}
+											},
+											"post_type": "wp-manga",
+											"post_status": "publish",
+											"meta_key": "_wp_manga_views",
+											"order": "DESC"
+										};
+									</script>
+
+									<script type="text/javascript">
+										var __madara_query_vars = {
+											"orderby": "meta_value_num",
+											"paged": 0,
+											"timerange": "",
+											"posts_per_page": 12,
+											"tax_query": {
+												"relation": "OR"
+											},
+											"meta_query": {
+												"relation": "AND",
+												"0": {
+													"relation": "AND"
+												}
+											},
+											"post_type": "wp-manga",
+											"post_status": "publish",
+											"meta_key": "_wp_manga_views",
+											"sidebar": "right",
+											"manga_archives_item_layout": "big_thumbnail"
+										};
+									</script>
+
+									<nav class="navigation-ajax" style="display: none;">
+										<a href="javascript:void(0)" data-target="#loop-content"
+											data-template="madara-core/content/content-archive" id="navigation-ajax"
+											class="btn btn-default load-ajax">
+											<div class="load-title">
+												Xem Thêm
+												<i class="icon ion-md-arrow-dropdown"></i>
+											</div> &nbsp;<div></div>&nbsp;<div></div>&nbsp;<div></div>
+										</a>
+									</nav>
+
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+
+
+
+											<div id="manga-recent-2" class="widget col-12 col-md-12   default  no-icon heading-style-1 c-popular manga-widget widget-manga-recent">
+							<div class="widget__inner c-popular manga-widget widget-manga-recent__inner c-widget-wrap">
+								<div class="c-widget-content style-1 with-button">
+
+
+									<div class="widget-heading font-nav">
+										<h2 class="heading">
+											<a href="https://xtruyen.vn/truyen/?m_orderby=latest" title="MỚI CẬP NHẬT">
+												MỚI CẬP NHẬT <i class="pl-2 ion ion-ios-arrow-forward"></i>
+											</a>
+										</h2>
+
+										<select id="genres-select" class="form-control ">
+												<option value="all" class='glyphicon-fire'>Tất cả</option>
+	<option value="tien-hiep">Tiên Hiệp</option>
+	<option value="kiem-hiep">Kiếm Hiệp</option>
+	<option value="ngon-tinh">Ngôn Tình</option>
+	<option value="Tong-Tai">Tổng Tài</option>
+	<option value="dam-my">Đam Mỹ</option>
+	<option value="quan-truong">Quan Trường</option>
+	<option value="vong-du">Võng Du</option>
+	<option value="khoa-huyen">Khoa Huyễn</option>
+	<option value="he-thong">Hệ Thống</option>
+	<option value="huyen-huyen">Huyền Huyễn</option>
+	<option value="di-gioi">Dị Giới</option>
+	<option value="di-nang">Dị Năng</option>
+	<option value="quan-su">Quân Sự</option>
+	<option value="lich-su">Lịch Sử</option>
+	<option value="xuyen-khong">Xuyên Không</option>
+	<option value="xuyen-nhanh">Xuyên Nhanh</option>
+	<option value="trong-sinh">Trọng Sinh</option>
+	<option value="trinh-tham">Trinh Thám</option>
+	<option value="tham-hiem">Thám Hiểm</option>
+	<option value="linh-di">Linh Dị</option>
+	<option value="nguoc">Ngược</option>
+	<option value="sung">Sủng</option>
+	<option value="cung-dau">Cung Đấu</option>
+	<option value="nu-cuong">Nữ Cường</option>
+	<option value="gia-dau">Gia Đấu</option>
+	<option value="dong-phuong">Đông Phương</option>
+	<option value="do-thi">Đô Thị</option>
+	<option value="bach-hop">Bách Hợp</option>
+	<option value="hai-huoc">Hài Hước</option>
+	<option value="dien-van">Điền Văn</option>
+	<option value="co-dai">Cổ Đại</option>
+	<option value="mat-the">Mạt Thế</option>
+	<option value="truyen-teen">Truyện Teen</option>
+	<option value="phuong-tay">Phương Tây</option>
+	<option value="nu-phu">Nữ Phụ</option>
+	<option value="light-novel">Light Novel</option>
+	<option value="viet-nam">Việt Nam</option>
+	<option value="doan-van">Đoản Văn</option>
+	
+	<option value="My-Thuc">Mỹ Thực</option>
+	<option value="sac">Sắc</option>
+	<option value="Hien-Dai">Hiện Đại</option>
+	<option value="khac">Khác</option>										</select>
+									</div>
+
+
+									<div class="widget-content" id="last_story_content">
+
+										<div class="row"><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Tôi Công Lược Quỷ Vương Trong Trò Chơi Ác Mộng" href="https://xtruyen.vn/truyen/toi-cong-luoc-quy-vuong-trong-tro-choi-ac-mong/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10580883" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10580883"  alt="Tôi Công Lược Quỷ Vương Trong Trò Chơi Ác Mộng"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+						&nbsp<i class="text-success fas fa-check-circle"> </i>&nbsp<span href="#" title="1 giờ " class="c-new-tag"></span> 		
+							<a title="Tôi Công Lược Quỷ Vương Trong Trò Chơi Ác Mộng" href="https://xtruyen.vn/truyen/toi-cong-luoc-quy-vuong-trong-tro-choi-ac-mong/">
+							
+								Tôi Công Lược Quỷ Vương Trong Trò Chơi Ác Mộng</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/toi-cong-luoc-quy-vuong-trong-tro-choi-ac-mong/chuong-176/" class="btn-link"> Chương 176 - Hoàn </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>5 phút </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/dam-my/" rel="tag">Đam Mỹ</a></span><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/khac/" rel="tag">Khác</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Mong-Hai-Co-Nguyet/" rel="tag">Mộng Hải Cô Nguyệt</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Tôi Trở Thành Tư Tế Của Các Ngoại Thần" href="https://xtruyen.vn/truyen/toi-tro-thanh-tu-te-cua-cac-ngoai-than/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10580915" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10580915"  alt="Tôi Trở Thành Tư Tế Của Các Ngoại Thần"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+						<span href="#" title="1 giờ " class="c-new-tag"></span> 		
+							<a title="Tôi Trở Thành Tư Tế Của Các Ngoại Thần" href="https://xtruyen.vn/truyen/toi-tro-thanh-tu-te-cua-cac-ngoai-than/">
+							
+								Tôi Trở Thành Tư Tế Của Các Ngoại Thần</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/toi-tro-thanh-tu-te-cua-cac-ngoai-than/chuong-73/" class="btn-link"> Chương 73 </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>41 phút </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/he-thong/" rel="tag">Hệ Thống</a></span><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/linh-di/" rel="tag">Linh Dị</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/A-Eon/" rel="tag">A Eon</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Bắt Đầu Giáng Chức Ra Hoàng Thành, Ta Triệu Hoán Quan Nhị Gia" href="https://xtruyen.vn/truyen/bat-dau-giang-chuc-ra-hoang-thanh-ta-trieu-hoan-quan-nhi-gia/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10513652" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10513652"  alt="Bắt Đầu Giáng Chức Ra Hoàng Thành, Ta Triệu Hoán Quan Nhị Gia"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Bắt Đầu Giáng Chức Ra Hoàng Thành, Ta Triệu Hoán Quan Nhị Gia" href="https://xtruyen.vn/truyen/bat-dau-giang-chuc-ra-hoang-thanh-ta-trieu-hoan-quan-nhi-gia/">
+							
+								Bắt Đầu Giáng Chức Ra Hoàng Thành, Ta Triệu Hoán Quan Nhị Gia</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/bat-dau-giang-chuc-ra-hoang-thanh-ta-trieu-hoan-quan-nhi-gia/chuong-241/" class="btn-link"> Chương 241 - Đế Tâm bất diệt, huyễn cảnh phá toái! </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>57 phút </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/huyen-huyen/" rel="tag">Huyền Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Nhat-B250t-193ng-Nhi234n/" rel="tag">Nhất B&#250;t &#193;ng Nhi&#234;n</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Tuổi Già Trường Sinh, Từ Điểm Hóa Bạch Giao Bắt Đầu" href="https://xtruyen.vn/truyen/tuoi-gia-truong-sinh-tu-diem-hoa-bach-giao-bat-dau/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10472418" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10472418"  alt="Tuổi Già Trường Sinh, Từ Điểm Hóa Bạch Giao Bắt Đầu"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Tuổi Già Trường Sinh, Từ Điểm Hóa Bạch Giao Bắt Đầu" href="https://xtruyen.vn/truyen/tuoi-gia-truong-sinh-tu-diem-hoa-bach-giao-bat-dau/">
+							
+								Tuổi Già Trường Sinh, Từ Điểm Hóa Bạch Giao Bắt Đầu</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/tuoi-gia-truong-sinh-tu-diem-hoa-bach-giao-bat-dau/chuong-99/" class="btn-link"> Chương 99 - Ban thưởng cơ duyên </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>57 phút </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/huyen-huyen/" rel="tag">Huyền Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Th237nh-U-To-Su/" rel="tag">Th&#237;nh U Tổ Sư</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Hồng Thủy Tận Thế: Ta Tại Huyền Vũ Trên Lưng Xây Gia Viên" href="https://xtruyen.vn/truyen/hong-thuy-tan-the-ta-tai-huyen-vu-tren-lung-xay-gia-vien/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10448645" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10448645"  alt="Hồng Thủy Tận Thế: Ta Tại Huyền Vũ Trên Lưng Xây Gia Viên"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Hồng Thủy Tận Thế: Ta Tại Huyền Vũ Trên Lưng Xây Gia Viên" href="https://xtruyen.vn/truyen/hong-thuy-tan-the-ta-tai-huyen-vu-tren-lung-xay-gia-vien/">
+							
+								Hồng Thủy Tận Thế: Ta Tại Huyền Vũ Trên Lưng Xây Gia Viên</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/hong-thuy-tan-the-ta-tai-huyen-vu-tren-lung-xay-gia-vien/chuong-272/" class="btn-link"> Chương 272 - Ba chiêu! Ba chiêu bắt lại đối phương! </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>1 giờ </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/do-thi/" rel="tag">Đô Thị</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Truy-Mong-Thieu-Ni234n-T236nh-123/" rel="tag">Truy Mộng Thiếu Ni&#234;n T&#236;nh 123</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Bắt Đầu Nhân 10? Có Bug Ngươi Là Thật Lag A" href="https://xtruyen.vn/truyen/bat-dau-nhan-10-co-bug-nguoi-la-that-lag-a/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10522103" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10522103"  alt="Bắt Đầu Nhân 10? Có Bug Ngươi Là Thật Lag A"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Bắt Đầu Nhân 10? Có Bug Ngươi Là Thật Lag A" href="https://xtruyen.vn/truyen/bat-dau-nhan-10-co-bug-nguoi-la-that-lag-a/">
+							
+								Bắt Đầu Nhân 10? Có Bug Ngươi Là Thật Lag A</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/bat-dau-nhan-10-co-bug-nguoi-la-that-lag-a/chuong-100/" class="btn-link"> Chương 100 - Ta ưa để cho người ta hơn nửa đêm ngủ không yên </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>1 giờ </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/huyen-huyen/" rel="tag">Huyền Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Thang-B236nh-Bat-H224m-Ngu/" rel="tag">Thảng B&#236;nh Bất H&#224;m Ngư</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Đồng Thời Xuyên Qua: Chế Tạo Tận Thế Văn Minh Hỗ Trợ Hiệp Hội" href="https://xtruyen.vn/truyen/dong-thoi-xuyen-qua-che-tao-tan-the-van-minh-ho-tro-hiep-hoi/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10461601" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10461601"  alt="Đồng Thời Xuyên Qua: Chế Tạo Tận Thế Văn Minh Hỗ Trợ Hiệp Hội"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Đồng Thời Xuyên Qua: Chế Tạo Tận Thế Văn Minh Hỗ Trợ Hiệp Hội" href="https://xtruyen.vn/truyen/dong-thoi-xuyen-qua-che-tao-tan-the-van-minh-ho-tro-hiep-hoi/">
+							
+								Đồng Thời Xuyên Qua: Chế Tạo Tận Thế Văn Minh Hỗ Trợ Hiệp Hội</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/dong-thoi-xuyen-qua-che-tao-tan-the-van-minh-ho-tro-hiep-hoi/chuong-262/" class="btn-link"> Chương 262 - Thánh nhân không chết, đạo tặc không chỉ </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>1 giờ </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/khoa-huyen/" rel="tag">Khoa Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/T250-T237ch-Ph249-Van/" rel="tag">T&#250; T&#237;ch Ph&#249; Văn</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Luyện Yêu Thành Tiên: Gia Tộc Của Ta Toàn Viên Ác Nhân" href="https://xtruyen.vn/truyen/luyen-yeu-thanh-tien-gia-toc-cua-ta-toan-vien-ac-nhan/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10522508" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10522508"  alt="Luyện Yêu Thành Tiên: Gia Tộc Của Ta Toàn Viên Ác Nhân"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Luyện Yêu Thành Tiên: Gia Tộc Của Ta Toàn Viên Ác Nhân" href="https://xtruyen.vn/truyen/luyen-yeu-thanh-tien-gia-toc-cua-ta-toan-vien-ac-nhan/">
+							
+								Luyện Yêu Thành Tiên: Gia Tộc Của Ta Toàn Viên Ác Nhân</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/luyen-yeu-thanh-tien-gia-toc-cua-ta-toan-vien-ac-nhan/chuong-195/" class="btn-link"> Chương 195 - Tổ kiến dong binh vô hạn cơ hội buôn bán </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>1 giờ </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/huyen-huyen/" rel="tag">Huyền Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Nham-Tuong-L253-D237ch-Ngu/" rel="tag">Nham Tương L&#253; Đ&#237;ch Ngư</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Chết Mới Có Dòng? Ta Có Thể Vô Hạn Chuyển Thế" href="https://xtruyen.vn/truyen/chet-moi-co-dong-ta-co-the-vo-han-chuyen-the/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10522223" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10522223"  alt="Chết Mới Có Dòng? Ta Có Thể Vô Hạn Chuyển Thế"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Chết Mới Có Dòng? Ta Có Thể Vô Hạn Chuyển Thế" href="https://xtruyen.vn/truyen/chet-moi-co-dong-ta-co-the-vo-han-chuyen-the/">
+							
+								Chết Mới Có Dòng? Ta Có Thể Vô Hạn Chuyển Thế</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/chet-moi-co-dong-ta-co-the-vo-han-chuyen-the/chuong-198/" class="btn-link"> Chương 198 - Hai mươi ba Kim Đan tu sĩ vây giết </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>1 giờ </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/huyen-huyen/" rel="tag">Huyền Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Hoa-Khai-Ph250-Qu253-Nhu-Huyet-Nhu-Ma/" rel="tag">Hoa Khai Ph&#250; Qu&#253; Như Huyết Như Ma</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Đơn Giản Hoá Tu Tiên, Ta Hô Hấp Liền Có Thể Biến Cường" href="https://xtruyen.vn/truyen/don-gian-hoa-tu-tien-ta-ho-hap-lien-co-the-bien-cuong/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10518827" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10518827"  alt="Đơn Giản Hoá Tu Tiên, Ta Hô Hấp Liền Có Thể Biến Cường"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Đơn Giản Hoá Tu Tiên, Ta Hô Hấp Liền Có Thể Biến Cường" href="https://xtruyen.vn/truyen/don-gian-hoa-tu-tien-ta-ho-hap-lien-co-the-bien-cuong/">
+							
+								Đơn Giản Hoá Tu Tiên, Ta Hô Hấp Liền Có Thể Biến Cường</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/don-gian-hoa-tu-tien-ta-ho-hap-lien-co-the-bien-cuong/chuong-154/" class="btn-link"> Chương 154 - Trúc Cơ (thượng) </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>1 giờ </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/huyen-huyen/" rel="tag">Huyền Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Truong-Dai-Kha-Suu-Lieu/" rel="tag">Trưởng Đại Khả Sửu Liễu</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Đại Hoang Cầu Sinh, Vật Phẩm Của Ta Có Thể Thăng Cấp" href="https://xtruyen.vn/truyen/dai-hoang-cau-sinh-vat-pham-cua-ta-co-the-thang-cap/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10513958" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10513958"  alt="Đại Hoang Cầu Sinh, Vật Phẩm Của Ta Có Thể Thăng Cấp"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Đại Hoang Cầu Sinh, Vật Phẩm Của Ta Có Thể Thăng Cấp" href="https://xtruyen.vn/truyen/dai-hoang-cau-sinh-vat-pham-cua-ta-co-the-thang-cap/">
+							
+								Đại Hoang Cầu Sinh, Vật Phẩm Của Ta Có Thể Thăng Cấp</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/dai-hoang-cau-sinh-vat-pham-cua-ta-co-the-thang-cap/chuong-181/" class="btn-link"> Chương 181 - Lên đường </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>1 giờ </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/huyen-huyen/" rel="tag">Huyền Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/Tu-Tich-Ca/" rel="tag">Tử Tịch Ca</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div><div class="col-12 col-md-6 col-lg-6">
+				<div class="popular-item-wrap">
+				
+					<div class="popular-img widget-thumbnail c-image-hover">
+				
+						<a title="Nhật Dạ Du Thần  - 日夜游神" href="https://xtruyen.vn/truyen/nhat-da-du-than/">
+						
+						<img data-src="https://xtruyen.vn/get-thumb.php?id=10318861" class="img-responsive effect-fade"  loading="lazy"  src="https://xtruyen.vn/get-thumb.php?id=10318861"  alt="Nhật Dạ Du Thần  - 日夜游神"> 
+							
+							</a>
+							
+					</div>
+	
+				<div class="popular-content">
+						<h5 class="widget-title">
+							
+							<a title="Nhật Dạ Du Thần  - 日夜游神" href="https://xtruyen.vn/truyen/nhat-da-du-than/">
+							
+								Nhật Dạ Du Thần</a>
+						</h5>
+	
+						<div class="list-chapter">		
+							<div class="chapter-item ">
+							
+								
+							<span class="recent-chapter-info">
+								<span class="chapter font-meta pb-1 title">
+									<a href="https://xtruyen.vn/truyen/nhat-da-du-than/300881-chuong-420/" class="btn-link"> Chương 420  -  Cùng trời cùng khế ước (2) </a>
+								</span>								
+								<span class="chapter font-meta pb-1 time">	<i>3 giờ </i> </span> 							
+							</span>
+								
+
+								<i class="ion ion-ios-pricetags pr-1 "></i><span class="chapter font-meta"><a href="https://xtruyen.vn/theloai/huyen-huyen/" rel="tag">Huyền Huyễn</a></span><i class="ion ion-md-create pr-1 pl-1"></i><span class="chapter font-meta author"><a href="https://xtruyen.vn/tacgia/thanh-sơn-tẫn-mặc/" rel="tag">Thanh Sơn Tẫn Mặc</a></span> 							
+								
+							</div>
+						</div>
+	
+						
+					</div>
+	
+	
+				</div>
+			</div></div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<nav class="navigation-ajax last_story-ajax">
+							<a href="javascript:void(0)" data-template="madara-core/content/content-1" data-target="#last_story_content" id="last_story" class="btn btn-default load-ajax">
+								<div class="load-title">
+									Xem Thêm
+									<i class="icon ion-md-arrow-dropdown"></i>
+								</div> &nbsp;<div></div>&nbsp;<div></div>&nbsp;<div></div>
+							</a>
+						</nav>
+
+										<!--end  xu ly thong tin mới cập nhật -->
+
+
+				</div>
+
+
+
+
+
+								<div class="sidebar-col col-md-3 col-sm-3">					
+						<div class="row">
+							<div id="manga-history-id-7" class="widget col-12 col-md-12   default  no-icon heading-style-1 manga-history-widget">
+								<div class="widget__inner manga-history-widget__inner c-widget-wrap">
+									<div class="widget-heading font-nav" style="display: flex;justify-content: space-between;">
+										<h2 class="heading">TRUYỆN ĐANG ĐỌC</h2>
+										<button id="wiget-history-viewmore" class="icon-toggle">
+											<i class="fas fa-chevron-right"></i>
+										</button>
+										
+									</div>
+									<div class="widget-content">
+										<div class="my-history">						
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+							<div id="manga-genres-id-8" class="widget col-12 col-md-12   default  no-icon heading-style-1 manga-genres-class-name">
+	<div class="widget__inner manga-genres-class-name__inner c-widget-wrap">
+		<div class="genres_wrap">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="widget-heading font-nav">
+						<h2 class="heading">THỂ LOẠI</h2>
+					</div>
+					<div class="widget-content">
+						<div class="genres__collapse" style="display:block;">
+							<div class="row genres">
+								<ul class="list-unstyled">
+								<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/tien-hiep/?m_orderby=views">
+											Tiên Hiệp </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/kiem-hiep/?m_orderby=views">
+											Kiếm Hiệp </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/ngon-tinh/?m_orderby=views">
+											Ngôn Tình </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/dam-my/?m_orderby=views">
+											Đam Mỹ </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/quan-truong/?m_orderby=views">
+											Quan Trường </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/vong-du/?m_orderby=views">
+											Võng Du </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/khoa-huyen/?m_orderby=views">
+											Khoa Huyễn </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/he-thong/?m_orderby=views">
+											Hệ Thống </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/huyen-huyen/?m_orderby=views">
+											Huyền Huyễn </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/di-gioi/?m_orderby=views">
+											Dị Giới </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/di-nang/?m_orderby=views">
+											Dị Năng </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/quan-su/?m_orderby=views">
+											Quân Sự </a>
+									</li>
+
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/lich-su/?m_orderby=views">
+											Lịch Sử </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/xuyen-khong/?m_orderby=views">
+											Xuyên Không </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/xuyen-nhanh/?m_orderby=views">
+											Xuyên Nhanh </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/trinh-tham/?m_orderby=views">
+											Trinh Thám </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/trong-sinh/?m_orderby=views">
+											Trọng Sinh </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/tham-hiem/?m_orderby=views">
+											Thám Hiểm </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/linh-di/?m_orderby=views">
+											Linh Dị </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/nguoc/?m_orderby=views">
+											Ngược </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/sung/?m_orderby=views">
+											Sủng </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/cung-dau/?m_orderby=views">
+											Cung Đấu </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/nu-cuong/?m_orderby=views">
+											Nữ Cường </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/gia-dau/?m_orderby=views">
+											Gia Đấu </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/dong-phuong/?m_orderby=views">
+											Đông Phương </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/do-thi/?m_orderby=views">
+											Đô Thị </a>
+									</li>
+
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/bach-hop/?m_orderby=views">
+											Bách Hợp </a>
+									</li>
+
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/hai-huoc/?m_orderby=views">
+											Hài Hước </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/dien-van/?m_orderby=views">
+											Điền Văn </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/co-dai/?m_orderby=views">
+											Cổ Đại </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/mat-the/?m_orderby=views">
+											Mạt Thế </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/phuong-tay/?m_orderby=views">
+											Phương Tây </a>
+									</li>
+										
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/nu-phu/?m_orderby=views">
+											Nữ Phụ </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/light-novel/?m_orderby=views">
+											Light Novel </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/viet-nam/?m_orderby=views">
+											Việt Nam </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/doan-van/?m_orderby=views">
+											Đoản Văn </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/sac/?m_orderby=views">
+											Sắc </a>
+									</li>
+	
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/canh-ky/?m_orderby=views">
+											Cạnh Kỹ </a>
+									</li>
+			
+				
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/Du-Hi/?m_orderby=views">
+											Du Hí </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/Ky-Huyen/?m_orderby=views">
+											Kỳ Huyễn </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/My-Thuc/?m_orderby=views">
+											Mỹ Thực </a>
+									</li>
+									
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/Tieu-Thuyet/?m_orderby=views">
+											Tiểu Thuyết </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/Tong-Tai/?m_orderby=views">
+											Tổng Tài </a>
+									</li>
+	
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/truyen-teen/?m_orderby=views">
+											Truyện Teen </a>
+									</li>
+	
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/Vo-Hiep/?m_orderby=views">
+											Võ Hiệp </a>
+									</li>
+
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/Hien-Dai/?m_orderby=views">
+											Hiện Đại </a>
+									</li>
+									<li class="col-xs-6 col-sm-6">
+										<a href="https://xtruyen.vn/theloai/khac/?m_orderby=views">
+											Khác </a>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>					
+
+				</div>
+	
+				
+
+
+				<!-- //////////////////////////// -->
+
+									<!-- <div class="page-content-listing item-big_thumbnail"> -->
+					<div id="front_recomment">
+						<div>
+							<h2 class="heading">
+								<a href="https://xtruyen.vn/tag/truyenfull/?m_orderby=views" title='TRUYỆN FULL HOT'>
+									TRUYỆN FULL HOT
+								</a>
+								<i class="pl-2 ion ion-ios-arrow-forward"></i>
+							</h2>
+						</div>
+
+						<div class="page-listing-item">
+							<div class="row row-eq-height">
+									<div class="page-listing-item">
+		<div class="row row-eq-height">
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1859058"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1859058">
+										<a href="https://xtruyen.vn/truyen/nhiet-do-co-the-cua-ac-ma/" title="Nhiệt Độ Cơ Thể Của Ác Ma">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/nhiet-do-co-the-cua-ac-ma.jpg"  loading="lazy" alt="Nhiệt Độ Cơ Thể Của Ác Ma"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/nhiet-do-co-the-cua-ac-ma.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Nhiệt Độ Cơ Thể Của Ác Ma
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 105						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-8717479"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="8717479">
+										<a href="https://xtruyen.vn/truyen/gia-bo/" title="Giả Bộ">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2025/02/gia-bo.png"  loading="lazy" alt="Giả Bộ"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/gia-bo.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Giả Bộ
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 88						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1456272"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1456272">
+										<a href="https://xtruyen.vn/truyen/tu-chan-noi-chuyen-phiem-quan-352341/" title="Tu Chân Nói Chuyện Phiếm Quần">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2023/11/tu-chan-noi-chuyen-phiem-quan-352341.jpg"  loading="lazy" alt="Tu Chân Nói Chuyện Phiếm Quần"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/tu-chan-noi-chuyen-phiem-quan-352341.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Tu Chân Nói Chuyện Phiếm Quần
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 1001						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1826777"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1826777">
+										<a href="https://xtruyen.vn/truyen/duoc-than/" title="Dược Thần">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/duoc-than.jpg"  loading="lazy" alt="Dược Thần"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/duoc-than.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Dược Thần
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 1882						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1750824"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1750824">
+										<a href="https://xtruyen.vn/truyen/truyen-he-thong-tu-luyen-toan-nang/" title="Hệ Thống Tu Luyện Toàn Năng">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2023/11/truyen-he-thong-tu-luyen-toan-nang.jpg"  loading="lazy" alt="Hệ Thống Tu Luyện Toàn Năng"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/truyen-he-thong-tu-luyen-toan-nang.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Hệ Thống Tu Luyện Toàn Năng
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 1190						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1199197"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1199197">
+										<a href="https://xtruyen.vn/truyen/doc-chiem-vo-truoc-han-thieu-sung-tan-troi/" title="Độc Chiếm Vợ Trước: Hàn Thiếu, Sủng Tận Trời">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/doc-chiem-vo-truoc-han-thieu-sung-tan-troi.jpg"  loading="lazy" alt="Độc Chiếm Vợ Trước: Hàn Thiếu, Sủng Tận Trời"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/doc-chiem-vo-truoc-han-thieu-sung-tan-troi.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Độc Chiếm Vợ Trước: Hàn Thiếu, Sủng Tận Trời
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 1298						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2519995"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2519995">
+										<a href="https://xtruyen.vn/truyen/cuu-tinh-thien-than-quyet/" title="Cửu Tinh Thiên Thần Quyết">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/cuu-tinh-thien-than-quyet.jpg"  loading="lazy" alt="Cửu Tinh Thiên Thần Quyết"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+											
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Cửu Tinh Thiên Thần Quyết
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 1628						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2752066"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2752066">
+										<a href="https://xtruyen.vn/truyen/tinh-muon/" title="Tình Muộn">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/tinh-muon.jpg"  loading="lazy" alt="Tình Muộn"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/tinh-muon.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Tình Muộn
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 89						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1512826"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1512826">
+										<a href="https://xtruyen.vn/truyen/me-man-vi-em/" title="Mê Mẩn Vì Em">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2023/11/me-man-vi-em.jpg"  loading="lazy" alt="Mê Mẩn Vì Em"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/me-man-vi-em.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Mê Mẩn Vì Em
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 240						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1789189"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1789189">
+										<a href="https://xtruyen.vn/truyen/than-an-vuong-toa/" title="Thần Ấn Vương Tọa">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/than-an-vuong-toa.jpg"  loading="lazy" alt="Thần Ấn Vương Tọa"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/than-an-vuong-toa.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Thần Ấn Vương Tọa
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 334						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2196545"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2196545">
+										<a href="https://xtruyen.vn/truyen/doc-truyen-de-vuong-sung-ai/" title="Đế Vương Sủng Ái">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/doc-truyen-de-vuong-sung-ai.jpg"  loading="lazy" alt="Đế Vương Sủng Ái"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/doc-truyen-de-vuong-sung-ai.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Đế Vương Sủng Ái
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 659						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2746524"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2746524">
+										<a href="https://xtruyen.vn/truyen/tong-tai-phu-nhan-co-thai-roi/" title="Tổng Tài Phu Nhân Có Thai Rồi">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/tong-tai-phu-nhan-co-thai-roi.jpg"  loading="lazy" alt="Tổng Tài Phu Nhân Có Thai Rồi"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/tong-tai-phu-nhan-co-thai-roi.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Tổng Tài Phu Nhân Có Thai Rồi
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 812						</span>
+					</div>
+				</div>
+			
+		</div>
+				</div>
+	</div>
+							</div>
+						</div>
+					</div>
+
+								<!-- ////////////sssssssss -->
+
+
+
+
+				<!-- //////////// HOT ĐANG RA  CHUA HOAN THANH//////////////// -->
+
+								<!-- ////////////sssssssss -->
+				<!-- //////////// truyen audio full //////////////// -->
+				
+					<div id="front_recomment">
+						<div>
+							<h2 class="heading">
+								<a href="https://xtruyen.vn/tag/audio/" title='TRUYỆN FULL AUDIO'>
+									⚡ TRUYỆN FULL AUDIO
+								</a>
+								<i class="pl-2 ion ion-ios-arrow-forward"></i>
+							</h2>
+						</div>
+
+						<div class="page-listing-item">
+							<div class="row row-eq-height">
+									<div class="page-listing-item">
+		<div class="row row-eq-height">
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2039579"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2039579">
+										<a href="https://xtruyen.vn/truyen/nho-em/" title="Nhớ Em">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/nho-em.jpg"  loading="lazy" alt="Nhớ Em"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/nho-em.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Nhớ Em
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 90						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2988940"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2988940">
+										<a href="https://xtruyen.vn/truyen/trung-sinh-chi-he-thong-tu-cuu-cua-nhan-vat-phan-dien/" title="Trùng Sinh Chi Hệ Thống Tự Cứu Của Nhân Vật Phản Diện">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/trung-sinh-chi-he-thong-tu-cuu-cua-nhan-vat-phan-dien.jpg"  loading="lazy" alt="Trùng Sinh Chi Hệ Thống Tự Cứu Của Nhân Vật Phản Diện"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/trung-sinh-chi-he-thong-tu-cuu-cua-nhan-vat-phan-dien.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Trùng Sinh Chi Hệ Thống Tự Cứu Của Nhân Vật Phản Diện
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 98						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1242636"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1242636">
+										<a href="https://xtruyen.vn/truyen/ngoan-dung-chay/" title="Ngoan, Đừng Chạy">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/ngoan-dung-chay.jpg"  loading="lazy" alt="Ngoan, Đừng Chạy"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/ngoan-dung-chay.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Ngoan, Đừng Chạy
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 100						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2413476"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2413476">
+										<a href="https://xtruyen.vn/truyen/em-chi-muon-hit-van-khi-cua-anh/" title="Em Chỉ Muốn Hít Vận Khí Của Anh">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/em-chi-muon-hit-van-khi-cua-anh.jpg"  loading="lazy" alt="Em Chỉ Muốn Hít Vận Khí Của Anh"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/em-chi-muon-hit-van-khi-cua-anh.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Em Chỉ Muốn Hít Vận Khí Của Anh
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 75						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2718843"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2718843">
+										<a href="https://xtruyen.vn/truyen/truong-tuong-tu/" title="Trường Tương Tư">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2023/11/truong-tuong-tu.jpg"  loading="lazy" alt="Trường Tương Tư"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/truong-tuong-tu.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Trường Tương Tư
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Quyển 3 C19						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2891353"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2891353">
+										<a href="https://xtruyen.vn/truyen/truyen-qua-ngot-nam-thang/" title="Quả Ngọt Năm Tháng">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2023/11/truyen-qua-ngot-nam-thang.jpg"  loading="lazy" alt="Quả Ngọt Năm Tháng"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/truyen-qua-ngot-nam-thang.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Quả Ngọt Năm Tháng
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Quyển 2 C111						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-4296010"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="4296010">
+										<a href="https://xtruyen.vn/truyen/mai-mai-la-bao-xa/" title="Mãi Mãi Là Bao Xa">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/mai-mai-la-bao-xa.jpg"  loading="lazy" alt="Mãi Mãi Là Bao Xa"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/mai-mai-la-bao-xa.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Mãi Mãi Là Bao Xa
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 76						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1620151"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1620151">
+										<a href="https://xtruyen.vn/truyen/benh-yeu/" title="Bệnh Yêu">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/benh-yeu.jpg"  loading="lazy" alt="Bệnh Yêu"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/benh-yeu.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Bệnh Yêu
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 96						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2840159"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2840159">
+										<a href="https://xtruyen.vn/truyen/duoi-vay-than-691341/" title="Dưới Váy Thần">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2023/11/duoi-vay-than-691341.jpg"  loading="lazy" alt="Dưới Váy Thần"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/duoi-vay-than-691341.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Dưới Váy Thần
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 92						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1191330"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1191330">
+										<a href="https://xtruyen.vn/truyen/duoc-ngot/" title="Dược Ngọt">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/duoc-ngot.jpg"  loading="lazy" alt="Dược Ngọt"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/duoc-ngot.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Dược Ngọt
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 99						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-2422168"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="2422168">
+										<a href="https://xtruyen.vn/truyen/cua-nham-ban-trai-duoc-chong-nhu-y/" title="Cưa Nhầm Bạn Trai, Được Chồng Như Ý">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/cua-nham-ban-trai-duoc-chong-nhu-y.jpg"  loading="lazy" alt="Cưa Nhầm Bạn Trai, Được Chồng Như Ý"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/cua-nham-ban-trai-duoc-chong-nhu-y.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Cưa Nhầm Bạn Trai, Được Chồng Như Ý
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 74						</span>
+					</div>
+				</div>
+			
+		</div>
+		
+		<div class="col-4 col-sm-4 col-md-3 col-lg-2  col-xl-2 badge-pos-2 story-item-margin badge-pos-2 story-item-margin">
+
+
+			<div class="page-item-detail text fullwidth ">
+				
+				<div id="manga-item-1958818"
+					class="item-thumb hover-details c-image-hover"
+					data-post-id="1958818">
+										<a href="https://xtruyen.vn/truyen/dao-tinh/" title="Đạo Tình">
+						<img class="img-responsive effect-fade " width="220" height="330" src="https://xtruyen.vn/wp-content/uploads/2024/10/dao-tinh.jpg"  loading="lazy" alt="Đạo Tình"><i class="full-story fas fa-check-circle"> </i>					</a>
+				
+
+					<button data-content="https://xtruyen.vn/wp-content/uploads/xtruyen_story_audio/dao-tinh.mp3" class="playBtn" onclick="playBtn_clk(this)" >▶</button>						
+									
+									</div>
+			</div>
+
+							<div class="caption ">
+					<div class=" font-narrow">
+
+						Đạo Tình
+					</div>
+
+					<div>
+						
+						<span  class="button-chapter"> 
+							Chương 132						</span>
+					</div>
+				</div>
+			
+		</div>
+				</div>
+	</div>
+							</div>
+						</div>
+					</div>
+
+				
+				<!-- //////////// truyen audio full //////////////// -->
+
+				<!-- //////////// truyen full mới  //////////////// -->
+				
+				<!-- //////////// truyen audio full //////////////// -->
+
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+
+
+<!-- <script type='text/javascript' src='//pl26667260.profitableratecpm.com/5e/c6/34/5ec6347363096f9eacb3e4ab45e4e57a.js'></script> -->
+	</div><!-- <div class="site-content"> -->
+
+	
+			
+			
+	<!-- audio for chapter page and front page -->
+			<div class="audio-player-xaudio" style="display: none;">
+			<div class="audio-row-xaudio">
+				<div class="xaudio-title">
+
+					<div class="scrolling-text" id="xaudio-story-title"></div>
+
+				</div>
+				<div class="audio-player2-xaudio">
+
+					<!-- <span class="time" id="timeDisplay">0:00 / 0:00</span> -->
+					<button class="play-pause-btn" id="playPauseBtn" onclick="playPauseBtn_clk(this)">
+						<img src="https://s.w.org/images/core/emoji/15.0.3/svg/25b6.svg" alt="Play">
+					</button>
+
+					<div class="progress">
+						<input type="range" id="seekBar" value="0" step="1">
+					</div>
+
+					<select class="selectpicker select-audio-speed-xaudio" id="select-audio-speed">
+						<option value="0.8">0.8x</option>
+						<option value="0.9">0.9x</option>
+						<option value="1" selected>1x</option>
+						<option value="1.2">1.2x</option>
+						<option value="1.5">1.5x</option>
+					</select>
+
+					<button class="volume-btn-xaudio" id="muteBtn">🔊</button>
+				</div>
+			</div>
+		</div>
+
+		<script src="https://xtruyen.vn/wp-content/themes/madara/js/xaudio.js?ver=1.1.2"></script>
+
+
+
+	
+	<div id="xaudio-loading-overlay" style="display:none;">
+		<div class="xaudio-loading-spinner">
+			<div class="progress-text">Đang tải audio...</div>
+			<div class="xaudio-progress-bar">
+				<div class="xaudio-progress-fill"></div>
+			</div>
+		</div>
+	</div>
+
+
+	<footer class="site-footer">
+
+		
+		
+		
+		<div class="bottom-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12" style='font-size: 12px;'>
+					
+										     	
+							<button onclick="toggleGrayscale()" style="height: 30px ; width:150px; border-radius:5px;background-color: #2c2929;color:white;    font-weight: 600;" class="mb-2">THẬP NIÊN 80</button>
+							<button onclick="window.location.href='https://xtruyen.vn/dong-gop-y-kien'" style="height: 30px ; width:150px; border-radius:5px;background-color: #2c2929;color:white;    font-weight: 600;" class="mb-2"> ĐÓNG GỚP Ý KIẾN	</button>
+
+			
+							<div class="row text-left" style='margin-bottom: 10px;font: size 14px;'>
+								Đọc truyện online, đọc truyện chữ, truyện hay. Website luôn cập nhật những bộ truyện mới thuộc các thể loại đặc sắc như truyện tiên hiệp, truyện kiếm hiệp, hay truyện ngôn tình một cách nhanh nhất.
+							</div>
+						
+
+
+						<div class="row">
+							<div class="col-xs-12 col-sm-12 text-left">
+
+
+								<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+									Website hoạt động dưới Giấy phép truy cập mở .Creative Commons
+									Attribution 4.0 International License
+									<!-- <img alt="Creative Commons License" style="border-width:0;"
+												src="https://xtruyen.vn/wp-content/uploads/88x31.png"> -->
+								</a>
+
+
+								<!-- 										
+										<a href="#" title="Contact">Contact</a> - <a href="https://xtruyen.vn/privacy-terms-of-use-dieu-khoan-su-dung/"
+										title="Terms of Service">ToS</a> -->
+
+
+
+							</div>
+						</div>
+
+				<div class="row text-left mb-3 mt-2" style='font-size:13px;    line-height: 180%' >
+								
+								
+								<a  target="_blank" class="pr-2" href="https://xtruyen.vn/rule/chinh-sach-bao-mat.html" rel="nofollow">
+									Chính sách bảo mật
+								</a>
+
+								<a  target="_blank" class="pr-2" href="https://xtruyen.vn/rule/dieu-khoan-su-dung.html" rel="nofollow">
+																	Điều khoản sử dụng
+																</a>
+								<a target="_blank" class="pr-2"  href="https://xtruyen.vn/rule/quy-dinh-ve-noi-dung.html" rel="nofollow">
+																	Quy định về nội dung
+																</a>
+
+								<a  target="_blank" class="pr-2" href="https://xtruyen.vn/rule/thoa-thuan-quyen-rieng-tu.html" rel="nofollow">
+									Thỏa thuận quyền riêng tư
+								</a>
+
+								<a target="_blank" class="pr-2"  href="https://xtruyen.vn/rule/canh-bao.html" rel="nofollow">
+									Cảnh báo 
+								</a>
+								
+
+
+				</div>
+
+											</div>
+				</div>
+			</div>
+		</div>
+
+	</footer>
+	
+	
+	</div> <!-- class="wrap" --></div> <!-- class="body-wrap" -->
+
+
+
+
+<!-- Modal -->
+    <div class="wp-manga-section">
+        <input type="hidden" name="bookmarking" value="0" />
+        <div class="modal fade" id="form-login" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="login" class="login">
+                            <h3>
+                                ĐĂNG NHẬP
+                            </h3>
+                            <p class="message login"></p>
+                            <meta name='robots' content='max-image-preview:large' />
+<link rel="icon" href="https://xtruyen.vn/wp-content/uploads/2025/09/cropped-xlogo_A-3-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://xtruyen.vn/wp-content/uploads/2025/09/cropped-xlogo_A-3-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://xtruyen.vn/wp-content/uploads/2025/09/cropped-xlogo_A-3-180x180.png" />
+<meta name="msapplication-TileImage" content="https://xtruyen.vn/wp-content/uploads/2025/09/cropped-xlogo_A-3-270x270.png" />
+                                                     
+
+
+                           
+                              <div>
+                                <div class="g_id_signin" data-type="standard" style="padding-top: 15px;text-align: -webkit-center;"></div>
+                                <!-- //đăng nhập google -->
+                                <meta name="google-signin-client_id" content="603066942338-m40ffcpd6s7n75qe3vaiknaf7eo6b59s.apps.googleusercontent.com">
+                                <script src="https://accounts.google.com/gsi/client" async defer></script>
+                                <div id="g_id_onload"
+                                    data-client_id="603066942338-m40ffcpd6s7n75qe3vaiknaf7eo6b59s.apps.googleusercontent.com"
+                                    data-login_uri="https://xtruyen.vn/auth/google.php"
+                                    data-auto_prompt="false">
+                                </div>
+                                <!-- //đăng nhập google////////// -->
+                            </div>
+
+
+
+
+                            <p> </p>
+                            <form name="loginform" id="loginform" method="post">
+                                <p>
+                                    <label>Tên đăng nhập / Email
+                                        <br> <input type="text" name="log" class="input user_login" value="" size="20">
+                                    </label>
+                                </p>
+                                <p>
+                                    <label>Mật khẩu
+                                        <br> <input type="password" autocomplete="" name="pwd" class="input user_pass" value="" size="20">
+                                    </label>
+                                </p>
+
+                                <p>
+                                                                    </p>
+
+                                <p class="forgetmenot">
+                                    <label>
+                                        <input name="rememberme" type="checkbox" id="rememberme" value="forever">Ghi nhớ
+                                    </label>
+                                </p>
+                                <p class="submit">
+                                    <input type="submit" name="wp-submit" class="button button-primary button-large wp-submit" value="Đăng nhập">
+
+
+
+                                    <input type="hidden" name="redirect_to" value="https://xtruyen.vn/wp-admin/">
+                                    <input type="hidden" name="testcookie" value="1">
+                                </p>
+                            </form>
+
+                            <p class="nav">
+                                <a href="javascript:avoid(0)" class="to-reset">Quên mật khẩu</a>
+                            </p>
+
+
+                          
+                        </div>
+                    </div>
+                    <div class="modal-footer"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="form-sign-up" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="sign-up" class="login">
+                            <h3>
+                                <a href="https://xtruyen.vn/" title="XTruyện" tabindex="-1">ĐĂNG KÍ THÀNH VIÊN XTRUYEN</a>
+                            </h3>
+                        
+
+                            
+                           
+                              <div>
+                                <div class="g_id_signin" data-type="standard" style="padding-top: 15px;text-align: -webkit-center;"></div>
+                                <!-- //đăng nhập google -->
+                                <meta name="google-signin-client_id" content="603066942338-m40ffcpd6s7n75qe3vaiknaf7eo6b59s.apps.googleusercontent.com">
+                                <script src="https://accounts.google.com/gsi/client" async defer></script>
+                                <div id="g_id_onload"
+                                    data-client_id="603066942338-m40ffcpd6s7n75qe3vaiknaf7eo6b59s.apps.googleusercontent.com"
+                                    data-login_uri="https://xtruyen.vn/auth/google.php"
+                                    data-auto_prompt="false">
+                                </div>
+                                <!-- //đăng nhập google////////// -->
+                            </div>
+
+                            <P></P>
+                            <form name="registerform" id="registerform" novalidate="novalidate">
+                                <p>
+                                    <label>Tên đăng nhập
+                                        <br>
+                                        <input type="text" name="user_sign-up" class="input user_login" value="" size="20">
+                                    </label>
+                                </p>
+                                <p>
+                                    <label>Email
+                                        <br>
+                                        <input type="email" name="email_sign-up" class="input user_email" value="" size="20">
+                                    </label>
+                                </p>
+                                <p>
+                                    <label>Mật khẩu<br>
+                                        <input type="password" name="pass_sign-up" autocomplete="" class="input user_pass" value="" size="25">
+                                    </label>
+                                </p>
+                                <p class="action">
+                                                                    </p>
+
+                                <input type="hidden" name="redirect_to" value="">
+                                <p class="submit">
+                                    <input type="submit" name="wp-submit" class="button button-primary button-large wp-submit" value="Đăng kí">
+                                </p>
+                            </form>
+                            <p class="nav">
+                                <a href="javascript:void(0)" style="padding-right: 5px;" class="to-login">ĐĂNG NHẬP </a>
+                                |
+                                <a href="javascript:void(0)" class="to-reset" style="padding-left: 5px;"> Quên mật khẩu </a>
+                            </p>
+
+                        </div>
+                    </div>
+                    <div class="modal-footer"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="form-reset" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="reset" class="login">
+                            <h3>
+                                <a href="javascript:void(0)" class="to-reset">Quên mật khẩu?</a>
+                            </h3>
+                            <p class="message reset">Vui lòng nhập tên người dùng hoặc địa chỉ email của bạn. Bạn sẽ nhận được liên kết để tạo mật khẩu mới qua email.</p>
+                            <form name="resetform" id="resetform" method="post">
+                                <p>
+                                    <label>Tên người dùng hoặc địa chỉ email                                        <br>
+                                        <input type="text" name="user_reset" id="user_reset" class="input" value="" size="20">
+                                    </label>
+                                </p>
+                                                                <p class="submit">
+                                    <input type="submit" name="wp-submit" class="button button-primary button-large wp-submit" value="Nhận mật khẩu mới">
+                                    <input type="hidden" name="testcookie" value="1">
+                                </p>
+                            </form>
+                            <p>
+                                <a class="backtoblog" href="javascript:void(0)">&larr; Back to  XTruyện</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="modal-footer"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/core.js?ver=6.7.121" id="madara-core-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/smoothscroll.js?ver=1.4.10" id="smoothscroll-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/lazysizes/lazysizes.min.js?ver=5.3.2" id="lazysizes-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/bootstrap.min.js?ver=4.6.0" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/shuffle.min.js?ver=5.3.0" id="shuffle-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/aos.js?ver=6.7.121" id="aos-js"></script>
+<script type="text/javascript" id="madara-js-js-extra">
+/* <![CDATA[ */
+var madara = {"ajaxurl":"https:\/\/xtruyen.vn\/wp-admin\/admin-ajax.php","query_vars":{"error":"","m":"","p":"720","post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":"720","second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"search_columns":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"update_menu_item_cache":false,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":12,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"current_url":"https:\/\/xtruyen.vn"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/template.js?ver=1.7.6" id="madara-js-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/ajax.js?ver=6.7.121" id="madara-ajax-js"></script>
+<script type="text/javascript" id="wp-manga-login-ajax-js-extra">
+/* <![CDATA[ */
+var wpMangaLogin = {"admin_ajax":"https:\/\/xtruyen.vn\/wp-admin\/admin-ajax.php","home_url":"https:\/\/xtruyen.vn","nonce":"fee264d54b","messages":{"please_enter_username":"Vui l\u00f2ng nh\u1eadp t\u00ean ng\u01b0\u1eddi d\u00f9ng","please_enter_password":"Vui l\u00f2ng nh\u1eadp m\u1eadt kh\u1ea9u","invalid_username_or_password":"T\u00ean ng\u01b0\u1eddi d\u00f9ng ho\u1eb7c m\u1eadt kh\u1ea9u kh\u00f4ng h\u1ee3p l\u1ec7","server_error":"L\u1ed7i m\u00e1y ch\u1ee7!","username_or_email_cannot_be_empty":"T\u00ean ng\u01b0\u1eddi d\u00f9ng ho\u1eb7c Email kh\u00f4ng \u0111\u01b0\u1ee3c \u0111\u1ec3 tr\u1ed1ng","please_fill_all_fields":"Vui l\u00f2ng \u0111i\u1ec1n v\u00e0o t\u1ea5t c\u1ea3 c\u00e1c tr\u01b0\u1eddng m\u1eadt kh\u1ea9u.","password_cannot_less_than_12":"M\u1eadt kh\u1ea9u kh\u00f4ng \u0111\u01b0\u1ee3c \u00edt h\u01a1n 12 k\u00fd t\u1ef1","password_doesnot_match":"M\u1eadt kh\u1ea9u kh\u00f4ng kh\u1edbp. Vui l\u00f2ng th\u1eed l\u1ea1i.","username_cannot_empty":"T\u00ean ng\u01b0\u1eddi d\u00f9ng kh\u00f4ng \u0111\u01b0\u1ee3c \u0111\u1ec3 tr\u1ed1ng","email_cannot_empty":"Email kh\u00f4ng \u0111\u01b0\u1ee3c \u0111\u1ec3 tr\u1ed1ng","password_cannot_empty":"M\u1eadt kh\u1ea9u kh\u00f4ng \u0111\u01b0\u1ee3c \u0111\u1ec3 tr\u1ed1ng"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/plugins/madara-core/assets/js/login.js?ver=1.7.4" id="wp-manga-login-ajax-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/plugins/madara-core/assets/slick/slick.min.js?ver=6.7.121" id="wp-manga-slick-js-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.3" id="jquery-ui-menu-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-a11y-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-03-23 02:18:04+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Notifications":["Th\u00f4ng b\u00e1o"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.3" id="jquery-ui-autocomplete-js"></script>
+<script type="text/javascript" id="wp-manga-js-extra">
+/* <![CDATA[ */
+var manga = {"ajax_url":"https:\/\/xtruyen.vn\/wp-admin\/admin-ajax.php","home_url":"https:\/\/xtruyen.vn","base_url":"https:\/\/xtruyen.vn\/","manga_paged_var":"manga-paged","enable_manga_view":"1"};
+var mangaReadingAjax = {"isEnable":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/plugins/madara-core/assets/js/script.js?ver=1.7.43" id="wp-manga-js"></script>
+<script type="text/javascript" id="my-device-id-js-js-extra">
+/* <![CDATA[ */
+var device_params = {"url":"https:\/\/xtruyen.vn\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://xtruyen.vn/wp-content/themes/madara/js/device-id.js?ver=1.0.7" id="my-device-id-js-js"></script>
+
+
+
+
+<script>
+function applyGrayscale(enabled) {
+  document.documentElement.style.filter = enabled ? "grayscale(100%)" : "none";
+}
+
+function toggleGrayscale() {
+  const isGrayscale = localStorage.getItem("grayscale") === "true";
+  const newValue = !isGrayscale;
+  applyGrayscale(newValue);
+  localStorage.setItem("grayscale", newValue);
+}
+
+// Tự động áp dụng khi load lại trang
+window.addEventListener("DOMContentLoaded", () => {
+  const isGrayscale = localStorage.getItem("grayscale") === "true";
+  applyGrayscale(isGrayscale);
+});
+</script>
+
+
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		// Ẩn tất cả dropdown-menu menu-depth-1
+		var dropdownMenus = document.querySelectorAll("#nav-menu-item-787939 .dropdown-menu.menu-depth-1");
+		dropdownMenus.forEach(function(menu) {
+			menu.style.display = "none";
+		});
+	});
+</script>
+
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'985a5a4bee82b44b',t:'MTc1ODk2OTMxMA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

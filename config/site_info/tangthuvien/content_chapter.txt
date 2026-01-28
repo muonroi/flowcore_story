@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+    <meta http-equiv="content-language" content="vi" />
+    <meta name="base-domain" content="https://tangthuvien.net/">
+    <meta name="revisit-after" content="1 days" />
+<meta name="ROBOTS" content="index,follow,noodp" />
+<meta name="googlebot" content="index,follow" />
+<meta name="BingBOT" content="index,follow" />
+<meta name="yahooBOT" content="index,follow" />
+<meta name="slurp" content="index,follow" />
+<meta name="msnbot" content="index,follow" />
+    <title>Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu H&agrave;nh (T&ograve;ng Phế Linh Căn Khai Thủy Vấn Ma Tu H&agrave;nh) - Chương 151&nbsp;:&nbsp;Th&aacute;i &acirc;m u đồng</title>
+
+    <meta name="baseURL" content="https://tangthuvien.net/"/>
+    <meta name="description" content="Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu H&agrave;nh (T&ograve;ng Phế Linh Căn Khai Thủy Vấn Ma Tu H&agrave;nh), Chương 151, Th&aacute;i &acirc;m u đồng"/>
+    <meta name="keywords" content="Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu H&agrave;nh (T&ograve;ng Phế Linh Căn Khai Thủy Vấn Ma Tu H&agrave;nh), Chương 151&nbsp;:&nbsp;Th&aacute;i &acirc;m u đồng, Chương 151, Chương 151"/>
+
+<link rel="shortcut icon" type="image/x-icon" href="https://tangthuvien.net/images/icon-favico.png"/>
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,700i,900" rel="stylesheet">
+<link rel="stylesheet" href="https://tangthuvien.net/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://tangthuvien.net/css/bootstrap.css">
+<link rel="stylesheet" href="https://tangthuvien.net/css/bootstrap-theme.css">
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/minified/jquery-ui.min.css" type="text/css" />
+<link rel="stylesheet" href="https://tangthuvien.net/css/styles.css?v=1759499533">
+<script src="https://tangthuvien.net/js/jquery-2.2.4.js"></script>
+<script src="https://tangthuvien.net/js/bootstrap.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.1/jquery-ui.min.js"></script>
+
+        <link href="https://tangthuvien.net/css/chapter.css?v=1759499533" rel="stylesheet" />
+</head>
+<body>
+<div id=”fb-root”></div>
+<div class="header">
+<div class="navbar navbar-default navbar-static-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Hiện menu</span><span class="icon-bar"></span><span class="icon-bar"></span>
+                <span class="icon-bar"></span></button>
+            <h1><a class="header-logo" href="https://tangthuvien.net" title="doc truyen">
+                                            <img src="https://tangthuvien.net/images/logo-web-gray.png" height="60"/>
+                </a></h1>
+        </div>
+        <div class="navbar-collapse collapse" itemscope="" itemtype="http://schema.org/WebSite">
+            <form class="navbar-form navbar-left ui-filterable">
+                <div class="input-group search-holder">
+                    <input class="form-control" id="inset-autocomplete-input" data-type="search" placeholder="Nhập tên truyện hoặc tác giả..">
+                </div>
+            </form>
+            <ul class="control nav navbar-nav navbar-left">
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><span class="glyphicon glyphicon-list"></span> Thể loại <span class="caret"></span></a>
+                    <div class="dropdown-menu multi-column">
+                        <div class="row">
+                                                                                                                                    <ul class="col-md-4">
+                                                        <li><a href="https://tangthuvien.net/the-loai/tien-hiep" class="top.link">Ti&ecirc;n Hiệp</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/huyen-huyen" class="top.link">Huyền Huyễn</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/do-thi" class="top.link">Đ&ocirc; Thị</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/khoa-huyen" class="top.link">Khoa Huyễn</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/ky-huyen" class="top.link">Kỳ Huyễn</a></li>
+                                                                                            </ul>
+                                                                                                                                            <ul class="col-md-4">
+                                                        <li><a href="https://tangthuvien.net/the-loai/vo-hiep" class="top.link">V&otilde; Hiệp</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/lich-su" class="top.link">Lịch Sử</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/dong-nhan" class="top.link">Đồng Nh&acirc;n</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/quan-su" class="top.link">Qu&acirc;n Sự</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/du-hi" class="top.link">Du H&iacute;</a></li>
+                                                                                            </ul>
+                                                                                                                                            <ul class="col-md-4">
+                                                        <li><a href="https://tangthuvien.net/the-loai/canh-ky" class="top.link">Cạnh Kỹ</a></li>
+                                                                                                                                        <li><a href="https://tangthuvien.net/the-loai/linh-di" class="top.link">Linh Dị</a></li>
+                                                                                                <li><a href="https://ngontinh.tangthuvien.net/" class="top.link">Ngôn tình</a></li>
+                                                                </ul>
+                                                                                                                                    </div>
+                    </div>
+                </li>
+                <li class="dropdown">
+                    <a href="http://tangthuvien.vn/forum" target="_blank">Diễn đàn</a>
+                </li>
+                
+            </ul>
+
+            <div id="login-status" class="navbar-nav navbar-right">
+                                <a class="fn-login" href="javascript:void(0);" onclick="openLogin()" title="Đăng nhập">Đăng nhập</a>
+                <span class="slash">/</span>
+                <a href="javascript:void(0);" onclick="openRegister()" title="Đăng ký">Đăng ký</a>
+                            </div>
+        </div>
+    </div>
+</div>
+</div>
+<script type="text/javascript">
+    var $jq = jQuery.noConflict();
+    function openLogin(story_id,comment){
+        story_id = story_id || null;
+        comment = comment || null;
+        $jq('.register-box').hide();
+        $jq.ajax({url: 'https://tangthuvien.net/dang-nhap',
+            data: {comment:comment,story_id:story_id},
+            success: function(result){
+                $jq('.login-box').html(result);
+                $jq('.login-box').fadeIn();
+                $jq('.bg-fade').fadeIn();
+            }});
+    }
+
+    function openRegister(){
+        $jq('.login-box').hide();
+        $jq.ajax({url: 'https://tangthuvien.net/dang-ky',
+            success: function(result){
+                $jq('.register-box').html(result);
+                $jq('.register-box').fadeIn();
+                $jq('.bg-fade').fadeIn();
+            }});
+    }
+
+    function closeLoginPop(){
+        $jq('.login-box').hide();
+        $jq('.bg-fade').hide();
+        $jq('.register-box').hide();
+    }
+    jQuery(function() {
+        //autocomplete
+        jQuery("#inset-autocomplete-input").autocomplete({
+            source: "https://tangthuvien.net/tim-kiem",
+            minLength: 1,
+            // autoFocus: true,
+            select: function (event, ui){
+                console.log(ui.item);
+                if(ui.item.type == 'story'){
+                    if(ui.item.story_type == '1'){
+                        window.location.href = 'https://ngontinh.tangthuvien.net/doc-truyen/'+ ui.item.url;
+                    }else {
+                        window.location.href ='https://tangthuvien.net/doc-truyen/'+ ui.item.url;
+                    }
+
+                }else if(ui.item.type == 'author'){
+                    window.location.href = 'https://tangthuvien.net/tac-gia?author='+ ui.item.id;
+                }
+            }
+        }).keypress(function(e){
+            if (e.keyCode === 13){
+                event.preventDefault();
+                window.location.href = 'https://tangthuvien.net/ket-qua-tim-kiem?term='+jQuery("#inset-autocomplete-input").val();
+            }
+        }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+            if(item.type == 'story'){
+                if(item.story_type == '1'){
+                    return jQuery( "<li></li>" ).data( "ui-autocomplete-item", item ).append( "<a href='https://ngontinh.tangthuvien.net/doc-truyen/"+ item.url+"'>" + item.name + "</a>" ).appendTo( ul );
+                }else {
+                    return jQuery( "<li></li>" ).data( "ui-autocomplete-item", item ).append( "<a href='https://tangthuvien.net/doc-truyen/"+ item.url+"'>" + item.name + "</a>" ).appendTo( ul );
+                }
+
+            }
+            if(item.type == 'author'){
+                return jQuery( "<li></li>" ).data( "ui-autocomplete-item", item ).append( "<a href='https://tangthuvien.net/author/"+ item.id+"'>" + item.name + "</a>" ).appendTo( ul );
+            }
+            if(item.type == 'converter'){
+                return jQuery( "<li></li>" ).data( "ui-autocomplete-item", item ).append( "<a href='https://tangthuvien.net/dich-gia/"+ item.url+"'>" + item.name + "</a>" ).appendTo( ul );
+            }
+            // For now which just want to show the person.given_name in the list.
+        };
+
+    });
+</script>
+        <div class="bg-background bg-1">&nbsp;</div>
+    <div class="box-report" style="display: none">
+        <form method="post" class="form-box-report">
+            <input type="hidden" name="_token" value="LPMViNyPLJp1342newJBdFRgnl4sI5ZkkSrRYjeU">
+            <input type="hidden" name="chap_id" value="0"/>
+            <input type="hidden" name="story_id" value="38472"/>
+            <a href="javascript:void(0);" class="close-warning"><i class="fa fa-times" aria-hidden="true"></i></a>
+            <h4 class="text-center">Báo lỗi</h4>
+            <div class="form-group">
+                <textarea name="report" class="form-control" rows="5" placeholder="Nhập nội dung.."></textarea>
+            </div>
+            <button type="button" onclick="warning()" class="col-xs-12 btn btn-warning"><span>Gửi</span></button>
+        </form>
+    </div>
+<div class="container body-container">
+    <div class="content">
+                <div class="col-xs-12 chapter">
+        <h1 class="truyen-title"><a href="https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh" title="Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu H&agrave;nh (T&ograve;ng Phế Linh Căn Khai Thủy Vấn Ma Tu H&agrave;nh)">Từ Phế Linh Căn Bắt Đầu Vấn Ma Tu H&agrave;nh (T&ograve;ng Phế Linh Căn Khai Thủy Vấn Ma Tu H&agrave;nh)</a></h1>
+        <h2>Chương 151&nbsp;:&nbsp;Th&aacute;i &acirc;m u đồng</h2>
+        <p class="text-center" style="margin: 0"><strong>Người đăng:&nbsp;<a href="https://tangthuvien.net/converter/viettiev">viettiev </a></strong></p>
+                                <p class="text-center">Ngày đăng:&nbsp;20:33 10-01-2025</p>
+                            <div class="col-xs-12">
+                <div style="margin: 10px auto ;width: 728px; ">
+                                            .
+                                    </div>
+            </div>
+        
+        <div class="chapter-c max900">
+            <div class="chapter-c-content">
+                <ul class="left-control">
+                    <li class="li-control">
+                        <a href="javascript:void(0);" onclick="openTool(this)" title="Danh sách chương" class="icon-control first"><i class="fa fa-list-ul" aria-hidden="true"></i></a>
+                        <div class="panel-box panel-catalog">
+                            <a class="closex" href="javascript:void(0);" onclick="closeTool()"><i class="fa fa-times" aria-hidden="true"></i></a>
+                            <div class="top-box col-xs-10">
+                                <a id="prev_chap" href="javascript:void(0);" onclick="PrevChap();"><span class="small glyphicon glyphicon-chevron-left"></span> <span class="hidden-xs">Chương </span>trước</a>
+                                <a id="next_chap" href="javascript:void(0);" onclick="NextChap('689');"><span class="hidden-xs">Chương </span>tiếp <span class="small glyphicon glyphicon-chevron-right"></span></a>
+                            </div>
+                            <div class="middle-box col-xs-12" id="panel-chap">
+
+                            </div>
+                        </div>
+                    </li>
+                    <li class="li-control">
+                        <a href="javascript:void(0);" onclick="openTool(this)" title="Tuỳ chỉnh" class="icon-control first"><i class="fa fa-cog" aria-hidden="true"></i></a>
+                        <div class="panel-box panel-setting">
+                            <a class="closex" href="javascript:void(0);" onclick="closeTool()"><i class="fa fa-times" aria-hidden="true"></i></a>
+                            <div class="top-box col-xs-10">
+                                <span>Tuỳ chỉnh</span>
+                            </div>
+                            <div class="middle-box col-xs-12">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <div class="row">
+                                            <div class="col-xs-2 box-title">
+                                                <span>Theme</span>
+                                            </div>
+                                            <div class="col-xs-10 box-theme box-config">
+                                                <span class="theme-value value-01 active" ng-value = "01" onclick="changeTheme('01')"><i class="fa fa-check" aria-hidden="true"></i></span>
+                                                <span class="theme-value value-02" ng-value = "02" onclick="changeTheme('02')"><i class="fa fa-check" aria-hidden="true"></i></span>
+                                                <span class="theme-value value-03" ng-value = "03" onclick="changeTheme('03')"><i class="fa fa-check" aria-hidden="true"></i></span>
+                                                <span class="theme-value value-04" ng-value = "04" onclick="changeTheme('04')"><i class="fa fa-check" aria-hidden="true"></i></span>
+                                                <span class="theme-value value-05" ng-value = "05" onclick="changeTheme('05')"><i class="fa fa-check" aria-hidden="true"></i></span>
+                                                <span class="theme-value value-06" ng-value = "06" onclick="changeTheme('06')"><i class="fa fa-check" aria-hidden="true"></i></span>
+                                                <span class="theme-value value-07" ng-value = "07" onclick="changeTheme('07')"><i class="fa fa-moon-o" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12">
+                                        <div class="row">
+                                            <div class="col-xs-2 box-title">
+                                                <span>Font chữ</span>
+                                            </div>
+                                            <div class="col-xs-10 box-font box-config">
+                                                <span class="font-value font-palatino" ng-value = "palatino" onclick="changeFont('palatino')" title="Palatino Linotype" onclick="changeFont('01')">Palatino</span>
+                                                <span class="font-value font-times active" ng-value = "times" onclick="changeFont('times')" title="Times New Roman" onclick="changeFont('02')">Times</span>
+                                                <span class="font-value font-arial" ng-value = "arial" onclick="changeFont('arial')" title="Arial" onclick="changeFont('03')">Arial</span>
+                                                <span class="font-value font-georgia" ng-value = "georgia" onclick="changeFont('georgia')" title="Georgia" onclick="changeFont('04')">Georgia</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12">
+                                        <div class="row">
+                                            <div class="col-xs-2 box-title">
+                                                <span>Cỡ chữ</span>
+                                            </div>
+                                            <div class="col-xs-10 box-size box-config">
+                                                <cite>
+                                                    <span class="prev" onclick="changeSize(false)"><em class="iconfont">A-</em></span><b></b>
+                                                    <span class="lang">26</span><b></b>
+                                                    <span class="next" onclick="changeSize(true)"><em class="iconfont">A+</em></span>
+                                                </cite>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12">
+                                        <div class="row">
+                                            <div class="col-xs-2 box-title">
+                                                <span>Màn hình</span>
+                                            </div>
+                                            <div class="col-xs-10 box-width box-config">
+                                                <cite>
+                                                    <span class="prev" onclick="changeWidth(false)"><em class="iconfont"><i class="fa fa-file-text" aria-hidden="true"></i> -</em></span><b></b>
+                                                    <span class="lang">900</span><b></b>
+                                                    <span class="next" onclick="changeWidth(true)"><em class="iconfont"><i class="fa fa-file-text" aria-hidden="true"></i> +</em></span>
+                                                </cite>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                <!--li>
+
+                    <a href="javascript:void(0);"  onclick="openLogin()"  title="Thích" class="like-control icon-control first ">
+                        <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                        <small>29</small>
+                    </a>
+                </li-->
+                    <li><a href="#list-comment" onclick="openComment()"  title="Bình luận" class="icon-control first"><i class="fa fa-commenting-o" aria-hidden="true"></i></a></li>
+                    <li><a href="https://tangthuvien.net/nap-xu" title="Nạp tiền" class="icon-control"><i class="fa fa-usd" aria-hidden="true"></i></a></li>
+                </ul>
+                <h5><a class="more-chap btn hidden" onclick="openNextChap('6587456')" href="javascript:void(0);" >Chương 151&nbsp;:&nbsp;Th&aacute;i &acirc;m u đồng</a></h5>
+
+                <div class="box-chap box-chap-6587456"> Vương Dục càng nghe càng hài lòng. 
+
+Linh tuyền hàn trì tăng lên thiên phú, màu mỡ chi địa kiếm lấy tài nguyên, nối thẳng Trúc Cơ đỉnh phong sau, Kết Đan con đường cũng có vé vào cửa, chỉ cần bản sự đầy đủ, hết thảy đều đem thông suốt. 
+
+Ba cái đầu tư điều kiện, đem đường đều trải tốt, so chính hắn kế hoạch còn hoàn mỹ hơn. 
+
+Bất quá, Vương Dục rất nhanh liền tỉnh ngộ lại, bình tĩnh nói. 
+
+"Như vậy......Điều kiện là cái gì, hoặc là nói ta muốn làm đến cái gì. " 
+
+"Đơn giản. " 
+
+Tả Khâu Minh duỗi ra ba ngón tay. 
+
+"Ba khu tài nguyên, chúng ta lúc cần phải, ngươi giúp chúng ta ba lần, rất hợp lý đi. " 
+
+Không giống nhau Vương Dục hỏi thăm, hắn tiếp tục nói. 
+
+"Đương nhiên, chúng ta sẽ không để cho ngươi chủ động chịu chết, cũng sẽ không để ngươi năng lực tiếp nhận bên ngoài nhiệm vụ, càng sẽ không vi phạm ngươi nguyên tắc cùng bản tâm. 
+
+"Chỉ có một điểm, chúng ta gặp được nguy cơ sinh tử thì, ngươi như ở đây, không tiếc tính mệnh cũng phải cứu chúng ta một mạng. 
+
+"Chúng ta phát ra cầu cứu ngọc phù, bất kỳ tình huống gì bên dưới ngươi đều không có thể cự tuyệt, ba lần ! Ba lần sau khi tình cảm biến mất, như thế nào? " 
+
+Vương Dục trầm mặc, không phải ghét bỏ điều kiện của bọn hắn hà khắc. 
+
+Mà là quá rộng rãi. 
+
+Lấy thân phận của bọn hắn gặp được nguy hiểm trí mạng, là thật có chút khó khăn, đồng thời còn để hắn không thể cự tuyệt, đây là có nhiều sợ chết a? 
+Lại hoặc là nói, địch nhân đến cùng là cường đại cỡ nào? Mới khiến cho bọn hắn ưng thuận như thế rộng rãi điều kiện. 
+
+Tại ma đạo, có một cái mọi người đều biết sự thật. 
+
+Làm hồi báo cùng trả giá không thành có quan hệ trực tiếp thì, thường thường mang ý nghĩa kia là giết người đoạt mệnh cạm bẫy. 
+
+Cho nên địch nhân là nội bộ nhân viên a......
+
+Thấy Vương Dục trầm mặc, vẫn chưa giống như bọn hắn tưởng tượng như thế một lời đáp ứng, Dữu Tỉnh liền mở miệng, tiếp tục tăng giá cả. 
+
+"Đây hết thảy xây dựng ở ngươi đột phá Kết Đan sau khi, nếu ngươi vẫn là Trúc Cơ, có thể lựa chọn không thực hiện nghĩa vụ, đây là chúng ta nhượng bộ, nếu có thể, ký Minh Hà khế ước. " 
+
+Cái gọi là Minh Hà khế ước, là tại Minh Hà chứng kiến bên dưới thệ ước, có rất mạnh lực ước thúc, trái lời thề giả linh hồn đem vĩnh rơi Minh Hà, gặp thiên đao vạn quả hình phạt, vĩnh thế không được siêu thoát. 
+
+Đến mức Minh Hà ở nơi nào, vậy cũng không biết, dù sao không tại chính ma lưỡng vực địa giới, đây là ma đạo bên này thời kỳ viễn cổ liền lưu truyền bí ẩn. 
+
+Trải qua vô số người nghiệm chứng, tính chân thực không cần lo lắng. 
+
+Trầm ngâm thật lâu. 
+
+Vương Dục phát hiện một vấn đề, ba loại đầu tư, ba lần hỗ trợ cơ hội, tăng thêm hắn đột phá Kết Đan kỳ lại thực hiện điều kiện, mang ý nghĩa trễ nhất ăn Huyền Thiên bí cảnh hắn vậy có thể ăn vào. 
+
+Chứng thực không phải bánh vẽ hành vi, lại hợp tác qua trình bên trong, bốn người ở giữa sẽ xuất hiện trường kỳ nhân tế kết giao, nhìn giống như chỉ lấy được ba loại đầu tư, lợi dụng thoả đáng, chính là vô số tài nguyên cùng lợi ích. 
+
+Người khác tham lam ta sợ hãi, người khác sợ hãi ta tham lam. 
+
+All in !
+
+Rốt cục, Vương Dục vẫn là quyết định đáp ứng. 
+
+"Kia liền như thế định, nhưng ta có một điều kiện. " 
+
+Tả Khâu Minh nghe vậy, lập tức lộ ra nụ cười hiền hòa. 
+
+"Tứ đệ mau nói, có thể làm đến ca ca cam đoan giúp ngươi. " 
+
+Vương Dục gật đầu nói. 
+
+"Ta muốn tăng lên ngộ tính bảo vật, mặc kệ là lâm thời vẫn là hiệu quả yếu nhưng bền bỉ, đều có thể. " 
+
+"Cái này——" 
+
+Tăng lên ngộ tính bảo vật, không có chỗ nào mà không phải là chí bảo, cho dù là lâm thời vậy có giá trị không nhỏ, ba người đưa mắt nhìn nhau. 
+
+Khoảng khắc. 
+
+Dữu Tỉnh cắn răng lấy ra một vật, nói. 
+
+"Đây là〈 Thiên Ngộ Bồ Đoàn〉, Trúc Cơ tu sĩ sử dụng có thể tăng cường ba thành ngộ tính, này bảo trân quý đến cực điểm không thể đưa ngươi, chỉ có thể cho ngươi mượn sử dụng mười......Không, năm năm, nhiều nhất năm năm !" 
+
+"Đầy đủ. " 
+
+Vương Dục lộ ra nụ cười hài lòng, có này bảo, hắn có thể tiết kiệm rất nhiều thời gian. 
+
+Trác Thủ Khánh thấy thế, đem Minh Hà khế ước đem ra, bốn người thương lượng đem điều kiện đều viết lên, hết thảy đều kết thúc, khế ước vậy ký kết sau, Vương Dục liền thành chính bọn hắn người. 
+
+Chờ hắn sau khi đi, Trác Thủ Khánh mới thở dài nói. 
+
+"Lão Dữu, Thiên Ngộ Bồ Đoàn là tỷ ngươi từ tông môn giúp ngươi đổi lấy bảo vật đi, đổi mấy năm? " 
+
+"Mười năm. " 
+
+"Chậc chậc, cái này liền phân một nửa ra, đa tạ ngươi a. " 
+
+Dữu Tỉnh miễn cưỡng cười một tiếng. 
+
+"Không có việc gì, chúng ta đã đều tán thành Vương Dục tiềm lực, kia liền tăng lớn đầu tư, hiện tại cầm càng nhiều, tương lai cần hắn xuất lực thì, ích lợi cũng càng nhiều. " 
+
+............
+
+............
+
+Sự tình có một kết thúc. 
+
+Vương Dục cấp tốc quy hoạch thời gian, linh tuyền hàn trì có thể tùy thời đi, hắn chuẩn bị trước tiên đem năm đó ở Huyền Cốt sơn địa cung thu hoạch thẻ ngọc truyền thừa lấy ra. 
+
+Làm Nguyên Anh bí pháp · Thái Âm U Đồng, tuyệt đối không có đơn giản như vậy, nó là cầu thang thức giải tỏa phương thức, Vương Dục đạt tới cảnh giới tương xứng mới có thể giải tỏa đến tiếp sau nội dung. 
+
+Hiện tại, hắn liền đang tra nhìn Trúc Cơ kỳ phương pháp tu luyện. 
+
+Luyện Khí kỳ thì, "Quan Nguyệt" Thị giác giúp hắn chiếu cố rất lớn, đối cái này giai đoạn thứ hai cũng hiếu kì gấp, không kịp chờ đợi rót vào thần thức sau, hoàn toàn mới tin tức ánh vào não hải. 
+
+"Giai đoạn thứ hai——— 【 Huyễn Nguyệt 】 !" 
+
+Không lâu, Vương Dục mở hai mắt ra, rất là kinh hỉ. 
+
+Cái gọi là ‘ Huyễn Nguyệt ’ tổng cộng có hai cái hiệu quả, đầu tiên giao phó hắn hai mắt xem thấu hư ảo, chiếu rõ chân thực nhãn lực, không chỉ có đối huyễn thuật có siêu cường sức quan sát, còn có thể xem thấu một chút thô thiển trận pháp. 
+
+Loại này đặc tính năng lực, theo Thái Âm U Đồng tu luyện tinh xảo mà càng ngày càng mạnh, là có trưởng thành tính. 
+
+Cái thứ hai hiệu quả, chính là để Vương Dục có được phóng thích huyễn cảnh đồng thuật năng lực, chỉ cần song phương đối mặt liền có thể đạt thành thi pháp điều kiện. 
+
+Này đồng thuật, tên là 【 Huyễn Nguyệt Chi Cảnh 】 !
+Trúng chiêu giả, đem đưa thân vào một mảnh yên tĩnh mà tĩnh mịch thuỷ vực bên ngoài, mặt trăng gần trong gang tấc, cho cực mạnh cảm giác áp bách. 
+
+Bọn hắn hội tại mặt nước nhìn thấy đáy lòng sợ hãi nhất sự vật, đồng thời hóa thành chân thực, không ngừng đánh giết ‚ tra tấn bọn hắn. 
+
+Có thể xưng đánh vỡ tâm phòng tuyệt hảo thủ đoạn. 
+
+Nếu là phối hợp Huyền Nguyên Ma Thai, Vương Dục chủng ma niệm thời điểm sẽ trở nên tương đương nhẹ nhõm, gieo xuống liền có thể thu hoạch, tựa như lúc trước hắn đối đãi Vương Vũ như thế. 
+
+Bản chất là giống nhau. 
+
+Từ khi đoạt được song linh căn sau, Huyền Nguyên Ma Thai liền nghĩ muốn tiếp tục tăng lên tư chất, chỉ có thể hướng về song linh căn trở lên tư chất giả hạ thủ, trong lúc vô hình nhiều một tầng hạn chế. 
+
+Cũng là hợp lý. 
+
+Trừ giai đoạn hai 【 Huyễn Nguyệt 】 chi năng, đã từng tu trì viên mãn 【 Quan Nguyệt 】 hiệu quả, đồng dạng được đến đại tăng cường, đặc biệt là bị động tiếp dẫn thái âm nguyệt hoa gột rửa thần hồn hiệu quả. 
+
+Này bí thuật tuy là đồng loại bí pháp, nhưng đối thần thức tu luyện vậy có lợi thật lớn, giúp Vương Dục đánh xuống cực kì thâm hậu căn cơ, tương lai tu luyện 《 Cổ Hồn Quyết 》 hẳn là sẽ càng nhẹ nhõm. 
+
+Từ tri thức trong hải dương tỉnh lại, Vương Dục lật một chút thanh vị trí, hiện nay năm cái vị trí kỳ thật còn không hoàn mỹ. 
+
+1 ‚ số 2 cơ 《 Hàn Huyết Thăng Linh Quyết 》 tạm thời không thể động, tăng lên tư chất hiệu quả có thể cùng hàn trì cùng một chỗ sử dụng, đến lúc đó lại thay đổi. 
+
+Số 5 cơ 《 Thi Ma Bí Pháp 》 không thể động. 
+
+Số 4 cơ 《 Huyền Âm Thủ 》 cũng không thể động, môn thuật pháp này chỉ kém thời gian năm năm liền có thể viên mãn, đến lúc đó Vương Dục đem nắm giữ một môn đạt đến hóa cảnh tuyệt học át chủ bài !
+
+Điểm này, tại hắn cùng kiếm tông lão Lam, liều mạng tranh đấu thì liền có thể nhìn ra, này thuật tại Trúc Cơ kỳ có thể phát huy ra chiến lực, đã đặt chân Trúc Cơ hậu kỳ. 
+
+Hơn nữa còn là cực kì thượng thừa cái chủng loại kia, không hổ là Hoàng Tuyền Quan hạch tâm truyền thừa. 
+
+Có môn này Huyền Âm Thủ, chiến lực của hắn nhưng thật ra là có bảo hộ, tỉ suất chi phí - hiệu quả cực cao !
+Càng nghĩ, có thể động chỉ có số 3 cơ 《 Giao Long Kình 》 bởi vì ‘ Âm Minh ma giao sống lưng ’ quan hệ, hắn chỉ có thể mượn thanh vị trí thôi diễn hiệu quả, làm ra một mạch tương thừa nhị giai công pháp luyện thể. 
+
+Nó nhưng thật ra là Vương Dục nhất định phải đặt vào vật một trong. 
+
+Nhưng mỗi ngày phản hồi quá thấp, lại còn lại trọn vẹn mười lăm năm nửa đặt vào thời gian, tương đối mà nói tỉ suất chi phí - hiệu quả liền không có cao như vậy. 
+
+"Trước lấy ra, thể tu cảnh giới ngay từ đầu chính là vì đền bù thiếu thốn một tay khí Huyết Ảnh vang, ngắn hạn có hay không đến tiếp sau đối ta ảnh hưởng kỳ thật không có lớn như vậy. " 
+
+Trong lòng hơi có sở ngộ. 
+
+Đem 《 Giao Long Kình 》 gỡ xuống sau, Vương Dục thí nghiệm trước đông đảo truyền thừa đặt vào thời gian, từng cái đến. 
+
+【 thanh vị trí 3 : Thái Âm U Đồng（ nhị giai） 】
+
+"Thái Âm U Đồng（ 0/ 100） : một ngày hai mươi bốn luyện, năm năm có thể thành. " 
+
+Đổi một cái nhìn xem. 
+
+"Cổ Hồn Quyết（ 0/ 100） : một ngày bốn mươi tám luyện, hai mươi năm có thể thành. " 
+
+"Hai mươi năm......" 
+
+Vương Dục nhướng mày, kỹ càng xem xét sau phát hiện, Cổ Hồn Quyết tu hành khó độ cực lớn, nó cần hấp thu đông lai tử khí ‚ giữa trưa nhật tinh ‚ nửa đêm ánh trăng, ba loại lực lượng rèn luyện thần thức. 
+
+Cuối cùng tu trì viên mãn, có thể để thần hồn thu hoạch được một loại tên là〈 cổ hồn〉 thần dị thiên phú, có thể chống cự tu hành giới tuyệt đại đa số lực lượng ăn mòn. 
+
+Lại mỗi lần tu luyện đều cần nửa giờ. 
+
+Hắn như tự mình tu luyện, mỗi ngày nhiều nhất sáu lần, thanh vị trí có thể làm đến bốn mươi tám lần, cũng là không cần lo lắng đặc biệt canh giờ mới có thể xuất hiện thiên địa dị lực. 
+
+Có thể nhiều lần hấp thu, mới có thể làm đến bản thể hắn mấy lần hiệu suất. 
+
+"Môn công pháp này có hơi phiền toái a ～" 
+
+Đổi lại một cái......
+
+【 thanh vị trí 3 : Sương Nguyệt Dực 】
+
+"Sương Nguyệt Dực（ 0/ 100） : một ngày bốn mươi tám luyện, mười năm có thể thành. " 
+
+Nhị giai thượng phẩm độn pháp, mười năm. 
+
+Thời gian này cùng ngang cấp Huyền Âm Thủ so sánh, giảm bớt một nửa, cũng không phải là nó liền kém, mà là Vương Dục mạnh lên. 
+
+Luyện Khí kỳ tu luyện nhị giai thuật pháp, Trúc Cơ kỳ tu luyện nhị giai thuật pháp, cơ sở đều không giống, thời gian làm sao có thể nhất trí. 
+
+Sương Nguyệt Dực cần hấp thu sương nguyệt chi khí, tại phần lưng lại khai hai đầu kinh mạch, dùng để khống chế thuật pháp, nếu có thể phối hợp đan phương bên trong〈 Hàn Nguyệt đan〉 tu hành làm một ngày ngàn dặm. 
+
+Vương Dục khác biệt, coi như không có những tư nguyên này, vậy không ảnh hưởng hắn học được. 
+
+"Vẫn được. " 
+
+Tiếp xuống, Vương Dục đem hồn âm song đạo mười ba môn truyền thừa, ngày hôm trước tới tay Hàn Huyết phong truyền thừa, hắn đều nhất nhất nếm thử sau, mới làm ra quyết định kỹ càng. 
+
+"Ta tại Chấp Pháp đường nhậm chức thời gian cũng không dài lắm, đợi Tả Khâu Minh bọn hắn bên kia chọn được nơi thích hợp, liền có thể từ nhiệm xuất phát, nhiều nhất ba năm năm năm......" 
+
+Trong lòng yên lặng tính toán, một chút cần thời gian dài năng lực viên mãn truyền thừa, hắn có thể đến nơi lại từ từ phát triển. 
+
+Trước thả trong ngắn hạn có thể có hiệu lực, đặc biệt là thực lực. 
+
+"Thái Âm U Đồng !" 
+
+Làm ra quyết định kỹ càng, Vương Dục liền đem 《 Giao Long Kình 》 thay đổi, đoạn này thời gian nếu là có thể viên mãn, liền thả Cổ Hồn Quyết, góp cái 20 tiến độ liền có thể đổi Sương Nguyệt Dực. 
+
+Dù sao công pháp có thể tự mình luyện, Sương Nguyệt Dực không được, nó tu trì điều kiện tiên quyết nhiều lắm, trực tiếp dùng thanh vị trí nhập môn càng thuận tiện. 
+
+Giải quyết thanh vị trí vấn đề sau, lại làm một cái sắp xếp đồng hồ, dựa theo nhu cầu sắp xếp mỗi cái thanh vị trí kế nhiệm năng lực. 
+
+Như thế. 
+
+Lại lấy ra vừa tới tay 〈 Thiên Ngộ Bồ Đoàn〉 tu hành sau khi, vậy đang chủ động lĩnh hội Cổ Hồn Quyết, hi vọng có thể chính mình trước ngộ ra một bộ phận. 
+
+Một đêm vô sự. 
+
+Mới một quyển mấy ngày nay đổi mới đều là thong thả kỳ. </div>
+
+
+                <div class="box-adv box-adv-6587456">                    <div class="box-subcriber col-xs-12 form-group">Hãy nhấn like ở mỗi chương để ủng hộ tinh thần các dịch giả bạn nhé!</div>
+
+                    <div class="box-subcriber col-xs-12 form-group">
+                                                                                                                                                                                                                    
+                                                                                                </div>
+                    <div class="col-xs-12 text-right">
+                        <a href="javascript:void(0);"  onclick="openLogin()"  title="Thích" class="like-control like-chap-6587456 icon-control first ">
+                            <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                            <small>29</small>
+                        </a>
+
+                        <a   onclick="openLogin()"  href="javascript:void(0);" class="vote-action">
+                            Tặng phiếu
+                        </a>
+
+                                                <a href="javascript:void(0);" onclick="openWarningBox('6587456')" title="Báo lỗi chương" class="edit-control pull-right"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                            </div>
+        </div>
+
+                    <div class="col-xs-12">
+            <div style="margin: 10px auto ;width: 728px; ">
+                                .
+                            </div>
+            </div>
+        
+        <div class="col-xs-12 control-box">
+            <div class="bottom-box">
+                <div class="box-content" style="display: none">
+                    <a class="bot-prev_chap bot-control" href="javascript:void(0);" onclick="PrevChap();"><span class="small glyphicon glyphicon-chevron-left"></span> <span class="hidden-xs">Chương </span>trước</a>
+                    <span class="spegator">|</span>
+                    <a class="bot-next_chap bot-control" href="javascript:void(0);" onclick="NextChap('689');"><span class="hidden-xs">Chương </span>tiếp <span class="small glyphicon glyphicon-chevron-right"></span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 list-comment hidden"  id="list-comment">
+        <div class="title-list">
+            <h4>Bình luận truyện</h4>
+        </div>
+        <div class="user-discuss"  id="list-comment-ul">
+            <div class="col-xs-12 text-center"><img src="https://tangthuvien.net/images/ajax-loader-tr.gif" /></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    var BASE_URL = jQuery('meta[name=baseURL]').attr('content');
+    function PrevChap() {
+        var current = jQuery('.middle-box li.active');
+        var current_id = parseInt(current.attr('title'));
+        if(current_id > 1){
+            var prev_id =  current_id -1;
+            var url_link = jQuery('.link-chap-'+prev_id).attr('href');
+            window.location.href = url_link;
+        }
+//        var prev = current.prev();
+//        if(prev.length > 0){
+//            var url_link = prev.children('a').attr('href');
+//            window.location.href = url_link;
+//        }
+    }
+    function NextChap(total) {
+        var current = jQuery('.middle-box li.active');
+        var current_id = parseInt(current.attr('title'));
+        total = parseInt(total);
+        var total_tmp = jQuery('.middle-box li:last').attr('title');
+        total_tmp = parseInt(total_tmp);
+        if(total_tmp > total){
+            total = total_tmp;
+        }
+        if(current_id < total){
+            var next_id =  current_id +1;
+            var url_link = jQuery('.link-chap-'+next_id).attr('href');
+            window.location.href = url_link;
+        }else{
+            if(jQuery('#panel-chap a').length > 0){
+                alert('Bạn đã đọc đến chương mới nhất');
+            }else{
+                alert('Đang lấy danh sách chương. Đạo hữu chờ chút nhé!');
+            }
+
+        }
+//        var next = current.next();
+//        if(next.length > 0){
+//            var url_link = next.children('a').attr('href');
+//            window.location.href = url_link;
+//        }
+    }
+    function openTool(el){
+        if(jQuery(el).parent().hasClass('show-sub')){
+            closeTool();
+        }else {
+            jQuery('.li-control').removeClass('show-sub');
+            jQuery(el).parent().addClass('show-sub');
+        }
+    }
+    function closeTool(){
+        jQuery('.li-control').removeClass('show-sub');
+        saveSetting();
+    }
+    function changeTheme(name){
+        if(jQuery('.value-'+name).hasClass('active')){
+        }else {
+            jQuery('.theme-value').removeClass('active');
+            jQuery('.chapter-c .chapter-c-content').removeClass("theme-01");
+            jQuery('.chapter-c .chapter-c-content').removeClass("theme-02");
+            jQuery('.chapter-c .chapter-c-content').removeClass("theme-03");
+            jQuery('.chapter-c .chapter-c-content').removeClass("theme-04");
+            jQuery('.chapter-c .chapter-c-content').removeClass("theme-05");
+            jQuery('.chapter-c .chapter-c-content').removeClass("theme-06");
+            jQuery('.chapter-c .chapter-c-content').removeClass("theme-07");
+            jQuery('.chapter-c .chapter-c-content').addClass("theme-"+name);
+            jQuery('.value-'+name).addClass("active");
+            if(jQuery('.value-'+name).hasClass('value-07')){
+                jQuery('body').addClass('body-07');
+                jQuery('body').removeClass('body-06');
+            }else if(jQuery('.value-'+name).hasClass('value-06')){
+                jQuery('body').addClass('body-06');
+                jQuery('body').removeClass('body-07');
+            }else {
+                jQuery('body').removeClass('body-06');
+                jQuery('body').removeClass('body-07');
+            }
+        }
+
+    }
+
+    function saveSetting() {
+        var url = 'https://tangthuvien.net/save-setting';
+        jQuery.ajax({
+            url: url,
+            method: 'get',
+            data: {
+                theme_value : jQuery('.box-theme .theme-value.active').attr('ng-value'),
+                font_value : jQuery('.box-font .font-value.active').attr('ng-value'),
+                box_size : jQuery('.box-size .lang').text(),
+                box_width : jQuery('.box-width .lang').text(),
+            },
+            success: function(result){
+                console.log('done');
+            }
+        });
+    }
+
+    function changeFont(name){
+        if(jQuery('.value-'+name).hasClass('active')){
+        }else {
+            jQuery('.font-value').removeClass('active');
+            jQuery('.chapter-c').removeClass("palatino");
+            jQuery('.chapter-c').removeClass("times");
+            jQuery('.chapter-c').removeClass("arial");
+            jQuery('.chapter-c').removeClass("georgia");
+
+            jQuery('.chapter-c').addClass(name);
+            jQuery('.font-'+name).addClass("active");
+        }
+    }
+    function changeSize(flag){
+        var number = parseInt(jQuery('.box-size .lang').text());
+        if(flag){
+            if(number < 48){
+                number = number + 2;
+            }
+        }else{
+            if(number > 12){
+                number = number - 2;
+            }
+        }
+        jQuery('.box-size .lang').text(number);
+        jQuery('.chapter-c .box-chap').css('font-size',number+'px');
+    }
+    function changeWidth(flag){
+        var number = parseInt(jQuery('.box-width .lang').text());
+        var w_width = jQuery(window).width();
+        if(flag){
+            switch (number){
+                case 640: number = 800; break;
+                case 800: number = 900; break;
+                case 900: number = 900; break;
+                default: number = 900;break;
+            }
+        }else{
+            switch (number){
+                case 800: number = 640; break;
+                case 900: number = 800; break;
+                //  case 1280: number = 900; break;
+                default: number = 640;break;
+            }
+        }
+        if(w_width < 1400 && number > 900){
+            number = 900;
+        }else{
+            jQuery('.chapter-c').removeClass('max900');
+        }
+        if(w_width < 1000 && number > 800){
+            number = 800;
+        }else{
+            jQuery('.chapter-c').removeClass('max800');
+        }
+        jQuery('.box-width .lang').text(number);
+        jQuery('.chapter-c').removeClass('w640');
+        jQuery('.chapter-c').removeClass('w800');
+        jQuery('.chapter-c').removeClass('w900');
+        jQuery('.chapter-c').removeClass('w1280');
+        jQuery('.chapter-c').addClass('w'+number);
+        resetConfigBox();
+    }
+    function likeChap(chap_id,story_id){
+        var url = 'https://tangthuvien.net/likeChap'+'?chap_id='+chap_id+'&story_id='+story_id;
+        jQuery('.like-chap-'+chap_id).removeClass('active');
+        jQuery.ajax({url: url, success: function(result){
+            jQuery('.like-chap-'+chap_id).addClass(result);
+            var number = parseInt(jQuery('.like-chap-'+chap_id+' small').text());
+
+            if(jQuery('.like-chap-'+chap_id).hasClass('active')){
+                number = number+1;
+            }else {
+                number = number-1;
+            }
+            jQuery('.like-chap-'+chap_id+' small').text(number);
+
+        }});
+    }
+    window.onscroll = function(){
+        resetConfigBox();
+    }
+
+    function resetConfigBox(){
+        var offset_number = jQuery('.chapter-c').offset().top;
+        var chap_c_w = jQuery('.chapter-c').outerWidth();
+        if(jQuery(window).scrollTop() > offset_number){
+            jQuery('.left-control').css({
+                'top': '0px',
+                'margin-left':-chap_c_w/2-60+'px'
+            });
+        }else{
+            var value_off = offset_number -jQuery(window).scrollTop();
+            jQuery('.left-control').css({
+                'top': value_off+'px',
+                'margin-left':-chap_c_w/2-60+'px'
+            });
+        }
+        var off = jQuery('.left-control').offset().left;
+        jQuery('.max900').css({
+            //'margin-left':off/2+30+'px'
+        });
+    }
+    // Comment code
+    function loadMoreComment(el){
+        jQuery(el).addClass('hidden');
+        jQuery('.go-discuss img').removeClass('hidden');
+        var story_id = jQuery(el).attr('data-story');
+        var page = parseInt(jQuery(el).attr('data-page')) + 1;
+        var url = BASE_URL+ 'them-comment/'+story_id+'?page='+page+'&new_web=1';
+        jQuery.ajax({url: url, success: function(result){
+            jQuery('.user-discuss .discuss-list > ul').append(result);
+            jQuery(el).attr('data-page',page);
+            jQuery(el).removeClass('hidden');
+            jQuery('.go-discuss img').addClass('hidden');
+        }});
+    }
+
+    function readmore(el) {
+        var id = jQuery(el).attr('data-id');
+        jQuery('.cmt-'+id+' .read-only').addClass('hidden');
+        jQuery(el).addClass('hidden');
+        jQuery('.cmt-'+id+' .read-all').removeClass('hidden');
+    }
+
+    function openChilds(el) {
+        var id = jQuery(el).attr('data-id');
+        jQuery('#discuss-childs-'+id).removeClass('hidden');
+    }
+
+    function loadMoreChild(id){
+        if(!jQuery('.child-more-'+id).hasClass('active')){
+            jQuery('.child-more-'+id).addClass('active');
+            var page = jQuery(".comment-"+id+" #child-more").val();
+            page = parseInt(page);
+            var url = 'https://tangthuvien.net/child-comment'+'?id='+id+'&page='+page;
+            jQuery.ajax({url: url, success: function(result){
+                jQuery(".comment-"+id+" #child-list").append(result);
+                jQuery(".comment-"+id+" #child-more").val(page+1);
+                jQuery('.child-more-'+id).removeClass('active');
+            }});
+        }
+
+    }
+    function changeText(el){
+        var text_box = jQuery(el).val();
+        text_box = text_box.trim();
+        var box_parr = jQuery(el).parent();
+        var btn = box_parr.find('button.btn-post');
+        if(text_box.length > 0){
+            btn.removeClass('disable');
+            btn.attr('disabled',false);
+        }else {
+            btn.addClass('disable');
+            btn.attr('disabled','disabled');
+        }
+    }
+
+    function auto_grow(element) {
+        element.style.height = "5px";
+        element.style.height = (element.scrollHeight)+"px";
+    }
+    function sendComment(el) {
+        var url = BASE_URL+'postComment';
+        var txt = jQuery('#form-comment textarea[name=comment]').val();
+        if(txt.length > 5){
+            jQuery('#form-comment button.btn-post').addClass('disable');
+            jQuery('#form-comment button.btn-post').attr('disabled',true);
+            jQuery('#form-comment textarea[name=comment]').val('');
+            var img = jQuery('#form-comment .comment-avatar img').attr('src');
+            var html = '<li class="cf"><div class="user-photo"><a href="javascript:void(0);">' +
+                '<img src="'+img+'" draggable="false"/>' +
+                '</a></div>' +
+                '<div class="discuss-info">' +
+                '<p class="users"><a class="blue" href="javascript:void(0);"><b>'+jQuery(el).attr("data-name")+'</b></a><span class="gray">'+jQuery(el).attr("data-rank")+'</span></p>'+
+                '<p class="text">'+txt+'</p>'+
+                '<p class="info dib-wrap"><span class="mr20">0 hrs</span><a href="javascript:void(0);" onclick="openChilds(this)" class="info-tab mr20">' +
+                '<i class="iconfont"></i>' +
+                '<span>0 trả lời</span>' +
+                ' </a><a href="javascript:;" class="info-tab like-btn">' +
+                '<i class="iconfont"></i>' +
+                '<span>0</span>' +
+                '</a></p>'+
+                '</div>'+
+                '</li>';
+            jQuery('.user-discuss .discuss-list > ul').prepend(html);
+            jQuery.ajax({
+                url: url,
+                data: {
+                    '_token': jQuery('#form-comment input[name=_token]').val(),
+                    'story_id': jQuery('#form-comment input[name=story_id]').val(),
+                    'comment': txt,
+                    'ajax': 1
+                },
+                method: 'post',
+                success: function (result) {
+
+                    jQuery('#form-comment button.btn-post').removeClass('disable');
+                    jQuery('#form-comment button.btn-post').attr('disabled',false);
+                    reloadComments(jQuery('#form-comment input[name=story_id]').val());
+                }
+            });
+        }else {
+            alert('Bình luận tối thiểu 10 ký tự!');
+        }
+
+    }
+
+    function reloadComments(story_id) {
+        var url = BASE_URL+'them-comment/'+story_id+'?page=0&new_web=1';
+        jQuery.ajax({
+            url: url,
+            success: function (result) {
+                jQuery('.user-discuss .discuss-list > ul').html(result);
+            }
+        });
+    }
+
+    function writeReply(el) {
+        if(jQuery(el).attr('data-auth') == '1'){
+            var id = jQuery(el).attr('data-parent');
+            jQuery('.reply-'+id).removeClass('hidden');
+            jQuery(el).hide();
+        }else {
+            openLogin();
+        }
+    }
+
+    function sendReply(el) {
+        var id = jQuery(el).attr('data-reply');
+        var url = BASE_URL+'postReply';
+        var txt = jQuery('#reply-box-'+id+' textarea[name=comment]').val();
+        if(txt.length > 5){
+            jQuery('#reply-box-'+id+' button.btn-post').addClass('disable');
+            jQuery('#reply-box-'+id+' button.btn-post').attr('disabled',true);
+            jQuery('#reply-box-'+id+' textarea[name=comment]').val('');
+            var img = jQuery('#form-comment .comment-avatar img').attr('src');
+            var html = '<li class="cf"><div class="user-photo"><a href="javascript:void(0);">' +
+                '<img src="'+img+'" draggable="false"/>' +
+                '</a></div>' +
+                '<div class="discuss-info">' +
+                '<p class="users"><a class="blue" href="javascript:void(0);"><b>'+jQuery(el).attr("data-name")+'</b></a><span class="gray">'+jQuery(el).attr("data-rank")+'</span></p>'+
+                '<p class="text"><a class="" href="javascript:void(0);" draggable="false">'+txt+'</a></p>'+
+                '<p class="info dib-wrap"><span class="mr20">0 hrs</span>' +
+                '<a href="javascript:;" class="info-tab like-btn">' +
+                '<i class="iconfont"></i>' +
+                '<span>0</span>' +
+                '</a></p>'+
+                '</div>'+
+                '</li>';
+            jQuery('#discuss-childs-'+id+' > ul').append(html);
+            jQuery.ajax({
+                url: url,
+                data: {
+                    '_token': jQuery('#reply-box-'+id+' input[name=_token]').val(),
+                    'story_id': jQuery('#reply-box-'+id+' input[name=story_id]').val(),
+                    'comment': txt,
+                    'id_comment_parent':id,
+                    'ajax': 1
+                },
+                method: 'post',
+                success: function (result) {
+                    jQuery('#reply-box-'+id+' button.btn-post').removeClass('disable');
+                    jQuery('#reply-box-'+id+' button.btn-post').attr('disabled',false);
+                }
+            });
+        }else{
+            alert('Bình luận tối thiểu 10 ký tự!');
+        }
+    }
+
+    function likeComment(el) {
+        var id = jQuery(el).attr('data-rid');
+        var url = BASE_URL+'likeComment?id='+id;
+        jQuery.ajax({
+            url: url,
+            success: function (result) {
+                var span = jQuery(el).children('span');
+                var number = parseInt(jQuery(span).text());
+                if(jQuery(el).hasClass('act')){
+                    jQuery(el).removeClass('act');
+                    jQuery(span).text(number-1);
+                }else {
+                    jQuery(el).addClass('act');
+                    jQuery(span).text(number+1);
+                }
+            }
+        });
+    }
+
+    function openComment(){
+        jQuery('#list-comment').removeClass('hidden');
+    }
+    function  loadingComment(){
+        var url_comment = BASE_URL+'story/comments?story_id=38472&new_web=1';
+        jQuery.ajax({url: url_comment,
+            method:'get',
+            success: function(result){
+                jQuery('#list-comment-ul').html(result);
+                jQuery('.more-comment > a').removeClass('hidden');
+                jQuery('.more-comment > div.text-center').addClass('hidden');
+            }});
+    }
+    jQuery(document).ready(function(){
+        var w_width = jQuery(window).width();
+        if(w_width < 1400 && w_width >= 1000){
+            jQuery('.box-width .lang').text(900);
+            jQuery('.chapter-c').addClass('max900');
+        }else if(w_width < 1000){
+            jQuery('.box-width .lang').text(800);
+            jQuery('.chapter-c').addClass('max800');
+        }
+        resetConfigBox();
+        loadingComment();
+        loadingChap();
+                 show5chap();
+    });
+    jQuery(window).resize(function(){
+        resetConfigBox();
+    })
+
+    function loadingChap(){
+        var url = 'https://tangthuvien.net/story/chapters?story_id=38472&chapter_id=6587456';
+        jQuery.ajax({url: url,
+            method:'get',
+            success: function(result){
+                jQuery('#panel-chap').html(result);
+                jQuery('.bottom-box .box-content').show();
+                setInterval(function(){
+                    var current = jQuery('.middle-box li.active');
+                    var current_id = parseInt(current.attr('title'));
+                    var total = parseInt('689');
+                    var total_tmp = jQuery('.middle-box li:last').attr('title');
+                    total_tmp = parseInt(total_tmp);
+                    if(total_tmp > total){
+                        total = total_tmp;
+                    }
+                    // console.log(current_id);
+                    if(current_id >= total || current_id <=1){
+                        jQuery('#list-comment').removeClass('hidden');
+                    }
+                },2000);
+
+            }});
+
+    }
+
+    function show5chap(){
+        var url = 'https://tangthuvien.net/get-4-chap?story_id=38472&chap_id=6587456&sort_by_ttv=151';
+        jQuery.ajax({
+            url: url,
+            method: 'get',
+            success: function (result) {
+                jQuery('h5 a.more-chap').removeClass('hidden');
+                jQuery('.box-adv').after(result);
+            }
+        });
+    }
+
+    function openNextChap(i){
+        jQuery('.box-chap').addClass('hidden');
+        jQuery('.box-adv').addClass('hidden');
+        jQuery('.box-chap-'+i).removeClass('hidden');
+        jQuery('.box-adv-'+i).removeClass('hidden');
+        jQuery(window).scrollTop(0);
+        jQuery('.middle-box li').removeClass('active');
+        jQuery.each( jQuery('.middle-box li'), function() {
+            if(parseInt(jQuery(this).attr('ng-chap')) == i){
+                jQuery(this).addClass('active');
+            }
+        });
+        // var current_id = parseInt(current.attr('title'));
+    }
+
+    function removeComment(id){
+        if(confirm('Bạn chắc chắn xóa bình luận này?')) {
+            var url = 'https://tangthuvien.net/remove-comment?comment_id=' + id;
+            jQuery.ajax({
+                url: url,
+                success: function (result) {
+                    if (result == 1) {
+                        jQuery('.cmt-' + id).remove();
+                    }
+                }
+            });
+        }
+    }
+
+    function buyVote(vote){
+        if(parseInt(vote) < 1){
+            if(confirm('Dịch giả truyện này sẽ nhận được tiền từ phiếu đề cử của bạn. Hãy mua phiếu để ủng hộ dịch giả ra chương nhanh hơn.')){
+                window.location.href = 'https://tangthuvien.net/shop-vat-pham';
+            }
+        }else {
+            if(confirm('Bạn chắc chắn muốn tặng phiếu truyện này?')) {
+                var url = 'https://tangthuvien.net/vote-story/38472';
+                jQuery.ajax({
+                    url: url,
+                    success: function (result) {
+                        alert('Cảm ơn bạn đã tặng phiếu, chúc bạn đọc truyện vui vẻ.');
+                    }
+                });
+            }
+        }
+
+    }
+
+    function openWarningBox(chap_id){
+        if(jQuery('#login-status a').length < 3){
+            openLogin();
+            return false;
+        }
+        jQuery('.box-report input[name=chap_id][type=hidden]').val(chap_id);
+        jQuery('.box-report').fadeIn();
+        jQuery('.bg-fade').fadeIn();
+    }
+
+    jQuery('.box-report .close-warning').click(function(){
+        jQuery('.box-report').hide();
+        jQuery('.bg-fade').hide();
+    });
+
+    jQuery('.bg-fade').click(function(){
+        jQuery('.box-report').hide();
+        jQuery('.bg-fade').hide();
+    });
+
+    function warning(){
+        if(jQuery('#login-status a').length < 3){
+            openLogin();
+            return false;
+        }
+        var url = 'https://tangthuvien.net/report';
+        jQuery.ajax({
+            url: url,
+            method:'post',
+            data: jQuery('.form-box-report').serialize(),
+            success: function (result) {
+            }
+        });
+        alert('Cảm ơn đạo hữu đã báo lỗi chương truyện này');
+        jQuery('.box-report').hide();
+        jQuery('.bg-fade').hide();
+    }
+
+    jQuery(document).keydown(function(e) {
+        if(e.keyCode == 39){
+            NextChap(0);
+        }
+        if(e.keyCode == 37){
+            PrevChap();
+        }
+    });
+</script>
+    </div>
+</div>
+<footer>
+    <div class="footer-container">
+        <div class="container">
+            <div class="col-md-3"><img src="https://tangthuvien.net/images/logo-web-gray.png" height="60"/></div>
+            <div class="footer-right col-md-9">
+                © 2016 Tàng Thư Viện Inc.<br/>
+                Tàng Thư Viện là sân chơi mở và free cho cộng đồng fan kiếm hiệp, tiên hiệp, ngôn tình.
+                Chúc các bạn có những giây phút thư giãn thoải mái sau giờ làm việc và học tập căng thẳng.
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110934726-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-110934726-1');
+</script><div class="login-box" style="display: none;">
+</div>
+<div class="register-box" style="display: none;">
+</div>
+<div class="bg-fade" onclick="closeLoginPop()" style="display: none;">
+</div>
+<div class="share-box">
+    <div class="goTopPage hover trans" id="toTop" style="opacity: 0;" onclick="backtotop();"><a onclick="backtotop();">&nbsp;</a><div class="myTip">Trở lên đầu trang</div></div>
+    <div class="contact_nct hover trans">
+        <a id="btnFeedBack" target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-151"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        <div class="myTip trans" style="font-size: 12px !important; display: none;">Chia sẻ facebook</div>
+    </div>
+    <div class="offads hover trans">
+        <a id="_aOnOffAdv" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=https://tangthuvien.net/doc-truyen/tu-phe-linh-can-bat-dau-van-ma-tu-hanh-tong-phe-linh-can-khai-thuy-van-ma-tu-hanh/chuong-151"title="google plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+        <div id="_divOnOffAdv" class="myTip trans" style="font-size: 12px !important; display: none;">Chia sẻ Google+</div>
+    </div>
+
+</div>
+<script type="text/javascript">
+    $jq = jQuery.noConflict();
+    function backtotop(){
+        $jq('html, body').animate({scrollTop: 0},100);
+    }
+
+    $jq(window).scroll(function() {
+        if ($jq(this).scrollTop() > 100) {
+            $jq('#toTop').css('opacity',1);
+        } else {
+            $jq('#toTop').css('opacity',0);
+        }
+    });
+</script>
+</body>
+</html>

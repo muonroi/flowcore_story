@@ -1,0 +1,18 @@
+curl 'https://xtruyen.vn/wp-admin/admin-ajax.php' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.5' \
+  -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -b 'cf_clearance=2G8iWKwV3NVPma9Ni0OUkTjgW9OjJAKnDx6GhzvLPZk-1759069050-1.2.1.1-ao6WlaIeVFEXXQG4vZREgY38Q0_OJnmih0M8WIyoI5MFnc2jVCd5KBCQD_T9Vi5ofpFMFMxh6cFy6MUsYzVxLOhsp.Kwo4xHLqoGCLHPlEeirwwlZk0rbxV_2DD4MWrNQsWLfjcTbMUA71VBabEH5gK9RydXYd2YSxnXWJsrPGYDsgwZcuqJn7J4oNk6j15dbWXgWl7S3k9b3lVLMQKHW92lyG1ZZS6FbbJpos.PClw' \
+  -H 'origin: https://xtruyen.vn' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://xtruyen.vn/truyen/than-dao-dan-ton/' \
+  -H 'sec-ch-ua: "Chromium";v="140", "Not=A?Brand";v="24", "Brave";v="140"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36' \
+  -H 'x-requested-with: XMLHttpRequest' \
+  --data-raw 'action=load_chapter_list_from_to&manga_id=8737541&from=1&to=200'

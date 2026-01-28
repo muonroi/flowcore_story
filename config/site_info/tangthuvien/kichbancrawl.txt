@@ -1,0 +1,142 @@
+Kịch bản crawl (end-to-end)
+B1) Lấy danh sách category
+
+URL nguồn: trang chủ hoặc bất kỳ trang con đều có thanh điều hướng.
+
+Chọn từ: https://tangthuvien.net/ hoặc một trang thể loại mẫu để kiểm tra cấu trúc. 
+tangthuvien.net
+
+Selector gợi ý:
+
+CSS: a[href^="/the-loai/"] (lọc theo phần header/nav).
+
+Nếu cần chắc hơn, giới hạn trong nav: header a[href^="/the-loai/"], nav a[href^="/the-loai/"].
+
+Kết quả: danh sách {name, href} cho tất cả thể loại chính (Tiên Hiệp, Huyền Huyễn, …). (Thực tế bấm “Tiên Hiệp” dẫn đến /the-loai/tien-hiep đã xác nhận.) 
+tangthuvien.net
+
+B2) Với mỗi category, lấy toàn bộ truyện (kể cả phân trang)
+
+Cách ổn định nhất: dùng trang tổng hợp/lọc vì có tham số & phân trang rõ ràng.
+
+Bước chuyển từ trang thể loại → trang tổng hợp:
+
+Từ /the-loai/<slug> bấm “Xem thêm” → /tong-hop?ctg=<id>&tp=cv (tham số có thể khác tùy lọc; quan trọng là có ctg=<id>). 
+tangthuvien.net
++1
+
+Phân trang:
+
+Dùng ?page=: ví dụ /tong-hop?ctg=1&tp=cv&page=2 hiển thị dữ liệu hợp lệ. Tăng page=2..N đến khi hết dữ liệu/cạn kết quả. 
+tangthuvien.net
+
+Selector item truyện trên trang tổng hợp:
+
+Mỗi card truyện có tiêu đề là một <a> trỏ đến /doc-truyen/<slug> (ở block liệt kê).
+
+CSS gợi ý (an toàn, không khóa vào class cụ thể): trong phần nội dung danh sách, lấy a[href^="/doc-truyen/"] nhưng loại trừ nút “Đọc truyện” nếu cần (có thể giữ luôn vì đều về detail).
+
+Nếu muốn chính xác hơn: lấy link trong phần heading của từng card (thường là h3/h4 a[href^="/doc-truyen/"]).
+
+Trường cần lấy cho list:
+
+title: text của anchor tiêu đề.
+
+url: href đến detail.
+
+(tuỳ chọn) author/category tóm tắt nếu có hiển thị tại card.
+
+Nguồn xác minh cấu trúc & phân trang trang tổng hợp: 
+tangthuvien.net
++1
+
+B3) Với mỗi truyện, lấy metadata chi tiết từ trang detail
+
+URL: /doc-truyen/<slug> (VD: https://truyen.tangthuvien.net/doc-truyen/chue-te). 
+truyen.tangthuvien.net
+
+Selector metadata:
+
+Tiêu đề: phần <h1> ngay đầu trang chi tiết.
+
+CSS: h1 (kiểm tra nội dung giống tiêu đề hiển thị: “Chuế Tế - 赘婿”). 
+truyen.tangthuvien.net
+
+Tác giả: ngay sau tiêu đề có anchor tên tác giả (ví dụ “Phẫn Nộ Đích Hương Tiêu”).
+
+CSS: một trong các cách an toàn:
+
+a[href*="/tac-gia/"] nếu site dùng route tác giả riêng;
+
+hoặc: phần text/link ngay trước trạng thái “Đang ra/Hoàn thành” — trong DOM thực tế là anchor nằm trước badge trạng thái. (Bạn có thể match bằng regex text nếu cần.) 
+truyen.tangthuvien.net
+
+Thể loại: breadcrumbs/nhãn thể loại (ví dụ “Lịch Sử”).
+
+CSS: a[href^="/the-loai/"] trong vùng breadcrumb ngay cạnh tiêu đề. 
+truyen.tangthuvien.net
+
+Mô tả: block mô tả ngay dưới cụm chỉ số (Yêu thích/Lượt xem/…).
+
+CSS: có thể lấy khối văn bản nằm sau <h1> và trước các tab (“Thông tin chi tiết / Danh sách chương”). Trong HTML thực tế, đó là đoạn text ở ngay dưới tiêu đề. 
+truyen.tangthuvien.net
+
+Chỉ số (yêu thích, lượt xem, theo dõi): chuỗi “251 Yêu thích | 3,156,055 Lượt xem | …”.
+
+CSS: phần inline text gần nút “Đọc truyện”. Bạn có thể lấy toàn bộ chuỗi rồi parse số. 
+truyen.tangthuvien.net
+
+Tags: cuối trang có block “Tags”, mỗi tag là anchor.
+
+CSS: khối “Tags” → a[href^="/tags/"], .tags a, section:has(> h*) a (tuỳ DOM); trong trang mẫu là dải anchor ngay sau nhãn “Tags”. 
+truyen.tangthuvien.net
+
+5 chương mới nhất: có danh sách 5 link mới nhất để sanity-check mapping chương ↔ link.
+
+CSS: khối “5 Chương mới nhất …” → a[href*="/chuong-"]. 
+truyen.tangthuvien.net
+
+B4) Từ trang detail, lấy danh sách chương (kể cả phân trang)
+
+Cùng trang detail, phần “Danh sách chương” đã render server-side, có phân trang số “1 2 3 … » Trang cuối”. Bạn có thể:
+
+Parse toàn bộ link chương ở trang hiện tại: a[href*="/chuong-"] trong khối “Danh sách chương”.
+
+Parse phân trang: lấy các anchor của paginator (số trang, “»”, “Trang cuối”) rồi tuần tự truy cập các trang phân trang của chính trang detail (thường là ?page=<n>).
+
+Ở DOM đã thấy chuỗi phân trang hiển thị đầy đủ → xác thực rằng có page 2/3/… (anchor text 2, 3, 4, ...). (Dù công cụ không hiện href, rõ ràng pagination tồn tại và đang hoạt động trên server). 
+truyen.tangthuvien.net
+
+Nếu muốn an toàn với URL pattern:
+
+Thử trước GET /doc-truyen/<slug>?page=2 (đa số PHP/Go frameworks render theo param này). Nếu cần, cũng có thể lần theo link “Trang cuối” để suy ra href.
+
+Với mỗi trang phân trang của “Danh sách chương”: tiếp tục lấy a[href*="/chuong-"] để gom đủ toàn bộ chương. 
+truyen.tangthuvien.net
+
+B5) Với mỗi chương, lấy nội dung
+
+URL chương: dạng /doc-truyen/<slug>/<id>-chuong-<n> hoặc /doc-truyen/<slug>/chuong-<n> (site có cả hai dạng; cả hai mở ra nội dung). 
+truyen.tangthuvien.net
++3
+truyen.tangthuvien.net
++3
+truyen.tangthuvien.net
++3
+
+Selector nội dung chương:
+
+Tiêu đề chương: h2 (đôi khi là h1 phụ), text chứa “Chương <số> : <tiêu đề>”. 
+truyen.tangthuvien.net
+
+Phần nội dung: block văn bản sau tiêu đề chương. Vì site không lộ class cụ thể trong snapshot, dùng fallback an toàn:
+
+XPath: //h2[contains(., 'Chương')]/following::div[1] (nếu nội dung bọc trong div kế ngay sau).
+
+Hoặc CSS “không phụ thuộc class”: chọn container chính (ví dụ: phần giữa hai heading “#####” và “Bình luận truyện”). Trong HTML thực có chuỗi văn bản dài ngay sau tiêu đề — có thể lấy toàn bộ <p>/text nodes trong section nội dung giữa “#####” và “Bình luận truyện”. 
+truyen.tangthuvien.net
+
+Điều hướng chương trước/sau: anchors chứa text “Chương trước”, “Chương tiếp” nếu bạn muốn vừa crawl vừa đi tuyến tính.
+
+CSS: a:contains("Chương trước"), a:contains("Chương tiếp"). (Có text này xuất hiện rõ trong DOM). 
+truyen.tangthuvien.net

@@ -1,0 +1,16 @@
+curl 'https://truyencom.com/tim-kiem/?tukhoa=ti%C3%AAn+ngh%E1%BB%8Bch' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -b 'X2Wdo13iWT=1; webgl=6252bd9c425e20089192dc675f1a16bc08044495; PHPSESSID=dm2cf7kqqp67642sq4s56ae1u0' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://truyencom.com/tien-thien-don-ngo-thanh-the-ta-tai-van-gioi-sang-tao-vo-dich-phap.12719/' \
+  -H 'sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-gpc: 1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36'
