@@ -36,7 +36,7 @@ def main() -> int:
         sys.path.insert(0, src_path)
 
     # Import after path setup
-    from flowcore.utils.logger import logger
+    from flowcore_story.utils.logger import logger
     from flowcore_story.workers.enrichment_worker import EnrichmentWorker
 
     logger.info("=" * 60)

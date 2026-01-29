@@ -10,7 +10,7 @@ from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 _NON_GENRE_SLUGS = {

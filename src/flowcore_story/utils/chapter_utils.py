@@ -17,8 +17,8 @@ from bs4 import BeautifulSoup
 from filelock import Timeout
 from unidecode import unidecode
 
-from flowcore.adapters.base_site_adapter import BaseSiteAdapter
-from flowcore.config.config import (
+from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore_story.config.config import (
     ASYNC_SEMAPHORE_LIMIT,
     BATCH_SIZE_OVERRIDE,
     ERROR_CHAPTERS_FILE,
@@ -29,17 +29,17 @@ from flowcore.config.config import (
     MAX_CHAPTERS_PER_STORY,
     get_state_file,
 )
-from flowcore.utils.anti_bot import is_anti_bot_content
-from flowcore.utils.io_utils import safe_write_json_sync
-from flowcore.utils.async_primitives import LoopBoundSemaphore
-from flowcore.utils.batch_utils import get_optimal_batch_size, smart_delay, split_batches
-from flowcore.utils.domain_rate_limiter import domain_circuit_breaker
-from flowcore.utils.domain_utils import get_adapter_from_url
-from flowcore.utils.errors import CrawlError
-from flowcore.utils.io_utils import resolve_completed_story_path, safe_write_file, safe_write_json
-from flowcore.utils.lock_utils import DEFAULT_STALE_LOCK_SECONDS, robust_file_lock
-from flowcore.utils.logger import logger
-from flowcore.utils.state_utils import save_crawl_state
+from flowcore_story.utils.anti_bot import is_anti_bot_content
+from flowcore_story.utils.io_utils import safe_write_json_sync
+from flowcore_story.utils.async_primitives import LoopBoundSemaphore
+from flowcore_story.utils.batch_utils import get_optimal_batch_size, smart_delay, split_batches
+from flowcore_story.utils.domain_rate_limiter import domain_circuit_breaker
+from flowcore_story.utils.domain_utils import get_adapter_from_url
+from flowcore_story.utils.errors import CrawlError
+from flowcore_story.utils.io_utils import resolve_completed_story_path, safe_write_file, safe_write_json
+from flowcore_story.utils.lock_utils import DEFAULT_STALE_LOCK_SECONDS, robust_file_lock
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.state_utils import save_crawl_state
 
 SEM = LoopBoundSemaphore(ASYNC_SEMAPHORE_LIMIT)
 
@@ -374,7 +374,7 @@ async def crawl_missing_chapters_for_story(
 
     fail_total = len(skipped_chapters)
     if fail_total >= math.ceil(total_chapters * 2 / 3):
-        from flowcore.utils.skip_manager import mark_story_as_skipped
+        from flowcore_story.utils.skip_manager import mark_story_as_skipped
         mark_story_as_skipped(story_data_item, "too_many_failed_chapters")
 
     return total_chapters
@@ -472,7 +472,7 @@ async def log_error_chapter(item, filename=None):
 
 async def queue_failed_chapter(chapter_data):
     """Ghi chuong loi vao Kafka topic de retry."""
-    from flowcore.kafka.kafka_producer import send_job
+    from flowcore_story.kafka.kafka_producer import send_job
 
     # Them job type de dispatcher co the nhan dien
     job_to_send = chapter_data.copy()
@@ -575,7 +575,7 @@ async def async_download_and_save_chapter(
                                 )
                                 completed_chapter_path = None
                         try:
-                            from flowcore.kafka.kafka_producer import send_job
+                            from flowcore_story.kafka.kafka_producer import send_job
 
                             if not completed_chapter_path:
                                 raise RuntimeError("completed chapter path not ready")
@@ -774,7 +774,7 @@ def get_existing_chapter_nums(story_folder):
     return chapter_nums
 
 async def get_max_page_by_playwright(url, site_key=None):
-    from flowcore.apps.scraper import _make_request_playwright
+    from flowcore_story.apps.scraper import _make_request_playwright
     resp = await _make_request_playwright(
         url,
         site_key or "truyenyy",

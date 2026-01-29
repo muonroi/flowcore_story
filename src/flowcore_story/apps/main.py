@@ -47,11 +47,11 @@ except ModuleNotFoundError:  # pragma: no cover - fallback
         def model_dump(self) -> dict:
             return self.__dict__.copy()
 
-from flowcore.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.adapters.factory import get_adapter
-from flowcore.apps.scraper import initialize_scraper
-from flowcore.config import config as app_config
-from flowcore.config.proxy_provider import load_proxies
+from flowcore_story.apps.scraper import initialize_scraper
+from flowcore_story.config import config as app_config
+from flowcore_story.config.proxy_provider import load_proxies
 from flowcore_story.core.category_change_detector import CategoryChangeDetector
 from flowcore_story.core.category_store import CategoryStore
 from flowcore_story.core.config_loader import apply_env_overrides
@@ -75,11 +75,11 @@ from flowcore_story.core.sequential_genre_strategy import (
 )
 from flowcore_story.core.story_registry import StoryCrawlStatus, StoryRegistry
 from flowcore_story.core.worker_settings import WorkerSettings
-from flowcore.storage.story_queue import genre_queue_metadata, story_queue
-from flowcore.kafka.kafka_monitor import check_consumer_group_health
-from flowcore.kafka.kafka_producer import close_producer, send_job
-from flowcore.utils.async_primitives import LoopBoundLock, LoopBoundSemaphore
-from flowcore.utils.batch_utils import smart_delay
+from flowcore_story.storage.story_queue import genre_queue_metadata, story_queue
+from flowcore_story.kafka.kafka_monitor import check_consumer_group_health
+from flowcore_story.kafka.kafka_producer import close_producer, send_job
+from flowcore_story.utils.async_primitives import LoopBoundLock, LoopBoundSemaphore
+from flowcore_story.utils.batch_utils import smart_delay
 from flowcore_story.utils.chapter_utils import (
     count_dead_chapters,
     export_chapter_metadata_sync,
@@ -88,31 +88,31 @@ from flowcore_story.utils.chapter_utils import (
     get_saved_chapters_files,
     slugify_title,
 )
-from flowcore.utils.domain_utils import get_site_key_from_url, is_url_for_site
-from flowcore.utils.io_utils import (
+from flowcore_story.utils.domain_utils import get_site_key_from_url, is_url_for_site
+from flowcore_story.utils.io_utils import (
     create_proxy_template_if_not_exists,
     ensure_directory_exists,
     log_failed_genre,
     resolve_completed_story_path,
 )
-from flowcore.utils.logger import logger
-from flowcore.utils.meta_utils import (
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.meta_utils import (
     add_missing_story,
     backup_crawl_state,
     derive_story_slug,
     sanitize_filename,
     save_story_metadata_file,
 )
-from flowcore.utils.metrics_tracker import metrics_tracker
-from flowcore.utils.notifier import send_telegram_notify
-from flowcore.utils.progress_emitter import compact_payload, emit_progress_event
-from flowcore.utils.skip_manager import (
+from flowcore_story.utils.metrics_tracker import metrics_tracker
+from flowcore_story.utils.notifier import send_telegram_notify
+from flowcore_story.utils.progress_emitter import compact_payload, emit_progress_event
+from flowcore_story.utils.skip_manager import (
     get_all_skipped_stories,
     is_story_skipped,
     load_skipped_stories,
     mark_story_as_skipped,
 )
-from flowcore.utils.state_utils import (
+from flowcore_story.utils.state_utils import (
     clear_specific_state_keys,
     load_crawl_state,
     locked_crawl_state,
@@ -120,7 +120,7 @@ from flowcore.utils.state_utils import (
     save_crawl_state,
     update_crawl_state_section,
 )
-from flowcore.workers.cookie_auto_renewal import (
+from flowcore_story.workers.cookie_auto_renewal import (
     start_cookie_auto_renewal,
     stop_cookie_auto_renewal,
 )
@@ -143,7 +143,7 @@ from flowcore_story.workers.system_metrics_monitor import (
 )
 
 # Database tracking helpers
-from flowcore.storage.db_tracking_helpers import (
+from flowcore_story.storage.db_tracking_helpers import (
     track_chapter_crawled,
     track_challenge_detected,
     track_genre_completed,
@@ -1269,7 +1269,7 @@ async def process_story_item(
 
     # [DB OPTIMIZATION] Check if story already completed in database
     from datetime import datetime, timedelta, timezone
-    from flowcore.storage.db_tracking import story_progress
+    from flowcore_story.storage.db_tracking import story_progress
     existing_progress = await story_progress.get_story_progress(story_url)
     if existing_progress:
         if existing_progress.get("status") == "completed":
@@ -1551,7 +1551,7 @@ async def process_genre_item(
     # [DB OPTIMIZATION] Check if genre recently completed to avoid redundant crawls
     # Only skip if completed AND updated within last 24 hours (to catch new stories)
     from datetime import datetime, timedelta, timezone
-    from flowcore.storage.db_tracking import genre_progress
+    from flowcore_story.storage.db_tracking import genre_progress
     existing_genre = await genre_progress.get_genre_progress(site_key, genre_url)
     if existing_genre and existing_genre.get("status") == "completed":
         updated_at = existing_genre.get("updated_at")
@@ -2505,7 +2505,7 @@ async def run_sequential_genre_crawl(
     Sequential genre crawl implementation.
     Process one genre to completion before moving to next.
     """
-    from flowcore.storage.db_pool import get_db_pool
+    from flowcore_story.storage.db_pool import get_db_pool
 
     pool = await get_db_pool()
     if not pool:
@@ -2961,7 +2961,7 @@ async def run_crawler(
 
     async with aiohttp.ClientSession() as session:
         # [QUEUE] Check for incomplete queues (genres with pending stories) and resume processing
-        from flowcore.storage.db_pool import get_db_pool
+        from flowcore_story.storage.db_pool import get_db_pool
         pool = await get_db_pool()
         if pool:
             async with pool.acquire() as conn:
@@ -3419,7 +3419,7 @@ async def run_single_site(
     missing_single_url: str | None = None,
     missing_single_title: str | None = None,
 ):
-    from flowcore.config.proxy_provider import shuffle_proxies
+    from flowcore_story.config.proxy_provider import shuffle_proxies
 
     if env_overrides:
         apply_env_overrides({"env_override": env_overrides})

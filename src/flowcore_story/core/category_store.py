@@ -11,7 +11,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from typing import Any
 
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 @dataclass(frozen=True)

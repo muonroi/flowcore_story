@@ -101,7 +101,7 @@ class BaseSiteAdapter(ABC):
         **kwargs
     ) -> str | None:
         """Standard method to fetch HTML content using shared infrastructure."""
-        from flowcore.apps.scraper import make_request
+        from flowcore_story.apps.scraper import make_request
         try:
             response = await make_request(
                 url,

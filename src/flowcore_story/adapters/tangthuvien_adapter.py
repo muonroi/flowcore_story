@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
 
-from flowcore.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.analyze.tangthuvien_parse import (
     _validate_required_fields,
     find_genre_listing_url,
@@ -18,20 +18,20 @@ from flowcore_story.analyze.tangthuvien_parse import (
     parse_story_info,
     parse_story_list,
 )
-from flowcore.apps.scraper import make_request
-from flowcore.config.config import (
+from flowcore_story.apps.scraper import make_request
+from flowcore_story.config.config import (
     BASE_URLS,
     GLOBAL_PROXY_PASSWORD,
     GLOBAL_PROXY_USERNAME,
     _is_desktop_user_agent,
     get_random_headers,
 )
-from flowcore.config.proxy_provider import get_proxy_url
-from flowcore.utils.challenge_harvester_client import get_challenge_harvester_client
+from flowcore_story.config.proxy_provider import get_proxy_url
+from flowcore_story.utils.challenge_harvester_client import get_challenge_harvester_client
 from flowcore_story.utils.chapter_utils import get_chapter_sort_key
-from flowcore.utils.logger import logger
-from flowcore.utils.metrics_tracker import metrics_tracker
-from flowcore.utils.site_config import load_site_config
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.metrics_tracker import metrics_tracker
+from flowcore_story.utils.site_config import load_site_config
 
 
 def _with_page_parameter(url: str, page: int) -> str:

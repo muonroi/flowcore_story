@@ -37,7 +37,7 @@ if GEMINI_API_KEY:
 
     genai.configure(api_key=GEMINI_API_KEY)
 
-from flowcore.config.config import (
+from flowcore_story.config.config import (
     BASE_URLS,
     COMPLETED_FOLDER,
     DATA_FOLDER,
@@ -53,10 +53,10 @@ from flowcore_story.scripts.show_crawl_dashboard import (
     summarize_alerts,
     summarize_key_metrics,
 )
-from flowcore.utils.kafka_producer import send_kafka_job, stop_kafka_producer
-from flowcore.utils.logger import logger
-from flowcore.utils.metrics_tracker import metrics_tracker
-from flowcore.utils.story_analyzer import get_all_stories, get_disk_usage, get_health_stats
+from flowcore_story.utils.kafka_producer import send_kafka_job, stop_kafka_producer
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.metrics_tracker import metrics_tracker
+from flowcore_story.utils.story_analyzer import get_all_stories, get_disk_usage, get_health_stats
 
 DASHBOARD_FILE = os.environ.get(
     "STORYFLOW_DASHBOARD_FILE",

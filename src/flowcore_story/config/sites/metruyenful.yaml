@@ -1,0 +1,25 @@
+# Site configuration for metruyenful.com
+site_key: metruyenful
+base_url: https://metruyenful.com
+
+# Crawler settings
+max_concurrent_requests: 3
+request_delay: 1.5
+timeout: 30
+
+# Chapter settings
+chapters_per_page: 50
+
+# WordPress specific
+is_wordpress: true
+
+# Anti-bot settings (minimal for this site)
+use_stealth: false
+cloudflare_protected: false
+
+# Retry settings
+max_retries: 5
+retry_delay: 2.0
+
+# Rate limiting
+rate_limit_requests_per_minute: 30

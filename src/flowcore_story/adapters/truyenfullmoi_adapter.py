@@ -6,7 +6,7 @@ from collections.abc import Awaitable, Callable
 from typing import Any
 from urllib.parse import urljoin, urlparse
 
-from flowcore.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.analyze.truyenfullmoi_parse import (
     extract_story_slug,
     parse_chapter_content,
@@ -15,12 +15,12 @@ from flowcore_story.analyze.truyenfullmoi_parse import (
     parse_story_info,
     parse_story_list,
 )
-from flowcore.apps.scraper import make_request
-from flowcore.config.config import BASE_URLS
+from flowcore_story.apps.scraper import make_request
+from flowcore_story.config.config import BASE_URLS
 from flowcore_story.utils.chapter_utils import get_chapter_sort_key
-from flowcore.utils.logger import logger
-from flowcore.utils.metrics_tracker import metrics_tracker
-from flowcore.utils.site_config import load_site_config
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.metrics_tracker import metrics_tracker
+from flowcore_story.utils.site_config import load_site_config
 
 
 def _with_page_parameter(url: str, page: int) -> str:

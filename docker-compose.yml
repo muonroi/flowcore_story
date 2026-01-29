@@ -1,22 +1,176 @@
 services:
-  story-worker:
+  producer:
     build: .
-    container_name: flowcore-story-worker
-    env_file:
-      - ../config/env/common.env
-      - ../config/env/crawler.env
-      - ../config/env/database.env
-    volumes:
+    image: flowcore-story:latest
+    container_name: flowcore-story-producer
+    command: python3 -m flowcore_story.apps.main all_sites
+    env_file: [../config/env/common.env, ../config/env/crawler.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 1G
+    volumes: &vols
       - ./src:/app/src
       - ../flowcore/src:/app/libs/flowcore/src
       - ./config:/app/config
       - ./state:/app/state
       - ../proxies:/app/proxies
-    environment:
-      - PYTHONPATH=/app/src:/app/libs/flowcore/src
-      - STEALTH_GATEWAY_URL=http://stealth-gateway:8555
-    networks:
-      - flowcore-shared-network
+      - ./truyen_data:/app/truyen_data
+      - ./completed_stories:/app/completed_stories
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  consumer-xtruyen:
+    image: flowcore-story:latest
+    container_name: flowcore-story-consumer-xtruyen
+    command: python3 -m flowcore_story.apps.main xtruyen
+    env_file: [../config/env/common.env, ../config/env/crawler.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.60'
+          memory: 2G
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  consumer-xtruyen-scale:
+    image: flowcore-story:latest
+    container_name: flowcore-story-consumer-xtruyen-scale
+    command: python3 -m flowcore_story.apps.main xtruyen
+    env_file: [../config/env/common.env, ../config/env/crawler.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.40'
+          memory: 1.5G
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  consumer-standard:
+    image: flowcore-story:latest
+    container_name: flowcore-story-consumer-standard
+    command: python3 -m flowcore_story.apps.main truyencom,truyenfullmoi,metruyenful,quykiep
+    env_file: [../config/env/common.env, ../config/env/crawler.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 1G
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  consumer-missing:
+    image: flowcore-story:latest
+    container_name: flowcore-story-consumer-missing
+    command: python3 -m flowcore_story.workers.missing_worker_runner
+    env_file: [../config/env/common.env, ../config/env/crawler.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 1G
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  enrichment-worker:
+    image: flowcore-story:latest
+    container_name: flowcore-story-enrichment-worker
+    command: python3 -m flowcore_story.workers.enrichment_worker_runner
+    env_file: [../config/env/common.env, ../config/env/crawler.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.30'
+          memory: 512M
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  sticky-worker:
+    image: flowcore-story:latest
+    container_name: flowcore-story-sticky-worker
+    command: python3 -m flowcore_story.workers.sticky_crawler_worker
+    env_file: [../config/env/common.env, ../config/env/crawler.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.80'
+          memory: 2G
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  db-sync:
+    image: flowcore-story:latest
+    container_name: flowcore-story-db-sync
+    command: python3 -m flowcore_story.workers.database_sync_worker
+    env_file: [../config/env/common.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.30'
+          memory: 512M
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  health-checker:
+    image: flowcore-story:latest
+    container_name: flowcore-story-health-checker
+    command: python3 -m flowcore_story.workers.completed_story_health_checker
+    env_file: [../config/env/common.env, ../config/env/crawler.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.40'
+          memory: 1G
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  queue-dispatcher:
+    image: flowcore-story:latest
+    container_name: flowcore-story-queue-dispatcher
+    command: python3 -m flowcore_story.workers.queue_dispatcher_worker
+    env_file: [../config/env/common.env, ../config/env/database.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.20'
+          memory: 256M
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
+
+  telegram-bot:
+    image: flowcore-story:latest
+    container_name: flowcore-story-telegram-bot
+    command: python3 -m flowcore_story.apps.telegram_bot
+    env_file: [../config/env/common.env, ../config/env/database.env, ../config/env/telegram.env]
+    deploy:
+      resources:
+        limits:
+          cpus: '0.20'
+          memory: 256M
+    volumes: *vols
+    networks: [flowcore-shared-network]
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: always
 
 networks:
   flowcore-shared-network:

@@ -1,0 +1,981 @@
+"""Standalone microservice for harvesting anti-bot challenges."""
+from __future__ import annotations
+
+import asyncio
+import json
+import logging
+import os
+import random
+from collections.abc import Mapping, Sequence
+from dataclasses import dataclass
+from typing import Any
+
+from aiohttp import web
+
+try:  # pragma: no cover - optional dependency loaded dynamically
+    from playwright.async_api import Browser, BrowserContext, Page, async_playwright
+except Exception:  # pragma: no cover - simplified fallback when Playwright missing
+    Browser = BrowserContext = Page = None  # type: ignore[misc,assignment]
+    async_playwright = None  # type: ignore[assignment]
+
+try:  # pragma: no cover - optional plugin
+    from playwright_stealth import stealth_async
+except Exception:  # pragma: no cover - fallback when plugin unavailable
+    stealth_async = None  # type: ignore[assignment]
+
+try:
+    from curl_cffi.requests import AsyncSession
+except ImportError:
+    AsyncSession = None
+
+try:  # pragma: no cover - advanced stealth module
+    from storyflow_core.utils.advanced_stealth import (
+        STEALTH_JS_SCRIPTS,
+        AdvancedStealthContext,
+        HumanBehaviorSimulator,
+        inject_canvas_noise,
+    )
+    ADVANCED_STEALTH_AVAILABLE = True
+except Exception:  # pragma: no cover - fallback when module unavailable
+    AdvancedStealthContext = None  # type: ignore[assignment,misc]
+    HumanBehaviorSimulator = None  # type: ignore[assignment]
+    inject_canvas_noise = None  # type: ignore[assignment]
+    STEALTH_JS_SCRIPTS = []
+    ADVANCED_STEALTH_AVAILABLE = False
+
+# PHASE 1 OPTIMIZATION: Cookie reuse system
+try:
+    from storyflow_core.utils.cookie_manager import (
+        fingerprint_headers,
+        select_cookie,
+        set_cookies,
+    )
+    COOKIE_MANAGER_AVAILABLE = True
+except Exception:
+    COOKIE_MANAGER_AVAILABLE = False
+    logger.warning("[ChallengeHarvester] Cookie manager not available - operating without cookie reuse")
+
+
+logger = logging.getLogger("storyflow.challenge_harvester")
+
+# Import memory monitoring utilities
+try:
+    from storyflow_core.utils.memory_monitor import (
+        ContextPoolCleaner,
+        MemoryMonitor,
+    )
+    MEMORY_MONITOR_AVAILABLE = True
+except Exception:
+    MEMORY_MONITOR_AVAILABLE = False
+    logger.debug("[ChallengeHarvester] Memory monitor not available")
+
+
+@dataclass(slots=True)
+class ServiceSettings:
+    host: str = os.environ.get("CHALLENGE_HARVESTER_HOST", "0.0.0.0")
+    port: int = int(os.environ.get("CHALLENGE_HARVESTER_PORT", "8099"))
+    headful: bool = os.environ.get("CHALLENGE_HARVESTER_HEADFUL", "false").lower() in (
+        "1",
+        "true",
+        "yes",
+        "on",
+    )
+    # FIX ISSUE #1: Increase timeout from 60s to 120s to handle slow challenges
+    navigation_timeout: float = float(os.environ.get("CHALLENGE_HARVESTER_NAVIGATION_TIMEOUT", "120"))
+    delay_min: float = float(os.environ.get("CHALLENGE_HARVESTER_DELAY_MIN", "0.3"))
+    delay_max: float = float(os.environ.get("CHALLENGE_HARVESTER_DELAY_MAX", "0.9"))
+    wait_for_networkidle: bool = os.environ.get(
+        "CHALLENGE_HARVESTER_WAIT_FOR_NETWORKIDLE", "false"
+    ).lower() in ("1", "true", "yes", "on")
+    # Increase retries from 2 to 3 for better reliability
+    max_retries: int = int(os.environ.get("CHALLENGE_HARVESTER_MAX_RETRIES", "3"))
+    retry_delay: float = float(os.environ.get("CHALLENGE_HARVESTER_RETRY_DELAY", "2.0"))
+    # Advanced stealth settings
+    use_advanced_stealth: bool = os.environ.get("CHALLENGE_HARVESTER_ADVANCED_STEALTH", "true").lower() in (
+        "1",
+        "true",
+        "yes",
+        "on",
+    )
+    simulate_human_behavior: bool = os.environ.get("CHALLENGE_HARVESTER_HUMAN_BEHAVIOR", "true").lower() in (
+        "1",
+        "true",
+        "yes",
+        "on",
+    )
+    reading_time: float = float(os.environ.get("CHALLENGE_HARVESTER_READING_TIME", "2.0"))
+
+    def normalized_delay_range(self) -> tuple[float, float]:
+        low = max(0.0, min(self.delay_min, self.delay_max))
+        high = max(self.delay_min, self.delay_max, low + 0.1)
+        return low, high
+
+
+class ChallengeHarvesterService:
+    """Encapsulates the Playwright browser used to clear challenges."""
+
+    # Error patterns that indicate browser/context is dead and needs recovery
+    BROWSER_CRASH_PATTERNS = (
+        "crashed",
+        "closed",
+        "disconnected",
+        "destroyed",
+        "disposed",
+        "target page",
+        "browser has been closed",
+        "context has been closed",
+        "connection closed",
+    )
+
+    def __init__(self, settings: ServiceSettings) -> None:
+        self._settings = settings
+        self._browser: Browser | None = None
+        self._playwright = None
+        self._lock = asyncio.Lock()
+        # PHASE 1 OPTIMIZATION: Context pooling to reuse browser contexts
+        # Key: (site_key, proxy_url), Value: BrowserContext
+        self._context_pool: dict[tuple[str, str], BrowserContext] = {}
+        self._context_lock = asyncio.Lock()
+        # Track browser health for auto-recovery
+        self._browser_crash_count = 0
+        self._max_crash_before_restart = 3
+
+        # MEMORY OPTIMIZATION: Add memory monitor and context pool cleaner
+        self._memory_monitor: MemoryMonitor | None = None
+        self._context_cleaner: ContextPoolCleaner | None = None
+
+        # Memory settings from environment
+        self._max_memory_percent = float(os.environ.get("CHALLENGE_HARVESTER_MAX_MEMORY_PERCENT", "85"))
+        self._enable_auto_cleanup = os.environ.get("CHALLENGE_HARVESTER_ENABLE_AUTO_CLEANUP", "true").lower() in ("1", "true", "yes", "on")
+        self._cleanup_interval = int(os.environ.get("CHALLENGE_HARVESTER_CLEANUP_INTERVAL", "300"))
+        self._context_idle_timeout = int(os.environ.get("CHALLENGE_HARVESTER_CONTEXT_IDLE_TIMEOUT", "300"))
+        self._context_pool_max_size = int(os.environ.get("CHALLENGE_HARVESTER_CONTEXT_POOL_MAX_SIZE", "5"))
+
+    def _is_browser_crash_error(self, error: Exception) -> bool:
+        """Check if error indicates browser/context crash that needs recovery."""
+        error_str = str(error).lower()
+        error_type = type(error).__name__.lower()
+
+        for pattern in self.BROWSER_CRASH_PATTERNS:
+            if pattern in error_str or pattern in error_type:
+                return True
+        return False
+
+    async def _restart_browser(self) -> None:
+        """Force restart browser and clear all contexts. Called after crash detection."""
+        logger.warning("[ChallengeHarvester] Initiating browser restart due to crash...")
+
+        # Clear context pool first
+        async with self._context_lock:
+            for pool_key, context in list(self._context_pool.items()):
+                try:
+                    await context.close()
+                except Exception:
+                    pass  # Best effort cleanup
+            self._context_pool.clear()
+            logger.info("[ChallengeHarvester] Cleared %d contexts from pool", len(self._context_pool))
+
+        # Close and restart browser
+        async with self._lock:
+            if self._browser:
+                try:
+                    await self._browser.close()
+                except Exception:
+                    pass  # Best effort
+            self._browser = None
+
+            # Restart
+            if self._playwright:
+                try:
+                    launch_kwargs = {
+                        "headless": not self._settings.headful,
+                        "args": [
+                            "--disable-blink-features=AutomationControlled",
+                            "--disable-dev-shm-usage",
+                            "--no-sandbox",
+                            "--disable-gpu",  # Reduce resource usage
+                            "--disable-extensions",
+                            "--single-process",  # More stable in containers
+                        ],
+                    }
+                    self._browser = await self._playwright.chromium.launch(**launch_kwargs)
+                    self._browser_crash_count = 0
+                    logger.info("[ChallengeHarvester] Browser restarted successfully")
+                except Exception as e:
+                    logger.error("[ChallengeHarvester] Failed to restart browser: %s", e)
+                    raise
+
+    async def _validate_context(self, context: BrowserContext) -> bool:
+        """Validate if a context is still healthy and usable."""
+        try:
+            # Try to access pages - this will fail if context is dead
+            _ = context.pages
+            # Try to get cookies - another lightweight check
+            await asyncio.wait_for(context.cookies(), timeout=2.0)
+            return True
+        except Exception:
+            return False
+
+    async def startup(self) -> None:
+        if async_playwright is None:  # pragma: no cover - defensive guard
+            logger.warning("Playwright is not installed. Only 'impersonate' mode will work.")
+        else:
+            async with self._lock:
+                if self._browser is not None:
+                    return
+                self._playwright = await async_playwright().start()
+                launch_kwargs = {
+                    "headless": not self._settings.headful,
+                    "args": [
+                        "--disable-blink-features=AutomationControlled",
+                        "--disable-dev-shm-usage",
+                        "--no-sandbox",
+                        "--disable-gpu",  # Reduce memory usage
+                        "--disable-extensions",
+                        "--single-process",  # More stable in containers
+                    ],
+                }
+                if self._settings.headful:
+                    launch_kwargs.setdefault("args", []).append("--start-maximized")
+                self._browser = await self._playwright.chromium.launch(**launch_kwargs)
+                logger.info(
+                    "Challenge harvester browser started (headful=%s)",
+                    self._settings.headful,
+                )
+
+        if AsyncSession is None:
+            logger.warning("curl_cffi is not installed. 'impersonate' mode will fail.")
+
+        # MEMORY OPTIMIZATION: Start memory monitoring and context cleanup
+        if MEMORY_MONITOR_AVAILABLE and self._enable_auto_cleanup:
+            # Initialize memory monitor
+            self._memory_monitor = MemoryMonitor(
+                max_memory_percent=self._max_memory_percent,
+                check_interval=60,  # Check every minute
+                cleanup_callback=self._cleanup_callback,
+            )
+            await self._memory_monitor.start()
+            logger.info(
+                "[ChallengeHarvester] Memory monitor started (max: %.1f%%)",
+                self._max_memory_percent
+            )
+
+            # Initialize context pool cleaner
+            self._context_cleaner = ContextPoolCleaner(
+                context_pool=self._context_pool,
+                max_idle_time=self._context_idle_timeout,
+                cleanup_interval=self._cleanup_interval,
+                max_pool_size=self._context_pool_max_size,
+            )
+            await self._context_cleaner.start()
+            logger.info(
+                "[ChallengeHarvester] Context pool cleaner started (max_size: %d, idle_timeout: %ds)",
+                self._context_pool_max_size,
+                self._context_idle_timeout
+            )
+
+    async def _cleanup_callback(self) -> None:
+        """Custom cleanup callback for memory monitor."""
+        logger.info("[ChallengeHarvester] Memory cleanup callback triggered")
+
+        # Cleanup idle contexts
+        if self._context_cleaner:
+            result = await self._context_cleaner.cleanup_idle_contexts()
+            logger.info("[ChallengeHarvester] Cleaned up contexts: %s", result)
+
+    async def shutdown(self) -> None:
+        # MEMORY OPTIMIZATION: Stop monitoring first
+        if self._memory_monitor:
+            await self._memory_monitor.stop()
+            logger.info("[ChallengeHarvester] Memory monitor stopped")
+
+        if self._context_cleaner:
+            await self._context_cleaner.stop()
+            logger.info("[ChallengeHarvester] Context pool cleaner stopped")
+
+        # PHASE 1 OPTIMIZATION: Close all pooled contexts first
+        async with self._context_lock:
+            for (site_key, proxy), context in self._context_pool.items():
+                try:
+                    await context.close()
+                    logger.debug("[ChallengeHarvester] Closed pooled context for %s", site_key)
+                except Exception:  # pragma: no cover - best effort cleanup
+                    logger.debug("Failed to close pooled context for %s", site_key, exc_info=True)
+            self._context_pool.clear()
+
+        async with self._lock:
+            if self._browser:
+                try:
+                    await self._browser.close()
+                except Exception:  # pragma: no cover - best effort shutdown
+                    logger.exception("Failed to close challenge harvester browser")
+            self._browser = None
+            if self._playwright:
+                try:
+                    await self._playwright.stop()
+                except Exception:  # pragma: no cover - best effort shutdown
+                    logger.exception("Failed to stop Playwright instance")
+            self._playwright = None
+
+    async def _apply_stealth(self, page: Page) -> None:
+        """Apply stealth techniques to page. Uses advanced stealth if available, falls back to playwright-stealth."""
+        # Try advanced stealth first (modern approach)
+        if self._settings.use_advanced_stealth and ADVANCED_STEALTH_AVAILABLE:
+            try:
+                # Advanced stealth scripts are already injected at context level
+                # But we can add page-level scripts here if needed
+                logger.debug("Using advanced stealth techniques")
+                return
+            except Exception:  # pragma: no cover - stealth best effort
+                logger.debug("Advanced stealth failed, falling back to playwright-stealth", exc_info=True)
+
+        # Fallback to playwright-stealth (legacy)
+        if stealth_async is None:
+            return
+        try:
+            await stealth_async(page)
+        except Exception:  # pragma: no cover - stealth best effort
+            logger.debug("Failed to apply stealth evasions", exc_info=True)
+
+    async def _collect_turnstile_token(self, page: Page) -> str | None:
+        script = """
+            () => {
+                try {
+                    if (typeof window.turnstile !== 'undefined' && window.turnstile.getResponse) {
+                        const resp = window.turnstile.getResponse();
+                        if (resp) {
+                            return resp;
+                        }
+                    }
+                } catch (err) {}
+                const candidates = document.querySelectorAll('input[name="cf-turnstile-response"], input[name="cf-turnstile-token"]');
+                for (const el of candidates) {
+                    if (el && el.value) {
+                        return el.value;
+                    }
+                }
+                return null;
+            }
+        """
+        try:
+            return await page.evaluate(script)
+        except Exception:
+            return None
+
+    async def _ensure_browser(self) -> Browser:
+        if self._browser is None:
+            await self.startup()
+        if self._browser is None:
+             raise RuntimeError("Browser failed to initialize")
+        return self._browser
+
+    async def _get_or_create_context(
+        self,
+        site_key: str | None,
+        proxy: str | None,
+        context_options: dict[str, Any],
+        use_advanced: bool,
+    ) -> BrowserContext:
+        """PHASE 1 OPTIMIZATION: Get existing context from pool or create new one."""
+        # Generate pool key
+        pool_key = (site_key or "__default__", proxy or "__no_proxy__")
+
+        # Try to get existing context from pool
+        async with self._context_lock:
+            existing_context = self._context_pool.get(pool_key)
+            if existing_context:
+                # IMPROVED: Use robust validation instead of simple page check
+                if await self._validate_context(existing_context):
+                    logger.debug(
+                        "[ChallengeHarvester] Reusing pooled context for %s (proxy: %s)",
+                        site_key,
+                        "enabled" if proxy else "disabled"
+                    )
+                    # MEMORY OPTIMIZATION: Mark as recently used
+                    if self._context_cleaner:
+                        self._context_cleaner.mark_used(pool_key)
+                    return existing_context
+                else:
+                    # Context is closed/invalid, remove from pool
+                    logger.warning(
+                        "[ChallengeHarvester] Context for %s failed validation, creating new one",
+                        site_key,
+                    )
+                    self._context_pool.pop(pool_key, None)
+                    # Try to close gracefully
+                    try:
+                        await existing_context.close()
+                    except Exception:
+                        pass
+
+        # Create new context
+        browser = await self._ensure_browser()
+
+        if use_advanced:
+            # Advanced stealth context options
+            viewport_size = {"width": 1920, "height": 1080}
+            advanced_options = {
+                "viewport": viewport_size,
+                "locale": "vi-VN",
+                "timezone_id": "Asia/Ho_Chi_Minh",
+                "permissions": ["geolocation", "notifications"],
+                "geolocation": {
+                    "latitude": 10.7769 + random.uniform(-0.1, 0.1),
+                    "longitude": 106.7009 + random.uniform(-0.1, 0.1),
+                },
+                "device_scale_factor": random.choice([1, 1.25, 1.5, 2]),
+                "is_mobile": False,
+                "has_touch": random.choice([True, False]),
+            }
+            context_options.update(advanced_options)
+
+        context = await browser.new_context(**context_options)
+
+        # Inject stealth scripts if advanced mode
+        if use_advanced:
+            for script in STEALTH_JS_SCRIPTS:
+                try:
+                    await context.add_init_script(script)
+                except Exception as e:
+                    logger.debug("Failed to inject stealth script: %s", e)
+
+            try:
+                await inject_canvas_noise(context)
+            except Exception as e:
+                logger.debug("Failed to inject canvas noise: %s", e)
+
+        # Store in pool
+        async with self._context_lock:
+            self._context_pool[pool_key] = context
+            logger.info(
+                "[ChallengeHarvester] Created new pooled context for %s (pool size: %d)",
+                site_key,
+                len(self._context_pool)
+            )
+
+        # MEMORY OPTIMIZATION: Mark context as used in cleaner
+        if self._context_cleaner:
+            self._context_cleaner.mark_used(pool_key)
+
+        return context
+
+    async def harvest_with_impersonate(
+        self,
+        url: str,
+        impersonate: str,
+        proxy: str | None = None,
+        headers: Mapping[str, str] | None = None,
+        timeout: float = 30.0,
+    ) -> dict[str, Any]:
+        """Use curl_cffi to impersonate a browser for TLS fingerprinting."""
+        if AsyncSession is None:
+            raise RuntimeError("curl_cffi not installed, cannot use impersonate mode")
+
+        logger.info(f"[ChallengeHarvester] Using curl_cffi impersonate='{impersonate}' for {url}")
+
+        # Prepare proxies with scheme normalization
+        proxies = None
+        proxy_url = proxy
+        if proxy_url:
+            # Normalize proxy URL - ensure it has scheme
+            if "://" not in proxy_url:
+                proxy_url = f"http://{proxy_url}"
+            # Force HTTP proxy for curl_cffi (BoringSSL issue with HTTPS proxy)
+            if proxy_url.startswith("https://"):
+                # Only allow HTTPS proxy if explicitly enabled
+                if os.environ.get("CURL_CFFI_PROXY_TLS", "false") != "true":
+                    proxy_url = "http://" + proxy_url[len("https://"):]
+            proxies = {"http": proxy_url, "https": proxy_url}
+
+        # Prepare session kwargs with impersonate profile
+        # Note: curl_cffi defaults to HTTP/1.1 with proxies, which is optimal
+        session_kwargs = {"impersonate": impersonate}
+
+        async with AsyncSession(**session_kwargs) as s:
+            try:
+                response = await s.get(
+                    url,
+                    headers=headers,
+                    proxies=proxies,
+                    timeout=timeout,
+                    allow_redirects=True
+                )
+            except Exception as e:
+                error_msg = str(e)
+                # Check for TLS connect error (35) - common with curl_cffi + proxy
+                if ("tls connect error" in error_msg.lower() or "code 35" in error_msg) and proxy_url:
+                    logger.warning(
+                        f"[ChallengeHarvester] TLS error with {impersonate}, retrying with fallback profile"
+                    )
+                    # Retry with safer profile (safari15_5 has better proxy compatibility)
+                    fallback_profile = os.environ.get("CURL_CFFI_PROXY_FALLBACK", "safari15_5")
+                    session_kwargs["impersonate"] = fallback_profile
+
+                    async with AsyncSession(**session_kwargs) as s2:
+                        response = await s2.get(
+                            url,
+                            headers=headers,
+                            proxies=proxies,
+                            timeout=timeout,
+                            allow_redirects=True
+                        )
+                else:
+                    # Not a TLS error, re-raise
+                    raise
+
+            # Convert cookies to Playwright format (list of dicts)
+            cookies_list = []
+            try:
+                # curl_cffi cookies handling
+                # First try to get full cookie objects
+                for cookie in s.cookies:
+                    if hasattr(cookie, "name"):
+                        cookies_list.append({
+                            "name": cookie.name,
+                            "value": cookie.value,
+                            "domain": getattr(cookie, "domain", ""),
+                            "path": getattr(cookie, "path", "/"),
+                            "secure": getattr(cookie, "secure", False),
+                            "expires": getattr(cookie, "expires", None)
+                        })
+                    elif isinstance(cookie, str):
+                        # It's a key string
+                        cookies_list.append({
+                            "name": cookie,
+                            "value": s.cookies.get(cookie),
+                            "domain": "",
+                            "path": "/"
+                        })
+            except Exception as e:
+                logger.warning(f"Complex cookie parsing failed: {e}. Falling back to simple items.")
+                for k, v in s.cookies.items():
+                    cookies_list.append({
+                        "name": k,
+                        "value": v,
+                        "domain": "",
+                        "path": "/"
+                    })
+
+            return {
+                "url": str(response.url),
+                "status": response.status_code,
+                "body": response.text,  # Text content
+                "cookies": cookies_list,
+                "headers": dict(response.headers),
+                "cf_turnstile_token": None,  # curl_cffi doesn't run JS
+                "metadata": {
+                    "engine": "curl_cffi",
+                    "impersonate": impersonate,
+                    "proxy_used": bool(proxy)
+                }
+            }
+
+    async def harvest(
+        self,
+        url: str,
+        *,
+        site_key: str | None = None,
+        headers: Mapping[str, str] | None = None,
+        wait_for_selector: str | None = None,
+        extra_headers: Mapping[str, str] | None = None,
+        referer: str | None = None,
+        human_delay_range: Sequence[float] | None = None,
+        # New params
+        proxy: str | None = None,
+        impersonate: str | None = None,
+    ) -> dict[str, Any]:
+        
+        # OPTION 1: FAST LANE (curl_cffi)
+        if impersonate:
+            return await self.harvest_with_impersonate(
+                url=url,
+                impersonate=impersonate,
+                proxy=proxy,
+                headers=headers,
+                timeout=self._settings.navigation_timeout
+            )
+
+        # OPTION 2: FULL BROWSER (Playwright)
+        # Use advanced stealth context if available and enabled
+        use_advanced = self._settings.use_advanced_stealth and ADVANCED_STEALTH_AVAILABLE
+
+        # PHASE 1 OPTIMIZATION: Load existing cookies if available
+        existing_cookies = None
+        cookie_fingerprint = None
+        user_agent_from_headers = (headers or {}).get("User-Agent")
+
+        if COOKIE_MANAGER_AVAILABLE and site_key:
+            try:
+                # Try to select existing cookie entry for this site
+                header_dict = dict(headers) if headers else {}
+                cookie_fingerprint = fingerprint_headers(header_dict)
+                selection = select_cookie(
+                    site_key=site_key,
+                    proxy_url=proxy,
+                    fingerprint=cookie_fingerprint,
+                    user_agent=user_agent_from_headers,
+                )
+
+                if selection and selection.cookies:
+                    existing_cookies = selection.cookies
+                    # Use same user-agent as stored cookies for consistency
+                    if selection.user_agent:
+                        user_agent_from_headers = selection.user_agent
+                    logger.info(
+                        "[ChallengeHarvester] Reusing %d cookies for %s (entry: %s)",
+                        len(existing_cookies),
+                        site_key,
+                        selection.entry_id
+                    )
+            except Exception as e:
+                logger.debug("[ChallengeHarvester] Failed to load existing cookies: %s", e)
+
+        # Prepare Context Options
+        context_options = {
+            "user_agent": user_agent_from_headers,
+            "proxy": {"server": proxy} if proxy else None
+        }
+
+        # Prepare headers
+        combined_headers: dict[str, str] = {}
+        for source in (headers, extra_headers):
+            if not source:
+                continue
+            for key, value in source.items():
+                if key.lower() == "user-agent":
+                    continue
+                combined_headers[key] = value
+
+        # Retry loop for context operations with auto-recovery
+        context = None
+        page = None
+        max_context_retries = 3  # Increased from 2 for better resilience
+
+        for attempt in range(max_context_retries):
+            try:
+                # PHASE 1 OPTIMIZATION: Use context pooling instead of creating new context each time
+                context = await self._get_or_create_context(
+                    site_key=site_key,
+                    proxy=proxy,
+                    context_options=context_options,
+                    use_advanced=use_advanced,
+                )
+
+                if combined_headers:
+                    await context.set_extra_http_headers(combined_headers)
+
+                # PHASE 1 OPTIMIZATION: Set existing cookies into context before creating page
+                if existing_cookies:
+                    try:
+                        await context.add_cookies(existing_cookies)
+                        logger.debug("[ChallengeHarvester] Set %d existing cookies into context", len(existing_cookies))
+                    except Exception as e:
+                        logger.debug("[ChallengeHarvester] Failed to set existing cookies: %s", e)
+
+                page = await context.new_page()
+                break  # Success, proceed
+            except Exception as e:
+                # IMPROVED: Use comprehensive crash detection
+                is_crash = self._is_browser_crash_error(e)
+
+                if is_crash and attempt < max_context_retries - 1:
+                    logger.warning(
+                        "[ChallengeHarvester] Browser/context crash detected on attempt %d/%d: %s",
+                        attempt + 1, max_context_retries, str(e)[:100]
+                    )
+
+                    # Invalidate context from pool
+                    pool_key = (site_key or "__default__", proxy or "__no_proxy__")
+                    async with self._context_lock:
+                        if self._context_pool.get(pool_key) == context:
+                            self._context_pool.pop(pool_key, None)
+
+                    # Track crash count and trigger browser restart if needed
+                    self._browser_crash_count += 1
+                    if self._browser_crash_count >= self._max_crash_before_restart:
+                        logger.warning(
+                            "[ChallengeHarvester] Crash threshold reached (%d), restarting browser...",
+                            self._browser_crash_count
+                        )
+                        try:
+                            await self._restart_browser()
+                        except Exception as restart_err:
+                            logger.error("[ChallengeHarvester] Browser restart failed: %s", restart_err)
+
+                    # Small delay before retry
+                    await asyncio.sleep(0.5 * (attempt + 1))
+                    continue
+
+                # Non-crash error or out of retries
+                raise
+
+        # Apply stealth (uses advanced or fallback to playwright-stealth)
+        await self._apply_stealth(page)
+
+        delay_range = self._settings.normalized_delay_range()
+        if human_delay_range and len(human_delay_range) >= 2:
+            low = max(0.0, float(human_delay_range[0]))
+            high = max(low, float(human_delay_range[1]))
+            delay_range = (low, high)
+
+        # Navigate to URL
+        response = await page.goto(
+            url,
+            timeout=self._settings.navigation_timeout * 1000,
+            referer=referer,
+        )
+
+        # Human behavior simulation if enabled
+        if use_advanced and self._settings.simulate_human_behavior and HumanBehaviorSimulator:
+            try:
+                # Random initial delay (user looking at page)
+                await HumanBehaviorSimulator.random_delay(500, 1500)
+
+                # Simulate mouse movement to random position
+                viewport = page.viewport_size
+                if viewport:
+                    target_x = random.randint(100, viewport["width"] - 100)
+                    target_y = random.randint(100, viewport["height"] - 100)
+                    await HumanBehaviorSimulator.simulate_mouse_movement(page, target_x, target_y)
+
+                # Simulate reading behavior
+                if self._settings.reading_time > 0:
+                    await HumanBehaviorSimulator.simulate_reading(page, self._settings.reading_time)
+
+                logger.debug("[ChallengeHarvester] Completed human behavior simulation")
+            except Exception as e:
+                logger.debug("Human behavior simulation failed: %s", e)
+
+        try:
+            if self._settings.wait_for_networkidle:
+                await page.wait_for_load_state("networkidle", timeout=self._settings.navigation_timeout * 1000)
+        except Exception:
+            pass
+        if wait_for_selector:
+            try:
+                await page.wait_for_selector(wait_for_selector, timeout=self._settings.navigation_timeout * 1000)
+            except Exception:
+                logger.debug("Selector %s not found for %s", wait_for_selector, url)
+
+        # Legacy delay (only if no human behavior simulation)
+        if not (use_advanced and self._settings.simulate_human_behavior):
+            post_delay = random.uniform(*delay_range)
+            if post_delay >= 0.05:
+                await page.wait_for_timeout(post_delay * 1000)
+
+        content = await page.content()
+        cookies = await context.cookies()
+        token = await self._collect_turnstile_token(page)
+
+        status = response.status if response else None
+        headers_snapshot = dict(response.headers) if response else {}
+
+        # PHASE 1 OPTIMIZATION: Persist cookies after successful harvest
+        if COOKIE_MANAGER_AVAILABLE and site_key and cookies and status == 200:
+            try:
+                # Use headers from request for fingerprinting
+                request_headers = combined_headers.copy() if combined_headers else {}
+                request_headers["User-Agent"] = user_agent_from_headers or ""
+
+                set_cookies(
+                    site_key=site_key,
+                    cookies_payload=cookies,
+                    proxy_url=proxy,
+                    headers=request_headers,
+                    fingerprint=cookie_fingerprint,
+                )
+                logger.info(
+                    "[ChallengeHarvester] Persisted %d cookies for %s (reusable for future requests)",
+                    len(cookies),
+                    site_key
+                )
+            except Exception as e:
+                logger.debug("[ChallengeHarvester] Failed to persist cookies: %s", e)
+
+        return {
+            "url": url,
+            "site_key": site_key,
+            "status": status,
+            "body": content,
+            "cookies": cookies,
+            "cf_turnstile_token": token,
+            "headers": headers_snapshot,
+            "metadata": {
+                "delay_range": delay_range,
+                "advanced_stealth": use_advanced,
+                "human_behavior": use_advanced and self._settings.simulate_human_behavior,
+                "engine": "playwright",
+                "cookie_reused": existing_cookies is not None,
+                "cookie_count_persisted": len(cookies) if cookies else 0,
+                "context_pooled": True,  # Always true with context pooling
+            },
+        }
+
+
+async def create_app(settings: ServiceSettings | None = None) -> web.Application:
+    settings = settings or ServiceSettings()
+    service = ChallengeHarvesterService(settings)
+
+    routes = web.RouteTableDef()
+
+    @routes.get("/health")
+    async def health_handler(request: web.Request) -> web.Response:
+        """Health check endpoint with detailed browser status."""
+        browser_healthy = False
+        context_pool_size = 0
+
+        # Check browser health
+        if service._browser:
+            try:
+                # Verify browser is responsive
+                contexts = service._browser.contexts
+                browser_healthy = True
+                context_pool_size = len(service._context_pool)
+            except Exception:
+                browser_healthy = False
+
+        return web.json_response({
+            "status": "ok" if browser_healthy or AsyncSession is not None else "degraded",
+            "service": "challenge-harvester",
+            "browser_ready": service._browser is not None,
+            "browser_healthy": browser_healthy,
+            "curl_cffi_ready": AsyncSession is not None,
+            "context_pool_size": context_pool_size,
+            "crash_count": service._browser_crash_count,
+            "max_crash_threshold": service._max_crash_before_restart,
+        })
+
+    @routes.post("/restart-browser")
+    async def restart_browser_handler(request: web.Request) -> web.Response:
+        """Manual browser restart endpoint for recovery."""
+        try:
+            await service._restart_browser()
+            return web.json_response({
+                "status": "ok",
+                "message": "Browser restarted successfully",
+            })
+        except Exception as e:
+            return web.json_response({
+                "status": "error",
+                "message": str(e),
+            }, status=500)
+
+    @routes.post("/harvest")
+    async def harvest_handler(request: web.Request) -> web.Response:
+        try:
+            payload = await request.json()
+        except json.JSONDecodeError:
+            return web.json_response({"error": "Invalid JSON payload"}, status=400)
+
+        url = payload.get("url")
+        if not url:
+            return web.json_response({"error": "Missing url"}, status=400)
+
+        # Retry logic with comprehensive error handling
+        last_error = None
+        browser_restart_attempted = False
+
+        for attempt in range(service._settings.max_retries + 1):
+            try:
+                result = await service.harvest(
+                    url,
+                    site_key=payload.get("site_key"),
+                    headers=payload.get("headers"),
+                    wait_for_selector=payload.get("wait_for_selector"),
+                    extra_headers=payload.get("extra_headers"),
+                    referer=payload.get("referer"),
+                    human_delay_range=payload.get("human_delay_range"),
+                    # Pass new params
+                    proxy=payload.get("proxy"),
+                    impersonate=payload.get("impersonate"),
+                )
+                if attempt > 0:
+                    logger.info("Challenge harvest succeeded on attempt %d for %s", attempt + 1, url)
+                return web.json_response(result)
+            except Exception as exc:  # pragma: no cover - network and Playwright errors
+                last_error = exc
+                error_msg = str(exc)
+
+                # Check error type for retry strategy
+                is_timeout = "timeout" in error_msg.lower() or "TimeoutError" in type(exc).__name__
+                is_crash = service._is_browser_crash_error(exc)
+
+                should_retry = (is_timeout or is_crash) and attempt < service._settings.max_retries
+
+                if should_retry:
+                    # If crash and haven't tried restart yet, restart browser
+                    if is_crash and not browser_restart_attempted:
+                        logger.warning(
+                            "[ChallengeHarvester] Browser crash in handler for %s, attempting restart...",
+                            url
+                        )
+                        try:
+                            await service._restart_browser()
+                            browser_restart_attempted = True
+                        except Exception as restart_err:
+                            logger.error("Browser restart in handler failed: %s", restart_err)
+
+                    retry_delay = service._settings.retry_delay * (attempt + 1)  # exponential backoff
+                    logger.warning(
+                        "Challenge harvest %s for %s (attempt %d/%d), retrying in %.1fs...",
+                        "crash" if is_crash else "timeout",
+                        url, attempt + 1, service._settings.max_retries + 1, retry_delay
+                    )
+                    await asyncio.sleep(retry_delay)
+                else:
+                    # Final attempt failed - try curl_cffi fallback if available
+                    if AsyncSession is not None and not payload.get("impersonate"):
+                        logger.info(
+                            "[ChallengeHarvester] Playwright failed, trying curl_cffi fallback for %s",
+                            url
+                        )
+                        try:
+                            fallback_result = await service.harvest_with_impersonate(
+                                url=url,
+                                impersonate="chrome120",  # Use modern Chrome fingerprint
+                                proxy=payload.get("proxy"),
+                                headers=payload.get("headers"),
+                                timeout=service._settings.navigation_timeout,
+                            )
+                            fallback_result["metadata"]["fallback"] = True
+                            logger.info("[ChallengeHarvester] curl_cffi fallback succeeded for %s", url)
+                            return web.json_response(fallback_result)
+                        except Exception as fallback_err:
+                            logger.warning(
+                                "[ChallengeHarvester] curl_cffi fallback also failed for %s: %s",
+                                url, fallback_err
+                            )
+
+                    # All options exhausted
+                    logger.error(
+                        "Challenge harvest failed after %d attempts for %s: %s",
+                        attempt + 1, url, error_msg
+                    )
+                    return web.json_response({"error": error_msg}, status=500)
+
+        # Should never reach here, but for safety
+        return web.json_response({"error": str(last_error)}, status=500)
+
+    app = web.Application()
+    app.add_routes(routes)
+
+    async def on_startup(_: web.Application) -> None:
+        await service.startup()
+
+    async def on_cleanup(_: web.Application) -> None:
+        await service.shutdown()
+
+    app.on_startup.append(on_startup)
+    app.on_cleanup.append(on_cleanup)
+    return app
+
+
+def main() -> None:
+    logging.basicConfig(level=logging.INFO)
+    settings = ServiceSettings()
+    app = asyncio.run(create_app(settings))
+    web.run_app(app, host=settings.host, port=settings.port)
+
+
+if __name__ == "__main__":  # pragma: no cover - manual execution entrypoint
+    main()

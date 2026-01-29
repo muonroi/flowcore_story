@@ -6,7 +6,7 @@ from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
 
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 class StoryCrawlStatus(str, Enum):

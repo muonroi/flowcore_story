@@ -1,7 +1,7 @@
 import os
 from collections.abc import Iterable
 
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 _ENABLE_ENV_VAR = "ALLOW_RUNTIME_ENV_OVERRIDES"
 _ALLOWLIST_ENV_VAR = "RUNTIME_ENV_OVERRIDE_ALLOWLIST"
@@ -87,7 +87,7 @@ def apply_env_overrides(config: dict, prefix: str = "[ENV]") -> None:
 
     for key, value in applied.items():
         logger.info(f"{prefix} Gán ENV {key} = {value}")
-        from flowcore.config import config as app_config
+        from flowcore_story.config import config as app_config
     import main
 
     app_config.reload_from_env()

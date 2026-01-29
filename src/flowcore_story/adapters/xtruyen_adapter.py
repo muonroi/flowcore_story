@@ -6,7 +6,7 @@ from collections.abc import Awaitable, Callable
 from typing import Any
 from urllib.parse import parse_qs, urlencode, urljoin, urlparse, urlunparse
 
-from flowcore.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
 from flowcore_story.analyze.xtruyen_parse import (
     parse_chapter_content,
     parse_chapter_list,
@@ -14,21 +14,21 @@ from flowcore_story.analyze.xtruyen_parse import (
     parse_story_info,
     parse_story_list,
 )
-from flowcore.apps.scraper import (
+from flowcore_story.apps.scraper import (
     _make_request_playwright,
     discover_madara_chapter_ranges_via_playwright,
     make_request,
 )
-from flowcore.config.config import BASE_URLS, GLOBAL_PROXY_PASSWORD, GLOBAL_PROXY_USERNAME
+from flowcore_story.config.config import BASE_URLS, GLOBAL_PROXY_PASSWORD, GLOBAL_PROXY_USERNAME
 from flowcore_story.utils.chapter_utils import get_chapter_sort_key
-from flowcore.utils.logger import logger
-from flowcore.utils.metrics_tracker import metrics_tracker
-from flowcore.utils.site_config import load_site_config
-from flowcore.apps.scraper import make_request as scraper_make_request
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.metrics_tracker import metrics_tracker
+from flowcore_story.utils.site_config import load_site_config
+from flowcore_story.apps.scraper import make_request as scraper_make_request
 
 # PHASE 2 OPTIMIZATION: Adaptive rate limiting
 try:
-    from flowcore.utils.adaptive_rate_limiter import get_site_limiter
+    from flowcore_story.utils.adaptive_rate_limiter import get_site_limiter
     _ADAPTIVE_LIMITER_AVAILABLE = True
 except ImportError:
     _ADAPTIVE_LIMITER_AVAILABLE = False

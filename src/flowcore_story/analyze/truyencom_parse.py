@@ -465,7 +465,7 @@ def parse_chapter_content(html_content: str) -> str | None:
     # Check for Cloudflare anti-bot content
     if "Just a moment...Enable JavaScript and cookies to continue" in content_div.get_text():
         # Log this explicitly for better visibility
-        from flowcore.utils.logger import logger
+        from flowcore_story.utils.logger import logger
         logger.info("[TruyenCom] Cloudflare anti-bot page detected, skipping content extraction.")
         return None  # Indicate that valid content was not found
 
@@ -479,7 +479,7 @@ def parse_chapter_content(html_content: str) -> str | None:
     if not content_html:
         # FIX: Return empty string for empty div (not None)
         # This allows caller to distinguish empty content from parsing errors
-        from flowcore.utils.logger import logger
+        from flowcore_story.utils.logger import logger
         logger.warning("[TruyenCom] Chapter content div exists but is EMPTY (broken chapter on website)")
         return ""  # Empty content (broken chapter)
 
@@ -487,7 +487,7 @@ def parse_chapter_content(html_content: str) -> str | None:
     content_html = content_html.strip()
 
     if not content_html:
-        from flowcore.utils.logger import logger
+        from flowcore_story.utils.logger import logger
         logger.warning("[TruyenCom] Chapter content is empty after cleaning (broken chapter)")
         return ""  # Empty after cleaning
 
@@ -511,7 +511,7 @@ def parse_chapter_content(html_content: str) -> str | None:
 
     # FIX: Check if content is suspiciously short (likely empty/broken)
     if len(final_content) < 50:
-        from flowcore.utils.logger import logger
+        from flowcore_story.utils.logger import logger
         if "Không cover được nội dung" in final_content:
              logger.warning(f"[TruyenCom] Chapter content BROKEN (Source Error): '{final_content}'")
         else:

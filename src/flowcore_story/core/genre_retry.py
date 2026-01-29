@@ -7,9 +7,9 @@ import random
 from collections.abc import Awaitable, Callable
 from typing import Any
 
-from flowcore.adapters.base_site_adapter import BaseSiteAdapter
-from flowcore.utils.batch_utils import smart_delay
-from flowcore.utils.logger import logger
+from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore_story.utils.batch_utils import smart_delay
+from flowcore_story.utils.logger import logger
 
 ProcessGenreCallable = Callable[
     [

@@ -17,8 +17,8 @@ from flowcore_story.core.story_registry_models import (
     StoryCrawlStatus,
     StoryRegistryEntry,
 )
-from flowcore.utils.logger import logger
-from flowcore.utils.progress_emitter import emit_progress_event
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.progress_emitter import emit_progress_event
 
 
 class StoryRegistry:

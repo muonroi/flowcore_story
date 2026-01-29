@@ -5,14 +5,14 @@ from __future__ import annotations
 import asyncio
 import time
 
-from flowcore.config import config as app_config
-from flowcore.kafka.kafka_monitor import fetch_consumer_lag
-from flowcore.utils.async_primitives import LoopBoundLock
-from flowcore.utils.dead_story_monitor import DeadStoryMonitor, DeadStoryStats
-from flowcore.utils.logger import logger
-from flowcore.utils.metrics_tracker import metrics_tracker
-from flowcore.utils.prometheus_exporter import ALERT_LEVEL_TO_CODE, PrometheusMetricsPublisher
-from flowcore.utils.rate_limit_monitor import rate_limit_monitor
+from flowcore_story.config import config as app_config
+from flowcore_story.kafka.kafka_monitor import fetch_consumer_lag
+from flowcore_story.utils.async_primitives import LoopBoundLock
+from flowcore_story.utils.dead_story_monitor import DeadStoryMonitor, DeadStoryStats
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.metrics_tracker import metrics_tracker
+from flowcore_story.utils.prometheus_exporter import ALERT_LEVEL_TO_CODE, PrometheusMetricsPublisher
+from flowcore_story.utils.rate_limit_monitor import rate_limit_monitor
 
 DEFAULT_INTERVAL_SECONDS = 30.0
 
@@ -179,7 +179,7 @@ class SystemMetricsMonitor:
 
         # Track system metrics in database
         try:
-            from flowcore.storage.db_tracking_helpers import track_system_metrics
+            from flowcore_story.storage.db_tracking_helpers import track_system_metrics
             await track_system_metrics(metrics)
         except Exception as e:
             logger.debug(f"[SystemMetrics] Failed to track metrics in DB: {e}")

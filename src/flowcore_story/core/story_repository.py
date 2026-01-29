@@ -5,10 +5,10 @@ import time
 from typing import Any
 
 # Assuming DATA_FOLDER is defined in config
-from flowcore.config.config import DATA_FOLDER
-from flowcore.utils.domain_utils import get_site_key_from_url, is_url_for_site
-from flowcore.utils.logger import logger
-from flowcore.utils.meta_utils import derive_story_slug
+from flowcore_story.config.config import DATA_FOLDER
+from flowcore_story.utils.domain_utils import get_site_key_from_url, is_url_for_site
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.meta_utils import derive_story_slug
 
 
 def get_story_folder(

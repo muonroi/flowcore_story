@@ -21,10 +21,10 @@ from unidecode import unidecode
 # Setup path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../..'))
 
-from flowcore.config import config as app_config
+from flowcore_story.config import config as app_config
 from flowcore_story.database.connection import db_manager
 from flowcore_story.database.models import Category, Chapter, Story, StoryCategory, StorySource, SyncLog
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 class DatabaseSyncWorker:

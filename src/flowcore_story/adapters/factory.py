@@ -1,5 +1,5 @@
 """Factory helpers for retrieving site adapters."""
-from flowcore.adapters.registry import adapter_registry
+from flowcore_story.adapters.registry import adapter_registry
 
 
 def get_adapter(site_key: str):

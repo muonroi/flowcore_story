@@ -1,0 +1,22 @@
+# Site configuration for truyenfullmoi.com
+
+site_key: truyenfullmoi
+base_url: https://truyenfullmoi.com
+
+# Crawler settings
+max_concurrent_requests: 2
+request_delay: 2.0
+timeout: 30
+
+# Chapter settings
+chapters_per_page: 50
+
+# Anti-bot settings - Disable proxy (proxies are blocked by site)
+# Use direct connection with Playwright
+use_stealth: false
+cloudflare_protected: true
+use_playwright: true
+skip_proxy: true
+
+# Rate limiting
+requests_per_minute: 20

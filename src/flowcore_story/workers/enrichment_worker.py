@@ -25,13 +25,13 @@ from dataclasses import dataclass, field
 from datetime import datetime
 from typing import Any
 
-from flowcore.config import config as app_config
-from flowcore.config.config import COMPLETED_FOLDER, DATA_FOLDER
-from flowcore.utils.duplicate_detector import DuplicateDetector, DuplicateReport
-from flowcore.utils.logger import logger
-from flowcore.utils.metadata_enricher import EnrichmentReport, MetadataEnricher
-from flowcore.utils.progress_emitter import compact_payload, emit_progress_event
-from flowcore.utils.quality_scorer import QualityComparisonReport, QualityScorer
+from flowcore_story.config import config as app_config
+from flowcore_story.config.config import COMPLETED_FOLDER, DATA_FOLDER
+from flowcore_story.utils.duplicate_detector import DuplicateDetector, DuplicateReport
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.metadata_enricher import EnrichmentReport, MetadataEnricher
+from flowcore_story.utils.progress_emitter import compact_payload, emit_progress_event
+from flowcore_story.utils.quality_scorer import QualityComparisonReport, QualityScorer
 
 
 # Configuration from environment

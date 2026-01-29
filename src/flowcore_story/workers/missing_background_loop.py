@@ -2,8 +2,8 @@ from __future__ import annotations
 
 import asyncio
 
-from flowcore.utils.async_primitives import LoopBoundLock
-from flowcore.utils.logger import logger
+from flowcore_story.utils.async_primitives import LoopBoundLock
+from flowcore_story.utils.logger import logger
 from flowcore_story.workers.crawler_missing_chapter import loop_once_multi_sites
 
 MISSING_BACKGROUND_INTERVAL_SECONDS = 24 * 60 * 60

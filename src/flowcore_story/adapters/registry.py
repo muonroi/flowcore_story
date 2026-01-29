@@ -8,7 +8,7 @@ import pkgutil
 from collections.abc import Iterable
 from types import ModuleType
 
-from flowcore.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
 
 _ADAPTER_PACKAGES: tuple[str, ...] = ("flowcore_story.adapters", "adapters")
 _ADAPTER_SUFFIX = "_adapter"
@@ -84,7 +84,7 @@ class AdapterRegistry:
             return importlib.import_module(module_name)
         except Exception as e:
             # Log the exception to understand why a module might not be loading
-            from flowcore.utils.logger import logger
+            from flowcore_story.utils.logger import logger
             logger.warning(f"Error importing adapter module {module_name}: {e}")
             return None
 

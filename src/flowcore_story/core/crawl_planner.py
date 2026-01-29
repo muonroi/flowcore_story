@@ -22,12 +22,12 @@ from dataclasses import dataclass, field
 from typing import Any
 from urllib.parse import urlparse
 
-from flowcore.adapters.base_site_adapter import BaseSiteAdapter
-from flowcore.config import config as app_config
-from flowcore.storage.story_queue import genre_queue_metadata, story_queue
-from flowcore.utils.io_utils import log_failed_genre
-from flowcore.utils.logger import logger
-from flowcore.utils.metrics_tracker import metrics_tracker
+from flowcore_story.adapters.base_site_adapter import BaseSiteAdapter
+from flowcore_story.config import config as app_config
+from flowcore_story.storage.story_queue import genre_queue_metadata, story_queue
+from flowcore_story.utils.io_utils import log_failed_genre
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.metrics_tracker import metrics_tracker
 
 
 def _normalise_genre_name(raw_genre: dict[str, Any]) -> str | None:
@@ -759,3 +759,4 @@ async def build_crawl_plan(
             plan.add_category(category_plan)
 
     return plan
+

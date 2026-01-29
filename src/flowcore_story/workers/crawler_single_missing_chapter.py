@@ -6,15 +6,15 @@ import time
 from datetime import datetime
 
 from flowcore_story.adapters.factory import get_adapter
-from flowcore.apps.scraper import initialize_scraper
-from flowcore.config.config import (
+from flowcore_story.apps.scraper import initialize_scraper
+from flowcore_story.config.config import (
     COMPLETED_FOLDER,
     DATA_FOLDER,
     PROXIES_FILE,
     PROXIES_FOLDER,
 )
-from flowcore.config.proxy_provider import load_proxies
-from flowcore.utils.cache_utils import cached_get_chapter_list, cached_get_story_details
+from flowcore_story.config.proxy_provider import load_proxies
+from flowcore_story.utils.cache_utils import cached_get_chapter_list, cached_get_story_details
 from flowcore_story.utils.chapter_utils import (
     count_dead_chapters,
     count_txt_files,
@@ -23,20 +23,20 @@ from flowcore_story.utils.chapter_utils import (
     extract_real_chapter_number,
     get_missing_chapters,  # Thêm import này
 )
-from flowcore.utils.cleaner import ensure_sources_priority
-from flowcore.utils.domain_utils import get_site_key_from_url
-from flowcore.utils.io_utils import (
+from flowcore_story.utils.cleaner import ensure_sources_priority
+from flowcore_story.utils.domain_utils import get_site_key_from_url
+from flowcore_story.utils.io_utils import (
     create_proxy_template_if_not_exists,
     move_story_to_completed,
 )
-from flowcore.utils.logger import logger
-from flowcore.utils.meta_utils import (
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.meta_utils import (
     derive_story_slug,
     get_primary_category_name,
     normalize_categories_field,
 )
-from flowcore.utils.progress_emitter import compact_payload, emit_progress_event
-from flowcore.utils.state_utils import get_missing_worker_state_file, load_crawl_state
+from flowcore_story.utils.progress_emitter import compact_payload, emit_progress_event
+from flowcore_story.utils.state_utils import get_missing_worker_state_file, load_crawl_state
 
 _SINGLE_STORY_TERMINAL_ACTIONS = {"succeeded", "failed", "completed"}
 COMPLETED_FOLDER = COMPLETED_FOLDER  # re-export for tests that monkeypatch

@@ -16,7 +16,7 @@ from flowcore_story.core.story_registry_models import (
     StoryCrawlStatus,
     StoryRegistryEntry,
 )
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 class StoryRegistryBackend(Protocol):

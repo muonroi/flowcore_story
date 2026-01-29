@@ -22,7 +22,7 @@ Usage:
 import os
 from typing import Union
 
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 def _should_use_mongodb() -> bool:

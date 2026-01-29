@@ -10,7 +10,7 @@ from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 def parse_genres(html: str, base_url: str) -> list[dict[str, str]]:

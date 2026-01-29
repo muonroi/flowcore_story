@@ -50,7 +50,7 @@ from bson import ObjectId
 from motor.motor_asyncio import AsyncIOMotorClient, AsyncIOMotorDatabase
 from pymongo import MongoClient
 
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 @dataclass(frozen=True)

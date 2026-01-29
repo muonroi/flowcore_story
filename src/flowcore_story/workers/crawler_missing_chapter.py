@@ -13,19 +13,19 @@ from typing import Any, cast
 from filelock import FileLock, Timeout
 
 from flowcore_story.adapters.factory import get_adapter
-from flowcore.apps.scraper import initialize_scraper
-from flowcore.config import config as app_config
-from flowcore.config.config import (
+from flowcore_story.apps.scraper import initialize_scraper
+from flowcore_story.config import config as app_config
+from flowcore_story.config.config import (
     BASE_URLS,
     COMPLETED_FOLDER,
     DATA_FOLDER,
     PROXIES_FILE,
     PROXIES_FOLDER,
 )
-from flowcore.config.proxy_provider import load_proxies
-from flowcore.utils.async_primitives import LoopBoundSemaphore
-from flowcore.utils.batch_utils import smart_delay
-from flowcore.utils.cache_utils import cached_get_chapter_list, cached_get_story_details
+from flowcore_story.config.proxy_provider import load_proxies
+from flowcore_story.utils.async_primitives import LoopBoundSemaphore
+from flowcore_story.utils.batch_utils import smart_delay
+from flowcore_story.utils.cache_utils import cached_get_chapter_list, cached_get_story_details
 from flowcore_story.utils.chapter_utils import (
     SEM,
     count_dead_chapters,
@@ -39,15 +39,15 @@ from flowcore_story.utils.chapter_utils import (
     get_real_total_chapters,
     mark_dead_chapter,
 )
-from flowcore.utils.dead_letter_queue import send_to_dlq
-from flowcore.utils.domain_rate_limiter import domain_circuit_breaker
-from flowcore.utils.domain_utils import get_site_key_from_url, is_url_for_site
-from flowcore.utils.io_utils import create_proxy_template_if_not_exists, move_story_to_completed
-from flowcore.utils.logger import logger
-from flowcore.utils.meta_utils import get_primary_category_name, normalize_categories_field
-from flowcore.utils.notifier import send_telegram_notify
-from flowcore.utils.progress_emitter import compact_payload, emit_progress_event
-from flowcore.utils.state_utils import get_missing_worker_state_file, load_crawl_state, save_crawl_state
+from flowcore_story.utils.dead_letter_queue import send_to_dlq
+from flowcore_story.utils.domain_rate_limiter import domain_circuit_breaker
+from flowcore_story.utils.domain_utils import get_site_key_from_url, is_url_for_site
+from flowcore_story.utils.io_utils import create_proxy_template_if_not_exists, move_story_to_completed
+from flowcore_story.utils.logger import logger
+from flowcore_story.utils.meta_utils import get_primary_category_name, normalize_categories_field
+from flowcore_story.utils.notifier import send_telegram_notify
+from flowcore_story.utils.progress_emitter import compact_payload, emit_progress_event
+from flowcore_story.utils.state_utils import get_missing_worker_state_file, load_crawl_state, save_crawl_state
 
 auto_fixed_titles: list[str] = []
 MAX_CONCURRENT_STORIES = 3
@@ -63,7 +63,7 @@ SPECIAL_STORY_MAX_NO_PROGRESS = int(os.environ.get("SPECIAL_STORY_MAX_NO_PROGRES
 
 async def send_to_special_queue(metadata: dict, story_folder: str, site_key: str, reason: str, missing_count: int, total_count: int):
     """Gửi truyện đặc biệt vào queue riêng để xử lý thủ công hoặc bởi worker chuyên dụng."""
-    from flowcore.utils.kafka_producer import get_kafka_producer
+    from flowcore_story.utils.kafka_producer import get_kafka_producer
 
     try:
         producer = await get_kafka_producer()
@@ -428,7 +428,7 @@ async def _prepare_missing_story_context(
 
     # Try to auto-discover mirror sources by title (e.g., add tangthuvien when missing)
     try:
-        from flowcore.utils.mirror_discovery import discover_and_update_mirrors
+        from flowcore_story.utils.mirror_discovery import discover_and_update_mirrors
         _, additions = await discover_and_update_mirrors(
             metadata,
             metadata_path,
@@ -1536,10 +1536,10 @@ async def check_genre_complete_and_notify(genre_name, genre_url, site_key):
         await send_telegram_notify(f"🎉 Đã crawl xong **TẤT CẢ** truyện của thể loại [{genre_name}] trên web!")
 
 async def fix_metadata_with_retry(metadata, metadata_path, story_folder, site_key=None, adapter=None):
-    from flowcore.apps.scraper import make_request
+    from flowcore_story.apps.scraper import make_request
 
     def is_url_for_site(url, site_key):
-        from flowcore.config.config import BASE_URLS
+        from flowcore_story.config.config import BASE_URLS
         base = BASE_URLS.get(site_key)
         return base and url and url.startswith(base)
 
@@ -1580,9 +1580,9 @@ async def fix_metadata_with_retry(metadata, metadata_path, story_folder, site_ke
 
     # === Nếu vẫn thiếu url, đoán từ base_url + slug ===
     # KHÔNG guess URL cho các site yêu cầu story ID (truyencom: cần .ID, xtruyen/tangthuvien: chỉ cần slug)
-    from flowcore.config.config import SITES_REQUIRING_ID
+    from flowcore_story.config.config import SITES_REQUIRING_ID
     if not url and site_key and site_key not in SITES_REQUIRING_ID:
-        from flowcore.config.config import BASE_URLS
+        from flowcore_story.config.config import BASE_URLS
         base_url = BASE_URLS.get(site_key, "").rstrip("/")
         slug = os.path.basename(story_folder)
 

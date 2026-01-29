@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from typing import Any
 
-from flowcore.utils.logger import logger
+from flowcore_story.utils.logger import logger
 
 
 def update_category_progress(
